@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-01-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -1763,8 +1763,8 @@ _Cite_:
 
 ###### Article L131-12
 
-Le contrôle de l'obligation, de la fréquentation et de l'assiduité scolaires ainsi que les sanctions au regard du versement
-des prestations familiales et en matière pénale sont déterminés par décret en Conseil d'Etat.
+Les modalités du contrôle de l'obligation, de la fréquentation et de l'assiduité scolaires sont déterminées par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1781,6 +1781,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2004-1 du 2 janvier 2004 - art. 5 () JORF 3 janvier 2004
 
 
 ##### Chapitre II : La gratuité de l'enseignement scolaire public.<a id=14></a>
