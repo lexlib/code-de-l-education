@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2002-01-23
+Version Consolidée au 2002-02-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -318,7 +318,7 @@ Version Consolidée au 2002-01-23
           - [Chapitre II : Les personnels enseignants de l'architecture. (art. L962-1)](#315)
         - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L971-1 à L974-3)](#316)
           - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L971-1 à L971-3)](#317)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L972-1 à L972-2)](#318)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L972-1 à L972-3)](#318)
           - [Chapitre III : Dispositions applicables en Polynésie française. (art. L973-1 à L973-3)](#319)
           - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L974-1 à L974-3)](#320)
 # Partie législative<a id=1></a>
@@ -24815,7 +24815,10 @@ _Cite_:
 
 ###### Article L772-1
 
-Sont applicables à Mayotte les articles L. 721-1 à L. 721-3 et L. 762-2.
+Les articles L. 721-1 à L. 721-3 sont applicables à Mayotte, sauf en ce qui concerne la formation des instituteurs de la
+collectivité départementale de Mayotte.
+
+L'article L. 762-2 est applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -24828,6 +24831,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2002-198 du 14 février 2002 - art. 2 () JORF 16 février 2002
 
 _Cité par_:
 
@@ -28743,6 +28751,51 @@ _Abrogé par_:
 _Cite_:
 
   - Code de l'éducation - art. L911-4
+
+
+###### Article L972-3
+
+Il est créé à Mayotte un institut de formation des maîtres, établissement public local à caractère administratif chargé de la
+formation initiale et continue des instituteurs de la collectivité départementale de Mayotte.
+
+Cet établissement public est administré par un conseil d'administration présidé par le président du conseil général.
+
+Outre son président, le conseil d'administration de l'établissement comprend :
+
+- des membres de droit ;
+
+- des membres élus représentant les personnels ;
+
+- des membres élus représentant les instituteurs en formation ;
+
+- des personnes qualifiées désignées par le représentant de l'Etat à Mayotte en raison de leur compétence en matière
+d'éducation, de formation et de recherche.
+
+L'institut de formation des maîtres est dirigé par un directeur nommé par l'exécutif de la collectivité départementale sur
+avis conforme du vice-recteur de Mayotte.
+
+Le représentant de l'Etat à Mayotte assure le contrôle administratif et budgétaire de l'institut de formation des maîtres.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°96-782 du 5 septembre 1996 - art. 5 bis (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 du 14 avril 2003
+
+_Créé par_:
+
+  - Ordonnance n°2002-198 du 14 février 2002 - art. 2 () JORF 16 février 2002
+
+_Abrogé par_:
+
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 19
 
 
 ##### Chapitre III : Dispositions applicables en Polynésie française.<a id=319></a>
