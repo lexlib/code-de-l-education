@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2004-06-16
+Version Consolidée au 2004-07-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -11100,11 +11100,8 @@ _Cité par_:
 ###### Article L362-4
 
 Les personnes qui enseignaient la danse depuis plus de trois ans au 11 juillet 1989 peuvent être dispensées de l'obtention du
-diplôme de professeur de danse par décision administrative prise après avis d'une commission locale. La dispense est réputée
-acquise lorsque aucune décision contraire n'a été notifiée à l'intéressé à l'expiration d'un délai de trois mois à compter du
-dépôt de la demande. La composition de la commission locale, chargée de contrôler que l'enseignement de ces personnes ne
-présente pas de carence sérieuse, est fixée dans les mêmes conditions que celle de la commission nationale prévue à l'article
-L. 362-1.
+diplôme de professeur de danse. La dispense est réputée acquise lorsqu'aucune décision contraire n'a été notifiée à
+l'intéressé à l'expiration d'un délai de trois mois à compter du dépôt de la demande.
 
 **Liens relatifs à cet article**
 
@@ -11117,9 +11114,9 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'éducation - art. L362-1 (M)
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 17 () JORF 2 juillet 2004
 
 _Cité par_:
 
