@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-02-26
+Version Consolidée au 2005-03-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -374,9 +374,9 @@ Version Consolidée au 2005-02-26
             - [Sous-section 3 : Participation financière des communes. (art. R212-21 à R212-23)](#371)
           - [Section 2 : Caisse des écoles. (art. R212-24 à R212-33)](#372)
           - [Section 3 : Collèges. (art. D212-34)](#373)
-        - [Chapitre III : Les compétences des départements (art. R213-1 à D213-28)](#374)
+        - [Chapitre III : Les compétences des départements (art. R213-1 à D213-30)](#374)
           - [Section 1 : Collèges. (art. R213-1 à R213-2)](#375)
-          - [Section 2 : Transports scolaires (art. R213-3 à D213-28)](#376)
+          - [Section 2 : Transports scolaires (art. R213-3 à D213-30)](#376)
             - [Sous-section 1 : Dispositions générales (art. R213-3 à R213-19)](#377)
               - [Paragraphe 1 : L'organisation des transports scolaires. (art. R213-3 à R213-12)](#378)
               - [Paragraphe 2 : Le financement des frais de déplacement des élèves et étudiants handicapés. (art. R213-13 à R213-16)](#379)
@@ -386,95 +386,96 @@ Version Consolidée au 2005-02-26
               - [Paragraphe 1 : L'organisation des transports scolaires en région d'Ile-de-France. (art. R213-20)](#383)
               - [Paragraphe 2 : Financement des transports scolaires en région d'Ile-de-France. (art. R213-21)](#384)
               - [Paragraphe 3 : Financement des frais de déplacement des élèves et étudiants handicapés dans la région d'Ile-de-France. (art. D213-22 à D213-28)](#385)
-        - [Chapitre IV : Les compétences des régions (art. R214-1 à R214-17)](#386)
-          - [Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole. (art. R214-1)](#387)
-          - [Section 3 : Formation professionnelle et apprentissage (art. R214-2 à R214-17)](#388)
-            - [Sous-section 1 : Le fonds régional de l'apprentissage et de la formation professionnelle continue. (art. R214-2 à R214-4)](#389)
-            - [Sous-section 2 : Contrats pluriannuels d'objectifs de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance. (art. D214-5 à D214-8)](#390)
-            - [Sous-section 3 : Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue. (art. R214-9 à R214-17)](#391)
-        - [Chapitre V : Les compétences de la collectivité territoriale de Corse. (art. R215-1)](#392)
-        - [Chapitre VI : Les compétences communes aux collectivités territoriales. (art. D216-1 à D216-2)](#393)
-      - [Titre II : L'organisation des services de l'administration de l'éducation. (art. R221-1 à D222-42)](#394)
-        - [Chapitre Ier : Les services de l'administration centrale. (art. R221-1)](#395)
-        - [Chapitre II : Les services académiques et départementaux (art. R*222-1 à D222-42)](#396)
-          - [Section 1 : Circonscriptions académiques (art. R*222-1 à R222-12)](#397)
-            - [Sous-section 1 : Les circonscriptions académiques métropolitaines. (art. R*222-1)](#398)
-            - [Sous-section 2 : Dispositions propres aux académies de Paris, de Créteil et de Versailles. (art. D222-4 à R*222-3)](#399)
-            - [Sous-section 3 : Dispositions propres aux académies d'outre-mer. (art. R222-8 à R222-10)](#400)
-            - [Sous-section 4 : Dispositions communes. (art. D222-11 à R222-12)](#401)
-          - [Section 2 : Autorités administratives déconcentrées (art. D222-15 à R222-24)](#402)
-            - [Sous-section 1 : Le recteur. (art. D222-15 à R222-19)](#403)
-            - [Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. (art. R222-24)](#404)
-          - [Section 3 : Compétences (art. D222-27 à R222-36)](#405)
-            - [Sous-section 1 : Dispositions générales. (art. D222-27 à R222-34)](#406)
-            - [Sous-section 2 : Contentieux. (art. D222-35 à R222-36)](#407)
-          - [Section 4 : Médiateurs. (art. D222-37 à D222-42)](#408)
-      - [Titre III : Les organismes collégiaux nationaux et locaux. (art. R231-1 à D239-27)](#409)
-        - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. R231-1 à R231-33)](#410)
-          - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. R231-1 à R231-16)](#411)
-          - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. R231-17 à R231-33)](#412)
-            - [Sous-section 1 : Dispositions générales. (art. R231-17 à R231-26)](#413)
-            - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. R231-27 à R231-33)](#414)
-        - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche (art. D232-1 à R232-48)](#415)
-          - [Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative. (art. D232-1 à D232-22)](#416)
-            - [Sous-section 1 : Composition. (art. D232-2 à D232-13)](#417)
-            - [Sous-section 2 : Fonctionnement. (art. D232-14 à D232-22)](#418)
-          - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire (art. R232-23 à R232-48)](#419)
-            - [Sous-section 1 : Dispositions générales (art. R232-23 à R232-43)](#420)
-              - [Paragraphe 1 : Composition de la formation disciplinaire. (art. R232-23 à R232-30)](#421)
-              - [Paragraphe 2 : Procédure disciplinaire. (art. R232-31 à R232-43)](#422)
-            - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. R232-44 à R232-48)](#423)
-        - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel (art. D233-1 à D233-12)](#424)
-          - [Section 1 : La Conférence des présidents d'université. (art. D233-1 à D233-6)](#425)
-          - [Section 2 : La Conférence des directeurs d'écoles et de formations d'ingénieurs. (art. D233-7 à D233-12)](#426)
-        - [Chapitre IV : Les conseils académiques de l'éducation nationale (art. R234-1 à R234-43)](#427)
-          - [Section 1 : Dispositions générales. (art. R234-1 à R234-15)](#428)
-          - [Section 2 : Dispositions particulières (art. R234-16 à R234-33)](#429)
-            - [Sous-section 1 : Conseil interacadémique d'Ile-de-France. (art. R234-16 à R234-21)](#430)
-            - [Sous-section 2 : Conseil de l'éducation nationale de l'académie de Corse. (art. R234-22 à R234-24)](#431)
-            - [Sous-section 3 : Conseils de l'éducation nationale dans les académies d'outre-mer. (art. R234-25 à R234-33)](#432)
-          - [Section 3 : Dispositions contentieuses et disciplinaires (art. R234-34 à R234-43)](#433)
-            - [Sous-section 1 : Dispositions générales. (art. R234-34 à R234-38)](#434)
-            - [Sous-section 2 : Dispositions particulières au conseil interacadémique d'Ile-de-France. (art. R234-39 à R234-43)](#435)
-        - [Chapitre V : Les conseils départementaux de l'éducation nationale (art. R235-1 à R235-17)](#436)
-          - [Section 1 : Dispositions générales. (art. R235-1 à R235-11)](#437)
-          - [Section 2 : Dispositions particulières au département de Paris. (art. R235-12 à R235-16)](#438)
-          - [Section 3 : Dispositions particulières à la collectivité territoriale de Corse. (art. R235-17)](#439)
-        - [Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle (art. D237-1 à R237-27)](#440)
-          - [Section 1 : Les instances nationales (art. D237-1 à R237-9)](#441)
-            - [Sous-section 1 : Le Haut Comité éducation-économie-emploi. (art. D237-1 à D237-8)](#442)
-            - [Sous-section 2 : Le comité interministériel de la formation professionnelle et de l'emploi et le Conseil national de la formation professionnelle, de la promotion sociale et de l'emploi. (art. R237-9)](#443)
-          - [Section 2 : Les instances régionales et départementales. (art. D237-11 à R237-10)](#444)
-          - [Section 3 : La Commission spéciale de la taxe d'apprentissage. (art. R237-15 à R237-27)](#445)
-        - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole (art. R238-1 à R238-5)](#446)
-          - [Section 1 : Le Conseil national de l'enseignement agricole. (art. R238-1)](#447)
-          - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire. (art. R238-2)](#448)
-          - [Section 3 : Les comités régionaux de l'enseignement agricole. (art. R238-3)](#449)
-          - [Section 4 : Les conseils de l'enseignement vétérinaire. (art. R238-4)](#450)
-          - [Section 5 : Le comité de coordination. (art. R238-5)](#451)
-        - [Chapitre IX : Les autres instances consultatives (art. D239-1 à D239-27)](#452)
-          - [Section 1 : La Commission nationale pour l'éducation, la science et la culture. (art. D239-1 à D239-10)](#453)
-          - [Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur. (art. D239-11 à D239-19)](#454)
-          - [Section 3 : Le Conseil supérieur des bibliothèques. (art. D239-20 à D239-27)](#455)
-      - [Titre IV : L'inspection et l'évaluation de l'éducation. (art. D241-1 à D243-9)](#456)
-        - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation (art. D241-1 à D241-35)](#457)
-          - [Section 1 : Missions des inspections générales (art. D241-1 à R241-16)](#458)
-            - [Sous-section 1 : Dispositions communes. (art. D241-1 à D241-2)](#459)
-            - [Sous-section 2 : L'inspection générale de l'éducation nationale. (art. R*241-3 à R*241-5)](#460)
-            - [Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche. (art. R*241-6 à R241-16)](#461)
-          - [Section 2 : L'inspection générale des bibliothèques. (art. R241-17)](#462)
-          - [Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale. (art. R241-18 à R241-21)](#463)
-          - [Section 4 : Le service académique de l'inspection de l'apprentissage. (art. R241-22 à R241-23)](#464)
-          - [Section 5 : Les délégués départementaux de l'éducation nationale. (art. D241-24 à D241-35)](#465)
-        - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. D*242-1 à D*242-14)](#466)
-        - [Chapitre III : Le Haut Conseil de l'évaluation de l'école. (art. D243-1 à D243-9)](#467)
-      - [Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. D251-1 à D251-8)](#468)
-        - [Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation. (art. D251-1 à D251-8)](#469)
-      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D*261-6 à R264-19)](#470)
-        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D*261-6 à R261-5)](#471)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. D262-3 à R262-4)](#472)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D*263-8 à R263-6)](#473)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D*264-8 à R264-19)](#474)
+            - [Sous-section 3 : Procédure de consultation (art. D213-29 à D213-30)](#386)
+        - [Chapitre IV : Les compétences des régions (art. R214-1 à R214-17)](#387)
+          - [Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole. (art. R214-1)](#388)
+          - [Section 3 : Formation professionnelle et apprentissage (art. R214-2 à R214-17)](#389)
+            - [Sous-section 1 : Le fonds régional de l'apprentissage et de la formation professionnelle continue. (art. R214-2 à R214-4)](#390)
+            - [Sous-section 2 : Contrats pluriannuels d'objectifs de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance. (art. D214-5 à D214-8)](#391)
+            - [Sous-section 3 : Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue. (art. R214-9 à R214-17)](#392)
+        - [Chapitre V : Les compétences de la collectivité territoriale de Corse. (art. R215-1)](#393)
+        - [Chapitre VI : Les compétences communes aux collectivités territoriales. (art. D216-1 à D216-2)](#394)
+      - [Titre II : L'organisation des services de l'administration de l'éducation. (art. R221-1 à D222-42)](#395)
+        - [Chapitre Ier : Les services de l'administration centrale. (art. R221-1)](#396)
+        - [Chapitre II : Les services académiques et départementaux (art. R*222-1 à D222-42)](#397)
+          - [Section 1 : Circonscriptions académiques (art. R*222-1 à R222-12)](#398)
+            - [Sous-section 1 : Les circonscriptions académiques métropolitaines. (art. R*222-1)](#399)
+            - [Sous-section 2 : Dispositions propres aux académies de Paris, de Créteil et de Versailles. (art. D222-4 à R*222-3)](#400)
+            - [Sous-section 3 : Dispositions propres aux académies d'outre-mer. (art. R222-8 à R222-10)](#401)
+            - [Sous-section 4 : Dispositions communes. (art. D222-11 à R222-12)](#402)
+          - [Section 2 : Autorités administratives déconcentrées (art. D222-15 à R222-24)](#403)
+            - [Sous-section 1 : Le recteur. (art. D222-15 à R222-19)](#404)
+            - [Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. (art. R222-24)](#405)
+          - [Section 3 : Compétences (art. D222-27 à R222-36)](#406)
+            - [Sous-section 1 : Dispositions générales. (art. D222-27 à R222-34)](#407)
+            - [Sous-section 2 : Contentieux. (art. D222-35 à R222-36)](#408)
+          - [Section 4 : Médiateurs. (art. D222-37 à D222-42)](#409)
+      - [Titre III : Les organismes collégiaux nationaux et locaux. (art. R231-1 à D239-27)](#410)
+        - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. R231-1 à R231-33)](#411)
+          - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. R231-1 à R231-16)](#412)
+          - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. R231-17 à R231-33)](#413)
+            - [Sous-section 1 : Dispositions générales. (art. R231-17 à R231-26)](#414)
+            - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. R231-27 à R231-33)](#415)
+        - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche (art. D232-1 à R232-48)](#416)
+          - [Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative. (art. D232-1 à D232-22)](#417)
+            - [Sous-section 1 : Composition. (art. D232-2 à D232-13)](#418)
+            - [Sous-section 2 : Fonctionnement. (art. D232-14 à D232-22)](#419)
+          - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire (art. R232-23 à R232-48)](#420)
+            - [Sous-section 1 : Dispositions générales (art. R232-23 à R232-43)](#421)
+              - [Paragraphe 1 : Composition de la formation disciplinaire. (art. R232-23 à R232-30)](#422)
+              - [Paragraphe 2 : Procédure disciplinaire. (art. R232-31 à R232-43)](#423)
+            - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. R232-44 à R232-48)](#424)
+        - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel (art. D233-1 à D233-12)](#425)
+          - [Section 1 : La Conférence des présidents d'université. (art. D233-1 à D233-6)](#426)
+          - [Section 2 : La Conférence des directeurs d'écoles et de formations d'ingénieurs. (art. D233-7 à D233-12)](#427)
+        - [Chapitre IV : Les conseils académiques de l'éducation nationale (art. R234-1 à R234-43)](#428)
+          - [Section 1 : Dispositions générales. (art. R234-1 à R234-15)](#429)
+          - [Section 2 : Dispositions particulières (art. R234-16 à R234-33)](#430)
+            - [Sous-section 1 : Conseil interacadémique d'Ile-de-France. (art. R234-16 à R234-21)](#431)
+            - [Sous-section 2 : Conseil de l'éducation nationale de l'académie de Corse. (art. R234-22 à R234-24)](#432)
+            - [Sous-section 3 : Conseils de l'éducation nationale dans les académies d'outre-mer. (art. R234-25 à R234-33)](#433)
+          - [Section 3 : Dispositions contentieuses et disciplinaires (art. R234-34 à R234-43)](#434)
+            - [Sous-section 1 : Dispositions générales. (art. R234-34 à R234-38)](#435)
+            - [Sous-section 2 : Dispositions particulières au conseil interacadémique d'Ile-de-France. (art. R234-39 à R234-43)](#436)
+        - [Chapitre V : Les conseils départementaux de l'éducation nationale (art. R235-1 à R235-17)](#437)
+          - [Section 1 : Dispositions générales. (art. R235-1 à R235-11)](#438)
+          - [Section 2 : Dispositions particulières au département de Paris. (art. R235-12 à R235-16)](#439)
+          - [Section 3 : Dispositions particulières à la collectivité territoriale de Corse. (art. R235-17)](#440)
+        - [Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle (art. D237-1 à R237-27)](#441)
+          - [Section 1 : Les instances nationales (art. D237-1 à R237-9)](#442)
+            - [Sous-section 1 : Le Haut Comité éducation-économie-emploi. (art. D237-1 à D237-8)](#443)
+            - [Sous-section 2 : Le comité interministériel de la formation professionnelle et de l'emploi et le Conseil national de la formation professionnelle, de la promotion sociale et de l'emploi. (art. R237-9)](#444)
+          - [Section 2 : Les instances régionales et départementales. (art. D237-11 à R237-10)](#445)
+          - [Section 3 : La Commission spéciale de la taxe d'apprentissage. (art. R237-15 à R237-27)](#446)
+        - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole (art. R238-1 à R238-5)](#447)
+          - [Section 1 : Le Conseil national de l'enseignement agricole. (art. R238-1)](#448)
+          - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire. (art. R238-2)](#449)
+          - [Section 3 : Les comités régionaux de l'enseignement agricole. (art. R238-3)](#450)
+          - [Section 4 : Les conseils de l'enseignement vétérinaire. (art. R238-4)](#451)
+          - [Section 5 : Le comité de coordination. (art. R238-5)](#452)
+        - [Chapitre IX : Les autres instances consultatives (art. D239-1 à D239-27)](#453)
+          - [Section 1 : La Commission nationale pour l'éducation, la science et la culture. (art. D239-1 à D239-10)](#454)
+          - [Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur. (art. D239-11 à D239-19)](#455)
+          - [Section 3 : Le Conseil supérieur des bibliothèques. (art. D239-20 à D239-27)](#456)
+      - [Titre IV : L'inspection et l'évaluation de l'éducation. (art. D241-1 à D243-9)](#457)
+        - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation (art. D241-1 à D241-35)](#458)
+          - [Section 1 : Missions des inspections générales (art. D241-1 à R241-16)](#459)
+            - [Sous-section 1 : Dispositions communes. (art. D241-1 à D241-2)](#460)
+            - [Sous-section 2 : L'inspection générale de l'éducation nationale. (art. R*241-3 à R*241-5)](#461)
+            - [Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche. (art. R*241-6 à R241-16)](#462)
+          - [Section 2 : L'inspection générale des bibliothèques. (art. R241-17)](#463)
+          - [Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale. (art. R241-18 à R241-21)](#464)
+          - [Section 4 : Le service académique de l'inspection de l'apprentissage. (art. R241-22 à R241-23)](#465)
+          - [Section 5 : Les délégués départementaux de l'éducation nationale. (art. D241-24 à D241-35)](#466)
+        - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. D*242-1 à D*242-14)](#467)
+        - [Chapitre III : Le Haut Conseil de l'évaluation de l'école. (art. D243-1 à D243-9)](#468)
+      - [Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. D251-1 à D251-8)](#469)
+        - [Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation. (art. D251-1 à D251-8)](#470)
+      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D*261-6 à R264-19)](#471)
+        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D*261-6 à R261-5)](#472)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. D262-3 à R262-4)](#473)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D*263-8 à R263-6)](#474)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D*264-8 à R264-19)](#475)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -34814,9 +34815,82 @@ _Cité par_:
   - Décret n°2005-664 du 10 juin 2005 - art. 27 (Ab)
 
 
-#### Chapitre IV : Les compétences des régions<a id=386></a>
+##### Sous-section 3 : Procédure de consultation<a id=386></a>
 
-##### Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole.<a id=387></a>
+###### Article D213-29
+
+L'harmonisation géographique des temps scolaires étant un facteur déterminant pour l'organisation, la mise en oeuvre et la
+qualité des transports scolaires, le département, compétent en matière d'organisation et de financement du transport
+scolaire, est consulté par écrit :
+
+1° Par le recteur d'académie, sur les modifications de la structure pédagogique générale des établissements du second degré
+susceptibles d'entraîner des évolutions dans l'organisation des transports scolaires ;
+
+2° Par le recteur d'académie, sur les modifications du calendrier scolaire régies par les dispositions du décret du 14 mars
+1990 susvisé, ou par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, lorsqu'il a
+reçu délégation de signature pour procéder à ces modifications ;
+
+3° Par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur :
+
+a) Les projets de création ou de suppression d'écoles, de regroupements pédagogiques intercommunaux ou d'établissements du
+second degré ;
+
+b) Les projets d'aménagement du temps scolaire ou de modification des horaires d'entrée et de sortie des écoles maternelles
+et élémentaires ;
+
+4° Par les chefs d'établissement, sur les projets d'aménagement du temps scolaire relevant de l'autonomie de l'établissement
+public local d'enseignement qui ont une incidence sur l'organisation des transports scolaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Créé par_:
+
+  - Décret n°2005-291 du 30 mars 2005 - art. 1 () JORF 31 mars 2005
+
+_Cité par_:
+
+  - Décret n°2014-457 du 7 mai 2014 - art. 1 (VT)
+  - Code de l'éducation - art. D213-30 (V)
+  - Code de l'éducation - art. D521-12 (V)
+
+
+###### Article D213-30
+
+La consultation du département intervient dans des délais autorisant, le cas échéant, la mise en oeuvre des procédures de
+délégation de service public prévues aux articles L. 1411-1 à L. 1411-18 et R. 1411-1 à R. 1411-6 du code général des
+collectivités territoriales.
+
+Si, au terme d'un délai d'un mois après qu'une demande d'avis prévue à l'article D. 213-29 lui a été adressée, le département
+n'a pas fait connaître son avis, celui-ci est réputé favorable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Créé par_:
+
+  - Décret n°2005-291 du 30 mars 2005 - art. 1 () JORF 31 mars 2005
+
+_Cité par_:
+
+  - Décret n°2016-86 du 1er février 2016 - art. 50
+  - Code de l'éducation - art. D521-12 (V)
+
+_Cite_:
+
+  - Code général des collectivités territoriales L1411-1 à L1411-18, R1411-1 à R1411-6
+  - Code de l'éducation - art. D213-29 (M)
+
+
+#### Chapitre IV : Les compétences des régions<a id=387></a>
+
+##### Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole.<a id=388></a>
 
 ###### Article R214-1
 
@@ -34835,9 +34909,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. R4332-10 (V)
 
 
-##### Section 3 : Formation professionnelle et apprentissage<a id=388></a>
+##### Section 3 : Formation professionnelle et apprentissage<a id=389></a>
 
-##### Sous-section 1 : Le fonds régional de l'apprentissage et de la formation professionnelle continue.<a id=389></a>
+##### Sous-section 1 : Le fonds régional de l'apprentissage et de la formation professionnelle continue.<a id=390></a>
 
 ###### Article R214-2
 
@@ -34888,7 +34962,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1614-10 (V)
 
 
-##### Sous-section 2 : Contrats pluriannuels d'objectifs de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance.<a id=390></a>
+##### Sous-section 2 : Contrats pluriannuels d'objectifs de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance.<a id=391></a>
 
 ###### Article D214-5
 
@@ -34998,7 +35072,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 3 : Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue.<a id=391></a>
+##### Sous-section 3 : Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue.<a id=392></a>
 
 ###### Article R214-9
 
@@ -35261,7 +35335,7 @@ _Abrogé par_:
   - Décret n°2006-583 2006-05-23 art. 4 3° JORF 24 mai 2006
 
 
-#### Chapitre V : Les compétences de la collectivité territoriale de Corse.<a id=392></a>
+#### Chapitre V : Les compétences de la collectivité territoriale de Corse.<a id=393></a>
 
 ###### Article R215-1
 
@@ -35314,7 +35388,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre VI : Les compétences communes aux collectivités territoriales.<a id=393></a>
+#### Chapitre VI : Les compétences communes aux collectivités territoriales.<a id=394></a>
 
 ###### Article D216-1
 
@@ -35384,9 +35458,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-### Titre II : L'organisation des services de l'administration de l'éducation.<a id=394></a>
+### Titre II : L'organisation des services de l'administration de l'éducation.<a id=395></a>
 
-#### Chapitre Ier : Les services de l'administration centrale.<a id=395></a>
+#### Chapitre Ier : Les services de l'administration centrale.<a id=396></a>
 
 ###### Article R221-1
 
@@ -35407,11 +35481,11 @@ _Cité par_:
   - Décret n°2006-572 du 17 mai 2006 - art. 17 (VT)
 
 
-#### Chapitre II : Les services académiques et départementaux<a id=396></a>
+#### Chapitre II : Les services académiques et départementaux<a id=397></a>
 
-##### Section 1 : Circonscriptions académiques<a id=397></a>
+##### Section 1 : Circonscriptions académiques<a id=398></a>
 
-##### Sous-section 1 : Les circonscriptions académiques métropolitaines.<a id=398></a>
+##### Sous-section 1 : Les circonscriptions académiques métropolitaines.<a id=399></a>
 
 ###### Article R*222-1
 
@@ -35499,7 +35573,7 @@ _Cité par_:
   - Décret n°2017-1543 du 6 novembre 2017 (V)
 
 
-##### Sous-section 2 : Dispositions propres aux académies de Paris, de Créteil et de Versailles.<a id=399></a>
+##### Sous-section 2 : Dispositions propres aux académies de Paris, de Créteil et de Versailles.<a id=400></a>
 
 ###### Article D222-4
 
@@ -35649,7 +35723,7 @@ _Anciens textes_:
   - Décret n°71-1023 du 22 décembre 1971 - art. 4 (Ab)
 
 
-##### Sous-section 3 : Dispositions propres aux académies d'outre-mer.<a id=400></a>
+##### Sous-section 3 : Dispositions propres aux académies d'outre-mer.<a id=401></a>
 
 ###### Article R222-8
 
@@ -35717,7 +35791,7 @@ _Cité par_:
   - Code de l'éducation - art. R222-19-1 (VD)
 
 
-##### Sous-section 4 : Dispositions communes.<a id=401></a>
+##### Sous-section 4 : Dispositions communes.<a id=402></a>
 
 ###### Article D222-11
 
@@ -35756,9 +35830,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Autorités administratives déconcentrées<a id=402></a>
+##### Section 2 : Autorités administratives déconcentrées<a id=403></a>
 
-##### Sous-section 1 : Le recteur.<a id=403></a>
+##### Sous-section 1 : Le recteur.<a id=404></a>
 
 ###### Article D222-15
 
@@ -36054,7 +36128,7 @@ _Cite_:
   - Code de l'éducation R222-17, R222-18
 
 
-##### Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.<a id=404></a>
+##### Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.<a id=405></a>
 
 ###### Article R222-24
 
@@ -36078,9 +36152,9 @@ _Cité par_:
   - Décret n°2016-1413 du 20 octobre 2016 - art. 8 (V)
 
 
-##### Section 3 : Compétences<a id=405></a>
+##### Section 3 : Compétences<a id=406></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=406></a>
+##### Sous-section 1 : Dispositions générales.<a id=407></a>
 
 ###### Article D222-27
 
@@ -36314,7 +36388,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 2 : Contentieux.<a id=407></a>
+##### Sous-section 2 : Contentieux.<a id=408></a>
 
 ###### Article D222-35
 
@@ -36366,7 +36440,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 4 : Médiateurs.<a id=408></a>
+##### Section 4 : Médiateurs.<a id=409></a>
 
 ###### Article D222-37
 
@@ -36487,11 +36561,11 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-### Titre III : Les organismes collégiaux nationaux et locaux.<a id=409></a>
+### Titre III : Les organismes collégiaux nationaux et locaux.<a id=410></a>
 
-#### Chapitre Ier : Le Conseil supérieur de l'éducation<a id=410></a>
+#### Chapitre Ier : Le Conseil supérieur de l'éducation<a id=411></a>
 
-##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.<a id=411></a>
+##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.<a id=412></a>
 
 ###### Article R231-1
 
@@ -37069,9 +37143,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire<a id=412></a>
+##### Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire<a id=413></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=413></a>
+##### Sous-section 1 : Dispositions générales.<a id=414></a>
 
 ###### Article R231-17
 
@@ -37343,7 +37417,7 @@ _Cite_:
   - Code de l'éducation - art. L231-6 (M)
 
 
-##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=414></a>
+##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=415></a>
 
 ###### Article R231-27
 
@@ -37510,9 +37584,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche<a id=415></a>
+#### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche<a id=416></a>
 
-##### Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative.<a id=416></a>
+##### Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative.<a id=417></a>
 
 ###### Article D232-1
 
@@ -37541,7 +37615,7 @@ _Cité par_:
   - Code de l'éducation - art. D264-4 (V)
 
 
-##### Sous-section 1 : Composition.<a id=417></a>
+##### Sous-section 1 : Composition.<a id=418></a>
 
 ###### Article D232-2
 
@@ -37924,7 +37998,7 @@ _Cité par_:
   - Code de l'éducation - art. D232-9 (V)
 
 
-##### Sous-section 2 : Fonctionnement.<a id=418></a>
+##### Sous-section 2 : Fonctionnement.<a id=419></a>
 
 ###### Article D232-14
 
@@ -38174,11 +38248,11 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire<a id=419></a>
+##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire<a id=420></a>
 
-##### Sous-section 1 : Dispositions générales<a id=420></a>
+##### Sous-section 1 : Dispositions générales<a id=421></a>
 
-##### Paragraphe 1 : Composition de la formation disciplinaire.<a id=421></a>
+##### Paragraphe 1 : Composition de la formation disciplinaire.<a id=422></a>
 
 ###### Article R232-23
 
@@ -38395,7 +38469,7 @@ _Cite_:
   - Code de l'éducation - art. R232-34 (V)
 
 
-##### Paragraphe 2 : Procédure disciplinaire.<a id=422></a>
+##### Paragraphe 2 : Procédure disciplinaire.<a id=423></a>
 
 ###### Article R232-31
 
@@ -38789,7 +38863,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D810-2 (Ab)
 
 
-##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=423></a>
+##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=424></a>
 
 ###### Article R232-44
 
@@ -38906,9 +38980,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel<a id=424></a>
+#### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel<a id=425></a>
 
-##### Section 1 : La Conférence des présidents d'université.<a id=425></a>
+##### Section 1 : La Conférence des présidents d'université.<a id=426></a>
 
 ###### Article D233-1
 
@@ -39040,7 +39114,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : La Conférence des directeurs d'écoles et de formations d'ingénieurs.<a id=426></a>
+##### Section 2 : La Conférence des directeurs d'écoles et de formations d'ingénieurs.<a id=427></a>
 
 ###### Article D233-7
 
@@ -39164,9 +39238,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre IV : Les conseils académiques de l'éducation nationale<a id=427></a>
+#### Chapitre IV : Les conseils académiques de l'éducation nationale<a id=428></a>
 
-##### Section 1 : Dispositions générales.<a id=428></a>
+##### Section 1 : Dispositions générales.<a id=429></a>
 
 ###### Article R234-1
 
@@ -39684,9 +39758,9 @@ _Cité par_:
   - Code de l'éducation - art. R234-29 (V)
 
 
-##### Section 2 : Dispositions particulières<a id=429></a>
+##### Section 2 : Dispositions particulières<a id=430></a>
 
-##### Sous-section 1 : Conseil interacadémique d'Ile-de-France.<a id=430></a>
+##### Sous-section 1 : Conseil interacadémique d'Ile-de-France.<a id=431></a>
 
 ###### Article R234-16
 
@@ -39915,7 +39989,7 @@ _Cite_:
   - Code de l'éducation - art. R234-18 (VT)
 
 
-##### Sous-section 2 : Conseil de l'éducation nationale de l'académie de Corse.<a id=431></a>
+##### Sous-section 2 : Conseil de l'éducation nationale de l'académie de Corse.<a id=432></a>
 
 ###### Article R234-22
 
@@ -40011,7 +40085,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 3 : Conseils de l'éducation nationale dans les académies d'outre-mer.<a id=432></a>
+##### Sous-section 3 : Conseils de l'éducation nationale dans les académies d'outre-mer.<a id=433></a>
 
 ###### Article R234-25
 
@@ -40291,9 +40365,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 3 : Dispositions contentieuses et disciplinaires<a id=433></a>
+##### Section 3 : Dispositions contentieuses et disciplinaires<a id=434></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=434></a>
+##### Sous-section 1 : Dispositions générales.<a id=435></a>
 
 ###### Article R234-34
 
@@ -40452,7 +40526,7 @@ _Cite_:
   - Code de l'éducation - art. L234-3
 
 
-##### Sous-section 2 : Dispositions particulières au conseil interacadémique d'Ile-de-France.<a id=435></a>
+##### Sous-section 2 : Dispositions particulières au conseil interacadémique d'Ile-de-France.<a id=436></a>
 
 ###### Article R234-39
 
@@ -40599,9 +40673,9 @@ _Cite_:
   - Code de l'éducation - art. R234-36 (V)
 
 
-#### Chapitre V : Les conseils départementaux de l'éducation nationale<a id=436></a>
+#### Chapitre V : Les conseils départementaux de l'éducation nationale<a id=437></a>
 
-##### Section 1 : Dispositions générales.<a id=437></a>
+##### Section 1 : Dispositions générales.<a id=438></a>
 
 ###### Article R235-1
 
@@ -40906,7 +40980,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Dispositions particulières au département de Paris.<a id=438></a>
+##### Section 2 : Dispositions particulières au département de Paris.<a id=439></a>
 
 ###### Article R235-12
 
@@ -41035,7 +41109,7 @@ _Cite_:
   - Code de l'éducation R235-1 à R235-11
 
 
-##### Section 3 : Dispositions particulières à la collectivité territoriale de Corse.<a id=439></a>
+##### Section 3 : Dispositions particulières à la collectivité territoriale de Corse.<a id=440></a>
 
 ###### Article R235-17
 
@@ -41060,11 +41134,11 @@ _Cite_:
   - Code de l'éducation R235-1 à R235-11, R234-22 à R234-24
 
 
-#### Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle<a id=440></a>
+#### Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle<a id=441></a>
 
-##### Section 1 : Les instances nationales<a id=441></a>
+##### Section 1 : Les instances nationales<a id=442></a>
 
-##### Sous-section 1 : Le Haut Comité éducation-économie-emploi.<a id=442></a>
+##### Sous-section 1 : Le Haut Comité éducation-économie-emploi.<a id=443></a>
 
 ###### Article D237-1
 
@@ -41261,7 +41335,7 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 
-##### Sous-section 2 : Le comité interministériel de la formation professionnelle et de l'emploi et le Conseil national de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=443></a>
+##### Sous-section 2 : Le comité interministériel de la formation professionnelle et de l'emploi et le Conseil national de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=444></a>
 
 ###### Article R237-9
 
@@ -41284,7 +41358,7 @@ _Cite_:
   - Code du travail R910-1 à R910-10
 
 
-##### Section 2 : Les instances régionales et départementales.<a id=444></a>
+##### Section 2 : Les instances régionales et départementales.<a id=445></a>
 
 ###### Article D237-11
 
@@ -41443,7 +41517,7 @@ _Cite_:
   - Code du travail - art. R910-15 (M)
 
 
-##### Section 3 : La Commission spéciale de la taxe d'apprentissage.<a id=445></a>
+##### Section 3 : La Commission spéciale de la taxe d'apprentissage.<a id=446></a>
 
 ###### Article R237-15
 
@@ -41766,9 +41840,9 @@ _Abrogé par_:
   - Décret n°2015-652 du 10 juin 2015 - art. 7
 
 
-#### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole<a id=446></a>
+#### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole<a id=447></a>
 
-##### Section 1 : Le Conseil national de l'enseignement agricole.<a id=447></a>
+##### Section 1 : Le Conseil national de l'enseignement agricole.<a id=448></a>
 
 ###### Article R238-1
 
@@ -41790,7 +41864,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire.<a id=448></a>
+##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire.<a id=449></a>
 
 ###### Article R238-2
 
@@ -41809,7 +41883,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 3 : Les comités régionaux de l'enseignement agricole.<a id=449></a>
+##### Section 3 : Les comités régionaux de l'enseignement agricole.<a id=450></a>
 
 ###### Article R238-3
 
@@ -41827,7 +41901,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 4 : Les conseils de l'enseignement vétérinaire.<a id=450></a>
+##### Section 4 : Les conseils de l'enseignement vétérinaire.<a id=451></a>
 
 ###### Article R238-4
 
@@ -41845,7 +41919,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 5 : Le comité de coordination.<a id=451></a>
+##### Section 5 : Le comité de coordination.<a id=452></a>
 
 ###### Article R238-5
 
@@ -41865,9 +41939,9 @@ _Cite_:
   - Code rural et de la pêche maritime - art. R814-41 (T)
 
 
-#### Chapitre IX : Les autres instances consultatives<a id=452></a>
+#### Chapitre IX : Les autres instances consultatives<a id=453></a>
 
-##### Section 1 : La Commission nationale pour l'éducation, la science et la culture.<a id=453></a>
+##### Section 1 : La Commission nationale pour l'éducation, la science et la culture.<a id=454></a>
 
 ###### Article D239-1
 
@@ -42324,7 +42398,7 @@ _Anciens textes_:
   - Décret n°1951-05-02 art. 8
 
 
-##### Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur.<a id=454></a>
+##### Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur.<a id=455></a>
 
 ###### Article D239-11
 
@@ -42670,7 +42744,7 @@ _Nouveaux textes_:
   - Code de l'éducation - art. D239-33 (V)
 
 
-##### Section 3 : Le Conseil supérieur des bibliothèques.<a id=455></a>
+##### Section 3 : Le Conseil supérieur des bibliothèques.<a id=456></a>
 
 ###### Article D239-20
 
@@ -42920,13 +42994,13 @@ _Nouveaux textes_:
   - Code de l'éducation - art. D239-41 (V)
 
 
-### Titre IV : L'inspection et l'évaluation de l'éducation.<a id=456></a>
+### Titre IV : L'inspection et l'évaluation de l'éducation.<a id=457></a>
 
-#### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation<a id=457></a>
+#### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation<a id=458></a>
 
-##### Section 1 : Missions des inspections générales<a id=458></a>
+##### Section 1 : Missions des inspections générales<a id=459></a>
 
-##### Sous-section 1 : Dispositions communes.<a id=459></a>
+##### Sous-section 1 : Dispositions communes.<a id=460></a>
 
 ###### Article D241-1
 
@@ -42976,7 +43050,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 2 : L'inspection générale de l'éducation nationale.<a id=460></a>
+##### Sous-section 2 : L'inspection générale de l'éducation nationale.<a id=461></a>
 
 ###### Article R*241-3
 
@@ -43055,7 +43129,7 @@ _Codifié par_:
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
 
-##### Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche.<a id=461></a>
+##### Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche.<a id=462></a>
 
 ###### Article R*241-6
 
@@ -43318,7 +43392,7 @@ _Cite_:
   - Code de l'éducation - art. L241-1 (V)
 
 
-##### Section 2 : L'inspection générale des bibliothèques.<a id=462></a>
+##### Section 2 : L'inspection générale des bibliothèques.<a id=463></a>
 
 ###### Article R241-17
 
@@ -43347,7 +43421,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale.<a id=463></a>
+##### Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale.<a id=464></a>
 
 ###### Article R241-18
 
@@ -43450,7 +43524,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 4 : Le service académique de l'inspection de l'apprentissage.<a id=464></a>
+##### Section 4 : Le service académique de l'inspection de l'apprentissage.<a id=465></a>
 
 ###### Article R241-22
 
@@ -43589,7 +43663,7 @@ _Cite_:
   - Code du travail - art. R119-65 (Ab)
 
 
-##### Section 5 : Les délégués départementaux de l'éducation nationale.<a id=465></a>
+##### Section 5 : Les délégués départementaux de l'éducation nationale.<a id=466></a>
 
 ###### Article D241-24
 
@@ -43831,7 +43905,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=466></a>
+#### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=467></a>
 
 ###### Article D*242-1
 
@@ -44221,7 +44295,7 @@ _Abrogé par_:
   - Décret n°2006-1334 du 3 novembre 2006 - art. 19 () JORF 4 novembre 2006
 
 
-#### Chapitre III : Le Haut Conseil de l'évaluation de l'école.<a id=467></a>
+#### Chapitre III : Le Haut Conseil de l'évaluation de l'école.<a id=468></a>
 
 ###### Article D243-1
 
@@ -44522,9 +44596,9 @@ _Abrogé par_:
   - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
 
 
-### Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=468></a>
+### Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=469></a>
 
-#### Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation.<a id=469></a>
+#### Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation.<a id=470></a>
 
 ###### Article D251-1
 
@@ -44707,9 +44781,9 @@ _Cite_:
   - Code du travail - art. D910-21 (Ab)
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=470></a>
+### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=471></a>
 
-#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=471></a>
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=472></a>
 
 ###### Article D*261-6
 
@@ -44893,7 +44967,7 @@ _Cite_:
   - Code de l'éducation - art. R232-41 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=472></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=473></a>
 
 ###### Article D262-3
 
@@ -44995,7 +45069,7 @@ _Cite_:
   - Code de l'éducation
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=473></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=474></a>
 
 ###### Article D*263-8
 
@@ -45282,7 +45356,7 @@ _Cite_:
   - Code de l'éducation - art. R232-43 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=474></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=475></a>
 
 ###### Article D*264-8
 
