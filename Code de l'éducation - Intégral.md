@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2003-04-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -30,47 +30,47 @@ Version Consolidée au 2002-02-28
           - [Chapitre II : Les compétences des communes (art. L212-1 à L212-15)](#27)
             - [Section 1 : Ecoles et classes élémentaires et maternelles. (art. L212-1 à L212-9)](#28)
             - [Section 2 : Caisse des écoles. (art. L212-10 à L212-12)](#29)
-            - [Section 3 : Collèges. (art. L212-13 à L212-14)](#30)
-            - [Section 4 : Utilisation des locaux scolaires. (art. L212-15)](#31)
-          - [Chapitre III : Les compétences des départements (art. L213-1 à L213-16)](#32)
-            - [Section 1 : Collèges. (art. L213-1 à L213-10)](#33)
-            - [Section 2 : Transports scolaires. (art. L213-11 à L213-16)](#34)
-          - [Chapitre IV : Les compétences des régions (art. L214-1 à L214-17)](#35)
-            - [Section 1 : Planification des formations. (art. L214-1 à L214-4)](#36)
-            - [Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole. (art. L214-5 à L214-11)](#37)
-            - [Section 3 : Formation professionnelle et apprentissage. (art. L214-12 à L214-16)](#38)
-            - [Section 4 : Les compétences des régions d'outre-mer. (art. L214-17)](#39)
-          - [Chapitre V : Les compétences de la collectivité territoriale de Corse. (art. L215-1)](#40)
-          - [Chapitre VI : Les compétences communes aux collectivités territoriales. (art. L216-1 à L216-10)](#41)
-        - [Titre II : L'organisation des services de l'administration de l'éducation (art. L222-1 à L222-2)](#42)
-          - [Chapitre II : Les services académiques et départementaux. (art. L222-1 à L222-2)](#43)
-        - [Titre III : Les organismes collégiaux nationaux et locaux (art. L231-1 à L238-3)](#44)
-          - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. L231-1 à L231-13)](#45)
-            - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. L231-1 à L231-5)](#46)
-            - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. L231-6 à L231-13)](#47)
-              - [Sous-section 1 : Dispositions générales. (art. L231-6 à L231-9)](#48)
-              - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. L231-10 à L231-13)](#49)
-          - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche (art. L232-1 à L232-7)](#50)
-            - [Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative. (art. L232-1)](#51)
-            - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire (art. L232-2 à L232-7)](#52)
-              - [Sous-section 1 : Dispositions générales. (art. L232-2 à L232-3)](#53)
-              - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. L232-4 à L232-7)](#54)
-          - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel. (art. L233-1)](#55)
-          - [Chapitre IV : Les conseils académiques de l'éducation nationale. (art. L234-1 à L234-8)](#56)
-          - [Chapitre V : Les conseils départementaux de l'éducation nationale. (art. L235-1)](#57)
-          - [Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux. (art. L236-1)](#58)
-          - [Chapitre VII : Les instances consultatives en matière de formation professionnelle (art. L237-1 à L237-2)](#59)
-            - [Section 1 : Les instances consultatives nationales. (art. L237-1)](#60)
-            - [Section 2 : Les instances consultatives départementales. (art. L237-2)](#61)
-          - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole (art. L238-1 à L238-3)](#62)
-            - [Section 1 : Le Conseil national de l'enseignement agricole. (art. L238-1)](#63)
-            - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire. (art. L238-2)](#64)
-            - [Section 3 : Les comités régionaux de l'enseignement agricole. (art. L238-3)](#65)
-        - [Titre IV : L'inspection et l'évaluation de l'éducation (art. L241-1 à L242-2)](#66)
-          - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation. (art. L241-1 à L241-11)](#67)
-          - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. L242-1)](#68)
-          - [Chapitre II : Le Comité national d'évaluation des établissements public à caractère scientifique, culturel et professionnel (art. L242-2)](#69)
-        - [Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L251-1)](#70)
+            - [Section 4 : Utilisation des locaux scolaires. (art. L212-15)](#30)
+          - [Chapitre III : Les compétences des départements (art. L213-1 à L213-14)](#31)
+            - [Section 1 : Collèges. (art. L213-1 à L213-10)](#32)
+            - [Section 2 : Transports scolaires. (art. L213-11 à L213-14)](#33)
+          - [Chapitre IV : Les compétences des régions (art. L214-1 à L214-17)](#34)
+            - [Section 1 : Planification des formations. (art. L214-1 à L214-4)](#35)
+            - [Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole. (art. L214-5 à L214-11)](#36)
+            - [Section 3 : Formation professionnelle et apprentissage. (art. L214-12 à L214-16)](#37)
+            - [Section 4 : Les compétences des régions d'outre-mer. (art. L214-17)](#38)
+          - [Chapitre V : Les compétences de la collectivité territoriale de Corse. (art. L215-1)](#39)
+          - [Chapitre VI : Les compétences communes aux collectivités territoriales. (art. L216-1 à L216-10)](#40)
+        - [Titre II : L'organisation des services de l'administration de l'éducation (art. L222-1 à L222-2)](#41)
+          - [Chapitre II : Les services académiques et départementaux. (art. L222-1 à L222-2)](#42)
+        - [Titre III : Les organismes collégiaux nationaux et locaux (art. L231-1 à L238-3)](#43)
+          - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. L231-1 à L231-13)](#44)
+            - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. L231-1 à L231-5)](#45)
+            - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. L231-6 à L231-13)](#46)
+              - [Sous-section 1 : Dispositions générales. (art. L231-6 à L231-9)](#47)
+              - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. L231-10 à L231-13)](#48)
+          - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche (art. L232-1 à L232-7)](#49)
+            - [Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative. (art. L232-1)](#50)
+            - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire (art. L232-2 à L232-7)](#51)
+              - [Sous-section 1 : Dispositions générales. (art. L232-2 à L232-3)](#52)
+              - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. L232-4 à L232-7)](#53)
+          - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel. (art. L233-1)](#54)
+          - [Chapitre IV : Les conseils académiques de l'éducation nationale. (art. L234-1 à L234-8)](#55)
+          - [Chapitre V : Les conseils départementaux de l'éducation nationale. (art. L235-1)](#56)
+          - [Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux. (art. L236-1)](#57)
+          - [Chapitre VII : Les instances consultatives en matière de formation professionnelle (art. L237-1 à L237-2)](#58)
+            - [Section 1 : Les instances consultatives nationales. (art. L237-1)](#59)
+            - [Section 2 : Les instances consultatives départementales. (art. L237-2)](#60)
+          - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole (art. L238-1 à L238-3)](#61)
+            - [Section 1 : Le Conseil national de l'enseignement agricole. (art. L238-1)](#62)
+            - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire. (art. L238-2)](#63)
+            - [Section 3 : Les comités régionaux de l'enseignement agricole. (art. L238-3)](#64)
+        - [Titre IV : L'inspection et l'évaluation de l'éducation (art. L241-1 à L242-2)](#65)
+          - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation. (art. L241-1 à L241-11)](#66)
+          - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. L242-1)](#67)
+          - [Chapitre II : Le Comité national d'évaluation des établissements public à caractère scientifique, culturel et professionnel (art. L242-2)](#68)
+        - [Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L251-1)](#69)
+          - [Chapitre unique. (art. L251-1)](#70)
         - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L261-1 à L264-3)](#71)
           - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L261-1 à L261-2)](#72)
           - [Chapitre II : Dispositions applicables à Mayotte. (art. L262-1 à L262-3)](#73)
@@ -276,7 +276,7 @@ Version Consolidée au 2002-02-28
         - [Titre Ier : Les droits et obligations des usagers du service public de l'enseignement supérieur (art. L811-1 à L811-6)](#273)
           - [Chapitre unique. (art. L811-1 à L811-6)](#274)
         - [Titre II : Les aides aux étudiants et les oeuvres universitaires (art. L821-1 à L822-5)](#275)
-          - [Chapitre Ier : Les aides aux étudiants. (art. L821-1 à L821-5)](#276)
+          - [Chapitre Ier : Les aides aux étudiants. (art. L821-1 à L821-4)](#276)
           - [Chapitre II : Les oeuvres universitaires. (art. L822-1 à L822-5)](#277)
         - [Titre III : La santé et la protection sociale des étudiants (art. L831-1 à L832-2)](#278)
           - [Chapitre Ier : La santé universitaire. (art. L831-1 à L831-3)](#279)
@@ -303,24 +303,23 @@ Version Consolidée au 2002-02-28
           - [Chapitre IV : Les personnels d'orientation. (art. L934-1)](#300)
           - [Chapitre V : Les personnels de surveillance. (art. L935-1 à L935-2)](#301)
           - [Chapitre VI : Les personnels des centres de formation d'apprentis. (art. L936-1)](#302)
-        - [Titre IV : Les personnels d'inspection et de direction (art. L941-1 à L942-1)](#303)
+        - [Titre IV : Les personnels d'inspection et de direction (art. L941-1)](#303)
           - [Chapitre Ier : Les personnels d'inspection. (art. L941-1)](#304)
-          - [Chapitre II : Les personnels de direction. (art. L942-1)](#305)
-        - [Titre V : Les personnels de l'enseignement supérieur (art. L951-1 à L953-6)](#306)
-          - [Chapitre Ier : Dispositions communes. (art. L951-1 à L951-4)](#307)
-          - [Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs (art. L952-1 à L952-23)](#308)
-            - [Section 1 : Dispositions générales. (art. L952-1 à L952-14)](#309)
-            - [Section 2 : Dispositions particulières. (art. L952-15 à L952-20)](#310)
-            - [Section 3 : Dispositions propres aux personnels enseignants et hospitaliers. (art. L952-21 à L952-23)](#311)
-          - [Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service. (art. L953-1 à L953-6)](#312)
-        - [Titre VI : Les personnels des établissements d'enseignement spécialisés (art. L961-1 à L962-1)](#313)
-          - [Chapitre Ier : Les personnels de l'enseignement agricole. (art. L961-1 à L961-2)](#314)
-          - [Chapitre II : Les personnels enseignants de l'architecture. (art. L962-1)](#315)
-        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L971-1 à L974-3)](#316)
-          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L971-1 à L971-3)](#317)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L972-1 à L972-3)](#318)
-          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L973-1 à L973-3)](#319)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L974-1 à L974-3)](#320)
+        - [Titre V : Les personnels de l'enseignement supérieur (art. L951-1 à L953-6)](#305)
+          - [Chapitre Ier : Dispositions communes. (art. L951-1 à L951-4)](#306)
+          - [Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs (art. L952-1 à L952-23)](#307)
+            - [Section 1 : Dispositions générales. (art. L952-1 à L952-14)](#308)
+            - [Section 2 : Dispositions particulières. (art. L952-15 à L952-20)](#309)
+            - [Section 3 : Dispositions propres aux personnels enseignants et hospitaliers. (art. L952-21 à L952-23)](#310)
+          - [Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service. (art. L953-1 à L953-6)](#311)
+        - [Titre VI : Les personnels des établissements d'enseignement spécialisés (art. L961-1 à L962-1)](#312)
+          - [Chapitre Ier : Les personnels de l'enseignement agricole. (art. L961-1 à L961-2)](#313)
+          - [Chapitre II : Les personnels enseignants de l'architecture. (art. L962-1)](#314)
+        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L971-1 à L974-3)](#315)
+          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L971-1 à L971-3)](#316)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L972-1 à L972-3)](#317)
+          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L973-1 à L973-3)](#318)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L974-1 à L974-3)](#319)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -2232,17 +2231,13 @@ _Cite_:
 
 ###### Article L161-3
 
-Pour son application dans les îles Wallis et Futuna, l'article L. 141-3 est ainsi rédigé :
+Pour son application dans les îles Wallis et Futuna, le premier alinéa de l'article L. 141-3 est ainsi rédigé : 
 
 " Dans les écoles maternelles et élémentaires publiques, l'organisation de la semaine scolaire ne doit pas faire obstacle à
 la possibilité pour les parents de faire donner, s'ils le désirent, à leurs enfants l'instruction religieuse, en dehors des
 édifices scolaires et en dehors des heures de classe. "
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'éducation - art. L141-3 (V)
 
 _Anciens textes_:
 
@@ -2252,6 +2247,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+
+_Cite_:
+
+  - Code de l'éducation - art. L141-3 (V)
 
 
 ##### Chapitre II : Dispositions applicables à Mayotte.<a id=21></a>
@@ -2337,7 +2341,7 @@ _Cite_:
 
 ###### Article L162-4
 
-Pour son application à Mayotte, l'article L. 141-3 est ainsi rédigé :
+Pour son application à Mayotte, le premier alinéa de l'article L. 141-3 est ainsi rédigé : 
 
 " Dans les écoles maternelles et élémentaires publiques, l'organisation de la semaine scolaire ne doit pas faire obstacle à
 la possibilité pour les parents de faire donner, s'ils le désirent, à leurs enfants l'instruction religieuse, en dehors des
@@ -2345,18 +2349,23 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Cite_:
-
-  - Code de l'éducation - art. L141-3 (V)
-
 _Anciens textes_:
 
   - Loi n°1882-03-28 art. 2
   - Loi n°1882-03-28 du 28 mars 1882 - art. 2 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+
+_Cite_:
+
+  - Code de l'éducation - art. L141-3 (V)
 
 
 ##### Chapitre III : Dispositions applicables en Polynésie française.<a id=22></a>
@@ -2445,7 +2454,7 @@ _Cite_:
 
 ###### Article L163-4
 
-Pour son application en Polynésie française, l'article L. 141-3 est ainsi rédigé :
+Pour son application en Polynésie française, le premier alinéa de l'article L. 141-3 est ainsi rédigé : 
 
 " Dans les écoles maternelles et élémentaires publiques, l'organisation de la semaine scolaire ne doit pas faire obstacle à
 la possibilité pour les parents de faire donner, s'ils le désirent, à leurs enfants l'instruction religieuse, en dehors des
@@ -2461,6 +2470,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cite_:
 
@@ -2536,7 +2550,7 @@ _Cite_:
 
 ###### Article L164-3
 
-Pour son application en Nouvelle-Calédonie, l'article L. 141-3 est ainsi rédigé :
+Pour son application en Nouvelle-Calédonie, le premier alinéa de l'article L. 141-3 est ainsi rédigé : 
 
 " Dans les écoles maternelles et élémentaires publiques, l'organisation de la semaine scolaire ne doit pas faire obstacle à
 la possibilité pour les parents de faire donner, s'ils le désirent, à leurs enfants l'instruction religieuse, en dehors des
@@ -2544,18 +2558,23 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Cite_:
-
-  - Code de l'éducation - art. L141-3 (V)
-
 _Anciens textes_:
 
   - Loi n°1882-03-28 art. 2
   - Loi n°1882-03-28 du 28 mars 1882 - art. 2 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+
+_Cite_:
+
+  - Code de l'éducation - art. L141-3 (V)
 
 
 ### Livre II : L'administration de l'éducation<a id=24></a>
@@ -2894,30 +2913,6 @@ _Cité par_:
 
   - Code général des collectivités territoriales - art. Rubrique 7 (V)
   - Code général des impôts, CGI. - art. 261 (V)
-
-
-###### Article L212-3
-
-Lors de la prise de décision de création d'écoles élémentaires, il est tenu compte de la nécessité d'accompagner toute
-construction d'un établissement scolaire des équipements nécessaires à la pratique de l'éducation physique et sportive.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°84-610 du 16 juillet 1984 - art. 40 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Abrogé par_:
-
-  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
-
-_Cité par_:
-
-  - Code de l'éducation - art. L262-1 (M)
 
 
 ###### Article L212-4
@@ -3270,105 +3265,7 @@ _Anciens textes_:
   - Loi n°42-591 1942-06-12 art. 1
 
 
-##### Section 3 : Collèges.<a id=30></a>
-
-###### Article L212-13
-
-La commune propriétaire ou l'établissement public de coopération intercommunale compétent pour les collèges existants au 1er
-janvier 1986, la commune d'implantation ou l'établissement public de coopération intercommunale compétent pour les collèges
-créés postérieurement à cette date participent aux dépenses d'investissement de ces établissements, à l'exclusion des
-dépenses afférentes au matériel, dans des conditions fixées par convention avec le département.
-
-A défaut d'accord entre les collectivités intéressées, la participation des communes ou des établissements publics de
-coopération intercommunale est fixée par le représentant de l'Etat dans le département en tenant compte notamment du taux
-moyen réel de participation des communes ou des établissements publics de coopération intercommunale aux dépenses
-d'investissement des collèges transférés, constaté au cours des quatre derniers exercices connus précédant le 1er janvier
-1986, dans le ressort du département.
-
-Les dispositions des articles L. 2321-1 à L. 2321-4 du code général des collectivités territoriales sont applicables à la
-répartition intercommunale des dépenses d'investissement mises à la charge de la commune propriétaire ou de la commune
-d'implantation en application du présent article.
-
-Les contributions dont les communes ou établissements publics de coopération intercommunale sont redevables en application du
-présent article sont versées :
-
-1° Soit directement au département ;
-
-2° Soit à la commune propriétaire ou à l'établissement public de coopération intercommunale compétent pour les collèges
-existants au 1er janvier 1986 ou à la commune d'implantation ou à l'établissement public de coopération intercommunale
-compétent pour les collèges créés postérieurement à cette date. Cette commune ou cet établissement reverse au département les
-contributions perçues des communes.
-
-Le mode de paiement applicable est fixé par convention entre le département et la commune ou l'établissement public de
-coopération intercommunale visés au 2° ci-dessus. A défaut d'accord, les contributions seront versées directement au
-département.
-
-En aucun cas, la commune ou l'établissement public de coopération intercommunale chargé du reversement ne peut être tenu de
-faire l'avance au département des contributions des autres communes.
-
-Ces contributions constituent des dépenses obligatoires.
-
-La commune propriétaire ou l'établissement public de coopération intercommunale compétent continue de supporter la part lui
-incombant au titre des investissements réalisés le 1er janvier 1986 ou en cours à cette date.
-
-Les contributions aux dépenses d'investissement de la collectivité compétente ou de la collectivité exerçant la
-responsabilité des opérations d'investissement dans les conditions prévues aux articles L. 216-5 et L. 216-6 sont calculées
-hors taxes.
-
-Sauf convention contraire conclue avec les communes ou établissements publics de coopération intercommunale, le département
-prend seul en charge les dépenses d'investissement des collèges dont il était propriétaire au 1er janvier 1986.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 15-1 (M)
-  - Loi n°83-663 du 22 juillet 1983 - art. 15-1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Abrogé par_:
-
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
-
-_Cite_:
-
-  - Code général des collectivités territoriales L2321-1 à L2321-4
-  - Code de l'éducation - art. L216-5 (V)
-  - Code de l'éducation - art. L216-6 (V)
-
-_Cité par_:
-
-  - Code de l'éducation - art. L212-14 (Ab)
-  - Code de l'éducation - art. L442-9 (M)
-
-
-###### Article L212-14
-
-Les dispositions de l'article L. 212-13 ne sont pas applicables dans les départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 15-4 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Abrogé par_:
-
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
-
-_Cite_:
-
-  - Code de l'éducation - art. L212-13 (Ab)
-
-
-##### Section 4 : Utilisation des locaux scolaires.<a id=31></a>
+##### Section 4 : Utilisation des locaux scolaires.<a id=30></a>
 
 ###### Article L212-15
 
@@ -3409,9 +3306,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R811-23 (V)
 
 
-##### Chapitre III : Les compétences des départements<a id=32></a>
+##### Chapitre III : Les compétences des départements<a id=31></a>
 
-##### Section 1 : Collèges.<a id=33></a>
+##### Section 1 : Collèges.<a id=32></a>
 
 ###### Article L213-1
 
@@ -3423,6 +3320,8 @@ présent code.
 A ce titre, le conseil général définit la localisation des établissements, leur capacité d'accueil et le mode d'hébergement
 des élèves.
 
+Les dispositions de l'article L. 214-4 sont applicables au département pour les collèges.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -3433,6 +3332,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 _Cité par_:
 
@@ -3451,6 +3359,7 @@ _Cité par_:
 _Cite_:
 
   - Code de l'éducation - art. L214-1 (M)
+  - Code de l'éducation - art. L214-4 (M)
 
 
 ###### Article L213-2
@@ -3762,7 +3671,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Section 2 : Transports scolaires.<a id=34></a>
+##### Section 2 : Transports scolaires.<a id=33></a>
 
 ###### Article L213-11
 
@@ -3782,6 +3691,11 @@ convention fixe les conditions de financement des services de transports scolair
 
 Un décret en Conseil d'Etat détermine les procédures d'arbitrage par le représentant de l'Etat dans le département en cas de
 litige.
+
+Le transfert des ressources équivalentes aux dépenses supportées par l'Etat au titre des bourses de fréquentation scolaire,
+au titre du financement des frais de premier établissement des services de transport réservés aux élèves, des frais de
+transport des élèves et étudiants gravement handicapés, des élèves des écoles maternelles en zone rurale et des élèves des
+zones de montagne s'effectue dans les conditions prévues par le code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -3812,6 +3726,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Nouveaux textes_:
 
@@ -3822,8 +3741,8 @@ _Nouveaux textes_:
 
 S'ils n'ont pas décidé de les prendre en charge eux-mêmes, le conseil général ou l'autorité compétente pour l'organisation
 des transports urbains peuvent confier par convention tout ou partie de l'organisation des transports scolaires à des
-communes, établissements publics de coopération intercommunale, établissements d'enseignement, associations de parents
-d'élèves et associations familiales.
+communes, établissements publics de coopération intercommunale, syndicats mixtes, établissements d'enseignement, associations
+de parents d'élèves et associations familiales.
 
 Si aucune convention confiant l'organisation des transports scolaires à l'une des personnes morales qui en détenaient la
 responsabilité au 1er septembre 1984 n'est intervenue avant le 1er septembre 1988, la responsabilité de l'organisation et du
@@ -3843,6 +3762,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cité par_:
 
@@ -3897,61 +3821,9 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R146-42 (V)
 
 
-###### Article L213-15
+##### Chapitre IV : Les compétences des régions<a id=34></a>
 
-Le transfert des ressources équivalentes aux dépenses supportées par l'Etat au titre des bourses de fréquentation scolaire,
-au titre du financement des frais de premier établissement des services de transport réservés aux élèves, des frais de
-transport des élèves et étudiants gravement handicapés, des élèves des écoles maternelles en zone rurale et des élèves des
-zones de montagne s'effectue dans les conditions prévues par le code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-663 1983-07-22 art. 29
-  - Loi n°83-663 du 22 juillet 1983 - art. 29 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Abrogé par_:
-
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
-
-_Cité par_:
-
-  - Code de l'éducation - art. R213-17 (VT)
-
-
-###### Article L213-16
-
-Les frais de transport individuel des élèves handicapés vers les établissements scolaires rendus nécessaires du fait de leur
-handicap sont supportés par l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°75-534 du 30 juin 1975 - art. 8 (M)
-  - Loi n°75-534 du 30 juin 1975 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Abrogé par_:
-
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
-
-_Cité par_:
-
-  - Code de l'action sociale et des familles - art. L242-11 (V)
-
-
-##### Chapitre IV : Les compétences des régions<a id=35></a>
-
-##### Section 1 : Planification des formations.<a id=36></a>
+##### Section 1 : Planification des formations.<a id=35></a>
 
 ###### Article L214-1
 
@@ -4059,9 +3931,16 @@ _Cite_:
 
 ###### Article L214-4
 
-Lors de l'établissement du schéma prévisionnel des formations, prévu à l'article L. 214-1, il est tenu compte de la nécessité
-d'accompagner toute construction d'un établissement scolaire des équipements nécessaires à la pratique de l'éducation
-physique et sportive.
+I. - Les équipements nécessaires à la pratique de l'éducation physique et sportive doivent être prévus à l'occasion de la
+création d'établissements publics locaux d'enseignement, ainsi que lors de l'établissement du schéma prévisionnel des
+formations mentionné à l'article L. 214-1.
+
+II. - Des conventions sont passées entre les établissements publics locaux d'enseignement, leur collectivité de rattachement
+et les propriétaires d'équipements sportifs afin de permettre la réalisation des programmes scolaires de l'éducation physique
+et sportive.
+
+III. - L'utilisation des équipements se fait conformément aux dispositions de l'article L. 1311-7 du code général des
+collectivités territoriales, sauf dans l'hypothèse où des conventions de mise à disposition gracieuse ont été négociées.
 
 **Liens relatifs à cet article**
 
@@ -4072,6 +3951,16 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L1311-7 (M)
+  - Code de l'éducation - art. L214-1 (M)
 
 _Cité par_:
 
@@ -4079,12 +3968,8 @@ _Cité par_:
   - Code de l'éducation - art. L262-1 (VD)
   - Code de l'éducation - art. L421-19-9 (V)
 
-_Cite_:
 
-  - Code de l'éducation - art. L214-1 (M)
-
-
-##### Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole.<a id=37></a>
+##### Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole.<a id=36></a>
 
 ###### Article L214-5
 
@@ -4307,7 +4192,7 @@ _Cité par_:
   - Code de l'éducation - art. L262-1 (VD)
 
 
-##### Section 3 : Formation professionnelle et apprentissage.<a id=38></a>
+##### Section 3 : Formation professionnelle et apprentissage.<a id=37></a>
 
 ###### Article L214-12
 
@@ -4707,7 +4592,7 @@ _Cité par_:
   - Code de l'éducation - art. L262-4 (VD)
 
 
-##### Section 4 : Les compétences des régions d'outre-mer.<a id=39></a>
+##### Section 4 : Les compétences des régions d'outre-mer.<a id=38></a>
 
 ###### Article L214-17
 
@@ -4742,19 +4627,43 @@ _Cite_:
   - Code de l'éducation - art. L216-1 (V)
 
 
-##### Chapitre V : Les compétences de la collectivité territoriale de Corse.<a id=40></a>
+##### Chapitre V : Les compétences de la collectivité territoriale de Corse.<a id=39></a>
 
 ###### Article L215-1
 
 Les compétences de la collectivité territoriale de Corse en matière d'éducation et de formation professionnelle sont fixées
-par les dispositions des articles L. 4424-11 à L. 4424-15 et L. 4424-32 du code général des collectivités territoriales, ci-
+par les dispositions des articles L. 4424-1 à L. 4424-5 et L. 4424-34 du code général des collectivités territoriales, ci-
 après reproduites :
 
-" Art. L. 4424-11. - Sur proposition du représentant de l'Etat dans la collectivité territoriale de Corse et après
-consultation des départements et communes intéressés ainsi que du conseil économique, social et culturel de Corse,
-l'Assemblée de Corse arrête la carte scolaire des établissements d'enseignement mentionnés à l'article L. 4424-12. "
+Art. L. 4424-1. - La collectivité territoriale de Corse établit et transmet au représentant de l'Etat, après consultation du
+conseil économique, social et culturel de Corse et compte tenu des orientations fixées par le plan, le schéma prévisionnel
+des formations des collèges, des lycées, des établissements d'enseignement professionnel, des établissements d'enseignement
+artistique, des établissements d'éducation spéciale, des écoles de formation maritime et aquacole, des établissements
+d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et des centres d'information et d'orientation.
 
-" Art. L. 4424-12. - La collectivité territoriale de Corse finance, construit, équipe et entretient les collèges, les lycées,
+Elle associe les représentants désignés par les établissements d'enseignement privé sous contrat à l'élaboration de ce
+schéma.
+
+La collectivité territoriale de Corse établit, après accord de chacune des collectivités concernées par les projets situés
+sur leur territoire, le programme prévisionnel des investissements relatifs aux établissements cités au premier alinéa.
+
+A ce titre, la collectivité territoriale de Corse définit la localisation des établissements, leur capacité d'accueil et le
+mode d'hébergement des élèves.
+
+Chaque année, après avoir consulté le conseil économique, social et culturel de Corse et recueilli l'avis du représentant de
+l'Etat, la collectivité territoriale de Corse arrête la liste des opérations de construction ou d'extension des
+établissements précités. Cette liste est arrêtée compte tenu du programme prévisionnel des investissements et après accord de
+la commune d'implantation.
+
+Chaque année, la collectivité territoriale de Corse arrête la structure pédagogique générale des établissements
+d'enseignement du second degré en tenant compte du schéma prévisionnel des formations.
+
+A cette fin, après concertation avec le président du conseil exécutif de Corse, l'Etat fait connaître à l'Assemblée de Corse
+les moyens qu'il se propose d'attribuer à l'académie de Corse. La structure pédagogique devient définitive lorsqu'une
+convention portant sur les moyens attribués par l'Etat à l'académie de Corse et leurs modalités d'utilisation a été conclue
+entre le représentant de l'Etat et le président du conseil exécutif mandaté à cet effet.
+
+Art. L. 4424-2. - La collectivité territoriale de Corse finance, construit, équipe et entretient les collèges, les lycées,
 les établissements publics d'enseignement professionnel, les établissements d'enseignement artistique, les établissements
 d'éducation spéciale, ainsi que les lycées professionnels maritimes, les établissements d'enseignement agricole mentionnés à
 l'article L. 811-8 du code rural et les centres d'information et d'orientation.
@@ -4765,64 +4674,72 @@ détermine les modalités de cette délégation.
 
 L'Etat assure aux collèges, lycées, établissements publics d'enseignement professionnel, d'éducation spéciale, ainsi qu'aux
 lycées professionnels maritimes, aux établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et
-aux centres d'information et d'orientation, les moyens financiers directement liés à leur activité pédagogique. "
+aux centres d'information et d'orientation, les moyens financiers directement liés à leur activité pédagogique.
 
-" Art. L. 4424-13. - Dans le cadre de la politique nationale de l'enseignement supérieur, le président du conseil exécutif
-présente à l'Assemblée de Corse les propositions relatives aux formations supérieures et aux activités de recherche
-universitaire, après avis de l'université de Corse.
+Art. L. 4424-3. - Dans le cadre de la politique nationale de l'enseignement supérieur, le président du conseil exécutif
+présente à l'Assemblée de Corse les propositions relatives à l'enseignement supérieur et à la recherche, après avis de
+l'université de Corse.
 
-Sur cette base l'Assemblée de Corse établit, en fonction des priorités qu'elle détermine en matière de développement
-culturel, économique et social et après consultation du conseil économique, social et culturel de Corse, la carte des
-formations supérieures et des activités de recherche universitaire. Cette carte devient définitive lorsqu'elle a fait l'objet
-d'une convention entre la collectivité territoriale de Corse, l'Etat et l'université de Corse. "
+Sur cette base, l'Assemblée de Corse établit, en fonction des priorités qu'elle détermine en matière de développement
+culturel, économique et social et après consultation du conseil économique, social et culturel de Corse, la carte de
+l'enseignement supérieur et de la recherche. Cette carte devient définitive lorsqu'elle a fait l'objet d'une convention entre
+la collectivité territoriale de Corse, l'Etat et l'université de Corse.
 
-" Art. L. 4424-14. - Sur proposition du conseil exécutif, qui recueille l'avis du conseil économique, social et culturel de
+La collectivité territoriale de Corse peut, par délibération de l'Assemblée, organiser ses propres actions complémentaires
+d'enseignement supérieur et de recherche, sans préjudice des compétences de l'Etat en matière d'homologation des titres et
+diplômes. Elle passe, à cette fin, des conventions avec des établissements d'enseignement supérieur ou des organismes de
+recherche.
+
+Art. L. 4424-4. - La collectivité territoriale de Corse finance, construit, équipe et entretient les établissements
+d'enseignement supérieur figurant à la carte prévue à l'article L. 4424-3. L'Etat assure à ces établissements les moyens
+financiers directement liés à leurs activités pédagogiques et de recherche.
+
+Art. L. 4424-5. - Sur proposition du conseil exécutif, qui recueille l'avis du conseil économique, social et culturel de
 Corse, l'Assemblée détermine les activités éducatives complémentaires que la collectivité territoriale de Corse organise.
 
 L'Assemblée adopte, dans les mêmes conditions, un plan de développement de l'enseignement de la langue et de la culture
-Corses, prévoyant notamment les modalités d'insertion de cet enseignement dans le temps scolaire. Ces modalités font l'objet
-d'une convention conclue entre la collectivité territoriale de Corse et l'Etat. "
+corses, dont les modalités d'application font l'objet d'une convention conclue entre la collectivité territoriale de Corse et
+l'Etat.
 
-" Art. L. 4424-15. - Dans la limite du nombre d'emplois fixé chaque année par l'Etat, en concertation avec la collectivité
-territoriale de Corse, le président du conseil exécutif répartit, sur proposition de l'autorité compétente, les emplois
-attribués aux établissements d'enseignement public mentionnés à l'article L. 4424-12. "
+Cette convention prévoit les mesures d'accompagnement nécessaires, et notamment celles relatives à la formation initiale et à
+la formation continue des enseignants.
 
-" Art. L. 4424-32. - La collectivité territoriale de Corse assure la mise en oeuvre des actions d'apprentissage et de
-formation professionnelle continue dans les conditions prévues pour les régions par les articles L. 214-12 à L. 214-16 du
-code de l'éducation.
+Art. L. 4424-34. - La collectivité territoriale de Corse assure la mise en oeuvre des actions d'apprentissage et de formation
+professionnelle continue dans les conditions prévues pour les régions aux articles L. 214-12 à L. 214-16 du code de
+l'éducation.
 
-En outre, en application d'une convention passée avec le représentant de l'Etat dans la collectivité territoriale de Corse,
-la collectivité territoriale met en oeuvre des stages créés en exécution de programmes établis au titre des orientations
-prioritaires de l'article L. 910-2 du code du travail et financés sur les crédits du fonds de la formation professionnelle et
-de la promotion sociale.
+Elle élabore, en concertation avec l'Etat et après consultation des départements et du conseil économique, social et culturel
+de Corse, le plan régional de développement de la formation professionnelle des jeunes et des adultes, dont elle assure la
+mise en oeuvre.
 
-Les opérations d'équipement d'intérêt national menées par l'Etat au titre de l'Association nationale pour la formation
-professionnelle des adultes font l'objet d'une concertation entre le représentant de l'Etat dans la collectivité territoriale
-de Corse et la collectivité territoriale de Corse.
-
-Le programme des autres opérations d'équipement de l'Association nationale pour la formation professionnelle des adultes est
-déterminé par la collectivité territoriale de Corse. "
+A l'occasion de la mise en oeuvre de ce plan, la collectivité territoriale de Corse signe une convention, notamment avec
+l'Association nationale pour la formation professionnelle des adultes, dont elle arrête le programme des formations et le
+programme des opérations d'équipement pour la Corse.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code rural L811-8
-  - Code général des collectivités territoriales - art. L4424-32 (Ab)
-  - Code général des collectivités territoriales L4424-11 à L4424-15, L4424-32
-  - Code de l'éducation L4424-12, L214-12 à L214-16
-  - Code du travail - art. L910-2 (M)
+  - Code général des collectivités territoriales - art. L4424-34 (M)
+  - Code général des collectivités territoriales L4424-1 à L4424-5, L4424-34
+  - Code de l'éducation L4424-3, L214-12 à L214-16
 
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cité par_:
 
   - Décret n°2006-753 du 29 juin 2006 - art. 1 (Ab)
 
 
-##### Chapitre VI : Les compétences communes aux collectivités territoriales.<a id=41></a>
+##### Chapitre VI : Les compétences communes aux collectivités territoriales.<a id=40></a>
 
 ###### Article L216-1
 
@@ -5217,9 +5134,9 @@ _Cité par_:
   - Code de l'éducation - art. L264-1 (V)
 
 
-#### Titre II : L'organisation des services de l'administration de l'éducation<a id=42></a>
+#### Titre II : L'organisation des services de l'administration de l'éducation<a id=41></a>
 
-##### Chapitre II : Les services académiques et départementaux.<a id=43></a>
+##### Chapitre II : Les services académiques et départementaux.<a id=42></a>
 
 ###### Article L222-1
 
@@ -5290,11 +5207,11 @@ _Cite_:
   - Code de l'éducation - art. L711-8 (V)
 
 
-#### Titre III : Les organismes collégiaux nationaux et locaux<a id=44></a>
+#### Titre III : Les organismes collégiaux nationaux et locaux<a id=43></a>
 
-##### Chapitre Ier : Le Conseil supérieur de l'éducation<a id=45></a>
+##### Chapitre Ier : Le Conseil supérieur de l'éducation<a id=44></a>
 
-##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.<a id=46></a>
+##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.<a id=45></a>
 
 ###### Article L231-1
 
@@ -5423,9 +5340,9 @@ _Cite_:
   - Code de l'éducation - art. L231-1 (V)
 
 
-##### Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire<a id=47></a>
+##### Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire<a id=46></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=48></a>
+##### Sous-section 1 : Dispositions générales.<a id=47></a>
 
 ###### Article L231-6
 
@@ -5526,7 +5443,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=49></a>
+##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=48></a>
 
 ###### Article L231-10
 
@@ -5633,9 +5550,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche<a id=50></a>
+##### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche<a id=49></a>
 
-##### Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative.<a id=51></a>
+##### Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative.<a id=50></a>
 
 ###### Article L232-1
 
@@ -5703,9 +5620,9 @@ _Cité par_:
   - Code de la recherche - art. L125-1 (T)
 
 
-##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire<a id=52></a>
+##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire<a id=51></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=53></a>
+##### Sous-section 1 : Dispositions générales.<a id=52></a>
 
 ###### Article L232-2
 
@@ -5770,7 +5687,7 @@ _Cité par_:
   - Code de l'éducation - art. L263-1 (V)
 
 
-##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=54></a>
+##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=53></a>
 
 ###### Article L232-4
 
@@ -5891,7 +5808,7 @@ _Anciens textes_:
   - Loi n°1908-07-17 art. 4
 
 
-##### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel.<a id=55></a>
+##### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel.<a id=54></a>
 
 ###### Article L233-1
 
@@ -5941,7 +5858,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L162-1-12-1 (VD)
 
 
-##### Chapitre IV : Les conseils académiques de l'éducation nationale.<a id=56></a>
+##### Chapitre IV : Les conseils académiques de l'éducation nationale.<a id=55></a>
 
 ###### Article L234-1
 
@@ -6237,7 +6154,7 @@ _Cité par_:
   - Code des transports - art. L3111-14 (V)
 
 
-##### Chapitre V : Les conseils départementaux de l'éducation nationale.<a id=57></a>
+##### Chapitre V : Les conseils départementaux de l'éducation nationale.<a id=56></a>
 
 ###### Article L235-1
 
@@ -6270,7 +6187,7 @@ _Cité par_:
   - Code de l'éducation - art. L442-11 (V)
 
 
-##### Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux.<a id=58></a>
+##### Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux.<a id=57></a>
 
 ###### Article L236-1
 
@@ -6303,9 +6220,9 @@ _Cité par_:
   - Code de l'éducation - art. R451-11 (V)
 
 
-##### Chapitre VII : Les instances consultatives en matière de formation professionnelle<a id=59></a>
+##### Chapitre VII : Les instances consultatives en matière de formation professionnelle<a id=58></a>
 
-##### Section 1 : Les instances consultatives nationales.<a id=60></a>
+##### Section 1 : Les instances consultatives nationales.<a id=59></a>
 
 ###### Article L237-1
 
@@ -6427,7 +6344,7 @@ _Cite_:
   - Code du travail - art. L910-2 (M)
 
 
-##### Section 2 : Les instances consultatives départementales.<a id=61></a>
+##### Section 2 : Les instances consultatives départementales.<a id=60></a>
 
 ###### Article L237-2
 
@@ -6472,9 +6389,9 @@ _Cité par_:
   - Code de l'éducation - art. D237-14 (VT)
 
 
-##### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole<a id=62></a>
+##### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole<a id=61></a>
 
-##### Section 1 : Le Conseil national de l'enseignement agricole.<a id=63></a>
+##### Section 1 : Le Conseil national de l'enseignement agricole.<a id=62></a>
 
 ###### Article L238-1
 
@@ -6542,7 +6459,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire.<a id=64></a>
+##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire.<a id=63></a>
 
 ###### Article L238-2
 
@@ -6577,7 +6494,7 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code rural - art. L814-3 (V)
 
 
-##### Section 3 : Les comités régionaux de l'enseignement agricole.<a id=65></a>
+##### Section 3 : Les comités régionaux de l'enseignement agricole.<a id=64></a>
 
 ###### Article L238-3
 
@@ -6622,9 +6539,9 @@ _Cite_:
   - PILOTE_SUIVEUR: Code rural - art. L814-4 (V)
 
 
-#### Titre IV : L'inspection et l'évaluation de l'éducation<a id=66></a>
+#### Titre IV : L'inspection et l'évaluation de l'éducation<a id=65></a>
 
-##### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation.<a id=67></a>
+##### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation.<a id=66></a>
 
 ###### Article L241-1
 
@@ -7018,7 +6935,7 @@ _Abrogé par_:
   - Loi n°2013-595 du 8 juillet 2013 - art. 79
 
 
-##### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=68></a>
+##### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=67></a>
 
 ###### Article L242-1
 
@@ -7065,7 +6982,7 @@ _Cite_:
   - Code de l'éducation - art. L123-3 (M)
 
 
-##### Chapitre II : Le Comité national d'évaluation des établissements public à caractère scientifique, culturel et professionnel<a id=69></a>
+##### Chapitre II : Le Comité national d'évaluation des établissements public à caractère scientifique, culturel et professionnel<a id=68></a>
 
 ###### Article L242-2
 
@@ -7106,7 +7023,9 @@ _Cité par_:
   - Code de l'éducation - art. L264-1 (M)
 
 
-#### Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=70></a>
+#### Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=69></a>
+
+##### Chapitre unique.<a id=70></a>
 
 ###### Article L251-1
 
@@ -7125,10 +7044,11 @@ Aux articles L. 112-1 et L. 351-2, les mots : "commission départementale d'édu
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 _Modifié par_:
 
-  - Loi n°2000-1207 du 13 décembre 2000 - art. 66 () JORF 14 décembre 2000
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cite_:
 
@@ -7198,8 +7118,8 @@ _Cite_:
 
 ###### Article L262-1
 
-Sont applicables à Mayotte les articles L. 212-3, L. 216-10, L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 236-1, L. 241-1 à
-L. 241-4, L. 242-1 et L. 242-2.
+Sont applicables à Mayotte les articles L. 216-10, L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 236-1, L. 241-1 à L. 241-4,
+L. 242-1 et L. 242-2.
 
 **Liens relatifs à cet article**
 
@@ -7214,15 +7134,19 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 _Cite_:
 
-  - Code de l'éducation - art. L212-3 (Ab)
   - Code de l'éducation - art. L216-10 (V)
   - Code de l'éducation - art. L236-1 (V)
   - Code de l'éducation - art. L242-1 (M)
   - Code de l'éducation - art. L242-2 (Ab)
-  - Code de l'éducation L212-3, L216-10, L231-1 à L231-13, L232-1 à L232-7, L236-1, L241-1 à L241-4, L242-1, L242-2
+  - Code de l'éducation L216-10, L231-1 à L231-13, L232-1 à L232-7, L236-1, L241-1 à L241-4, L242-1, L242-2
 
 
 ###### Article L262-2
@@ -7680,10 +7604,10 @@ L'enseignement de l'éducation physique et sportive est dispensé dans les écol
 
 Il est assuré :
 
-1° Dans les écoles maternelles et élémentaires, par les personnels enseignants du premier degré, réunis en équipe
-pédagogique. Ceux-ci peuvent acquérir une qualification dominante en éducation physique et sportive pendant leur formation
-initiale ou continue. Toutefois, en tant que de besoin, un personnel qualifié et agréé peut assister l'équipe pédagogique, à
-la demande et sous la responsabilité de cette dernière ;
+1° Dans les écoles maternelles et élémentaires, par les enseignants du premier degré, réunis en équipe pédagogique. Ceux-ci
+acquièrent une qualification pouvant être dominante en éducation physique et sportive pendant leur formation initiale ou
+continue. Toutefois, un personnel agréé et disposant d'une qualification définie par l'Etat peut assister l'équipe
+pédagogique, avec son accord et sous la responsabilité de celle-ci ;
 
 2° Dans les établissements du second degré, par les personnels enseignants d'éducation physique et sportive.
 
@@ -7696,6 +7620,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 _Cité par_:
 
@@ -7706,8 +7639,15 @@ _Cité par_:
 
 ###### Article L312-4
 
-Dans les établissements relevant du ministre chargé de l'éducation et dans les établissements spécialisés, les élèves
-handicapés bénéficient de l'enseignement de l'éducation physique et sportive en fonction de leurs besoins particuliers.
+L'organisation et les programmes de l'éducation physique et sportive dans les établissements d'enseignement et de formation
+professionnelle et dans les établissements spécialisés tiennent compte des spécificités liées aux différentes formes de
+handicap.
+
+Les éducateurs et les enseignants facilitent par une pédagogie adaptée l'accès des jeunes handicapés à la pratique régulière
+d'activités physiques et sportives.
+
+Une formation spécifique aux différentes formes de handicap est donnée aux enseignants et aux éducateurs sportifs, pendant
+leurs formations initiale et continue.
 
 **Liens relatifs à cet article**
 
@@ -7718,6 +7658,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 
 ##### Section 2 : Les enseignements artistiques.<a id=82></a>
@@ -10997,9 +10946,9 @@ après avis d'une commission nationale composée pour moitié de représentants 
 pour moitié de professionnels désignés par leurs organisations représentatives, de personnalités qualifiées et de
 représentants des usagers.
 
-Les artistes chorégraphiques justifiant d'une activité professionnelle d'au moins trois ans au sein du ballet de l'Opéra de
-Paris, des ballets des théâtres de la réunion des théâtres lyriques municipaux de France ou des centres chorégraphiques
-nationaux et qui ont suivi une formation pédagogique bénéficient de plein droit du diplôme visé ci-dessus.
+Les artistes chorégraphiques justifiant d'une activité professionnelle d'au moins trois ans au sein du ballet de l'Opéra
+national de Paris, des ballets des théâtres de la réunion des théâtres lyriques municipaux de France ou des centres
+chorégraphiques nationaux et qui ont suivi une formation pédagogique bénéficient de plein droit du diplôme visé ci-dessus.
 
 La composition de la commission nationale prévue au présent article ainsi que les modalités de délivrance du diplôme sont
 fixées par arrêté du ministre chargé de la culture.
@@ -11016,6 +10965,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cité par_:
 
@@ -11164,34 +11118,34 @@ _Cite_:
 
 ###### Article L363-1
 
-Nul ne peut enseigner, encadrer ou animer contre rémunération une activité physique ou sportive, à titre d'occupation
-principale ou secondaire, de façon régulière, saisonnière ou occasionnelle, ni prendre le titre de professeur, moniteur,
-éducateur, entraîneur ou tout autre titre similaire, s'il n'est titulaire d'un diplôme inscrit, en fonction du niveau de
-formation auquel il correspond et des professions auxquelles il donne accès, sur une liste d'homologation des diplômes des
-activités physiques et sportives.
+I. - Nul ne peut enseigner, animer, entraîner ou encadrer contre rémunération une activité physique ou sportive, à titre
+d'occupation principale ou secondaire, de façon régulière, saisonnière ou occasionnelle s'il n'est titulaire d'un diplôme
+comportant une qualification définie par l'Etat et attestant de ses compétences en matière de protection des pratiquants et
+des tiers. Lorsqu'elle est incluse dans les formations aux diplômes professionnels, organisées par les établissements visés à
+l'article L. 463-2, la certification de cette qualification est opérée sous l'autorité de leurs ministres de tutelle. Dans
+tous les autres cas, elle est délivrée sous l'autorité du ministre chargé des sports.
 
-L'inscription sur cette liste des diplômes délivrés par l'Etat et des diplômes français ou étrangers admis en équivalence est
-de droit.
+Le diplôme mentionné au premier alinéa est enregistré dans le répertoire national des certifications professionnelles dans
+les conditions prévues par le II de l'article L. 335-6.
 
-Un décret en Conseil d'Etat fixe les conditions d'inscription sur la liste d'homologation des diplômes délivrés, notamment
-par les fédérations sportives, à l'issue de formations reconnues par l'Etat après avis d'une commission comprenant des
-représentants de l'administration, du mouvement sportif et des professions intéressées. Seuls peuvent être homologués les
-diplômes correspondant à une qualification professionnelle qui n'est pas couverte par un diplôme d'Etat.
+Lorsque l'activité s'exerce dans un environnement spécifique impliquant le respect de mesures de sécurité particulières, le
+diplôme visé au premier alinéa est délivré par le ministre chargé des sports dans le cadre d'une formation coordonnée par ses
+services et assurée par ses établissements existant pour l'activité considérée.
 
-Les dispositions qui précèdent ne s'appliquent ni aux agents de l'Etat ni aux agents titulaires des collectivités
-territoriales, pour l'exercice de leurs fonctions.
+Un décret en Conseil d'Etat détermine les conditions d'application du présent I. Il détermine également les conditions et les
+modalités de la validation des expériences acquises dans l'exercice d'une activité rémunérée ou bénévole ayant un rapport
+direct avec l'activité concernée et compte tenu des exigences de sécurité. Il fixe la liste des activités visées à l'alinéa
+précédent et précise pour celles-ci les conditions et modalités particulières de validation des expériences acquises.
 
-Nul ne peut exercer les fonctions mentionnées au présent article s'il a fait l'objet d'une condamnation pour crime ou pour
-attentat aux moeurs ou pour l'une des infractions visées aux articles L. 3421-1, L. 3421-4 et L. 5432-1 du code de la santé
-publique.
+Les dispositions du présent I ne s'appliquent pas :
 
-**Nota:**
+1° Aux militaires et aux fonctionnaires relevant des titres II, III et IV du statut général des fonctionnaires dans
+l'exercice des missions prévues par leur statut particulier ;
 
-NOTA : L'ordonnance du 15 juin 2000 relative à la partie législative du présent code a été publiée le jour même de l'adoption
-définitive de la loi n° 2000-627 du 6 juillet 2000 modifiant la loi du 16 juillet 1984 sur l'organisation et la promotion des
-activités physiques et sportives. De ce fait, le présent article n'intègre pas les modifications que cette loi, et celle n°
-2002-1578 du 30 décembre 2002, entendent apporter au dispositif. La loi de ratification procédera aux modifications rendues
-nécessaires par la situation actuelle.
+2° Aux personnes ayant acquis au 31 décembre 2002, conformément aux dispositions législatives en vigueur avant le 10 juillet
+2000, le droit d'exercer contre rémunération une des fonctions mentionnées au premier alinéa, dans l'exercice de ce droit.
+
+II. - Le diplôme mentionné au I peut être un diplôme étranger admis en équivalence.
 
 **Liens relatifs à cet article**
 
@@ -11238,11 +11192,22 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 **Liens**:
 
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
   - TXT_SOURCE: Décret n°2004-893 du 27 août 2004 - art. 7 (Ab)
   - TXT_SOURCE: Décret n°2004-893 du 27 août 2004 - art. 8 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+
+_Cite_:
+
+  - Code de l'éducation - art. L335-6 (M)
+  - Code de l'éducation - art. L463-2 (M)
 
 _Nouveaux textes_:
 
@@ -11251,24 +11216,45 @@ _Nouveaux textes_:
   - Code du sport. - art. L212-3 (V)
   - Code du sport. - art. L212-4 (V)
 
-_Cite_:
-
-  - Code de la santé publique - art. L3421-1 (M)
-  - Code de la santé publique - art. L3421-4 (M)
-  - Code de la santé publique - art. L5432-1 (M)
-
 
 ###### Article L363-2
 
-Le ministre chargé des sports peut, de façon dérogatoire, délivrer à titre temporaire ou définitif à des personnes de
-nationalité française ou à des ressortissants d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
-l'accord sur l'espace économique européen particulièrement qualifiés et qui ont manifesté leur aptitude aux fonctions
-postulées des autorisations spécifiques d'exercer les professions et de prendre les titres déterminés en application de
-l'article L. 363-1. Cette autorisation est délivrée après avis d'une commission composée pour moitié de représentants de
-l'Etat et pour moitié de représentants des personnels mentionnés à l'article L. 363-1 et de leurs employeurs ainsi que de
-personnes qualifiées.
+Nul ne peut exercer les fonctions mentionnées au I de l'article 363-1, à titre rémunéré ou bénévole, s'il a fait l'objet
+d'une condamnation pour crime ou pour l'un des délits prévus :
+
+1° Au paragraphe 2 de la section 1 du chapitre II du titre II du livre II du code pénal ;
+
+2° Au paragraphe 2 de la section 3 du chapitre II du titre II du livre II du même code ;
+
+3° A la section 4 du chapitre II du titre II du livre II du même code ;
+
+4° A la section 1 du chapitre III du titre II du livre II du même code ;
+
+5° A la section 2 du chapitre V du titre II du livre II du même code ;
+
+6° A la section 5 du chapitre VII du titre II du livre II du même code ;
+
+7° Aux articles L. 3421-1 et L. 3421-4 du code de la santé publique ;
+
+8° Aux articles L. 3633-2 à L. 3633-6 du même code ;
+
+9° A l'article 1750 du code général des impôts.
+
+En outre, nul ne peut enseigner, animer ou encadrer une activité physique ou sportive auprès de mineurs s'il a fait l'objet
+d'une mesure administrative d'interdiction de participer, à quelque titre que ce soit, à la direction et à l'encadrement
+d'institutions et d'organismes régis par les dispositions législatives ou réglementaires relatives à la protection des
+mineurs accueillis en centre de vacances et de loisirs, ainsi que de groupements de jeunesse ou s'il a fait l'objet d'une
+mesure administrative de suspension de ces mêmes fonctions.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 1750
+  - Code de l'éducation 363-1
+  - Code de la santé publique - art. L3421-1 (M)
+  - Code de la santé publique - art. L3421-4 (M)
+  - Code de la santé publique L3421-1, L3421-4, L3633-2 à L3633-6
 
 _Anciens textes_:
 
@@ -11288,32 +11274,40 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Cite_:
+**Liens**:
 
-  - Code de l'éducation - art. L363-1 (M)
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+
+_Abrogé par_:
+
+  - Ordonnance 2006-596 2006-05-23 art. 4 3° JORF 25 mai 2006
 
 _Nouveaux textes_:
 
   - Code du sport. - art. L212-9 (M)
+  - Code du sport. - art. L212-9 (V)
 
 
 ###### Article L363-3
 
-Les ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'espace économique
-européen, qualifiés pour exercer légalement dans un de ces Etats, mais non établis en France, peuvent y exercer à titre
-occasionnel les activités professionnelles visées à l'article L. 363-1, sous réserve d'avoir effectué une déclaration à
-l'autorité administrative préalablement à leur prestation en France.
+Les fonctions mentionnées au premier alinéa du I de l'article L. 363-1 peuvent être exercées sur le territoire national par
+les ressortissants des Etats membres de l'Union européenne ou des Etats parties à l'accord sur l'Espace économique européen
+qui sont qualifiés pour les exercer dans l'un de ces Etats.
 
-L'exercice de cette prestation par un de ces ressortissants, lorsque la qualification dont il se prévaut est d'un niveau
-substantiellement inférieur à celle exigée en France, peut être subordonné à la réussite d'un test technique pour des raisons
-d'intérêt général tenant à la sécurité des personnes.
+Un décret en Conseil d'Etat fixe les conditions auxquelles cet exercice est soumis lorsqu'il existe une différence
+substantielle de niveau entre la qualification dont les intéressés se prévalent et celle requise en application du I de
+l'article L. 363-1.
 
-Sous les mêmes réserves, lorsque les activités concernées ont lieu dans un environnement spécifique, la réussite d'un test de
-connaissance de cet environnement peut être exigée.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article, notamment la liste des activités
-visées au troisième alinéa.
+Ce décret précise notamment la liste des fonctions dont l'exercice, même occasionnel, peut être subordonné, si la sécurité
+des personnes l'exige compte tenu de l'environnement spécifique et des conditions dans lesquelles elles sont exercées, au
+contrôle préalable de l'aptitude technique des demandeurs et de leur connaissance du milieu naturel, des règles de sécurité
+et des dispositifs de secours.
 
 **Liens relatifs à cet article**
 
@@ -11324,6 +11318,19 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+
+_Abrogé par_:
+
+  - Ordonnance 2006-596 2006-05-23 art. 4 3° JORF 25 mai 2006
 
 _Cite_:
 
@@ -12296,8 +12303,8 @@ sont exécutoires quinze jours après ces transmissions.
 
 Pour ces actes, dans le délai prévu à l'alinéa précédent, et sans préjudice des dispositions prévues par le code général des
 collectivités territoriales pour le contrôle de légalité du représentant de l'Etat, la collectivité de rattachement ou
-l'autorité académique peut assortir son recours d'une demande de sursis à l'exécution soumise aux dispositions du troisième
-alinéa de l'article L. 2131-6 du code général des collectivités territoriales.
+l'autorité académique peut assortir son recours d'une demande de suspension soumise aux dispositions du troisième alinéa de
+l'article L. 2131-6 du code général des collectivités territoriales.
 
 Les actes, autres que ceux qui sont mentionnés aux deux alinéas ci-dessus, relatifs au contenu ou à l'organisation de
 l'action éducatrice, sont exécutoires quinze jours après leur transmission à l'autorité académique. Dans ce délai, l'autorité
@@ -12336,6 +12343,12 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2000-597 du 30 juin 2000 - art. 19 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cite_:
 
@@ -12345,10 +12358,9 @@ _Cite_:
 
 ###### Article L421-15
 
-Le comptable de l'établissement est un agent de l'Etat nommé après information préalable de la collectivité de rattachement.
+Le comptable de l'établissement est un agent de l'Etat nommé après information préalable de la collectivité de rattachement. 
 
-Les dispositions de l'article L. 1617-1 du code général des collectivités territoriales et de l'article L. 236-1 du code des
-juridictions financières ne lui sont pas applicables.
+Les dispositions de l'article L. 1617-1 du code général des collectivités territoriales ne lui sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -12359,11 +12371,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cite_:
 
-  - Code des juridictions financières - art. L236-1 (V)
-  - Code général des collectivités territoriales - art. L1617-1 (V)
+  - Code général des collectivités territoriales - art. L1617-1 (VT)
 
 
 ###### Article L421-16
@@ -15557,15 +15573,14 @@ _Cite_:
 
 ###### Article L463-1
 
-Les établissements de formation de l'Etat et les établissements agréés assurent la formation initiale et la formation
-continue des cadres rémunérés des activités physiques et sportives visés à l'article L. 363-1.
+Les fédérations sportives agréées assurent la formation et le perfectionnement de leurs cadres. Elles peuvent bénéficier, à
+cet effet, de l'aide des établissements publics de formation mentionnés à l'article L. 463-2.
 
-Les associations et fédérations sportives, les organisations syndicales représentatives, les collectivités territoriales et,
-le cas échéant, les entreprises participent à la mise en oeuvre de ces formations.
+Lorsqu'ils concernent des fonctions exercées contre rémunération, les diplômes qu'elles délivrent répondent aux conditions
+prévues par les articles L. 363-1 et L. 363-2.
 
-Les fédérations sportives assurent la formation et le perfectionnement des cadres fédéraux. Elles peuvent bénéficier, à cet
-effet, de l'aide des établissements de formation visés au premier alinéa du présent article, des services déconcentrés de
-l'Etat et des collectivités territoriales.
+Les diplômes concernant l'exercice d'une activité à titre bénévole, dans le cadre de structures ne poursuivant pas de buts
+lucratifs, peuvent être obtenus soit à l'issue d'une formation, soit par validation des expériences acquises.
 
 **Liens relatifs à cet article**
 
@@ -15576,10 +15591,21 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 _Cite_:
 
   - Code de l'éducation - art. L363-1 (M)
+  - Code de l'éducation - art. L363-2 (M)
+  - Code de l'éducation - art. L463-2 (M)
 
 _Nouveaux textes_:
 
@@ -15588,27 +15614,43 @@ _Nouveaux textes_:
 
 ###### Article L463-2
 
-Le service public de formation, comprenant notamment l'Institut national du sport et de l'éducation physique, les
-établissements nationaux et régionaux relevant du ministre chargé des sports et les établissements relevant du ministre
-chargé de l'éducation, participe à la mise en oeuvre de la politique nationale de développement des activités physiques et
-sportives en assurant :
+I. - Les établissements publics de formation relevant du ministère chargé des sports, notamment l'Institut national des
+sports et de l'éducation physique, ainsi que les établissements publics de formation relevant des autres ministères
+participent à la mise en oeuvre de la politique nationale de développement des activités physiques et sportives.
 
-1° La formation initiale et continue des professeurs de sport, des cadres de métiers des activités physiques et sportives et
-des dirigeants sportifs ;
+A ce titre, ils assurent la formation initiale des personnes qui gèrent, animent, encadrent et enseignent les activités
+physiques et sportives et ils contribuent à leur formation continue.
 
-2° Les liaisons avec les fédérations sportives, les ligues et les comités départementaux pour le développement d'actions
-communes ;
+Toutefois, s'agissant des collectivités territoriales et de leurs établissements publics, la formation s'effectue
+conformément à la loi n° 84-594 du 12 juillet 1984 relative à la formation des agents de la fonction publique territoriale et
+complétant la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
 
-3° La préparation et la formation des sportifs de haut niveau ;
+II. - L'Institut national des sports et de l'éducation physique a pour mission de participer à la politique nationale de
+développement des activités physiques et sportives, particulièrement dans le domaine du sport de haut niveau. L'institut est
+chargé de la formation et de la préparation des sportifs de haut niveau.
 
-4° La recherche et la diffusion des connaissances dans le domaine des activités physiques et sportives ;
+Il participe à la recherche et à la diffusion des connaissances dans le domaine des activités physiques et sportives.
 
-5° Le suivi médical et paramédical des sportifs et le développement de la médecine du sport.
+Pour la mise en oeuvre de ses missions, l'institut peut passer des conventions avec les établissements français et étrangers
+de formation.
 
-La formation initiale et continue des enseignants en éducation physique et sportive est assurée par les établissements
-d'enseignement supérieur. Les établissements visés au présent article peuvent y concourir.
+En application de l'article L. 717-1, un décret en Conseil d'Etat fixe les conditions d'organisation et de fonctionnement de
+l'institut.
+
+**Nota:**
+
+NOTA : Ordonnance n° 2006-596 du 23 mai 2006 art. 8 : L'article L. 463-2 du code de l'éducation est abrogé à l'exception du
+II de cet l'article qui est abrogé à compter de l'entrée en vigueur de la partie réglementaire du code du sport. La partie
+réglementaire du code du sport a été publiée par le décret n° 2007-1133 du 24 juillet 2007 dans le Journal officiel du 25
+juillet 2007.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-53 1984-01-26
+  - Loi n°84-594 1984-07-12
+  - Code de l'éducation - art. L717-1 (V)
 
 _Anciens textes_:
 
@@ -15617,6 +15659,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+
+_Abrogé par_:
+
+  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006 sous réserve art. 8 III en vigueur le 25 juillet 2007
 
 _Cité par_:
 
@@ -15626,16 +15677,16 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code du sport. - art. L211-1 (V)
+  - Code du sport. - art. D211-1 (V)
 
 
 ###### Article L463-3
 
-Les établissements dans lesquels sont pratiquées des activités physiques et sportives doivent présenter pour chaque type
-d'activités et d'établissements des garanties d'hygiène et de sécurité définies par voie réglementaire.
+Les établissements où sont pratiquées une ou des activités physiques ou sportives doivent présenter pour chaque type
+d'activité et d'établissement des garanties d'hygiène et de sécurité définies par voie réglementaire.
 
-Nul ne peut exploiter contre rémunération soit directement, soit par l'intermédiaire d'une autre personne, un établissement
-dans lequel sont organisées des activités physiques et sportives s'il a fait l'objet d'une condamnation visée à l'article L.
-363-1.
+Nul ne peut exploiter soit directement, soit par l'intermédiaire d'un tiers, un établissement dans lequel sont pratiquées des
+activités physiques ou sportives s'il a fait l'objet d'une condamnation prévue à l'article L. 363-2.
 
 **Liens relatifs à cet article**
 
@@ -15655,10 +15706,23 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+
+_Abrogé par_:
+
+  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006
 
 _Cite_:
 
-  - Code de l'éducation - art. L363-1 (M)
+  - Code de l'éducation - art. L363-2 (M)
 
 _Nouveaux textes_:
 
@@ -15668,11 +15732,9 @@ _Nouveaux textes_:
 
 ###### Article L463-4
 
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles les personnes visées aux articles L. 363-1 et L. 363-2 et les
-responsables des établissements visés à l'article L. 463-3 déclarent leur activité à l'autorité administrative.
-
-Ce décret prévoit également les conditions dans lesquelles peuvent être fixées des normes techniques applicables à
-l'encadrement des activités physiques et sportives.
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles les personnes exerçant contre rémunération les activités
+visées au I de l'article L. 363-1 et les responsables des établissements où sont pratiquées une ou plusieurs de ces activités
+déclarent leur activité à l'autorité administrative.
 
 **Liens relatifs à cet article**
 
@@ -15683,12 +15745,23 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+
+_Abrogé par_:
+
+  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006
 
 _Cite_:
 
   - Code de l'éducation - art. L363-1 (M)
-  - Code de l'éducation - art. L363-2 (M)
-  - Code de l'éducation - art. L463-3 (M)
 
 _Cité par_:
 
@@ -15698,6 +15771,7 @@ _Nouveaux textes_:
 
   - Code du sport. - art. L212-11 (V)
   - Code du sport. - art. L322-3 (Ab)
+  - Code du sport. - art. L322-3 (V)
 
 
 ###### Article L463-5
@@ -15707,16 +15781,26 @@ qui ne présenterait pas les garanties prévues à l'article L. 463-3 du présen
 d'assurance visées à l'article 37 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des
 activités physiques et sportives.
 
+L'autorité administrative peut également prononcer la fermeture temporaire ou définitive d'un établissement employant une
+personne qui enseigne, anime ou encadre une ou plusieurs activités physiques ou sportives mentionnées au I de l'article L.
+363-1 sans posséder les qualifications requises.
+
 L'autorité administrative peut prononcer également la fermeture temporaire ou définitive d'un établissement lorsque son
-maintien en activité présenterait des risques particuliers pour la santé et la sécurité physique ou morale des pratiquants ou
-exposerait ceux-ci à l'utilisation de substances ou de procédés interdits par le chapitre 1er du titre III du livre VI de la
-partie III du code de la santé publique.
+maintien en activité présenterait des risques pour la santé et la sécurité physique ou morale des pratiquants ou exposerait
+ceux-ci à l'utilisation de substances ou de procédés interdits par le chapitre 1er du titre III du livre VI de la partie III
+du code de la santé publique.
+
+En outre, l'autorité administrative peut prononcer le retrait de l'agrément d'une association sportive si elle emploie des
+personnes ne satisfaisant pas aux obligations des articles L. 363-1 et L. 363-2 ou si elle méconnaît les obligations de
+l'article L. 463-3.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°84-610 du 16 juillet 1984 - art. 37 (M)
+  - Code de l'éducation - art. L363-1 (M)
+  - Code de l'éducation - art. L363-2 (M)
   - Code de l'éducation - art. L463-3 (M)
 
 _Anciens textes_:
@@ -15727,6 +15811,19 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+
+_Abrogé par_:
+
+  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006
 
 _Cité par_:
 
@@ -15736,19 +15833,20 @@ _Nouveaux textes_:
 
   - Code du sport. - art. L121-4 (M)
   - Code du sport. - art. L322-5 (V)
+  - Code du sport. - art. L121-4 (V)
 
 
 ###### Article L463-6
 
 Le ministre chargé des sports peut, par arrêté motivé, prononcer à l'encontre de toute personne dont le maintien en activité
 constituerait un danger pour la santé et la sécurité physique ou morale des pratiquants l'interdiction d'exercer, à titre
-temporaire ou définitif, tout ou partie des fonctions mentionnées à l'article L. 363-1 et de prendre les titres
-correspondants. Le ministre chargé des sports peut, dans les mêmes formes, enjoindre à toute personne exerçant en infraction
-aux articles L. 363-1 et L. 363-2 de cesser son activité dans un délai déterminé.
+temporaire ou définitif, tout ou partie des fonctions mentionnées à l'article L. 363-1. Le ministre chargé des sports peut,
+dans les mêmes formes, enjoindre à toute personne exerçant en méconnaissance des dispositions du I de l'article L. 363-1 de
+cesser son activité dans un délai déterminé.
 
 Cet arrêté est pris après avis d'une commission comprenant des représentants de l'Etat, du mouvement sportif et des
 différentes catégories de personnes intéressées. Toutefois, en cas d'urgence, l'autorité administrative peut, sans
-consultation de la commission, prononcer une interdiction temporaire d'exercice limitée à trois mois.
+consultation de la commission, prononcer une interdiction temporaire d'exercice limitée à six mois.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -15768,6 +15866,15 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 _Cite_:
 
@@ -15780,21 +15887,26 @@ _Nouveaux textes_:
 
 ###### Article L463-7
 
-Est puni d'un an d'emprisonnement et de [*taux*] 15000 euros d'amende :
+Est puni d'un an d'emprisonnement et de 15 000 Euros d'amende le fait pour toute personne :
 
-1° Le fait, pour toute personne, d'exercer une activité d'enseignement, d'encadrement ou d'animation d'une activité physique
-et sportive, sans avoir procédé à la déclaration requise en application de l'article L. 463-4 ou en violation d'un arrêté
-pris en application de l'article L. 463-6 ;
+1° D'exercer contre rémunération l'une des fonctions de professeur, moniteur, éducateur, entraîneur ou animateur d'une
+activité physique ou sportive ou de faire usage de ces titres ou de tout autre titre similaire sans posséder la qualification
+requise au I de l'article L. 363-1 ou en méconnaissance de l'article L. 363-2 ou d'exercer son activité en violation de
+l'article L. 363-3 sans avoir satisfait aux tests auxquels l'autorité administrative l'a soumis ;
 
-2° Le fait, pour quiconque, d'exploiter un établissement sans avoir procédé à la déclaration requise en application de
-l'article L. 463-4 ou de maintenir en activité cet établissement en violation de l'article L. 463-5 ;
+2° D'employer une personne qui exerce les fonctions mentionnées au I de l'article L. 363-1 sans posséder la qualification
+requise ou d'employer un ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace
+économique européen qui exerce son activité en violation de l'article L. 363-3 sans avoir satisfait aux tests auxquels
+l'autorité administrative l'a soumis ;
 
-3° Le fait, pour les personnes mentionnées à l'article L. 363-3 ainsi que leurs employeurs, d'exercer leur activité sans
-avoir effectué la déclaration ou sans avoir satisfait aux tests auxquels l'administration les a soumis ;
+3° D'exercer contre rémunération une des fonctions mentionnées au I de l'article L. 363-1 ou d'exploiter un établissement où
+sont pratiquées une ou plusieurs de ces activités sans avoir procédé à la déclaration prévue à l'article L. 463-4 ;
 
-4° Le fait, pour toute personne ne possédant pas la qualification requise ainsi que ses employeurs, d'exercer les fonctions
-mentionnées à l'article L. 363-1 dans les activités physiques et sportives se déroulant dans l'environnement spécifique
-mentionné à l'article L. 363-3.
+4° De maintenir en activité un établissement où sont pratiquées une ou plusieurs activités physiques ou sportives en
+méconnaissance d'une mesure prise en application de l'article L. 463-5 ;
+
+5° D'enseigner, d'animer ou d'encadrer une activité physique ou sportive en méconnaissance d'une mesure prise en application
+de l'article L. 463-6.
 
 **Liens relatifs à cet article**
 
@@ -15806,14 +15918,24 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+
+_Abrogé par_:
+
+  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006
 
 _Cite_:
 
   - Code de l'éducation - art. L363-1 (M)
+  - Code de l'éducation - art. L363-2 (M)
   - Code de l'éducation - art. L363-3 (M)
   - Code de l'éducation - art. L463-4 (M)
   - Code de l'éducation - art. L463-5 (M)
@@ -15826,6 +15948,8 @@ _Nouveaux textes_:
   - Code du sport. - art. L212-14 (V)
   - Code du sport. - art. L212-8 (V)
   - Code du sport. - art. L322-4 (M)
+  - Code du sport. - art. L212-10 (V)
+  - Code du sport. - art. L322-4 (V)
 
 
 #### Titre VII : Dispositions communes<a id=165></a>
@@ -17111,8 +17235,7 @@ _Codifié par_:
 ###### Article L552-3
 
 Les associations visées à l'article L. 552-2 sont affiliées à des fédérations ou à des unions sportives scolaires et
-universitaires. Ces fédérations et unions sont elles-mêmes affiliées à une confédération du sport scolaire et universitaire.
-Les statuts de ces unions et fédérations ainsi que ceux de la confédération sont approuvés par décret en Conseil d'Etat.
+universitaires. Les statuts de ces unions et fédérations sont approuvés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -17123,6 +17246,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 _Cite_:
 
@@ -17135,9 +17267,9 @@ _Cité par_:
 
 ###### Article L552-4
 
-Les associations sportives scolaires, les fédérations sportives scolaires et la confédération du sport scolaire sont régies
-par la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives et,
-en outre, par les dispositions du présent chapitre.
+Les associations sportives scolaires et les fédérations sportives scolaires sont régies par la loi n° 84-610 du 16 juillet
+1984 relative à l'organisation et à la promotion des activités physiques et sportives et, en outre, par les dispositions du
+présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -17148,6 +17280,15 @@ _Cite_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 
 #### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=190></a>
@@ -18624,9 +18765,14 @@ _Cité par_:
 
 ###### Article L624-2
 
-Dans les établissements relevant du ministre chargé de l'enseignement supérieur et dans les établissements spécialisés, les
-étudiants handicapés bénéficient de l'enseignement de l'éducation physique et sportive en fonction de leurs besoins
-particuliers.
+L'organisation et les programmes de l'éducation physique et sportive dans les établissements d'enseignement supérieur
+tiennent compte des spécificités liées aux différentes formes de handicap.
+
+Les éducateurs et les enseignants facilitent par une pédagogie adaptée l'accès des jeunes handicapés à la pratique régulière
+d'activités physiques et sportives.
+
+Une formation spécifique aux différentes formes de handicap est donnée aux enseignants et aux éducateurs sportifs, pendant
+leurs formations initiale et continue.
 
 **Liens relatifs à cet article**
 
@@ -18637,6 +18783,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 _Cité par_:
 
@@ -19487,13 +19642,23 @@ _Cite_:
 ###### Article L641-4
 
 Les certificats et diplômes qui peuvent être délivrés par les écoles publiques d'enseignement technologique supérieur et par
-les écoles supérieures de commerce sont déterminés par décret.
+les écoles supérieures de commerce qui ne relèvent pas des dispositions de l'article L. 753-1 sont déterminés par décret.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1919-07-25 art. 25
+  - Code de l'enseignement technique - art. 169 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cité par_:
 
@@ -19503,10 +19668,9 @@ _Cité par_:
   - Code du travail - art. L6113-3 (V)
   - Code du travail - art. L6113-5 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code de l'enseignement technique - art. 169 (Ab)
-  - Loi n°1919-07-25 art. 25
+  - Code de l'éducation - art. L753-1 (V)
 
 
 ###### Article L641-5
@@ -20058,25 +20222,32 @@ _Cite_:
 
 ###### Article L681-1
 
-Sont applicables dans les îles Wallis et Futuna les articles L. 611-1, L. 611-2, L. 612-1 à L. 612-7, L. 613-1 à L. 613-7, L.
-614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 631-1, L. 632-1 à L. 632-10, L.
-632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+Sont applicables dans les îles Wallis et Futuna les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 612-1 à L. 612-7, L.
+613-1 à L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 631-1, L.
+632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
   - Loi n°1934-07-10 art. 17
+  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 6 () JORF 15 avril 2003
 
 _Cite_:
 
   - Code de l'éducation - art. L611-1 (M)
   - Code de l'éducation - art. L611-2 (V)
+  - Code de l'éducation - art. L611-3 (V)
+  - Code de l'éducation - art. L611-4 (M)
   - Code de l'éducation - art. L614-1 (M)
   - Code de l'éducation - art. L614-3 (V)
   - Code de l'éducation - art. L622-1 (M)
@@ -20085,7 +20256,7 @@ _Cite_:
   - Code de l'éducation - art. L631-1 (M)
   - Code de l'éducation - art. L632-12 (M)
   - Code de l'éducation - art. L671-2 (V)
-  - Code de l'éducation L611-1, L611-2, L612-1 à L612-7, L613-1 à L613-7, L614-1, L614-3, L622-1, L623-1, L624-1, L631-1, L632-1 à L632-10, L632-12, L633-2 à L633-4, L641-1 à L641-5, L642-1 à L642-12, L671-2
+  - Code de l'éducation L611-1, L611-2, L611-3, L611-4, L612-1 à L612-7, L613-1 à L613-7, L614-1, L614-3, L622-1, L623-1, L624-1, L631-1, L632-1 à L632-10, L632-12, L633-2 à L633-4, L641-1 à L641-5, L642-1 à L642-12, L671-2
 
 
 ##### Chapitre II : Dispositions applicables à Mayotte.<a id=228></a>
@@ -20119,9 +20290,9 @@ _Codifié par_:
 
 ###### Article L683-1
 
-Sont applicables en Polynésie française les articles L. 611-1, L. 611-2, L. 612-1 à L. 612-7, L. 613-1 à L. 613-7, L. 614-1,
-le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 631-1, L. 632-1 à L. 632-10, L.
-632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+Sont applicables en Polynésie française les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 612-1 à L. 612-7, L. 613-1 à
+L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 631-1, L. 632-1 à
+L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
@@ -20133,11 +20304,18 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 6 () JORF 15 avril 2003
 
 _Cite_:
 
   - Code de l'éducation - art. L611-1 (M)
   - Code de l'éducation - art. L611-2 (V)
+  - Code de l'éducation - art. L611-3 (V)
+  - Code de l'éducation - art. L611-4 (M)
   - Code de l'éducation - art. L614-1 (M)
   - Code de l'éducation - art. L614-3 (V)
   - Code de l'éducation - art. L622-1 (M)
@@ -20146,7 +20324,7 @@ _Cite_:
   - Code de l'éducation - art. L631-1 (M)
   - Code de l'éducation - art. L632-12 (M)
   - Code de l'éducation - art. L671-2 (V)
-  - Code de l'éducation L611-1, L611-2, L612-1 à L612-7, L613-1 à L613-7, L614-1, L614-3, L622-1, L623-1, L624-1, L631-1, L632-1 à L632-10, L632-12, L633-2 à L633-4, L641-1 à L641-5, L642-1 à L642-12, L671-2
+  - Code de l'éducation L611-1, L611-2, L611-3, L611-4, L612-1 à L612-7, L613-1 à L613-7, L614-1, L614-3, L622-1, L623-1, L624-1, L631-1, L632-1 à L632-10, L632-12, L633-2 à L633-4, L641-1 à L641-5, L642-1 à L642-12, L671-2
 
 
 ###### Article L683-2
@@ -20215,9 +20393,9 @@ _Cité par_:
 
 ###### Article L684-1
 
-Sont applicables en Nouvelle-Calédonie les articles L. 611-1, L. 611-2, L. 612-1 à L. 612-7, L. 613-1 à L. 613-7, L. 614-1,
-le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 631-1, L. 632-1 à L. 632-10, L.
-632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+Sont applicables en Nouvelle-Calédonie les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 612-1 à L. 612-7, L. 613-1 à
+L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 631-1, L. 632-1 à
+L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
@@ -20226,14 +20404,16 @@ _Anciens textes_:
   - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
   - Loi n°1934-07-10 art. 17
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 du 14 avril 2003 - art. 6 () JORF 15 avril 2003
 
 _Cite_:
 
   - Code de l'éducation - art. L611-1 (M)
   - Code de l'éducation - art. L611-2 (V)
+  - Code de l'éducation - art. L611-3 (V)
+  - Code de l'éducation - art. L611-4 (M)
   - Code de l'éducation - art. L614-1 (M)
   - Code de l'éducation - art. L614-3 (V)
   - Code de l'éducation - art. L622-1 (M)
@@ -20242,7 +20422,12 @@ _Cite_:
   - Code de l'éducation - art. L631-1 (M)
   - Code de l'éducation - art. L632-12 (M)
   - Code de l'éducation - art. L671-2 (V)
-  - Code de l'éducation L611-1, L611-2, L612-1 à L612-7, L613-1 à L613-7, L614-1, L614-3, L622-1, L623-1, L624-1, L631-1, L632-1 à L632-10, L632-12, L633-2 à L633-4, L641-1 à L641-5, L642-1 à L642-12, L671-2
+  - Code de l'éducation L611-1, L611-2, L611-3, L611-4, L612-1 à L612-7, L613-1 à L613-7, L614-1, L614-3, L622-1, L623-1, L624-1, L631-1, L632-1 à L632-10, L632-12, L633-2 à L633-4, L641-1 à L641-5, L642-1 à L642-12, L671-2
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
 ###### Article L684-2
@@ -21454,7 +21639,7 @@ enseignants et des chercheurs relevant d'une ou de plusieurs disciplines fondame
 Les unités de formation et de recherche sont administrées par un conseil élu et dirigées par un directeur élu par ce conseil.
 
 Le conseil, dont l'effectif ne peut dépasser quarante membres, comprend des personnalités extérieures dans une proportion de
-20 à 25 %. Dans tous les cas, les personnels enseignants doivent être en nombre au moins égal à celui des autres personnels
+20 à 50 %. Dans tous les cas, les personnels enseignants doivent être en nombre au moins égal à celui des autres personnels
 et des étudiants.
 
 Le directeur est élu pour une durée de cinq ans renouvelable une fois. Il est choisi parmi les enseignants-chercheurs, les
@@ -21470,6 +21655,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cité par_:
 
@@ -21718,50 +21908,19 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-14 (V)
 
 
-###### Article L713-7
-
-Les rapports entre les laboratoires de biologie du centre hospitalier régional et le centre hospitalier et universitaire sont
-fixés par les dispositions de l'article L. 6142-9 du code de la santé publique, ci-après reproduites :
-
-" Art. L. 6142-9. - Des laboratoires de biologie du centre hospitalier régional peuvent, sous certaines conditions, être
-placés totalement ou partiellement en dehors du centre hospitalier et universitaire. Leur liste est fixée, après avis du
-directeur de l'unité de formation et de recherche de sciences pharmaceutiques ou, dans le cas d'unités de formation et de
-recherche mixtes, médicales et pharmaceutiques, soit du directeur, soit, lorsque celui-ci n'est pas pharmacien, de
-l'enseignant responsable de la section de pharmacie.
-
-Cet avis est transmis, en cas de contestation, à la commission mentionnée à l'article L. 6142-11. Cet avis est également
-transmis aux ministres chargés de l'enseignement supérieur et de la santé, soit pour approbation définitive de la convention,
-soit pour décision à défaut d'accord intervenu au sein de la commission. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Abrogé par_:
-
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
-
-_Cite_:
-
-  - Code de l'éducation L6142-11
-  - Code de la santé publique - art. L6142-9 (Ab)
-
-
 ###### Article L713-8
 
-Les modalités de fonctionnement de la commission prévue aux articles L. 6142-9 et L. 6124-11 du code de la santé publique
-sont fixées par les dispositions de l'article L. 6142-12, ci-après reproduites :
+Les modalités de fonctionnement de la commission prévue à l'article L. 6142-11 du code de la santé publique sont fixées par
+les dispositions de l'article L. 6142-12, ci-après reproduites : 
 
-" Art. L. 6142-12. - Lorsque la commission prévue en application de l'article L. 6142-11 se réunit pour régler des
-difficultés nées à l'occasion de la mise en oeuvre des dispositions relatives à l'enseignement de la biologie dispensé aux
-étudiants en pharmacie dans les laboratoires du centre hospitalier régional faisant partie du centre hospitalier et
-universitaire, ou à l'occasion de l'élaboration de la liste des laboratoires de biologie du centre hospitalier régional
-susceptibles d'être placés totalement ou partiellement en dehors du centre hospitalier et universitaire en application de
-l'article L. 6142-9, le directeur de l'unité de formation et de recherche de sciences pharmaceutiques ou, dans le cas
-d'unités de formation et de recherche mixtes, médicales et pharmaceutiques, soit le directeur, soit, lorsque celui-ci n'est
-pas pharmacien, l'enseignant responsable de la section de pharmacie, est entendu par ladite commission.
+" Art.L. 6142-12.-Lorsque la commission prévue en application de l'article L. 6142-11 se réunit pour régler des difficultés
+nées à l'occasion de la mise en oeuvre des dispositions relatives à l'enseignement de la biologie dispensé aux étudiants en
+pharmacie dans les laboratoires du centre hospitalier régional faisant partie du centre hospitalier et universitaire, ou à
+l'occasion de l'élaboration de la liste des laboratoires de biologie du centre hospitalier régional susceptibles d'être
+placés totalement ou partiellement en dehors du centre hospitalier et universitaire en application de l'article L. 6142-9, le
+directeur de l'unité de formation et de recherche de sciences pharmaceutiques ou, dans le cas d'unités de formation et de
+recherche mixtes, médicales et pharmaceutiques, soit le directeur, soit, lorsque celui-ci n'est pas pharmacien, l'enseignant
+responsable de la section de pharmacie, est entendu par ladite commission.
 
 A défaut d'accord intervenu entre la commission et le directeur de l'unité de formation et de recherche de sciences
 pharmaceutiques ou l'enseignant responsable de la section de pharmacie dans les deux mois qui suivent la réunion de la
@@ -21773,12 +21932,15 @@ nationale élue dont la composition est fixée par voie réglementaire. "
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'éducation L6142-12, L6142-11, L6142-9
-  - Code de la santé publique - art. L6142-9 (Ab)
-  - Code de la santé publique L6142-9, L6124-11
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-12 (V)
 
 
 ##### Section 3 : Les instituts et les écoles.<a id=238></a>
@@ -24780,11 +24942,22 @@ financière.
 Les règles d'administration de ces établissements sont fixées par décret pris sur le rapport du ministre chargé de l'économie
 et des finances, du ministre chargé de la mer et du ministre chargé du budget.
 
+Les dispositions de l'article L. 421-21 sont applicables aux élèves des écoles nationales de la marine marchande.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+
+_Cite_:
+
+  - Code de l'éducation - art. L421-21 (M)
 
 
 ##### Chapitre VIII : La Fondation nationale des sciences politiques.<a id=263></a>
@@ -25678,33 +25851,6 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-###### Article L821-5
-
-Les frais de transport individuel des étudiants handicapés vers les établissements universitaires rendus nécessaires du fait
-de leur handicap sont supportés par l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°75-534 du 30 juin 1975 - art. 8 (M)
-  - Loi n°75-534 du 30 juin 1975 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Abrogé par_:
-
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
-
-_Cité par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 41 (V)
-  - Code de l'action sociale et des familles - art. L242-11 (M)
-  - Code de l'action sociale et des familles - art. R146-42 (V)
-
-
 ##### Chapitre II : Les oeuvres universitaires.<a id=277></a>
 
 ###### Article L822-1
@@ -26068,7 +26214,9 @@ _Cite_:
 ###### Article L841-1
 
 Les établissements de l'enseignement supérieur organisent et développent la pratique des activités physiques et sportives des
-étudiants et de leurs personnels.
+étudiants et de leurs personnels. Ils peuvent également, par convention avec les associations sportives universitaires, les
+fédérations sportives ou les collectivités territoriales ou leurs groupements, autoriser l'accès à leurs installations
+sportives.
 
 **Liens relatifs à cet article**
 
@@ -26079,6 +26227,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 _Cité par_:
 
@@ -26394,7 +26551,7 @@ _Cité par_:
 ###### Article L911-5
 
 Sont incapables de diriger un établissement d'enseignement du premier et du second degré ou un établissement d'enseignement
-technique, qu'ils soient publics ou privés, ou d'y être employés, à quel titre que ce soit :
+technique, qu'ils soient publics ou privés, ou d'y être employés, à quelque titre que ce soit :
 
 1° Ceux qui ont subi une condamnation judiciaire pour crime ou délit contraire à la probité et aux moeurs ;
 
@@ -26406,7 +26563,7 @@ technique, qu'ils soient publics ou privés, ou d'y être employés, à quel tit
 En outre, est incapable de diriger un établissement d'enseignement du second degré public ou privé, ou d'y être employée,
 toute personne qui, ayant appartenu à l'enseignement public, a été révoquée.
 
-Les dispositions du présent article ne sont pas applicables aux membres de l'enseignement du second degré public.
+Les dispositions du présent article ne sont pas applicables aux membres de l'enseignement général du second degré public.
 
 **Liens relatifs à cet article**
 
@@ -26435,6 +26592,12 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 2003-04-14 art. 2 XIX, XX JORF 15 avril 2003
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 
 ###### Article L911-6
@@ -27449,44 +27612,9 @@ _Cité par_:
   - Code de l'éducation - art. L974-1 (V)
 
 
-##### Chapitre II : Les personnels de direction.<a id=305></a>
+#### Titre V : Les personnels de l'enseignement supérieur<a id=305></a>
 
-###### Article L942-1
-
-Les fonctionnaires intégrés dans les corps de personnels de direction de première et de deuxième catégorie relevant du
-ministère de l'éducation nationale en application des articles 32 et 33 du décret n° 88-343 du 11 avril 1988 sont dispensés
-de l'obligation de mobilité exigée pour leur inscription au tableau d'avancement.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°88-343 du 11 avril 1988 - art. 32 (Ab)
-  - Décret n°88-343 du 11 avril 1988 - art. 33 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°96-452 du 28 mai 1996 - art. 27 ()
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-
-_Abrogé par_:
-
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
-
-_Cité par_:
-
-  - Code de l'éducation - art. L971-1 (M)
-  - Code de l'éducation - art. L972-1 (M)
-  - Code de l'éducation - art. L973-1 (M)
-  - Code de l'éducation - art. L974-1 (M)
-
-
-#### Titre V : Les personnels de l'enseignement supérieur<a id=306></a>
-
-##### Chapitre Ier : Dispositions communes.<a id=307></a>
+##### Chapitre Ier : Dispositions communes.<a id=306></a>
 
 ###### Article L951-1
 
@@ -27655,9 +27783,9 @@ _Anciens textes_:
   - Loi n°1880-02-27 art. 15
 
 
-##### Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs<a id=308></a>
+##### Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs<a id=307></a>
 
-##### Section 1 : Dispositions générales.<a id=309></a>
+##### Section 1 : Dispositions générales.<a id=308></a>
 
 ###### Article L952-1
 
@@ -27856,10 +27984,9 @@ L'appréciation, concernant le recrutement ou la carrière, portée sur l'activi
 l'ensemble de ses fonctions. Elle est transmise au ministre chargé de l'enseignement supérieur avec l'avis du président ou du
 directeur de l'établissement.
 
-Par dérogation au statut général des fonctionnaires de l'Etat, des personnalités ne possédant pas la qualité de fonctionnaire
-peuvent être recrutées et titularisées à tout niveau de la hiérarchie des corps d'enseignants-chercheurs dans des conditions
-précisées par un décret en Conseil d'Etat qui fixe notamment les conditions dans lesquelles les qualifications des intéressés
-sont appréciées par l'instance nationale.
+Par dérogation au statut général des fonctionnaires de l'Etat, des candidats peuvent être recrutés et titularisés à tout
+niveau de la hiérarchie des corps d'enseignants-chercheurs dans des conditions précisées par un décret en Conseil d'Etat qui
+fixe notamment les conditions dans lesquelles les qualifications des intéressés sont appréciées par l'instance nationale.
 
 De même, des personnalités n'ayant pas la nationalité française peuvent, dans les conditions fixées par un décret en Conseil
 d'Etat, être nommées dans un corps d'enseignants-chercheurs.
@@ -27931,6 +28058,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 
 ###### Article L952-7
@@ -28074,9 +28206,10 @@ l'enseignement supérieur assimilés aux professeurs d'université pour les éle
 l'article L. 952-6 sont, sur leur demande, maintenus en activité, en surnombre, jusqu'au 31 août suivant la date à laquelle
 ils atteignent l'âge de soixante-huit ans.
 
-Les professeurs de l'enseignement supérieur et les autres personnels enseignants qui relèvent du ministre chargé de
-l'enseignement supérieur restent en fonctions jusqu'au 31 août quand ils atteignent la limite d'âge en cours d'année
-universitaire, si les besoins du service d'enseignement le justifient.
+Les professeurs de l'enseignement supérieur, les directeurs de recherche des établissements publics à caractère scientifique
+et technologique et les autres personnels enseignants qui relèvent du ministre chargé de l'enseignement supérieur restent en
+fonctions jusqu'au 31 août quand ils atteignent la limite d'âge en cours d'année universitaire, si les besoins du service
+d'enseignement le justifient.
 
 **Liens relatifs à cet article**
 
@@ -28100,6 +28233,11 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 
 ###### Article L952-11
@@ -28211,7 +28349,7 @@ _Cité par_:
   - Code de l'éducation - art. L974-1 (V)
 
 
-##### Section 2 : Dispositions particulières.<a id=310></a>
+##### Section 2 : Dispositions particulières.<a id=309></a>
 
 ###### Article L952-15
 
@@ -28346,7 +28484,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Section 3 : Dispositions propres aux personnels enseignants et hospitaliers.<a id=311></a>
+##### Section 3 : Dispositions propres aux personnels enseignants et hospitaliers.<a id=310></a>
 
 ###### Article L952-21
 
@@ -28470,7 +28608,7 @@ _Cité par_:
   - Code de l'éducation - art. L952-9 (V)
 
 
-##### Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service.<a id=312></a>
+##### Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service.<a id=311></a>
 
 ###### Article L953-1
 
@@ -28694,9 +28832,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-#### Titre VI : Les personnels des établissements d'enseignement spécialisés<a id=313></a>
+#### Titre VI : Les personnels des établissements d'enseignement spécialisés<a id=312></a>
 
-##### Chapitre Ier : Les personnels de l'enseignement agricole.<a id=314></a>
+##### Chapitre Ier : Les personnels de l'enseignement agricole.<a id=313></a>
 
 ###### Article L961-1
 
@@ -28789,7 +28927,7 @@ _Cite_:
   - Code rural L813-7, L813-8, L813-9
 
 
-##### Chapitre II : Les personnels enseignants de l'architecture.<a id=315></a>
+##### Chapitre II : Les personnels enseignants de l'architecture.<a id=314></a>
 
 ###### Article L962-1
 
@@ -28822,15 +28960,15 @@ _Cité par_:
   - Arrêté du 7 mai 2018 (V)
 
 
-#### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=316></a>
+#### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=315></a>
 
-##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=317></a>
+##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=316></a>
 
 ###### Article L971-1
 
 Sont applicables dans les îles Wallis et Futuna les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-2, L. 913-1, L. 931-1, L.
-932-1, L. 932-3 à L. 932-6, L. 941-1, L. 942-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L. 952-20, L. 953-1 à
-L. 953-4, L. 953-6.
+932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L. 952-20, L. 953-1 à L. 953-4,
+L. 953-6.
 
 **Liens relatifs à cet article**
 
@@ -28843,6 +28981,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cite_:
 
@@ -28852,9 +28995,8 @@ _Cite_:
   - Code de l'éducation - art. L931-1 (V)
   - Code de l'éducation - art. L932-1 (V)
   - Code de l'éducation - art. L941-1 (V)
-  - Code de l'éducation - art. L942-1 (Ab)
   - Code de l'éducation - art. L953-6 (M)
-  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L931-1, L932-1, L932-3 à L932-6, L941-1, L942-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
+  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
 
 
 ###### Article L971-2
@@ -28902,12 +29044,12 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Dispositions applicables à Mayotte.<a id=318></a>
+##### Chapitre II : Dispositions applicables à Mayotte.<a id=317></a>
 
 ###### Article L972-1
 
 Sont applicables à Mayotte les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-2, L. 913-1, L. 931-1, L. 932-1, L. 932-3 à L.
-932-6, L. 941-1, L. 942-1.
+932-6, L. 941-1.
 
 **Liens relatifs à cet article**
 
@@ -28919,6 +29061,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cite_:
 
@@ -28928,8 +29075,7 @@ _Cite_:
   - Code de l'éducation - art. L931-1 (V)
   - Code de l'éducation - art. L932-1 (V)
   - Code de l'éducation - art. L941-1 (V)
-  - Code de l'éducation - art. L942-1 (Ab)
-  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L931-1, L932-1, L932-3 à L932-6, L941-1, L942-1
+  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L931-1, L932-1, L932-3 à L932-6, L941-1
 
 
 ###### Article L972-2
@@ -28999,13 +29145,13 @@ _Abrogé par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 19
 
 
-##### Chapitre III : Dispositions applicables en Polynésie française.<a id=319></a>
+##### Chapitre III : Dispositions applicables en Polynésie française.<a id=318></a>
 
 ###### Article L973-1
 
 Sont applicables en Polynésie française les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-2, L. 913-1, L. 914-1, L. 914-2,
-L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 942-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L.
-952-20, L. 953-1 à L. 953-4, L. 953-6.
+L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L. 952-20, L. 953-1
+à L. 953-4, L. 953-6.
 
 **Liens relatifs à cet article**
 
@@ -29020,6 +29166,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cite_:
 
@@ -29031,9 +29182,8 @@ _Cite_:
   - Code de l'éducation - art. L931-1 (V)
   - Code de l'éducation - art. L932-1 (V)
   - Code de l'éducation - art. L941-1 (V)
-  - Code de l'éducation - art. L942-1 (Ab)
   - Code de l'éducation - art. L953-6 (M)
-  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L942-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
+  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
 
 
 ###### Article L973-2
@@ -29081,13 +29231,13 @@ _Cité par_:
   - Code de l'éducation - art. D263-11 (V)
 
 
-##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=320></a>
+##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=319></a>
 
 ###### Article L974-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-2, L. 913-1, L. 914-1, L. 914-2, L.
-931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 942-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L. 952-20,
-L. 953-1 à L. 953-4, L. 953-6.
+931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L. 952-20, L. 953-1 à
+L. 953-4, L. 953-6.
 
 **Liens relatifs à cet article**
 
@@ -29102,6 +29252,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
 
 _Cite_:
 
@@ -29113,9 +29268,8 @@ _Cite_:
   - Code de l'éducation - art. L931-1 (V)
   - Code de l'éducation - art. L932-1 (V)
   - Code de l'éducation - art. L941-1 (V)
-  - Code de l'éducation - art. L942-1 (Ab)
   - Code de l'éducation - art. L953-6 (M)
-  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L942-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
+  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
 
 
 ###### Article L974-2
