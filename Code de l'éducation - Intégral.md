@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2002-01-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -84,7 +84,7 @@ Version Consolidée au 2002-01-18
             - [Section 1 : L'éducation physique et sportive. (art. L312-1 à L312-4)](#81)
             - [Section 2 : Les enseignements artistiques. (art. L312-5 à L312-8)](#82)
             - [Section 3 : Les enseignements de technologie et d'informatique. (art. L312-9)](#83)
-            - [Section 4 : L'enseignement des langues et cultures régionales. (art. L312-10 à L312-11)](#84)
+            - [Section 4 : L'enseignement des langues et cultures régionales. (art. L312-10 à L312-11-1)](#84)
             - [Section 5 : L'enseignement de la défense. (art. L312-12)](#85)
             - [Section 6 : Les enseignements de la sécurité. (art. L312-13)](#86)
             - [Section 7 : L'enseignement des problèmes démographiques. (art. L312-14)](#87)
@@ -249,9 +249,9 @@ Version Consolidée au 2002-01-18
             - [Section 2 : Régime financier. (art. L719-4 à L719-6)](#246)
             - [Section 3 : Contrôle administratif et financier. (art. L719-7 à L719-9)](#247)
             - [Section 4 : Relations extérieures. (art. L719-10 à L719-11)](#248)
-        - [Titre II : Les instituts universitaires de formation des maîtres (art. L721-1 à L722-16)](#249)
+        - [Titre II : Les instituts universitaires de formation des maîtres (art. L721-1 à L722-17)](#249)
           - [Chapitre Ier : Missions et organisation des instituts universitaires de formation des maîtres. (art. L721-1 à L721-3)](#250)
-          - [Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres. (art. L722-1 à L722-16)](#251)
+          - [Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres. (art. L722-1 à L722-17)](#251)
         - [Titre III : Les établissements d'enseignement supérieur privés (art. L731-1 à L731-17)](#252)
           - [Chapitre unique. (art. L731-1 à L731-17)](#253)
         - [Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur (art. L741-1)](#254)
@@ -6238,57 +6238,101 @@ _Cité par_:
 Les institutions de la formation professionnelle sont organisées conformément aux dispositions des articles L. 910-1 et L.
 910-2 du code du travail, ci-après reproduites :
 
-" Art. L. 910-1. - La formation professionnelle et la promotion sociale font l'objet d'une politique coordonnée et concertée,
-notamment avec les organisations représentatives des employeurs et des travailleurs salariés ainsi que des travailleurs
-indépendants.
+"Art. L. 910-1. - La politique de formation professionnelle et de promotion sociale de l'Etat fait l'objet d'une coordination
+entre les départements ministériels, et d'une concertation avec les organisations représentatives des employeurs et des
+travailleurs salariés ainsi que des travailleurs indépendants, d'une part, et avec les conseils régionaux, d'autre part.
 
-A cet effet, il est créé auprès du Premier ministre un comité interministériel, dont le ministre chargé de l'éducation
-nationale est le vice-président, et un groupe permanent de hauts fonctionnaires, dont le président est désigné par le Premier
-ministre. Ces organismes sont assistés pour l'élaboration et la mise en oeuvre de la politique de formation professionnelle,
-de la promotion sociale et de l'emploi, par un conseil national de la formation professionnelle, de la promotion sociale et
-de l'emploi réunissant notamment des représentants des pouvoirs publics et des organisations professionnelles et syndicats
+A cet effet, il est créé auprès du Premier ministre un comité interministériel, dont le ministre de l'éducation nationale est
+le vice-président, et un groupe permanent de hauts fonctionnaires, dont le président est désigné par le Premier ministre. Ces
+organismes s'appuient, pour l'élaboration et la mise en oeuvre de la politique de formation professionnelle, de la promotion
+sociale et de l'emploi de l'Etat, sur les avis d'un Conseil national de la formation professionnelle, de la promotion sociale
+et de l'emploi réunissant notamment des représentants des pouvoirs publics et des organisations professionnelles et syndicats
 intéressés.
 
-Sont institués, suivant les mêmes principes, des comités régionaux et des comités départementaux de l'emploi.
+Sont institués des comités de coordination régionaux de l'emploi et de la formation professionnelle et des comités
+départementaux de l'emploi.
 
 Dans chacune des régions d'outre-mer, le comité de coordination régional de l'emploi et de la formation professionnelle
-exerce l'ensemble des attributions dévolues au comité de coordination régional de l'emploi et de la formation professionnelle
-et au comité départemental de l'emploi.
+exerce l'ensemble des attributions dévolues au comité régional et au comité de coordination départemental de l'emploi.
+
+Le comité de coordination régional a pour mission de favoriser la concertation entre les divers acteurs afin d'assurer une
+meilleure coordination des politiques de formation professionnelle et d'emploi. Il est notamment chargé des fonctions de
+diagnostic, d'étude, de suivi et d'évaluation de ces politiques.
+
+Il est composé de représentants :
+
+- de l'Etat dans la région ;
+
+- des assemblées régionales ;
+
+- des organisations syndicales de salariés et d'employeurs ainsi que des chambres régionales d'agriculture, de commerce et
+d'industrie et de métiers.
+
+Il se dote des commissions nécessaires à son fonctionnement, notamment en matière d'information, d'orientation, de validation
+des acquis de l'expérience, de formation des demandeurs d'emploi et de formation en alternance, ainsi que d'un secrétariat
+permanent.
+
+Le comité de coordination régional de l'emploi et de la formation professionnelle est présidé conjointement par le préfet de
+région et le président du conseil régional.
+
+Les conditions d'organisation et de fonctionnement du comité sont établies par le préfet de région et le président du conseil
+régional qui fixent conjointement l'ordre du jour de ses réunions.
+
+Le comité de coordination régional est informé chaque année, par les services compétents de l'Etat, du montant des sommes
+collectées au titre de la taxe d'apprentissage et de la contribution au financement des formations professionnelles en
+alternance, auprès des entreprises de la région, ainsi que de leurs affectations. Les organismes habilités à collecter dans
+la région des versements donnant lieu à exonération de la taxe d'apprentissage en application de l'article L. 118-2-4
+présentent chaque année au comité un rapport sur l'affectation des sommes ainsi collectées.
 
 Dans des conditions définies par décret, les comités de coordination régionaux de l'emploi et de la formation professionnelle
 sont consultés sur les programmes et les moyens mis en oeuvre dans chaque région par l'Agence nationale pour l'emploi et par
 l'Association nationale pour la formation professionnelle des adultes.
 
-Chaque comité régional est informé notamment des contrats conclus entre l'Etat et ces deux organismes et est consulté sur les
-projets de conventions tripartites à conclure entre l'Etat, la région et chacun de ces organismes en vue de l'adaptation de
-ces contrats de progrès à la situation particulière de la région. Il est consulté sur les projets d'investissement et les
-moyens d'intervention dont disposeront les services régionaux de ces mêmes organismes.
+Chaque comité régional est informé notamment des contrats de progrès quinquennaux conclus entre l'Etat et ces deux organismes
+et est consulté sur les projets de conventions tripartites à conclure entre l'Etat, la région et chacun de ces organismes en
+vue de l'adaptation de ces contrats de progrès à la situation particulière de la région. Il est consulté sur les projets
+d'investissement et les moyens d'intervention dont disposeront les services régionaux des mêmes organismes. En Corse, la
+collectivité territoriale de Corse est substituée à la région. Le comité de coordination régional de l'emploi et de la
+formation professionnelle est consulté sur les projets d'investissement et les moyens d'intervention dont disposent les
+services régionaux de l'Agence nationale pour l'emploi et de l'Association nationale pour la formation professionnelle des
+adultes, y compris pour cette dernière sur les programmes prévus à l'article L. 4424-34 du code général des collectivités
+territoriales.
 
-Dans les régions d'outre-mer les conventions tripartites mentionnées à l'alinéa précédent précisent les conditions dans
+Dans les régions d'outre-mer, les conventions tripartites mentionnées à l'alinéa précédent précisent les conditions dans
 lesquelles l'Association nationale pour la formation professionnelle des adultes apporte un concours technique aux
 interventions des associations régionales pour la formation professionnelle des adultes.
 
-Les comités départementaux de l'emploi comprennent des représentants élus des collectivités territoriales et les
-parlementaires du département. Ces comités se réunissent au moins une fois par an sous la présidence du préfet du département
-qui, à cette occasion, présente le bilan de la politique de l'emploi et de la formation professionnelle dans le département.
+Les comités de coordination départementaux de l'emploi comprennent des représentants élus des collectivités territoriales et
+les parlementaires du département. Ces comités se réunissent au moins une fois par an sous la présidence du préfet du
+département qui, à cette occasion, présente le bilan de la politique de l'emploi et de la formation professionnelle dans le
+département.
 
-Les membres non fonctionnaires des comités visés à l'alinéa précédent bénéficient pendant les heures qu'ils consacrent à leur
+Les membres non fonctionnaires des comités visés au troisième alinéa bénéficient pendant les heures qu'ils consacrent à leur
 mission d'une rémunération, dans le cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de leurs frais
 de déplacement.
 
 Les modalités d'organisation et de fonctionnement des comités et conseils mentionnés aux alinéas précédents sont déterminées
-par décret. "
+par décret."
 
-" Art. L. 910-2. - Le comité interministériel de la formation professionnelle et de la promotion sociale détermine, en
-fonction des exigences de la promotion sociale et du développement culturel, économique et social les orientations
-prioritaires de la politique des pouvoirs publics, en vue de :
+"Art. L. 910-2. -     Le comité interministériel de la formation professionnelle et de l'emploi détermine, en fonction des
+exigences du développement culturel, économique et social, les orientations prioritaires de la politique de l'Etat, en vue
+de :
 
-Provoquer des actions de formation professionnelle et de promotion sociale ;
+- provoquer des actions de formation professionnelle ;
 
-Soutenir par un concours financier ou technique les diverses initiatives prises en ces matières.
+- soutenir par un concours financier ou technique les diverses initiatives prises en ces matières.
 
-Ces différentes actions et initiatives peuvent aussi bien porter sur la formation des stagiaires que sur celle des
-éducateurs. "
+Ces différentes actions et initiatives peuvent aussi bien porter sur la formation proprement dite, sur l'innovation,
+l'ingénierie pédagogique et les techniques de communication, l'accès à l'information que sur la formation des formateurs
+certification."
+
+**Nota:**
+
+Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : Les dispositions de la loi 2004-391 du 4 mai 2004 (art. 27 II) modifiant
+l'article L. 910-1 et abrogeant l'article L. 910-2 sont applicables à compter de la date de publication du décret
+d'application prévu au quatrième alinéa de l'article L910-1 du code du travail.
+
+Ce décret est le décret n° 2005-180 du 24 février 2005 publié le 26 février 2005.
 
 **Liens relatifs à cet article**
 
@@ -6299,10 +6343,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+  - Loi n°2002-92 du 22 janvier 2002 - art. 22 () JORF 23 janvier 2002
 
 _Cite_:
 
+  - Code général des collectivités territoriales - art. L4424-34 (M)
+  - Code de l'éducation L118-2-4
   - Code du travail - art. L910-1 (M)
   - Code du travail - art. L910-2 (M)
 
@@ -7794,6 +7840,22 @@ _Cité par_:
 
   - Loi n°2000-1207 du 13 décembre 2000 - art. 34 (V)
   - Loi n°2015-1268 du 14 octobre 2015 - art. 71
+
+
+###### Article L312-11-1
+
+La langue corse est une matière enseignée dans le cadre de l'horaire normal des écoles maternelles et élémentaires de Corse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2002-92 du 22 janvier 2002 - art. 7 () JORF 23 janvier 2002
 
 
 ##### Section 5 : L'enseignement de la défense.<a id=85></a>
@@ -23522,6 +23584,37 @@ _Cité par_:
 
   - Code de l'éducation - art. L722-5 (V)
   - Code de l'éducation - art. L772-1 (VT)
+
+
+###### Article L722-17
+
+La collectivité territoriale de Corse prend en charge la gestion des biens meubles et immeubles affectés aux instituts
+universitaires de formation des maîtres. A cet effet, la collectivité territoriale est substituée à l'Etat, pour
+l'application des articles L. 722-2 à L. 722-9, à l'exception de toute disposition relative aux personnels. Dans le cas d'une
+convention entre la collectivité territoriale de Corse et le département, en application de l'article L. 722-2, le
+département continue d'exercer les responsabilités qu'il assumait précédemment à l'égard des personnels affectés à
+l'entretien et à la gestion des biens mentionnés à l'article L. 722-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2002-92 du 22 janvier 2002 - art. 6 () JORF 23 janvier 2002
+
+_Cite_:
+
+  - Code de l'éducation - art. L722-1 (M)
+  - Code de l'éducation L722-2 à L722-9, L722-1
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. L4425-2 (V)
+  - Code général des collectivités territoriales - art. L4425-24 (VD)
 
 
 #### Titre III : Les établissements d'enseignement supérieur privés<a id=252></a>
