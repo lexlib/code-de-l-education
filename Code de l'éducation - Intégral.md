@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2000-12-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -79,7 +79,7 @@ Version Consolidée au 2000-06-22
     - [Deuxième partie : Les enseignements scolaires (art. L311-1 à L564-1)](#76)
       - [Livre III : L'organisation des enseignements scolaires (art. L311-1 à L374-3)](#77)
         - [Titre Ier : L'organisation générale des enseignements (art. L311-1 à L314-2)](#78)
-          - [Chapitre Ier : Dispositions communes. (art. L311-1 à L311-6)](#79)
+          - [Chapitre Ier : Dispositions communes. (art. L311-1 à L311-7)](#79)
           - [Chapitre II : Dispositions propres à certaines matières d'enseignement (art. L312-1 à L312-15)](#80)
             - [Section 1 : L'éducation physique et sportive. (art. L312-1 à L312-4)](#81)
             - [Section 2 : Les enseignements artistiques. (art. L312-5 à L312-8)](#82)
@@ -6898,15 +6898,25 @@ applicables à cette collectivité.
 
 Les articles L. 213-1 à L. 213-9 et L. 214-5 à L. 214-10 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
+Aux articles L. 112-1 et L. 351-2, les mots : "commission départementale d'éducation spéciale" sont remplacés par les mots :
+
+"commission territoriale d'éducation spéciale".
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
 
+_Modifié par_:
+
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 66 () JORF 14 décembre 2000
+
 _Cite_:
 
-  - Code de l'éducation L213-1 à L213-9, L214-5 à L214-10
+  - Code de l'éducation - art. L112-1 (M)
+  - Code de l'éducation - art. L351-2 (M)
+  - Code de l'éducation L213-1 à L213-9, L214-5 à L214-10, L112-1, L351-2
 
 
 #### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=71></a>
@@ -7340,8 +7350,10 @@ _Cité par_:
 
 ###### Article L311-6
 
-Durant la scolarité, l'appréciation des aptitudes et de l'acquisition des connaissances s'exerce par un contrôle continu
-assuré par les enseignants sous la responsabilité du directeur ou du chef d'établissement.
+Le conseil de l'éducation nationale institué dans les départements et les régions de Guadeloupe, de Guyane, de Martinique et
+de la Réunion peut être consulté et émettre des voeux sur le calendrier et les rythmes scolaires, rendre tout avis sur les
+programmes des enseignements dispensés dans les écoles, collèges et lycées implantés dans ces départements et régions et
+émettre toute proposition en vue de l'adaptation de ceux-ci aux spécificités locales.
 
 **Liens relatifs à cet article**
 
@@ -7352,10 +7364,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-1207 du 13 décembre 2000 - art. 35
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 35 () JORF 14 décembre 2000
 
 _Nouveaux textes_:
 
@@ -7365,6 +7378,37 @@ _Cité par_:
 
   - Code de l'éducation - art. L374-1 (V)
   - Code de l'éducation - art. L442-20 (V)
+
+
+###### Article L311-7
+
+Durant la scolarité, l'appréciation des aptitudes et de l'acquisition des connaissances s'exerce par un contrôle continu
+assuré par les enseignants sous la responsabilité du directeur ou du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 35 () JORF 14 décembre 2000
+
+_Cité par_:
+
+  - Décret n°2018-119 du 20 février 2018 (V)
+  - Code de l'éducation - art. D311-13 (V)
+  - Code de l'éducation - art. D331-62 (V)
+  - Code de l'éducation - art. L371-1 (V)
+  - Code de l'éducation - art. L372-1 (V)
+  - Code de l'éducation - art. L442-20 (V)
+  - Code de l'éducation - art. R451-1 (VD)
+
+_Anciens textes_:
+
+  - Code de l'éducation - art. L311-6 (M)
 
 
 ##### Chapitre II : Dispositions propres à certaines matières d'enseignement<a id=80></a>
@@ -22270,7 +22314,8 @@ l'académie pour garantir la responsabilité institutionnelle de ces établissem
 des personnes et la mise en oeuvre des moyens qui leur sont affectés. Il peut être prévu, dans des conditions et des limites
 déterminées par décret en Conseil d'Etat, la création de plusieurs instituts universitaires de formation des maîtres dans
 certaines académies ou le rattachement à des établissements publics à caractère scientifique, culturel et professionnel
-autres que des universités.
+autres que des universités. Lorsqu'un institut universitaire de formation des maîtres est créé dans une académie qui ne
+comprend aucune université, il est rattaché à une ou plusieurs universités d'une autre académie.
 
 Les instituts universitaires de formation des maîtres sont des établissements publics d'enseignement supérieur.
 Etablissements publics à caractère administratif, ils sont placés sous la tutelle du ministre chargé de l'enseignement
@@ -22322,6 +22367,11 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 32
 
 
 ###### Article L721-2
