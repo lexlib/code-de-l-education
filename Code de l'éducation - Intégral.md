@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-03-31
+Version Consolidée au 2005-04-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -1767,6 +1767,44 @@ _Cité par_:
   - Code de l'éducation - art. R451-1 (VD)
   - Code de la route. - art. R211-1 (VT)
   - Code de la santé publique - art. D6124-177-15 (V)
+
+
+###### Article L131-1-1
+
+Le droit de l'enfant à l'instruction a pour objet de lui garantir, d'une part, l'acquisition des instruments fondamentaux du
+savoir, des connaissances de base, des éléments de la culture générale et, selon les choix, de la formation professionnelle
+et technique et, d'autre part, l'éducation lui permettant de développer sa personnalité, d'élever son niveau de formation
+initiale et continue, de s'insérer dans la vie sociale et professionnelle et d'exercer sa citoyenneté.
+
+Cette instruction obligatoire est assurée prioritairement dans les établissements d'enseignement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 7 (V) JORF 23 avril 2005
+
+_Anciens textes_:
+
+  - Code de l'éducation - art. L122-1 (T)
+
+_Cité par_:
+
+  - Code de l'éducation - art. L131-10 (VD)
+  - Code de l'éducation - art. L131-11 (V)
+  - Code de l'éducation - art. L161-1 (V)
+  - Code de l'éducation - art. L162-1 (Ab)
+  - Code de l'éducation - art. L163-1 (V)
+  - Code de l'éducation - art. L164-1 (V)
+  - Code de l'éducation - art. L312-15 (VD)
+  - Code de l'éducation - art. L442-2 (V)
+  - Code de l'éducation - art. L442-3 (V)
+  - Code pénal - art. 227-17-1 (V)
 
 
 ###### Article L131-2
