@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-04-23
+Version Consolidée au 2005-04-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 2005-04-23
           - [Chapitre III : Dispositions particulières aux enfants d'âge préscolaire. (art. L113-1)](#7)
         - [Titre II : Objectifs et missions du service public de l'enseignement (art. L121-1 à L123-9)](#8)
           - [Chapitre Ier : Dispositions générales. (art. L121-1 à L121-7)](#9)
-          - [Chapitre II : Objectifs et missions de l'enseignement scolaire. (art. L122-1 à L122-7)](#10)
+          - [Chapitre II : Objectifs et missions de l'enseignement scolaire. (art. L122-1-1 à L122-7)](#10)
           - [Chapitre III : Objectifs et missions de l'enseignement supérieur. (art. L123-1 à L123-9)](#11)
         - [Titre III : L'obligation et la gratuité scolaires (art. L131-1 à L132-2)](#12)
           - [Chapitre Ier : L'obligation scolaire. (art. L131-1 à L131-12)](#13)
@@ -43,439 +43,443 @@ Version Consolidée au 2005-04-23
           - [Chapitre VI : Les compétences communes aux collectivités territoriales. (art. L216-1 à L216-11)](#40)
         - [Titre II : L'organisation des services de l'administration de l'éducation (art. L222-1 à L222-2)](#41)
           - [Chapitre II : Les services académiques et départementaux. (art. L222-1 à L222-2)](#42)
-        - [Titre III : Les organismes collégiaux nationaux et locaux (art. L231-1 à L239-1)](#43)
-          - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. L231-1 à L231-13)](#44)
-            - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. L231-1 à L231-5)](#45)
-            - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. L231-6 à L231-13)](#46)
-              - [Sous-section 1 : Dispositions générales. (art. L231-6 à L231-9)](#47)
-              - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. L231-10 à L231-13)](#48)
-          - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche (art. L232-1 à L232-7)](#49)
-            - [Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative. (art. L232-1)](#50)
-            - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire (art. L232-2 à L232-7)](#51)
-              - [Sous-section 1 : Dispositions générales. (art. L232-2 à L232-3)](#52)
-              - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. L232-4 à L232-7)](#53)
-          - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel. (art. L233-1)](#54)
-          - [Chapitre IV : Les conseils académiques de l'éducation nationale. (art. L234-1 à L234-8)](#55)
-          - [Chapitre V : Les conseils départementaux de l'éducation nationale. (art. L235-1)](#56)
-          - [Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux. (art. L236-1)](#57)
-          - [Chapitre VII : Les instances consultatives en matière de formation professionnelle (art. L237-1)](#58)
-            - [Section 1 : Les instances consultatives nationales. (art. L237-1)](#59)
-          - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole (art. L238-1 à L238-3)](#60)
-            - [Section 1 : Le Conseil national de l'enseignement agricole. (art. L238-1)](#61)
-            - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire. (art. L238-2)](#62)
-            - [Section 3 : Les comités régionaux de l'enseignement agricole. (art. L238-3)](#63)
-          - [Chapitre IX : Le conseil territorial de l'éducation nationale et les autres instances consultatives (art. L239-1)](#64)
-        - [Titre IV : L'inspection et l'évaluation de l'éducation (art. L241-1 à L242-2)](#65)
-          - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation. (art. L241-1 à L241-11)](#66)
-          - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. L242-1)](#67)
-          - [Chapitre II : Le Comité national d'évaluation des établissements public à caractère scientifique, culturel et professionnel (art. L242-2)](#68)
-        - [Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L251-1)](#69)
-          - [Chapitre unique. (art. L251-1)](#70)
-        - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L261-1 à L264-3)](#71)
-          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L261-1 à L261-2)](#72)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L262-1 à L262-3)](#73)
-          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L263-1 à L263-2)](#74)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L264-1 à L264-3)](#75)
-    - [Deuxième partie : Les enseignements scolaires (art. L311-1 à L564-1)](#76)
-      - [Livre III : L'organisation des enseignements scolaires (art. L311-1 à L374-3)](#77)
-        - [Titre Ier : L'organisation générale des enseignements (art. L311-1 à L314-2)](#78)
-          - [Chapitre Ier : Dispositions communes. (art. L311-1 à L311-7)](#79)
-          - [Chapitre II : Dispositions propres à certaines matières d'enseignement (art. L312-1 à L312-18)](#80)
-            - [Section 1 : L'éducation physique et sportive. (art. L312-1 à L312-4)](#81)
-            - [Section 2 : Les enseignements artistiques. (art. L312-5 à L312-8)](#82)
-            - [Section 3 : Les enseignements de technologie et d'informatique. (art. L312-9)](#83)
-            - [Section 3 bis : L'enseignement de la langue des signes. (art. L312-9-1)](#84)
-            - [Section 4 : L'enseignement des langues et cultures régionales. (art. L312-10 à L312-11-1)](#85)
-            - [Section 5 : L'enseignement de la défense. (art. L312-12)](#86)
-            - [Section 6 : Les enseignements de la sécurité. (art. L312-13 à L312-13-1)](#87)
-            - [Section 7 : L'enseignement des problèmes démographiques. (art. L312-14)](#88)
-            - [Section 8 : L'enseignement d'éducation civique. (art. L312-15)](#89)
-            - [Section 9 : L'éducation à la santé et à la sexualité (art. L312-16 à L312-17)](#90)
-            - [Section 10 : Prévention et information sur les toxicomanies. (art. L312-18)](#91)
-          - [Chapitre III : L'information et l'orientation. (art. L313-1 à L313-6)](#92)
-          - [Chapitre IV : La recherche et la documentation pédagogiques. (art. L314-1 à L314-2)](#93)
-        - [Titre II : L'enseignement du premier degré (art. L321-1 à L321-4)](#94)
-          - [Chapitre unique. (art. L321-1 à L321-4)](#95)
-        - [Titre III : Les enseignements du second degré (art. L331-1 à L337-4)](#96)
-          - [Chapitre Ier : Dispositions communes aux enseignements du second degré (art. L331-1 à L331-8)](#97)
-            - [Section 1 : Les examens et diplômes nationaux. (art. L331-1 à L331-3)](#98)
-            - [Section 2 : La formation en alternance. (art. L331-4 à L331-5)](#99)
-            - [Section 3 : La pratique sportive de haut niveau. (art. L331-6)](#100)
-            - [Section 4 : La procédure d'orientation. (art. L331-7 à L331-8)](#101)
-          - [Chapitre II : Les enseignements dispensés dans les collèges. (art. L332-1 à L332-5)](#102)
-          - [Chapitre III : Dispositions communes aux enseignements dispensés dans les lycées. (art. L333-1 à L333-3)](#103)
-          - [Chapitre IV : Dispositions propres aux enseignements conduisant au baccalauréat général. (art. L334-1)](#104)
-          - [Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles. (art. L335-1 à L335-17)](#105)
-          - [Chapitre VI : Dispositions propres aux formations technologiques. (art. L336-1 à L336-2)](#106)
-          - [Chapitre VII : Dispositions propres aux formations professionnelles. (art. L337-1 à L337-4)](#107)
-        - [Titre IV : L'enseignement agricole et maritime (art. L341-1)](#108)
-          - [Chapitre Ier : L'enseignement agricole. (art. L341-1)](#109)
-        - [Titre V : Les enseignements pour les enfants et adolescents handicapés (art. L351-1 à L352-1)](#110)
-          - [Chapitre Ier : Scolarité. (art. L351-1 à L351-3)](#111)
-          - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés. (art. L352-1)](#112)
-        - [Titre VI : Les enseignements préparant aux professions artistiques et sportives (art. L361-1 à L363-4)](#113)
-          - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique. (art. L361-1 à L361-6)](#114)
-          - [Chapitre II : L'enseignement de la danse. (art. L362-1 à L362-5)](#115)
-          - [Chapitre III : Les formations et les professions des activités physiques et sportives. (art. L363-1 à L363-4)](#116)
-        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L371-1 à L374-3)](#117)
-          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L371-1 à L371-2)](#118)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L372-1 à L372-2)](#119)
-          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L373-1 à L373-3)](#120)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L374-1 à L374-3)](#121)
-      - [Livre IV : Les établissements d'enseignement scolaire (art. L411-1 à L494-1)](#122)
-        - [Titre Ier : Les écoles (art. L411-1 à L412-1)](#123)
-          - [Chapitre Ier : Organisation et fonctionnement des écoles maternelles et élémentaires. (art. L411-1 à L411-3)](#124)
-          - [Chapitre II : Les écoles régionales du premier degré. (art. L412-1)](#125)
-        - [Titre II : Les collèges et les lycées (art. L421-1 à L424-4)](#126)
-          - [Chapitre Ier : Organisation et fonctionnement des établissements publics locaux d'enseignement. (art. L421-1 à L421-24)](#127)
-            - [Section 1 : Organisation administrative. (art. L421-2 à L421-10)](#128)
-            - [Section 2 : Organisation financière. (art. L421-11 à L421-16)](#129)
-            - [Section 3 : Dispositions applicables au patrimoine mobilier des établissements publics locaux d'enseignement. (art. L421-17 à L421-19)](#130)
-            - [Section 4 : Dispositions applicables aux lycées professionnels maritimes. (art. L421-20 à L421-21)](#131)
-            - [Section 5 : Dispositions applicables aux lycées d'enseignement général et technologique agricole et aux lycées professionnels agricoles. (art. L421-22)](#132)
-            - [Section 6 : Dispositions diverses. (art. L421-23 à L421-24)](#133)
-          - [Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement (art. L422-1 à L422-3)](#134)
-            - [Section 1 : Les établissements d'Etat. (art. L422-1)](#135)
-            - [Section 2 : Les établissements municipaux ou départementaux. (art. L422-2 à L422-3)](#136)
-          - [Chapitre III : Les groupements d'établissements scolaires publics. (art. L423-1 à L423-3)](#137)
-          - [Chapitre IV : Les écoles de métiers. (art. L424-1 à L424-4)](#138)
-        - [Titre III : Les centres de formation d'apprentis (art. L431-1)](#139)
-          - [Chapitre unique. (art. L431-1)](#140)
-        - [Titre IV : Les établissements d'enseignement privés (art. L441-1 à L444-11)](#141)
-          - [Chapitre Ier : L'ouverture des établissements d'enseignement privés (art. L441-1 à L441-13)](#142)
-            - [Section 1 : L'ouverture des établissements d'enseignement du premier degré privés. (art. L441-1 à L441-4)](#143)
-            - [Section 2 : L'ouverture des établissements d'enseignement du second degré privés. (art. L441-5 à L441-9)](#144)
-            - [Section 3 : L'ouverture des établissements d'enseignement technique privés. (art. L441-10 à L441-13)](#145)
-          - [Chapitre II : Rapports entre l'Etat et les établissements d'enseignement privés (art. L442-1 à L442-21)](#146)
-            - [Section 1 : Contrôle de l'Etat sur les établissements d'enseignement privés. (art. L442-1 à L442-3)](#147)
-            - [Section 2 : Demande d'intégration d'établissements d'enseignement privés dans l'enseignement public. (art. L442-4)](#148)
-            - [Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat par des établissements d'enseignement privés. (art. L442-5 à L442-11)](#149)
-            - [Section 4 : Contrat simple passé avec l'Etat par des établissements d'enseignement privés. (art. L442-12)](#150)
-            - [Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat. (art. L442-13 à L442-20)](#151)
-            - [Section 6 : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat. (art. L442-21)](#152)
-          - [Chapitre III : Les établissements d'enseignement technique privés (art. L443-1 à L443-5)](#153)
-            - [Section 1 : Les écoles des chambres de commerce et d'industrie. (art. L443-1)](#154)
-            - [Section 2 : Les écoles techniques privées. (art. L443-2 à L443-4)](#155)
-            - [Section 3 : Les centres d'apprentissage privés. (art. L443-5)](#156)
-          - [Chapitre IV : Les établissements privés dispensant un enseignement à distance. (art. L444-1 à L444-11)](#157)
-        - [Titre V : Les établissements français d'enseignement à l'étranger (art. L451-1 à L453-1)](#158)
-          - [Chapitre Ier : Dispositions générales. (art. L451-1)](#159)
-          - [Chapitre II : L'Agence pour l'enseignement français à l'étranger. (art. L452-1 à L452-10)](#160)
-          - [Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne. (art. L453-1)](#161)
-        - [Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives (art. L462-1 à L463-7)](#162)
-          - [Chapitre II : Les établissements d'enseignement de la danse (art. L462-1 à L462-6)](#163)
-            - [Section 1 : Conditions d'exploitation d'une salle de danse à des fins d'enseignement. (art. L462-1 à L462-4)](#164)
-            - [Section 2 : Dispositions pénales. (art. L462-5 à L462-6)](#165)
-          - [Chapitre III : Les établissements de formation aux professions des activités physiques et sportives. (art. L463-1 à L463-7)](#166)
-        - [Titre VII : Dispositions communes (art. L471-1 à L472-1)](#167)
-          - [Chapitre Ier : Publicité et démarchage. (art. L471-1 à L471-5)](#168)
-          - [Chapitre II : Dispositions pénales. (art. L472-1)](#169)
-        - [Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L481-1)](#170)
-          - [Chapitre unique. (art. L481-1)](#171)
-        - [Titre IX : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L491-1 à L494-1)](#172)
-          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L491-1)](#173)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L492-1 à L492-2)](#174)
-          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L493-1)](#175)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L494-1)](#176)
-      - [Livre V : La vie scolaire (art. L511-1 à L564-1)](#177)
-        - [Titre Ier : Les droits et obligations des élèves (art. L511-1 à L511-4)](#178)
-          - [Chapitre unique. (art. L511-1 à L511-4)](#179)
-        - [Titre II : L'organisation du temps et de l'espace scolaires (art. L521-1 à L521-4)](#180)
-          - [Chapitre unique. (art. L521-1 à L521-4)](#181)
-        - [Titre III : Les aides à la scolarité (art. L531-1 à L533-2)](#182)
-          - [Chapitre Ier : L'aide à la scolarité et les bourses nationales. (art. L531-1 à L531-5)](#183)
-          - [Chapitre II : L'allocation de rentrée scolaire. (art. L532-1 à L532-2)](#184)
-          - [Chapitre III : Les aides attribuées par les collectivités territoriales. (art. L533-1 à L533-2)](#185)
-        - [Titre IV : La santé scolaire (art. L541-1 à L542-4)](#186)
-          - [Chapitre Ier : La protection de la santé. (art. L541-1 à L541-6)](#187)
-          - [Chapitre II : La prévention des mauvais traitements. (art. L542-1 à L542-4)](#188)
-        - [Titre V : Les activités périscolaires, sportives et culturelles (art. L551-1 à L552-4)](#189)
-          - [Chapitre Ier : Les activités périscolaires. (art. L551-1)](#190)
-          - [Chapitre II : Les activités physiques et sportives. (art. L552-1 à L552-4)](#191)
-        - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L561-1 à L564-1)](#192)
-          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L561-1)](#193)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L562-1)](#194)
-          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L563-1)](#195)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L564-1)](#196)
-    - [Troisième partie : Les enseignements supérieurs (art. L611-1 à L854-1)](#197)
-      - [Livre VI : L'organisation des enseignements supérieurs (art. L611-1 à L684-3)](#198)
-        - [Titre Ier : L'organisation générale des enseignements (art. L611-1 à L614-3)](#199)
-          - [Chapitre Ier : Dispositions communes. (art. L611-1 à L611-4)](#200)
-          - [Chapitre II : Déroulement des études supérieures. (art. L612-1 à L612-7)](#201)
-            - [Section 1 : Le premier cycle. (art. L612-2 à L612-4)](#202)
-            - [Section 2 : Le deuxième cycle. (art. L612-5 à L612-6)](#203)
-            - [Section 3 : Le troisième cycle. (art. L612-7)](#204)
-          - [Chapitre III : Collation des grades et titres universitaires (art. L613-1 à L613-7)](#205)
-            - [Section 1 : Règles générales de délivrance des diplômes. (art. L613-1 à L613-2)](#206)
-            - [Section 2 : Validation des acquis de l'expérience pour la délivrance des diplômes (art. L613-3 à L613-6)](#207)
-            - [Section 3 : Obtention de diplômes nationaux par les étudiants des établissements d'enseignement supérieur privés. (art. L613-7)](#208)
-          - [Chapitre IV : Programmation et développement des formations supérieures. (art. L614-1 à L614-3)](#209)
-        - [Titre II : Les formations universitaires générales (art. L621-1 à L624-2)](#210)
-          - [Chapitre Ier : Droit, sciences politiques, économie et administration. (art. L621-1 à L621-3)](#211)
-          - [Chapitre II : Sciences et technologie. (art. L622-1)](#212)
-          - [Chapitre III : Lettres, langues, arts et sciences humaines et sociales. (art. L623-1)](#213)
-          - [Chapitre IV : Education physique et sportive. (art. L624-1 à L624-2)](#214)
-        - [Titre III : Les formations de santé (art. L631-1 à L635-1)](#215)
-          - [Chapitre Ier : Dispositions communes. (art. L631-1 à L631-3)](#216)
-          - [Chapitre II : Les études médicales. (art. L632-1 à L632-12)](#217)
-          - [Chapitre III : Les études pharmaceutiques. (art. L633-1 à L633-6)](#218)
-          - [Chapitre IV : Les études odontologiques. (art. L634-1)](#219)
-          - [Chapitre V : Les autres formations de santé. (art. L635-1)](#220)
-        - [Titre IV : Les formations technologiques (art. L641-1 à L642-12)](#221)
-          - [Chapitre Ier : Dispositions communes. (art. L641-1 à L641-5)](#222)
-          - [Chapitre II : Les formations technologiques longues. (art. L642-1 à L642-12)](#223)
-        - [Titre VII : Les formations dans les autres établissements d'enseignement supérieur (art. L671-1 à L676-1)](#224)
-          - [Chapitre Ier : L'enseignement supérieur agricole et vétérinaire public. (art. L671-1 à L671-2)](#225)
-          - [Chapitre V : L'enseignement dans les écoles supérieures militaires. (art. L675-1)](#226)
-          - [Chapitre VI : L'enseignement dans les écoles sanitaires et sociales. (art. L676-1)](#227)
-        - [Titre VIII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L681-1 à L684-3)](#228)
-          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L681-1)](#229)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L682-1)](#230)
-          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L683-1 à L683-3)](#231)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L684-1 à L684-3)](#232)
-      - [Livre VII : Les établissements d'enseignement supérieur (art. L711-1 à L774-4)](#233)
-        - [Titre Ier : Les établissements publics à caractère scientifique, culturel et professionnel (art. L711-1 à L719-11)](#234)
-          - [Chapitre Ier : Principes relatifs à la création et à l'autonomie des établissements publics à caractère scientifique, culturel et professionnel. (art. L711-1 à L711-8)](#235)
-          - [Chapitre II : Les universités. (art. L712-1 à L712-7)](#236)
-          - [Chapitre III : Les composantes des universités. (art. L713-1 à L713-9)](#237)
-            - [Section 1 : Les unités de formation et de recherche. (art. L713-3)](#238)
-            - [Section 2 : Dispositions propres aux unités de formation et de recherche de médecine, pharmacie et odontologie. (art. L713-4 à L713-8)](#239)
-            - [Section 3 : Les instituts et les écoles. (art. L713-9)](#240)
-          - [Chapitre IV : Les services communs. (art. L714-1 à L714-2)](#241)
-          - [Chapitre V : Les instituts et les écoles ne faisant pas partie des universités. (art. L715-1 à L715-3)](#242)
-          - [Chapitre VI : Les écoles normales supérieures. (art. L716-1)](#243)
-          - [Chapitre VII : Les grands établissements. (art. L717-1)](#244)
-          - [Chapitre VIII : Les écoles françaises à l'étranger. (art. L718-1)](#245)
-          - [Chapitre IX : Dispositions communes (art. L719-1 à L719-11)](#246)
-            - [Section 1 : Dispositions relatives à la composition des conseils. (art. L719-1 à L719-3)](#247)
-            - [Section 2 : Régime financier. (art. L719-4 à L719-6)](#248)
-            - [Section 3 : Contrôle administratif et financier. (art. L719-7 à L719-9)](#249)
-            - [Section 4 : Relations extérieures. (art. L719-10 à L719-11)](#250)
-        - [Titre II : Etablissements de formation des maîtres (art. L721-1 à L723-1)](#251)
-          - [Chapitre Ier : Missions et organisation des instituts universitaires de formation des maîtres. (art. L721-1 à L721-3)](#252)
-          - [Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres. (art. L722-1 à L722-17)](#253)
-          - [Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaires (art. L723-1)](#254)
-        - [Titre III : Les établissements d'enseignement supérieur privés (art. L731-1 à L731-17)](#255)
-          - [Chapitre unique. (art. L731-1 à L731-17)](#256)
-        - [Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur (art. L741-1)](#257)
-          - [Chapitre unique. (art. L741-1)](#258)
-        - [Titre V : Les établissements d'enseignement supérieur spécialisés (art. L751-1 à L759-1)](#259)
-          - [Chapitre Ier : Les établissements d'enseignement supérieur agricole et vétérinaire. (art. L751-1 à L751-2)](#260)
-          - [Chapitre II : Les écoles d'architecture. (art. L752-1)](#261)
-          - [Chapitre III : Les écoles de commerce. (art. L753-1)](#262)
-          - [Chapitre V : Les écoles supérieures militaires. (art. L755-1 à L755-3)](#263)
-          - [Chapitre VI : Les écoles sanitaires et sociales. (art. L756-1 à L756-2)](#264)
-          - [Chapitre VII : Les écoles de la marine marchande. (art. L757-1)](#265)
-          - [Chapitre VIII : La Fondation nationale des sciences politiques. (art. L758-1 à L758-2)](#266)
-          - [Chapitre IX : Les établissements d'enseignement supérieur de la musique, de la danse, du théâtre et des arts du cirque (art. L759-1)](#267)
-        - [Titre VI : Dispositions communes (art. L761-1 à L762-2)](#268)
-          - [Chapitre Ier : Dispositions communes aux établissements publics et privés. (art. L761-1)](#269)
-          - [Chapitre II : Dispositions communes aux établissements publics. (art. L762-1 à L762-2)](#270)
-        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L771-1 à L774-4)](#271)
-          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L771-1)](#272)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L772-1)](#273)
-          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L773-1 à L773-4)](#274)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L774-1 à L774-4)](#275)
-      - [Livre VIII : La vie universitaire (art. L811-1 à L854-1)](#276)
-        - [Titre Ier : Les droits et obligations des usagers du service public de l'enseignement supérieur (art. L811-1 à L811-6)](#277)
-          - [Chapitre unique. (art. L811-1 à L811-6)](#278)
-        - [Titre II : Les aides aux étudiants et les oeuvres universitaires (art. L821-1 à L822-5)](#279)
-          - [Chapitre Ier : Les aides aux étudiants. (art. L821-1 à L821-4)](#280)
-          - [Chapitre II : Les oeuvres universitaires. (art. L822-1 à L822-5)](#281)
-        - [Titre III : La santé et la protection sociale des étudiants (art. L831-1 à L832-2)](#282)
-          - [Chapitre Ier : La santé universitaire. (art. L831-1 à L831-3)](#283)
-          - [Chapitre II : La protection sociale des étudiants. (art. L832-1 à L832-2)](#284)
-        - [Titre IV : Les activités périuniversitaires, sportives et culturelles (art. L841-1 à L841-4)](#285)
-          - [Chapitre unique. (art. L841-1 à L841-4)](#286)
-        - [Titre V : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L851-1 à L854-1)](#287)
-          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L851-1)](#288)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L852-1)](#289)
-          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L853-1)](#290)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L854-1)](#291)
-    - [Quatrième partie : Les personnels (art. L911-1 à L974-3)](#292)
-      - [Livre IX : Les personnels de l'éducation (art. L911-1 à L974-3)](#293)
-        - [Titre Ier : Dispositions générales (art. L911-1 à L916-2)](#294)
-          - [Chapitre Ier : Dispositions communes. (art. L911-1 à L911-8)](#295)
-          - [Chapitre II : Dispositions propres aux personnels enseignants. (art. L912-1 à L912-4)](#296)
-          - [Chapitre III : Dispositions propres aux personnels administratifs, techniques, ouvriers, sociaux, de santé et de service. (art. L913-1)](#297)
-          - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. L914-1 à L914-6)](#298)
-          - [Chapitre VI : Dispositions relatives aux assistants d'éducation. (art. L916-1 à L916-2)](#299)
-        - [Titre II : Les personnels du premier degré (art. L921-1 à L921-4)](#300)
-          - [Chapitre unique. (art. L921-1 à L921-4)](#301)
-        - [Titre III : Les personnels du second degré (art. L931-1 à L936-1)](#302)
-          - [Chapitre Ier : Dispositions communes. (art. L931-1)](#303)
-          - [Chapitre II : Les personnels enseignants des lycées et collèges. (art. L932-1 à L932-6)](#304)
-          - [Chapitre IV : Les personnels d'orientation. (art. L934-1)](#305)
-          - [Chapitre V : Les personnels de surveillance. (art. L935-1 à L935-2)](#306)
-          - [Chapitre VI : Les personnels des centres de formation d'apprentis. (art. L936-1)](#307)
-        - [Titre IV : Les personnels d'inspection et de direction (art. L941-1)](#308)
-          - [Chapitre Ier : Les personnels d'inspection. (art. L941-1)](#309)
-        - [Titre V : Les personnels de l'enseignement supérieur (art. L951-1 à L953-6)](#310)
-          - [Chapitre Ier : Dispositions communes. (art. L951-1 à L951-4)](#311)
-          - [Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs (art. L952-1 à L952-23)](#312)
-            - [Section 1 : Dispositions générales. (art. L952-1 à L952-14)](#313)
-            - [Section 2 : Dispositions particulières. (art. L952-15 à L952-20)](#314)
-            - [Section 3 : Dispositions propres aux personnels enseignants et hospitaliers. (art. L952-21 à L952-23)](#315)
-          - [Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service. (art. L953-1 à L953-6)](#316)
-        - [Titre VI : Les personnels des établissements d'enseignement spécialisés (art. L961-1 à L962-1)](#317)
-          - [Chapitre Ier : Les personnels de l'enseignement agricole. (art. L961-1 à L961-2)](#318)
-          - [Chapitre II : Les personnels enseignants de l'architecture. (art. L962-1)](#319)
-        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L971-1 à L974-3)](#320)
-          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L971-1 à L971-3)](#321)
-          - [Chapitre II : Dispositions applicables à Mayotte. (art. L972-1 à L972-3)](#322)
-          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L973-1 à L973-3)](#323)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L974-1 à L974-3)](#324)
-  - [Partie réglementaire (art. D113-1 à R264-19)](#325)
-    - [Livre Ier : Principes généraux de l'éducation. (art. D113-1 à D164-1)](#326)
-      - [Titre Ier : Le droit à l'éducation. (art. D113-1)](#327)
-        - [Chapitre III : Dispositions particulières aux enfants d'âge préscolaire. (art. D113-1)](#328)
-      - [Titre II : Objectifs et missions du service public de l'enseignement. (art. D122-1 à D123-22)](#329)
-        - [Chapitre II : Objectifs et missions de l'enseignement scolaire (art. D122-1 à D122-7)](#330)
-          - [Section 2 : Mission de formation continue des adultes. (art. D122-1 à D122-6)](#331)
-          - [Section 3 : Mission d'éducation culturelle. (art. D122-7)](#332)
-        - [Chapitre III : Objectifs et missions de l'enseignement supérieur (art. D123-1 à D123-22)](#333)
-          - [Section 1 : Mission de formation continue des adultes. (art. D123-1)](#334)
-          - [Section 2 : Missions de valorisation des résultats de la recherche scientifique et technique ainsi que de la culture et de l'information scientifique et technique (art. D123-2 à D123-11)](#335)
-            - [Sous-section 1 : Prestations de services. (art. D123-2 à D123-7)](#336)
-            - [Sous-section 2 : Recrutement d'agents non titulaires. (art. R123-8)](#337)
-            - [Sous-section 3 : Transactions et conventions d'arbitrage. (art. D123-9 à D123-11)](#338)
-          - [Section 3 : Construction de l'Espace européen de l'enseignement supérieur. (art. D123-12 à D123-14)](#339)
-          - [Section 4 : Mission de coopération internationale (art. D123-15 à D123-22)](#340)
-            - [Sous-section 1 : Coopération internationale des établissements. (art. D123-15 à D123-21)](#341)
-            - [Sous-section 2 : Accueil des étudiants étrangers. (art. D123-22)](#342)
-      - [Titre III : L'obligation et la gratuité scolaires. (art. R131-1 à R131-19)](#343)
-        - [Chapitre Ier : L'obligation scolaire (art. R131-1 à R131-19)](#344)
-          - [Section 1 : Contrôle de l'obligation scolaire (art. R131-1 à D131-16)](#345)
-            - [Sous-section 1 : Contrôle de l'inscription. (art. R131-1 à R131-4)](#346)
-            - [Sous-section 2 : Contrôle de l'assiduité. (art. R131-5 à R131-10)](#347)
-            - [Sous-section 3 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat. (art. D131-11 à D131-16)](#348)
-          - [Section 2 : Sanctions aux manquements relatifs à l'obligation scolaire (art. R131-17 à R131-19)](#349)
-            - [Sous-section 1 : Sanctions disciplinaires. (art. R131-17)](#350)
-            - [Sous-section 2 : Sanctions pénales. (art. R131-18 à R131-19)](#351)
-      - [Titre IV : La laïcité de l'enseignement public. (art. R*141-1 à R*141-8)](#352)
-        - [Chapitre unique. (art. R*141-1 à R*141-8)](#353)
-      - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D161-1 à D164-1)](#354)
-        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D161-1)](#355)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D163-1)](#356)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D164-1)](#357)
-    - [Livre II : L'administration de l'éducation. (art. R211-1 à R264-19)](#358)
-      - [Titre Ier : La répartition des compétences entre l'État et les collectivités territoriales. (art. R211-1 à D216-2)](#359)
-        - [Chapitre Ier : Les compétences de l'Etat (art. R211-1 à D211-16)](#360)
-          - [Section 1 : Création d'établissements d'enseignement public du premier et du second degré. (art. R211-1 à R211-8)](#361)
-          - [Section 2 : Carte scolaire (art. D211-9 à D211-11)](#362)
-            - [Sous-section 1 : Carte scolaire du premier degré. (art. D211-9)](#363)
-            - [Sous-section 2 : Secteurs et districts du second degré. (art. D211-10 à D211-11)](#364)
-          - [Section 3 : Liste des établissements dont la responsabilité et la charge incombent entièrement à l'Etat. (art. D211-12 à D211-13)](#365)
-          - [Section 4 : Liste des dépenses pédagogiques à la charge de l'Etat. (art. D211-14 à D211-16)](#366)
-        - [Chapitre II : Les compétences des communes (art. D212-1 à D212-34)](#367)
-          - [Section 1 : Ecoles et classes élémentaires et maternelles (art. D212-1 à R212-23)](#368)
-            - [Sous-section 1 : Logement des instituteurs. (art. D212-1 à R212-19)](#369)
-            - [Sous-section 2 : Logement des instituteurs de la ville de Paris. (art. R212-20)](#370)
-            - [Sous-section 3 : Participation financière des communes. (art. R212-21 à R212-23)](#371)
-          - [Section 2 : Caisse des écoles. (art. R212-24 à R212-33)](#372)
-          - [Section 3 : Collèges. (art. D212-34)](#373)
-        - [Chapitre III : Les compétences des départements (art. R213-1 à D213-30)](#374)
-          - [Section 1 : Collèges. (art. R213-1 à R213-2)](#375)
-          - [Section 2 : Transports scolaires (art. R213-3 à D213-30)](#376)
-            - [Sous-section 1 : Dispositions générales (art. R213-3 à R213-19)](#377)
-              - [Paragraphe 1 : L'organisation des transports scolaires. (art. R213-3 à R213-12)](#378)
-              - [Paragraphe 2 : Le financement des frais de déplacement des élèves et étudiants handicapés. (art. R213-13 à R213-16)](#379)
-              - [Paragraphe 3 : Les transports organisés sur l'initiative des établissements d'enseignement. (art. R213-17)](#380)
-              - [Paragraphe 4 : Compensation financière et statistiques. (art. R213-18 à R213-19)](#381)
-            - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France (art. R213-20 à D213-28)](#382)
-              - [Paragraphe 1 : L'organisation des transports scolaires en région d'Ile-de-France. (art. R213-20)](#383)
-              - [Paragraphe 2 : Financement des transports scolaires en région d'Ile-de-France. (art. R213-21)](#384)
-              - [Paragraphe 3 : Financement des frais de déplacement des élèves et étudiants handicapés dans la région d'Ile-de-France. (art. D213-22 à D213-28)](#385)
-            - [Sous-section 3 : Procédure de consultation (art. D213-29 à D213-30)](#386)
-        - [Chapitre IV : Les compétences des régions (art. R214-1 à R214-17)](#387)
-          - [Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole. (art. R214-1)](#388)
-          - [Section 3 : Formation professionnelle et apprentissage (art. R214-2 à R214-17)](#389)
-            - [Sous-section 1 : Le fonds régional de l'apprentissage et de la formation professionnelle continue. (art. R214-2 à R214-4)](#390)
-            - [Sous-section 2 : Contrats pluriannuels d'objectifs de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance. (art. D214-5 à D214-8)](#391)
-            - [Sous-section 3 : Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue. (art. R214-9 à R214-17)](#392)
-        - [Chapitre V : Les compétences de la collectivité territoriale de Corse. (art. R215-1)](#393)
-        - [Chapitre VI : Les compétences communes aux collectivités territoriales. (art. D216-1 à D216-2)](#394)
-      - [Titre II : L'organisation des services de l'administration de l'éducation. (art. R221-1 à D222-42)](#395)
-        - [Chapitre Ier : Les services de l'administration centrale. (art. R221-1)](#396)
-        - [Chapitre II : Les services académiques et départementaux (art. R*222-1 à D222-42)](#397)
-          - [Section 1 : Circonscriptions académiques (art. R*222-1 à R222-12)](#398)
-            - [Sous-section 1 : Les circonscriptions académiques métropolitaines. (art. R*222-1)](#399)
-            - [Sous-section 2 : Dispositions propres aux académies de Paris, de Créteil et de Versailles. (art. D222-4 à R*222-3)](#400)
-            - [Sous-section 3 : Dispositions propres aux académies d'outre-mer. (art. R222-8 à R222-10)](#401)
-            - [Sous-section 4 : Dispositions communes. (art. D222-11 à R222-12)](#402)
-          - [Section 2 : Autorités administratives déconcentrées (art. D222-15 à R222-24)](#403)
-            - [Sous-section 1 : Le recteur. (art. D222-15 à R222-19)](#404)
-            - [Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. (art. R222-24)](#405)
-          - [Section 3 : Compétences (art. D222-27 à R222-36)](#406)
-            - [Sous-section 1 : Dispositions générales. (art. D222-27 à R222-34)](#407)
-            - [Sous-section 2 : Contentieux. (art. D222-35 à R222-36)](#408)
-          - [Section 4 : Médiateurs. (art. D222-37 à D222-42)](#409)
-      - [Titre III : Les organismes collégiaux nationaux et locaux. (art. R231-1 à D239-27)](#410)
-        - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. R231-1 à R231-33)](#411)
-          - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. R231-1 à R231-16)](#412)
-          - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. R231-17 à R231-33)](#413)
-            - [Sous-section 1 : Dispositions générales. (art. R231-17 à R231-26)](#414)
-            - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. R231-27 à R231-33)](#415)
-        - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche (art. D232-1 à R232-48)](#416)
-          - [Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative. (art. D232-1 à D232-22)](#417)
-            - [Sous-section 1 : Composition. (art. D232-2 à D232-13)](#418)
-            - [Sous-section 2 : Fonctionnement. (art. D232-14 à D232-22)](#419)
-          - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire (art. R232-23 à R232-48)](#420)
-            - [Sous-section 1 : Dispositions générales (art. R232-23 à R232-43)](#421)
-              - [Paragraphe 1 : Composition de la formation disciplinaire. (art. R232-23 à R232-30)](#422)
-              - [Paragraphe 2 : Procédure disciplinaire. (art. R232-31 à R232-43)](#423)
-            - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. R232-44 à R232-48)](#424)
-        - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel (art. D233-1 à D233-12)](#425)
-          - [Section 1 : La Conférence des présidents d'université. (art. D233-1 à D233-6)](#426)
-          - [Section 2 : La Conférence des directeurs d'écoles et de formations d'ingénieurs. (art. D233-7 à D233-12)](#427)
-        - [Chapitre IV : Les conseils académiques de l'éducation nationale (art. R234-1 à R234-43)](#428)
-          - [Section 1 : Dispositions générales. (art. R234-1 à R234-15)](#429)
-          - [Section 2 : Dispositions particulières (art. R234-16 à R234-33)](#430)
-            - [Sous-section 1 : Conseil interacadémique d'Ile-de-France. (art. R234-16 à R234-21)](#431)
-            - [Sous-section 2 : Conseil de l'éducation nationale de l'académie de Corse. (art. R234-22 à R234-24)](#432)
-            - [Sous-section 3 : Conseils de l'éducation nationale dans les académies d'outre-mer. (art. R234-25 à R234-33)](#433)
-          - [Section 3 : Dispositions contentieuses et disciplinaires (art. R234-34 à R234-43)](#434)
-            - [Sous-section 1 : Dispositions générales. (art. R234-34 à R234-38)](#435)
-            - [Sous-section 2 : Dispositions particulières au conseil interacadémique d'Ile-de-France. (art. R234-39 à R234-43)](#436)
-        - [Chapitre V : Les conseils départementaux de l'éducation nationale (art. R235-1 à R235-17)](#437)
-          - [Section 1 : Dispositions générales. (art. R235-1 à R235-11)](#438)
-          - [Section 2 : Dispositions particulières au département de Paris. (art. R235-12 à R235-16)](#439)
-          - [Section 3 : Dispositions particulières à la collectivité territoriale de Corse. (art. R235-17)](#440)
-        - [Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle (art. D237-1 à R237-27)](#441)
-          - [Section 1 : Les instances nationales (art. D237-1 à R237-9)](#442)
-            - [Sous-section 1 : Le Haut Comité éducation-économie-emploi. (art. D237-1 à D237-8)](#443)
-            - [Sous-section 2 : Le comité interministériel de la formation professionnelle et de l'emploi et le Conseil national de la formation professionnelle, de la promotion sociale et de l'emploi. (art. R237-9)](#444)
-          - [Section 2 : Les instances régionales et départementales. (art. D237-11 à R237-10)](#445)
-          - [Section 3 : La Commission spéciale de la taxe d'apprentissage. (art. R237-15 à R237-27)](#446)
-        - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole (art. R238-1 à R238-5)](#447)
-          - [Section 1 : Le Conseil national de l'enseignement agricole. (art. R238-1)](#448)
-          - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire. (art. R238-2)](#449)
-          - [Section 3 : Les comités régionaux de l'enseignement agricole. (art. R238-3)](#450)
-          - [Section 4 : Les conseils de l'enseignement vétérinaire. (art. R238-4)](#451)
-          - [Section 5 : Le comité de coordination. (art. R238-5)](#452)
-        - [Chapitre IX : Les autres instances consultatives (art. D239-1 à D239-27)](#453)
-          - [Section 1 : La Commission nationale pour l'éducation, la science et la culture. (art. D239-1 à D239-10)](#454)
-          - [Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur. (art. D239-11 à D239-19)](#455)
-          - [Section 3 : Le Conseil supérieur des bibliothèques. (art. D239-20 à D239-27)](#456)
-      - [Titre IV : L'inspection et l'évaluation de l'éducation. (art. D241-1 à D243-9)](#457)
-        - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation (art. D241-1 à D241-35)](#458)
-          - [Section 1 : Missions des inspections générales (art. D241-1 à R241-16)](#459)
-            - [Sous-section 1 : Dispositions communes. (art. D241-1 à D241-2)](#460)
-            - [Sous-section 2 : L'inspection générale de l'éducation nationale. (art. R*241-3 à R*241-5)](#461)
-            - [Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche. (art. R*241-6 à R241-16)](#462)
-          - [Section 2 : L'inspection générale des bibliothèques. (art. R241-17)](#463)
-          - [Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale. (art. R241-18 à R241-21)](#464)
-          - [Section 4 : Le service académique de l'inspection de l'apprentissage. (art. R241-22 à R241-23)](#465)
-          - [Section 5 : Les délégués départementaux de l'éducation nationale. (art. D241-24 à D241-35)](#466)
-        - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. D*242-1 à D*242-14)](#467)
-        - [Chapitre III : Le Haut Conseil de l'évaluation de l'école. (art. D243-1 à D243-9)](#468)
-      - [Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. D251-1 à D251-8)](#469)
-        - [Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation. (art. D251-1 à D251-8)](#470)
-      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D*261-6 à R264-19)](#471)
-        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D*261-6 à R261-5)](#472)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. D262-3 à R262-4)](#473)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D*263-8 à R263-6)](#474)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D*264-8 à R264-19)](#475)
+        - [Titre III : Les organismes collégiaux nationaux et locaux (art. L230-1 à L239-1)](#43)
+          - [Chapitre préliminaire : Le Haut Conseil de l'éducation (art. L230-1 à L230-3)](#44)
+          - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. L231-1 à L231-13)](#45)
+            - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. L231-1 à L231-5)](#46)
+            - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. L231-6 à L231-13)](#47)
+              - [Sous-section 1 : Dispositions générales. (art. L231-6 à L231-9)](#48)
+              - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. L231-10 à L231-13)](#49)
+          - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche (art. L232-1 à L232-7)](#50)
+            - [Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative. (art. L232-1)](#51)
+            - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire (art. L232-2 à L232-7)](#52)
+              - [Sous-section 1 : Dispositions générales. (art. L232-2 à L232-3)](#53)
+              - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. L232-4 à L232-7)](#54)
+          - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel. (art. L233-1)](#55)
+          - [Chapitre IV : Les conseils académiques de l'éducation nationale. (art. L234-1 à L234-8)](#56)
+          - [Chapitre V : Les conseils départementaux de l'éducation nationale. (art. L235-1)](#57)
+          - [Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux. (art. L236-1)](#58)
+          - [Chapitre VII : Les instances consultatives en matière de formation professionnelle (art. L237-1)](#59)
+            - [Section 1 : Les instances consultatives nationales. (art. L237-1)](#60)
+          - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole (art. L238-1 à L238-3)](#61)
+            - [Section 1 : Le Conseil national de l'enseignement agricole. (art. L238-1)](#62)
+            - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire. (art. L238-2)](#63)
+            - [Section 3 : Les comités régionaux de l'enseignement agricole. (art. L238-3)](#64)
+          - [Chapitre IX : Le conseil territorial de l'éducation nationale et les autres instances consultatives (art. L239-1)](#65)
+        - [Titre IV : L'inspection et l'évaluation de l'éducation (art. L241-1 à L242-2)](#66)
+          - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation. (art. L241-1 à L241-11)](#67)
+          - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. L242-1)](#68)
+          - [Chapitre II : Le Comité national d'évaluation des établissements public à caractère scientifique, culturel et professionnel (art. L242-2)](#69)
+        - [Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L251-1)](#70)
+          - [Chapitre unique. (art. L251-1)](#71)
+        - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L261-1 à L264-3)](#72)
+          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L261-1 à L261-2)](#73)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L262-1 à L262-3)](#74)
+          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L263-1 à L263-2)](#75)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L264-1 à L264-3)](#76)
+    - [Deuxième partie : Les enseignements scolaires (art. L311-1 à L564-1)](#77)
+      - [Livre III : L'organisation des enseignements scolaires (art. L311-1 à L374-3)](#78)
+        - [Titre Ier : L'organisation générale des enseignements (art. L311-1 à L314-2)](#79)
+          - [Chapitre Ier : Dispositions communes. (art. L311-1 à L311-7)](#80)
+          - [Chapitre II : Dispositions propres à certaines matières d'enseignement (art. L312-1 à L312-18)](#81)
+            - [Section 1 : L'éducation physique et sportive. (art. L312-1 à L312-4)](#82)
+            - [Section 2 : Les enseignements artistiques. (art. L312-5 à L312-8)](#83)
+            - [Section 3 : Les enseignements de technologie et d'informatique. (art. L312-9)](#84)
+            - [Section 3 bis : L'enseignement de la langue des signes. (art. L312-9-1)](#85)
+            - [Section 3 ter : L'enseignement des langues vivantes étrangères. (art. L312-9-2)](#86)
+            - [Section 4 : L'enseignement des langues et cultures régionales. (art. L312-10 à L312-11-1)](#87)
+            - [Section 5 : L'enseignement de la défense. (art. L312-12)](#88)
+            - [Section 6 : Les enseignements de la sécurité. (art. L312-13 à L312-13-1)](#89)
+            - [Section 7 : L'enseignement des problèmes démographiques. (art. L312-14)](#90)
+            - [Section 8 : L'enseignement d'éducation civique. (art. L312-15)](#91)
+            - [Section 9 : L'éducation à la santé et à la sexualité (art. L312-16 à L312-17)](#92)
+            - [Section 10 : Prévention et information sur les toxicomanies. (art. L312-18)](#93)
+          - [Chapitre III : L'information et l'orientation. (art. L313-1 à L313-6)](#94)
+          - [Chapitre IV : La recherche et la documentation pédagogiques. (art. L314-1 à L314-2)](#95)
+        - [Titre II : L'enseignement du premier degré (art. L321-1 à L321-4)](#96)
+          - [Chapitre unique. (art. L321-1 à L321-4)](#97)
+        - [Titre III : Les enseignements du second degré (art. L331-1 à L337-4)](#98)
+          - [Chapitre Ier : Dispositions communes aux enseignements du second degré (art. L331-1 à L331-8)](#99)
+            - [Section 1 : Les examens et diplômes nationaux. (art. L331-1 à L331-3)](#100)
+            - [Section 2 : La formation en alternance. (art. L331-4 à L331-5)](#101)
+            - [Section 3 : La pratique sportive de haut niveau. (art. L331-6)](#102)
+            - [Section 4 : La procédure d'orientation. (art. L331-7 à L331-8)](#103)
+          - [Chapitre II : Les enseignements dispensés dans les collèges. (art. L332-1 à L332-6)](#104)
+          - [Chapitre III : Dispositions communes aux enseignements dispensés dans les lycées. (art. L333-1 à L333-3)](#105)
+          - [Chapitre IV : Dispositions propres aux enseignements conduisant au baccalauréat général. (art. L334-1)](#106)
+          - [Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles. (art. L335-1 à L335-17)](#107)
+          - [Chapitre VI : Dispositions propres aux formations technologiques. (art. L336-1 à L336-2)](#108)
+          - [Chapitre VII : Dispositions propres aux formations professionnelles. (art. L337-1 à L337-4)](#109)
+        - [Titre IV : L'enseignement agricole et maritime (art. L341-1)](#110)
+          - [Chapitre Ier : L'enseignement agricole. (art. L341-1)](#111)
+        - [Titre V : Les enseignements pour les enfants et adolescents handicapés (art. L351-1 à L352-1)](#112)
+          - [Chapitre Ier : Scolarité. (art. L351-1 à L351-3)](#113)
+          - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés. (art. L352-1)](#114)
+        - [Titre VI : Les enseignements préparant aux professions artistiques et sportives (art. L361-1 à L363-4)](#115)
+          - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique. (art. L361-1 à L361-6)](#116)
+          - [Chapitre II : L'enseignement de la danse. (art. L362-1 à L362-5)](#117)
+          - [Chapitre III : Les formations et les professions des activités physiques et sportives. (art. L363-1 à L363-4)](#118)
+        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L371-1 à L374-3)](#119)
+          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L371-1 à L371-2)](#120)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L372-1 à L372-2)](#121)
+          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L373-1 à L373-3)](#122)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L374-1 à L374-3)](#123)
+      - [Livre IV : Les établissements d'enseignement scolaire (art. L401-1 à L494-1)](#124)
+        - [Titre préliminaire : Dispositions communes. (art. L401-1 à L401-2)](#125)
+        - [Titre Ier : Les écoles (art. L411-1 à L412-1)](#126)
+          - [Chapitre Ier : Organisation et fonctionnement des écoles maternelles et élémentaires. (art. L411-1 à L411-3)](#127)
+          - [Chapitre II : Les écoles régionales du premier degré. (art. L412-1)](#128)
+        - [Titre II : Les collèges et les lycées (art. L421-1 à L424-4)](#129)
+          - [Chapitre Ier : Organisation et fonctionnement des établissements publics locaux d'enseignement. (art. L421-1 à L421-24)](#130)
+            - [Section 1 : Organisation administrative. (art. L421-2 à L421-10)](#131)
+            - [Section 2 : Organisation financière. (art. L421-11 à L421-16)](#132)
+            - [Section 3 : Dispositions applicables au patrimoine mobilier des établissements publics locaux d'enseignement. (art. L421-17 à L421-19)](#133)
+            - [Section 4 : Dispositions applicables aux lycées professionnels maritimes. (art. L421-20 à L421-21)](#134)
+            - [Section 5 : Dispositions applicables aux lycées d'enseignement général et technologique agricole et aux lycées professionnels agricoles. (art. L421-22)](#135)
+            - [Section 6 : Dispositions diverses. (art. L421-23 à L421-24)](#136)
+          - [Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement (art. L422-1 à L422-3)](#137)
+            - [Section 1 : Les établissements d'Etat. (art. L422-1)](#138)
+            - [Section 2 : Les établissements municipaux ou départementaux. (art. L422-2 à L422-3)](#139)
+          - [Chapitre III : Les groupements d'établissements scolaires publics. (art. L423-1 à L423-3)](#140)
+          - [Chapitre IV : Les écoles de métiers. (art. L424-1 à L424-4)](#141)
+        - [Titre III : Les centres de formation d'apprentis (art. L431-1)](#142)
+          - [Chapitre unique. (art. L431-1)](#143)
+        - [Titre IV : Les établissements d'enseignement privés (art. L441-1 à L444-11)](#144)
+          - [Chapitre Ier : L'ouverture des établissements d'enseignement privés (art. L441-1 à L441-13)](#145)
+            - [Section 1 : L'ouverture des établissements d'enseignement du premier degré privés. (art. L441-1 à L441-4)](#146)
+            - [Section 2 : L'ouverture des établissements d'enseignement du second degré privés. (art. L441-5 à L441-9)](#147)
+            - [Section 3 : L'ouverture des établissements d'enseignement technique privés. (art. L441-10 à L441-13)](#148)
+          - [Chapitre II : Rapports entre l'Etat et les établissements d'enseignement privés (art. L442-1 à L442-21)](#149)
+            - [Section 1 : Contrôle de l'Etat sur les établissements d'enseignement privés. (art. L442-1 à L442-3)](#150)
+            - [Section 2 : Demande d'intégration d'établissements d'enseignement privés dans l'enseignement public. (art. L442-4)](#151)
+            - [Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat par des établissements d'enseignement privés. (art. L442-5 à L442-11)](#152)
+            - [Section 4 : Contrat simple passé avec l'Etat par des établissements d'enseignement privés. (art. L442-12)](#153)
+            - [Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat. (art. L442-13 à L442-20)](#154)
+            - [Section 6 : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat. (art. L442-21)](#155)
+          - [Chapitre III : Les établissements d'enseignement technique privés (art. L443-1 à L443-5)](#156)
+            - [Section 1 : Les écoles des chambres de commerce et d'industrie. (art. L443-1)](#157)
+            - [Section 2 : Les écoles techniques privées. (art. L443-2 à L443-4)](#158)
+            - [Section 3 : Les centres d'apprentissage privés. (art. L443-5)](#159)
+          - [Chapitre IV : Les établissements privés dispensant un enseignement à distance. (art. L444-1 à L444-11)](#160)
+        - [Titre V : Les établissements français d'enseignement à l'étranger (art. L451-1 à L453-1)](#161)
+          - [Chapitre Ier : Dispositions générales. (art. L451-1)](#162)
+          - [Chapitre II : L'Agence pour l'enseignement français à l'étranger. (art. L452-1 à L452-10)](#163)
+          - [Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne. (art. L453-1)](#164)
+        - [Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives (art. L462-1 à L463-7)](#165)
+          - [Chapitre II : Les établissements d'enseignement de la danse (art. L462-1 à L462-6)](#166)
+            - [Section 1 : Conditions d'exploitation d'une salle de danse à des fins d'enseignement. (art. L462-1 à L462-4)](#167)
+            - [Section 2 : Dispositions pénales. (art. L462-5 à L462-6)](#168)
+          - [Chapitre III : Les établissements de formation aux professions des activités physiques et sportives. (art. L463-1 à L463-7)](#169)
+        - [Titre VII : Dispositions communes (art. L471-1 à L472-1)](#170)
+          - [Chapitre Ier : Publicité et démarchage. (art. L471-1 à L471-5)](#171)
+          - [Chapitre II : Dispositions pénales. (art. L472-1)](#172)
+        - [Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (art. L481-1)](#173)
+          - [Chapitre unique. (art. L481-1)](#174)
+        - [Titre IX : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L491-1 à L494-1)](#175)
+          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L491-1)](#176)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L492-1 à L492-2)](#177)
+          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L493-1)](#178)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L494-1)](#179)
+      - [Livre V : La vie scolaire (art. L511-1 à L564-1)](#180)
+        - [Titre Ier : Les droits et obligations des élèves (art. L511-1 à L511-4)](#181)
+          - [Chapitre unique. (art. L511-1 à L511-4)](#182)
+        - [Titre II : L'organisation du temps et de l'espace scolaires (art. L521-1 à L521-4)](#183)
+          - [Chapitre unique. (art. L521-1 à L521-4)](#184)
+        - [Titre III : Les aides à la scolarité (art. L531-1 à L533-2)](#185)
+          - [Chapitre Ier : L'aide à la scolarité et les bourses nationales. (art. L531-1 à L531-5)](#186)
+          - [Chapitre II : L'allocation de rentrée scolaire. (art. L532-1 à L532-2)](#187)
+          - [Chapitre III : Les aides attribuées par les collectivités territoriales. (art. L533-1 à L533-2)](#188)
+        - [Titre IV : La santé scolaire (art. L541-1 à L542-4)](#189)
+          - [Chapitre Ier : La protection de la santé. (art. L541-1 à L541-6)](#190)
+          - [Chapitre II : La prévention des mauvais traitements. (art. L542-1 à L542-4)](#191)
+        - [Titre V : Les activités périscolaires, sportives et culturelles (art. L551-1 à L552-4)](#192)
+          - [Chapitre Ier : Les activités périscolaires. (art. L551-1)](#193)
+          - [Chapitre II : Les activités physiques et sportives. (art. L552-1 à L552-4)](#194)
+        - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L561-1 à L564-1)](#195)
+          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L561-1)](#196)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L562-1)](#197)
+          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L563-1)](#198)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L564-1)](#199)
+    - [Troisième partie : Les enseignements supérieurs (art. L611-1 à L854-1)](#200)
+      - [Livre VI : L'organisation des enseignements supérieurs (art. L611-1 à L684-3)](#201)
+        - [Titre Ier : L'organisation générale des enseignements (art. L611-1 à L614-3)](#202)
+          - [Chapitre Ier : Dispositions communes. (art. L611-1 à L611-4)](#203)
+          - [Chapitre II : Déroulement des études supérieures. (art. L612-1 à L612-7)](#204)
+            - [Section 1 : Le premier cycle. (art. L612-2 à L612-4)](#205)
+            - [Section 2 : Le deuxième cycle. (art. L612-5 à L612-6)](#206)
+            - [Section 3 : Le troisième cycle. (art. L612-7)](#207)
+          - [Chapitre III : Collation des grades et titres universitaires (art. L613-1 à L613-7)](#208)
+            - [Section 1 : Règles générales de délivrance des diplômes. (art. L613-1 à L613-2)](#209)
+            - [Section 2 : Validation des acquis de l'expérience pour la délivrance des diplômes (art. L613-3 à L613-6)](#210)
+            - [Section 3 : Obtention de diplômes nationaux par les étudiants des établissements d'enseignement supérieur privés. (art. L613-7)](#211)
+          - [Chapitre IV : Programmation et développement des formations supérieures. (art. L614-1 à L614-3)](#212)
+        - [Titre II : Les formations universitaires générales et la formation des maîtres (art. L621-1 à L625-1)](#213)
+          - [Chapitre Ier : Droit, sciences politiques, économie et administration. (art. L621-1 à L621-3)](#214)
+          - [Chapitre II : Sciences et technologie. (art. L622-1)](#215)
+          - [Chapitre III : Lettres, langues, arts et sciences humaines et sociales. (art. L623-1)](#216)
+          - [Chapitre IV : Education physique et sportive. (art. L624-1 à L624-2)](#217)
+          - [Chapitre V : Formation des maîtres. (art. L625-1)](#218)
+        - [Titre III : Les formations de santé (art. L631-1 à L635-1)](#219)
+          - [Chapitre Ier : Dispositions communes. (art. L631-1 à L631-3)](#220)
+          - [Chapitre II : Les études médicales. (art. L632-1 à L632-12)](#221)
+          - [Chapitre III : Les études pharmaceutiques. (art. L633-1 à L633-6)](#222)
+          - [Chapitre IV : Les études odontologiques. (art. L634-1)](#223)
+          - [Chapitre V : Les autres formations de santé. (art. L635-1)](#224)
+        - [Titre IV : Les formations technologiques (art. L641-1 à L642-12)](#225)
+          - [Chapitre Ier : Dispositions communes. (art. L641-1 à L641-5)](#226)
+          - [Chapitre II : Les formations technologiques longues. (art. L642-1 à L642-12)](#227)
+        - [Titre VII : Les formations dans les autres établissements d'enseignement supérieur (art. L671-1 à L676-1)](#228)
+          - [Chapitre Ier : L'enseignement supérieur agricole et vétérinaire public. (art. L671-1 à L671-2)](#229)
+          - [Chapitre V : L'enseignement dans les écoles supérieures militaires. (art. L675-1)](#230)
+          - [Chapitre VI : L'enseignement dans les écoles sanitaires et sociales. (art. L676-1)](#231)
+        - [Titre VIII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L681-1 à L684-3)](#232)
+          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L681-1)](#233)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L682-1)](#234)
+          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L683-1 à L683-3)](#235)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L684-1 à L684-3)](#236)
+      - [Livre VII : Les établissements d'enseignement supérieur (art. L711-1 à L774-4)](#237)
+        - [Titre Ier : Les établissements publics à caractère scientifique, culturel et professionnel (art. L711-1 à L719-11)](#238)
+          - [Chapitre Ier : Principes relatifs à la création et à l'autonomie des établissements publics à caractère scientifique, culturel et professionnel. (art. L711-1 à L711-8)](#239)
+          - [Chapitre II : Les universités. (art. L712-1 à L712-7)](#240)
+          - [Chapitre III : Les composantes des universités. (art. L713-1 à L713-9)](#241)
+            - [Section 1 : Les unités de formation et de recherche. (art. L713-3)](#242)
+            - [Section 2 : Dispositions propres aux unités de formation et de recherche de médecine, pharmacie et odontologie. (art. L713-4 à L713-8)](#243)
+            - [Section 3 : Les instituts et les écoles. (art. L713-9)](#244)
+          - [Chapitre IV : Les services communs. (art. L714-1 à L714-2)](#245)
+          - [Chapitre V : Les instituts et les écoles ne faisant pas partie des universités. (art. L715-1 à L715-3)](#246)
+          - [Chapitre VI : Les écoles normales supérieures. (art. L716-1)](#247)
+          - [Chapitre VII : Les grands établissements. (art. L717-1)](#248)
+          - [Chapitre VIII : Les écoles françaises à l'étranger. (art. L718-1)](#249)
+          - [Chapitre IX : Dispositions communes (art. L719-1 à L719-11)](#250)
+            - [Section 1 : Dispositions relatives à la composition des conseils. (art. L719-1 à L719-3)](#251)
+            - [Section 2 : Régime financier. (art. L719-4 à L719-6)](#252)
+            - [Section 3 : Contrôle administratif et financier. (art. L719-7 à L719-9)](#253)
+            - [Section 4 : Relations extérieures. (art. L719-10 à L719-11)](#254)
+        - [Titre II : Etablissements de formation des maîtres (art. L721-1 à L723-1)](#255)
+          - [Chapitre Ier : Missions et organisation des instituts universitaires de formation des maîtres. (art. L721-1 à L721-2)](#256)
+          - [Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres. (art. L722-1 à L722-17)](#257)
+          - [Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaires (art. L723-1)](#258)
+        - [Titre III : Les établissements d'enseignement supérieur privés (art. L731-1 à L731-17)](#259)
+          - [Chapitre unique. (art. L731-1 à L731-17)](#260)
+        - [Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur (art. L741-1)](#261)
+          - [Chapitre unique. (art. L741-1)](#262)
+        - [Titre V : Les établissements d'enseignement supérieur spécialisés (art. L751-1 à L759-1)](#263)
+          - [Chapitre Ier : Les établissements d'enseignement supérieur agricole et vétérinaire. (art. L751-1 à L751-2)](#264)
+          - [Chapitre II : Les écoles d'architecture. (art. L752-1)](#265)
+          - [Chapitre III : Les écoles de commerce. (art. L753-1)](#266)
+          - [Chapitre V : Les écoles supérieures militaires. (art. L755-1 à L755-3)](#267)
+          - [Chapitre VI : Les écoles sanitaires et sociales. (art. L756-1 à L756-2)](#268)
+          - [Chapitre VII : Les écoles de la marine marchande. (art. L757-1)](#269)
+          - [Chapitre VIII : La Fondation nationale des sciences politiques. (art. L758-1 à L758-2)](#270)
+          - [Chapitre IX : Les établissements d'enseignement supérieur de la musique, de la danse, du théâtre et des arts du cirque (art. L759-1)](#271)
+        - [Titre VI : Dispositions communes (art. L761-1 à L762-2)](#272)
+          - [Chapitre Ier : Dispositions communes aux établissements publics et privés. (art. L761-1)](#273)
+          - [Chapitre II : Dispositions communes aux établissements publics. (art. L762-1 à L762-2)](#274)
+        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L771-1 à L774-4)](#275)
+          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L771-1)](#276)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L772-1)](#277)
+          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L773-1 à L773-4)](#278)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L774-1 à L774-4)](#279)
+      - [Livre VIII : La vie universitaire (art. L811-1 à L854-1)](#280)
+        - [Titre Ier : Les droits et obligations des usagers du service public de l'enseignement supérieur (art. L811-1 à L811-6)](#281)
+          - [Chapitre unique. (art. L811-1 à L811-6)](#282)
+        - [Titre II : Les aides aux étudiants et les oeuvres universitaires (art. L821-1 à L822-5)](#283)
+          - [Chapitre Ier : Les aides aux étudiants. (art. L821-1 à L821-4)](#284)
+          - [Chapitre II : Les oeuvres universitaires. (art. L822-1 à L822-5)](#285)
+        - [Titre III : La santé et la protection sociale des étudiants (art. L831-1 à L832-2)](#286)
+          - [Chapitre Ier : La santé universitaire. (art. L831-1 à L831-3)](#287)
+          - [Chapitre II : La protection sociale des étudiants. (art. L832-1 à L832-2)](#288)
+        - [Titre IV : Les activités périuniversitaires, sportives et culturelles (art. L841-1 à L841-4)](#289)
+          - [Chapitre unique. (art. L841-1 à L841-4)](#290)
+        - [Titre V : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L851-1 à L854-1)](#291)
+          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L851-1)](#292)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L852-1)](#293)
+          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L853-1)](#294)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L854-1)](#295)
+    - [Quatrième partie : Les personnels (art. L911-1 à L974-3)](#296)
+      - [Livre IX : Les personnels de l'éducation (art. L911-1 à L974-3)](#297)
+        - [Titre Ier : Dispositions générales (art. L911-1 à L916-2)](#298)
+          - [Chapitre Ier : Dispositions communes. (art. L911-1 à L911-8)](#299)
+          - [Chapitre II : Dispositions propres aux personnels enseignants. (art. L912-1 à L912-4)](#300)
+          - [Chapitre III : Dispositions propres aux personnels administratifs, techniques, ouvriers, sociaux, de santé et de service. (art. L913-1)](#301)
+          - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. L914-1 à L914-6)](#302)
+          - [Chapitre VI : Dispositions relatives aux assistants d'éducation. (art. L916-1 à L916-2)](#303)
+        - [Titre II : Les personnels du premier degré (art. L921-1 à L921-4)](#304)
+          - [Chapitre unique. (art. L921-1 à L921-4)](#305)
+        - [Titre III : Les personnels du second degré (art. L931-1 à L936-1)](#306)
+          - [Chapitre Ier : Dispositions communes. (art. L931-1)](#307)
+          - [Chapitre II : Les personnels enseignants des lycées et collèges. (art. L932-1 à L932-6)](#308)
+          - [Chapitre IV : Les personnels d'orientation. (art. L934-1)](#309)
+          - [Chapitre V : Les personnels de surveillance. (art. L935-1 à L935-2)](#310)
+          - [Chapitre VI : Les personnels des centres de formation d'apprentis. (art. L936-1)](#311)
+        - [Titre IV : Les personnels d'inspection et de direction (art. L941-1)](#312)
+          - [Chapitre Ier : Les personnels d'inspection. (art. L941-1)](#313)
+        - [Titre V : Les personnels de l'enseignement supérieur (art. L951-1 à L953-6)](#314)
+          - [Chapitre Ier : Dispositions communes. (art. L951-1 à L951-4)](#315)
+          - [Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs (art. L952-1 à L952-23)](#316)
+            - [Section 1 : Dispositions générales. (art. L952-1 à L952-14)](#317)
+            - [Section 2 : Dispositions particulières. (art. L952-15 à L952-20)](#318)
+            - [Section 3 : Dispositions propres aux personnels enseignants et hospitaliers. (art. L952-21 à L952-23)](#319)
+          - [Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service. (art. L953-1 à L953-6)](#320)
+        - [Titre VI : Les personnels des établissements d'enseignement spécialisés (art. L961-1 à L962-1)](#321)
+          - [Chapitre Ier : Les personnels de l'enseignement agricole. (art. L961-1 à L961-2)](#322)
+          - [Chapitre II : Les personnels enseignants de l'architecture. (art. L962-1)](#323)
+        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L971-1 à L974-3)](#324)
+          - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L971-1 à L971-3)](#325)
+          - [Chapitre II : Dispositions applicables à Mayotte. (art. L972-1 à L972-3)](#326)
+          - [Chapitre III : Dispositions applicables en Polynésie française. (art. L973-1 à L973-3)](#327)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L974-1 à L974-3)](#328)
+  - [Partie réglementaire (art. D113-1 à R264-19)](#329)
+    - [Livre Ier : Principes généraux de l'éducation. (art. D113-1 à D164-1)](#330)
+      - [Titre Ier : Le droit à l'éducation. (art. D113-1)](#331)
+        - [Chapitre III : Dispositions particulières aux enfants d'âge préscolaire. (art. D113-1)](#332)
+      - [Titre II : Objectifs et missions du service public de l'enseignement. (art. D122-1 à D123-22)](#333)
+        - [Chapitre II : Objectifs et missions de l'enseignement scolaire (art. D122-1 à D122-7)](#334)
+          - [Section 2 : Mission de formation continue des adultes. (art. D122-1 à D122-6)](#335)
+          - [Section 3 : Mission d'éducation culturelle. (art. D122-7)](#336)
+        - [Chapitre III : Objectifs et missions de l'enseignement supérieur (art. D123-1 à D123-22)](#337)
+          - [Section 1 : Mission de formation continue des adultes. (art. D123-1)](#338)
+          - [Section 2 : Missions de valorisation des résultats de la recherche scientifique et technique ainsi que de la culture et de l'information scientifique et technique (art. D123-2 à D123-11)](#339)
+            - [Sous-section 1 : Prestations de services. (art. D123-2 à D123-7)](#340)
+            - [Sous-section 2 : Recrutement d'agents non titulaires. (art. R123-8)](#341)
+            - [Sous-section 3 : Transactions et conventions d'arbitrage. (art. D123-9 à D123-11)](#342)
+          - [Section 3 : Construction de l'Espace européen de l'enseignement supérieur. (art. D123-12 à D123-14)](#343)
+          - [Section 4 : Mission de coopération internationale (art. D123-15 à D123-22)](#344)
+            - [Sous-section 1 : Coopération internationale des établissements. (art. D123-15 à D123-21)](#345)
+            - [Sous-section 2 : Accueil des étudiants étrangers. (art. D123-22)](#346)
+      - [Titre III : L'obligation et la gratuité scolaires. (art. R131-1 à R131-19)](#347)
+        - [Chapitre Ier : L'obligation scolaire (art. R131-1 à R131-19)](#348)
+          - [Section 1 : Contrôle de l'obligation scolaire (art. R131-1 à D131-16)](#349)
+            - [Sous-section 1 : Contrôle de l'inscription. (art. R131-1 à R131-4)](#350)
+            - [Sous-section 2 : Contrôle de l'assiduité. (art. R131-5 à R131-10)](#351)
+            - [Sous-section 3 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat. (art. D131-11 à D131-16)](#352)
+          - [Section 2 : Sanctions aux manquements relatifs à l'obligation scolaire (art. R131-17 à R131-19)](#353)
+            - [Sous-section 1 : Sanctions disciplinaires. (art. R131-17)](#354)
+            - [Sous-section 2 : Sanctions pénales. (art. R131-18 à R131-19)](#355)
+      - [Titre IV : La laïcité de l'enseignement public. (art. R*141-1 à R*141-8)](#356)
+        - [Chapitre unique. (art. R*141-1 à R*141-8)](#357)
+      - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D161-1 à D164-1)](#358)
+        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D161-1)](#359)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D163-1)](#360)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D164-1)](#361)
+    - [Livre II : L'administration de l'éducation. (art. R211-1 à R264-19)](#362)
+      - [Titre Ier : La répartition des compétences entre l'État et les collectivités territoriales. (art. R211-1 à D216-2)](#363)
+        - [Chapitre Ier : Les compétences de l'Etat (art. R211-1 à D211-16)](#364)
+          - [Section 1 : Création d'établissements d'enseignement public du premier et du second degré. (art. R211-1 à R211-8)](#365)
+          - [Section 2 : Carte scolaire (art. D211-9 à D211-11)](#366)
+            - [Sous-section 1 : Carte scolaire du premier degré. (art. D211-9)](#367)
+            - [Sous-section 2 : Secteurs et districts du second degré. (art. D211-10 à D211-11)](#368)
+          - [Section 3 : Liste des établissements dont la responsabilité et la charge incombent entièrement à l'Etat. (art. D211-12 à D211-13)](#369)
+          - [Section 4 : Liste des dépenses pédagogiques à la charge de l'Etat. (art. D211-14 à D211-16)](#370)
+        - [Chapitre II : Les compétences des communes (art. D212-1 à D212-34)](#371)
+          - [Section 1 : Ecoles et classes élémentaires et maternelles (art. D212-1 à R212-23)](#372)
+            - [Sous-section 1 : Logement des instituteurs. (art. D212-1 à R212-19)](#373)
+            - [Sous-section 2 : Logement des instituteurs de la ville de Paris. (art. R212-20)](#374)
+            - [Sous-section 3 : Participation financière des communes. (art. R212-21 à R212-23)](#375)
+          - [Section 2 : Caisse des écoles. (art. R212-24 à R212-33)](#376)
+          - [Section 3 : Collèges. (art. D212-34)](#377)
+        - [Chapitre III : Les compétences des départements (art. R213-1 à D213-30)](#378)
+          - [Section 1 : Collèges. (art. R213-1 à R213-2)](#379)
+          - [Section 2 : Transports scolaires (art. R213-3 à D213-30)](#380)
+            - [Sous-section 1 : Dispositions générales (art. R213-3 à R213-19)](#381)
+              - [Paragraphe 1 : L'organisation des transports scolaires. (art. R213-3 à R213-12)](#382)
+              - [Paragraphe 2 : Le financement des frais de déplacement des élèves et étudiants handicapés. (art. R213-13 à R213-16)](#383)
+              - [Paragraphe 3 : Les transports organisés sur l'initiative des établissements d'enseignement. (art. R213-17)](#384)
+              - [Paragraphe 4 : Compensation financière et statistiques. (art. R213-18 à R213-19)](#385)
+            - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France (art. R213-20 à D213-28)](#386)
+              - [Paragraphe 1 : L'organisation des transports scolaires en région d'Ile-de-France. (art. R213-20)](#387)
+              - [Paragraphe 2 : Financement des transports scolaires en région d'Ile-de-France. (art. R213-21)](#388)
+              - [Paragraphe 3 : Financement des frais de déplacement des élèves et étudiants handicapés dans la région d'Ile-de-France. (art. D213-22 à D213-28)](#389)
+            - [Sous-section 3 : Procédure de consultation (art. D213-29 à D213-30)](#390)
+        - [Chapitre IV : Les compétences des régions (art. R214-1 à R214-17)](#391)
+          - [Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole. (art. R214-1)](#392)
+          - [Section 3 : Formation professionnelle et apprentissage (art. R214-2 à R214-17)](#393)
+            - [Sous-section 1 : Le fonds régional de l'apprentissage et de la formation professionnelle continue. (art. R214-2 à R214-4)](#394)
+            - [Sous-section 2 : Contrats pluriannuels d'objectifs de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance. (art. D214-5 à D214-8)](#395)
+            - [Sous-section 3 : Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue. (art. R214-9 à R214-17)](#396)
+        - [Chapitre V : Les compétences de la collectivité territoriale de Corse. (art. R215-1)](#397)
+        - [Chapitre VI : Les compétences communes aux collectivités territoriales. (art. D216-1 à D216-2)](#398)
+      - [Titre II : L'organisation des services de l'administration de l'éducation. (art. R221-1 à D222-42)](#399)
+        - [Chapitre Ier : Les services de l'administration centrale. (art. R221-1)](#400)
+        - [Chapitre II : Les services académiques et départementaux (art. R*222-1 à D222-42)](#401)
+          - [Section 1 : Circonscriptions académiques (art. R*222-1 à R222-12)](#402)
+            - [Sous-section 1 : Les circonscriptions académiques métropolitaines. (art. R*222-1)](#403)
+            - [Sous-section 2 : Dispositions propres aux académies de Paris, de Créteil et de Versailles. (art. D222-4 à R*222-3)](#404)
+            - [Sous-section 3 : Dispositions propres aux académies d'outre-mer. (art. R222-8 à R222-10)](#405)
+            - [Sous-section 4 : Dispositions communes. (art. D222-11 à R222-12)](#406)
+          - [Section 2 : Autorités administratives déconcentrées (art. D222-15 à R222-24)](#407)
+            - [Sous-section 1 : Le recteur. (art. D222-15 à R222-19)](#408)
+            - [Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. (art. R222-24)](#409)
+          - [Section 3 : Compétences (art. D222-27 à R222-36)](#410)
+            - [Sous-section 1 : Dispositions générales. (art. D222-27 à R222-34)](#411)
+            - [Sous-section 2 : Contentieux. (art. D222-35 à R222-36)](#412)
+          - [Section 4 : Médiateurs. (art. D222-37 à D222-42)](#413)
+      - [Titre III : Les organismes collégiaux nationaux et locaux. (art. R231-1 à D239-27)](#414)
+        - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. R231-1 à R231-33)](#415)
+          - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. R231-1 à R231-16)](#416)
+          - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. R231-17 à R231-33)](#417)
+            - [Sous-section 1 : Dispositions générales. (art. R231-17 à R231-26)](#418)
+            - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. R231-27 à R231-33)](#419)
+        - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche (art. D232-1 à R232-48)](#420)
+          - [Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative. (art. D232-1 à D232-22)](#421)
+            - [Sous-section 1 : Composition. (art. D232-2 à D232-13)](#422)
+            - [Sous-section 2 : Fonctionnement. (art. D232-14 à D232-22)](#423)
+          - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire (art. R232-23 à R232-48)](#424)
+            - [Sous-section 1 : Dispositions générales (art. R232-23 à R232-43)](#425)
+              - [Paragraphe 1 : Composition de la formation disciplinaire. (art. R232-23 à R232-30)](#426)
+              - [Paragraphe 2 : Procédure disciplinaire. (art. R232-31 à R232-43)](#427)
+            - [Sous-section 2 : Relèvement des exclusions, déchéances et incapacités. (art. R232-44 à R232-48)](#428)
+        - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel (art. D233-1 à D233-12)](#429)
+          - [Section 1 : La Conférence des présidents d'université. (art. D233-1 à D233-6)](#430)
+          - [Section 2 : La Conférence des directeurs d'écoles et de formations d'ingénieurs. (art. D233-7 à D233-12)](#431)
+        - [Chapitre IV : Les conseils académiques de l'éducation nationale (art. R234-1 à R234-43)](#432)
+          - [Section 1 : Dispositions générales. (art. R234-1 à R234-15)](#433)
+          - [Section 2 : Dispositions particulières (art. R234-16 à R234-33)](#434)
+            - [Sous-section 1 : Conseil interacadémique d'Ile-de-France. (art. R234-16 à R234-21)](#435)
+            - [Sous-section 2 : Conseil de l'éducation nationale de l'académie de Corse. (art. R234-22 à R234-24)](#436)
+            - [Sous-section 3 : Conseils de l'éducation nationale dans les académies d'outre-mer. (art. R234-25 à R234-33)](#437)
+          - [Section 3 : Dispositions contentieuses et disciplinaires (art. R234-34 à R234-43)](#438)
+            - [Sous-section 1 : Dispositions générales. (art. R234-34 à R234-38)](#439)
+            - [Sous-section 2 : Dispositions particulières au conseil interacadémique d'Ile-de-France. (art. R234-39 à R234-43)](#440)
+        - [Chapitre V : Les conseils départementaux de l'éducation nationale (art. R235-1 à R235-17)](#441)
+          - [Section 1 : Dispositions générales. (art. R235-1 à R235-11)](#442)
+          - [Section 2 : Dispositions particulières au département de Paris. (art. R235-12 à R235-16)](#443)
+          - [Section 3 : Dispositions particulières à la collectivité territoriale de Corse. (art. R235-17)](#444)
+        - [Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle (art. D237-1 à R237-27)](#445)
+          - [Section 1 : Les instances nationales (art. D237-1 à R237-9)](#446)
+            - [Sous-section 1 : Le Haut Comité éducation-économie-emploi. (art. D237-1 à D237-8)](#447)
+            - [Sous-section 2 : Le comité interministériel de la formation professionnelle et de l'emploi et le Conseil national de la formation professionnelle, de la promotion sociale et de l'emploi. (art. R237-9)](#448)
+          - [Section 2 : Les instances régionales et départementales. (art. D237-11 à R237-10)](#449)
+          - [Section 3 : La Commission spéciale de la taxe d'apprentissage. (art. R237-15 à R237-27)](#450)
+        - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole (art. R238-1 à R238-5)](#451)
+          - [Section 1 : Le Conseil national de l'enseignement agricole. (art. R238-1)](#452)
+          - [Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire. (art. R238-2)](#453)
+          - [Section 3 : Les comités régionaux de l'enseignement agricole. (art. R238-3)](#454)
+          - [Section 4 : Les conseils de l'enseignement vétérinaire. (art. R238-4)](#455)
+          - [Section 5 : Le comité de coordination. (art. R238-5)](#456)
+        - [Chapitre IX : Les autres instances consultatives (art. D239-1 à D239-27)](#457)
+          - [Section 1 : La Commission nationale pour l'éducation, la science et la culture. (art. D239-1 à D239-10)](#458)
+          - [Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur. (art. D239-11 à D239-19)](#459)
+          - [Section 3 : Le Conseil supérieur des bibliothèques. (art. D239-20 à D239-27)](#460)
+      - [Titre IV : L'inspection et l'évaluation de l'éducation. (art. D241-1 à D243-9)](#461)
+        - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation (art. D241-1 à D241-35)](#462)
+          - [Section 1 : Missions des inspections générales (art. D241-1 à R241-16)](#463)
+            - [Sous-section 1 : Dispositions communes. (art. D241-1 à D241-2)](#464)
+            - [Sous-section 2 : L'inspection générale de l'éducation nationale. (art. R*241-3 à R*241-5)](#465)
+            - [Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche. (art. R*241-6 à R241-16)](#466)
+          - [Section 2 : L'inspection générale des bibliothèques. (art. R241-17)](#467)
+          - [Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale. (art. R241-18 à R241-21)](#468)
+          - [Section 4 : Le service académique de l'inspection de l'apprentissage. (art. R241-22 à R241-23)](#469)
+          - [Section 5 : Les délégués départementaux de l'éducation nationale. (art. D241-24 à D241-35)](#470)
+        - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. D*242-1 à D*242-14)](#471)
+        - [Chapitre III : Le Haut Conseil de l'évaluation de l'école. (art. D243-1 à D243-9)](#472)
+      - [Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. D251-1 à D251-8)](#473)
+        - [Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation. (art. D251-1 à D251-8)](#474)
+      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D*261-6 à R264-19)](#475)
+        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D*261-6 à R261-5)](#476)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. D262-3 à R262-4)](#477)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D*263-8 à R263-6)](#478)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D*264-8 à R264-19)](#479)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -491,11 +495,17 @@ Version Consolidée au 2005-04-23
 L'éducation est la première priorité nationale. Le service public de l'éducation est conçu et organisé en fonction des élèves
 et des étudiants. Il contribue à l'égalité des chances.
 
+Outre la transmission des connaissances, la Nation fixe comme mission première à l'école de faire partager aux élèves les
+valeurs de la République.
+
+Dans l'exercice de leurs fonctions, les personnels mettent en oeuvre ces valeurs.
+
 Le droit à l'éducation est garanti à chacun afin de lui permettre de développer sa personnalité, d'élever son niveau de
 formation initiale et continue, de s'insérer dans la vie sociale et professionnelle, d'exercer sa citoyenneté.
 
-Pour garantir ce droit, la répartition des moyens du service public de l'éducation tient compte des différences de situation
-objectives, notamment en matière économique et sociale.
+Pour garantir ce droit dans le respect de l'égalité des chances, des aides sont attribuées aux élèves et aux étudiants selon
+leurs ressources et leurs mérites. La répartition des moyens du service public de l'éducation tient compte des différences de
+situation, notamment en matière économique et sociale.
 
 Elle a pour but de renforcer l'encadrement des élèves dans les écoles et établissements d'enseignement situés dans des zones
 d'environnement social défavorisé et des zones d'habitat dispersé, et de permettre de façon générale aux élèves en
@@ -536,7 +546,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 2 () JORF 24 avril 2005
 
 
 ###### Article L111-2
@@ -579,7 +589,10 @@ _Cité par_:
 ###### Article L111-3
 
 Dans chaque école, collège ou lycée, la communauté éducative rassemble les élèves et tous ceux qui, dans l'établissement
-scolaire ou en relation avec lui, participent à la formation des élèves.
+scolaire ou en relation avec lui, participent à l'accomplissement de ses missions.
+
+Elle réunit les personnels des écoles et établissements, les parents d'élèves, les collectivités territoriales ainsi que les
+acteurs institutionnels, économiques et sociaux, associés au service public de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -592,6 +605,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 3 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -922,7 +939,7 @@ Tout enfant doit pouvoir être accueilli, à l'âge de trois ans, dans une écol
 possible de son domicile, si sa famille en fait la demande.
 
 L'accueil des enfants de deux ans est étendu en priorité dans les écoles situées dans un environnement social défavorisé, que
-ce soit dans les zones urbaines, rurales ou de montagne.
+ce soit dans les zones urbaines, rurales ou de montagne et dans les régions d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -935,6 +952,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 4 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -959,13 +980,13 @@ _Cité par_:
 ###### Article L121-1
 
 Les écoles, les collèges, les lycées et les établissements d'enseignement supérieur sont chargés de transmettre et de faire
-acquérir connaissances et méthodes de travail. Ils contribuent à favoriser l'égalité entre les hommes et les femmes. Ils
-assurent une formation à la connaissance et au respect des droits de la personne ainsi qu'à la compréhension des situations
-concrètes qui y portent atteinte. Ils dispensent une formation adaptée dans ses contenus et ses méthodes aux évolutions
-économiques, sociales et culturelles du pays et de son environnement européen et international. Cette formation peut
-comprendre un enseignement, à tous les niveaux, de langues et cultures régionales. Les enseignements artistiques ainsi que
-l'éducation physique et sportive concourent directement à la formation de tous les élèves. Dans l'enseignement supérieur, des
-activités physiques et sportives sont proposées aux étudiants.
+acquérir connaissances et méthodes de travail. Ils contribuent à favoriser la mixité et l'égalité entre les hommes et les
+femmes, notamment en matière d'orientation. Ils assurent une formation à la connaissance et au respect des droits de la
+personne ainsi qu'à la compréhension des situations concrètes qui y portent atteinte. Ils dispensent une formation adaptée
+dans ses contenus et ses méthodes aux évolutions économiques, sociales et culturelles du pays et de son environnement
+européen et international. Cette formation peut comprendre un enseignement, à tous les niveaux, de langues et cultures
+régionales. Les enseignements artistiques ainsi que l'éducation physique et sportive concourent directement à la formation de
+tous les élèves. Dans l'enseignement supérieur, des activités physiques et sportives sont proposées aux étudiants.
 
 **Liens relatifs à cet article**
 
@@ -978,6 +999,11 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 5 () JORF 24 avril 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 6 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -1153,45 +1179,72 @@ _Codifié par_:
 
 ##### Chapitre II : Objectifs et missions de l'enseignement scolaire.<a id=10></a>
 
-###### Article L122-1
+###### Article L122-1-1
 
-Le droit de l'enfant à l'instruction a pour objet de lui garantir, d'une part, l'acquisition des instruments fondamentaux du
-savoir, des connaissances de base, des éléments de la culture générale et, selon les choix, de la formation professionnelle
-et technique et, d'autre part, l'éducation lui permettant de développer sa personnalité, d'élever son niveau de formation
-initiale et continue, de s'insérer dans la vie sociale et professionnelle et d'exercer sa citoyenneté.
+La scolarité obligatoire doit au moins garantir à chaque élève les moyens nécessaires à l'acquisition d'un socle commun
+constitué d'un ensemble de connaissances et de compétences qu'il est indispensable de maîtriser pour accomplir avec succès sa
+scolarité, poursuivre sa formation, construire son avenir personnel et professionnel et réussir sa vie en société. Ce socle
+comprend :
 
-Cette instruction obligatoire est assurée prioritairement dans les établissements d'enseignement.
+- la maîtrise de la langue française ;
+
+- la maîtrise des principaux éléments de mathématiques ;
+
+- une culture humaniste et scientifique permettant le libre exercice de la citoyenneté ;
+
+- la pratique d'au moins une langue vivante étrangère ;
+
+- la maîtrise des techniques usuelles de l'information et de la communication.
+
+Ces connaissances et compétences sont précisées par décret pris après avis du Haut Conseil de l'éducation.
+
+L'acquisition du socle commun par les élèves fait l'objet d'une évaluation, qui est prise en compte dans la poursuite de la
+scolarité.
+
+Le Gouvernement présente tous les trois ans au Parlement un rapport sur la manière dont les programmes prennent en compte le
+socle commun et sur la maîtrise de celui-ci par les élèves au cours de leur scolarité obligatoire.
+
+Parallèlement à l'acquisition du socle commun, d'autres enseignements sont dispensés au cours de la scolarité obligatoire.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cité par_:
 
-  - Loi n°98-1165 du 18 décembre 1998 - art. 1 (Ab)
+  - Décret n°96-465 du 29 mai 1996 - art. 2 (Ab)
+  - Décret n°2015-372 du 31 mars 2015 (V)
+  - Décret n°2015-544 du 19 mai 2015 (V)
+  - Code de l'éducation - art. D122-1 (V)
+  - Code de l'éducation - art. D214-12 (VD)
+  - Code de l'éducation - art. D311-10 (VD)
+  - Code de l'éducation - art. D332-2 (VD)
+  - Code de l'éducation - art. D332-5 (V)
+  - Code de l'éducation - art. D337-164 (Ab)
+  - Code de l'éducation - art. D337-177 (VD)
+  - Code de l'éducation - art. D351-5 (V)
+  - Code de l'éducation - art. L131-11 (V)
+  - Code de l'éducation - art. L161-1 (V)
+  - Code de l'éducation - art. L162-1 (Ab)
+  - Code de l'éducation - art. L163-1 (V)
+  - Code de l'éducation - art. L164-1 (V)
+  - Code de l'éducation - art. L332-6 (V)
+  - Code de l'éducation - art. L337-3 (Ab)
+  - Code de l'éducation - art. L337-3-1 (V)
+  - Code de l'éducation - art. L401-4 (V)
+  - Code de l'éducation - art. L421-19-11 (V)
+  - Code de l'éducation - art. L441-2 (V)
+  - Code de l'éducation - art. L442-2 (V)
+  - Code de l'éducation - art. L442-20 (V)
+  - Code du travail - art. L6111-2 (V)
+  - Code pénal - art. 227-17-1 (V)
 
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Transféré par_:
+_Créé par_:
 
-  - Loi n°2005-380 du 23 avril 2005 - art. 7 (V) JORF 24 avril 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. L131-1-1 (V)
-
-_Cité par_:
-
-  - Code de l'éducation - art. L131-10 (M)
-  - Code de l'éducation - art. L131-11 (M)
-  - Code de l'éducation - art. L161-1 (V)
-  - Code de l'éducation - art. L162-1 (Ab)
-  - Code de l'éducation - art. L163-1 (V)
-  - Code de l'éducation - art. L164-1 (V)
-  - Code de l'éducation - art. L312-15 (M)
-  - Code de l'éducation - art. L442-2 (M)
-  - Code de l'éducation - art. L442-3 (M)
+  - Loi n°2005-380 du 23 avril 2005 - art. 9 () JORF 24 avril 2005
 
 
 ###### Article L122-2
@@ -1199,6 +1252,12 @@ _Cité par_:
 Tout élève qui, à l'issue de la scolarité obligatoire, n'a pas atteint un niveau de formation reconnu doit pouvoir poursuivre
 des études afin d'atteindre un tel niveau. L'Etat prévoit les moyens nécessaires, dans l'exercice de ses compétences, à la
 prolongation de scolarité qui en découle.
+
+Tout mineur non émancipé dispose du droit de poursuivre sa scolarité au-delà de l'âge de seize ans.
+
+Lorsque les personnes responsables d'un mineur non émancipé s'opposent à la poursuite de sa scolarité au-delà de l'âge de
+seize ans, une mesure d'assistance éducative peut être ordonnée dans les conditions prévues aux articles 375 et suivants du
+code civil afin de garantir le droit de l'enfant à l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -1211,6 +1270,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 10 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Décret n°2017-791 du 5 mai 2017 - art. 1 (VD)
@@ -1221,6 +1284,10 @@ _Cité par_:
   - Code de l'éducation - art. R451-1 (VD)
   - Code du travail - art. L6323-7 (VD)
   - Code du travail - art. R6323-16 (V)
+
+_Cite_:
+
+  - Code civil - art. 375 (M)
 
 
 ###### Article L122-3
@@ -1811,6 +1878,9 @@ _Cité par_:
 L'instruction obligatoire peut être donnée soit dans les établissements ou écoles publics ou privés, soit dans les familles
 par les parents, ou l'un d'entre eux, ou toute personne de leur choix.
 
+Un service public de l'enseignement à distance est organisé notamment pour assurer l'instruction des enfants qui ne peuvent
+être scolarisés dans une école ou dans un établissement scolaire.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -1823,6 +1893,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 11 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -2086,7 +2160,7 @@ Lorsque l'enquête n'a pas été effectuée, elle est diligentée par le représ
 
 L'inspecteur d'académie doit au moins une fois par an, à partir du troisième mois suivant la déclaration d'instruction par la
 famille, faire vérifier que l'enseignement assuré est conforme au droit de l'enfant à l'instruction tel que défini à
-l'article L. 122-1.
+l'article L. 131-1-1.
 
 Ce contrôle prescrit par l'inspecteur d'académie a lieu notamment au domicile des parents de l'enfant.
 
@@ -2107,7 +2181,7 @@ l'établissement qu'ils auront choisi.
 
 _Cite_:
 
-  - Code de l'éducation - art. L122-1 (T)
+  - Code de l'éducation - art. L131-1-1 (V)
 
 _Cité par_:
 
@@ -2125,6 +2199,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 8 () JORF 24 avril 2005
 
 
 ###### Article L131-11
@@ -2610,17 +2688,12 @@ _Cité par_:
 
 ###### Article L161-1
 
-Sont applicables dans les îles Wallis et Futuna les premier, deuxième, troisième et cinquième alinéas de l'article L. 111-1,
-les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L. 121-4, L.
-122-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-5-1, L. 141-6, L.
-151-1, L. 151-3 et L. 151-6.
+Sont applicables dans les îles Wallis et Futuna les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de
+l'article L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L.
+121-1 à L. 121-4, L. 122-1, L. 122-1-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L.
+141-2, L. 141-4, L. 141-5-1, L. 141-6, L. 151-1, L. 151-3 et L. 151-6. 
 
 Les dispositions de l'article L. 131-1 sont applicables à compter du 1er janvier 2001.
-
-**Nota:**
-
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-scolaire qui suit sa publication.
 
 **Liens relatifs à cet article**
 
@@ -2636,34 +2709,9 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
-
 _Modifié par_:
 
-  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
-
-_Cite_:
-
-  - Code de l'éducation - art. L111-1 (M)
-  - Code de l'éducation - art. L112-2 (M)
-  - Code de l'éducation - art. L113-1 (M)
-  - Code de l'éducation - art. L122-1 (T)
-  - Code de l'éducation - art. L122-5 (V)
-  - Code de l'éducation - art. L131-1 (V)
-  - Code de l'éducation - art. L131-2 (M)
-  - Code de l'éducation - art. L131-4 (V)
-  - Code de l'éducation - art. L132-1 (V)
-  - Code de l'éducation - art. L132-2 (V)
-  - Code de l'éducation - art. L141-2 (V)
-  - Code de l'éducation - art. L141-4 (V)
-  - Code de l'éducation - art. L141-5-1 (V)
-  - Code de l'éducation - art. L141-6 (V)
-  - Code de l'éducation - art. L151-1 (V)
-  - Code de l'éducation - art. L151-3 (V)
-  - Code de l'éducation - art. L151-6 (V)
-  - Code de l'éducation L111-1, L111-2 à L111-5, L112-2, L113-1, L121-1 à L121-4, L122-1, L122-5, L123-1 à L123-9, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5-1, L141-6, L151-1, L151-3, L151-6, L131-1
+  - Loi n°2005-380 du 23 avril 2005 - art. 54 () JORF 24 avril 2005
 
 
 ###### Article L161-2
@@ -2717,15 +2765,10 @@ _Cite_:
 
 ###### Article L162-1
 
-Sont applicables à Mayotte les premier, deuxième, troisième et cinquième alinéas de l'article L. 111-1, les articles L. 111-2
-à L. 111-4, L. 112-1 à L. 112-3, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L. 121-5, L. 122-1, L.
-122-2, L. 122-5, L. 131-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-5, L. 141-5-1, L. 141-6, L.
-151-1 à L. 151-3 et L. 151-6.
-
-**Nota:**
-
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-scolaire qui suit sa publication.
+Sont applicables à Mayotte les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de l'article L. 111-1,
+les articles L. 111-2 à L. 111-4, L. 112-1 à L. 112-3, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L.
+121-5, L. 122-1, L. 122-1-1, L. 122-2, L. 122-5, L. 131-1, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L.
+141-4, L. 141-5, L. 141-5-1, L. 141-6, L. 151-1 à L. 151-3 et L. 151-6.
 
 **Liens relatifs à cet article**
 
@@ -2742,22 +2785,20 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
-
 _Modifié par_:
 
-  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
+  - Loi n°2005-380 du 23 avril 2005 - art. 62 () JORF 24 avril 2005
 
 _Cite_:
 
   - Code de l'éducation - art. L111-1 (M)
   - Code de l'éducation - art. L113-1 (M)
   - Code de l'éducation - art. L122-1 (T)
+  - Code de l'éducation - art. L122-1-1 (V)
   - Code de l'éducation - art. L122-2 (M)
   - Code de l'éducation - art. L122-5 (V)
   - Code de l'éducation - art. L131-1 (V)
+  - Code de l'éducation - art. L131-1-1 (V)
   - Code de l'éducation - art. L131-2 (M)
   - Code de l'éducation - art. L131-4 (V)
   - Code de l'éducation - art. L132-1 (V)
@@ -2768,7 +2809,7 @@ _Cite_:
   - Code de l'éducation - art. L141-5-1 (V)
   - Code de l'éducation - art. L141-6 (V)
   - Code de l'éducation - art. L151-6 (V)
-  - Code de l'éducation L111-1, L111-2 à L111-4, L112-1 à L112-3, L113-1, L121-1 à L121-5, L122-1, L122-2, L122-5, L131-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5, L141-5-1, L141-6, L151-1 à L151-3, L151-6
+  - Code de l'éducation L111-1, L111-2 à L111-4, L112-1 à L112-3, L113-1, L121-1 à L121-5, L122-1, L122-1-1, L122-2, L122-5, L131-1, L131-1-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5, L141-5-1, L141-6, L151-1 à L151-3, L151-6
 
 
 ###### Article L162-2
@@ -2839,15 +2880,10 @@ _Cite_:
 
 ###### Article L163-1
 
-Sont applicables en Polynésie française les premier, deuxième, troisième et cinquième alinéas de l'article L. 111-1, les
-articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L. 121-4, L. 122-1,
-L. 122-5, L. 123-1 à L. 123-9, L. 131-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-5, L. 141-6, L.
-151-1, L. 151-3 et L. 151-6.
-
-**Nota:**
-
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-scolaire qui suit sa publication.
+Sont applicables en Polynésie française les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de
+l'article L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L.
+121-1 à L. 121-4, L. 122-1, L. 122-1-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-1, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L.
+132-2, L. 141-2, L. 141-4, L. 141-5, L. 141-6, L. 151-1, L. 151-3 et L. 151-6.
 
 **Liens relatifs à cet article**
 
@@ -2865,34 +2901,28 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
-
 _Modifié par_:
 
-  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
+  - Loi n°2005-380 du 23 avril 2005 - art. 70 () JORF 24 avril 2005
 
 _Cite_:
 
-  - Code de l'éducation - art. L111-1 (M)
-  - Code de l'éducation - art. L112-2 (M)
-  - Code de l'éducation - art. L113-1 (M)
+  - Code de l'éducation - art. L111-1 (V)
+  - Code de l'éducation - art. L111-2 (V)
+  - Code de l'éducation - art. L112-2 (V)
+  - Code de l'éducation - art. L113-1 (V)
+  - Code de l'éducation - art. L121-1 (V)
   - Code de l'éducation - art. L122-1 (T)
   - Code de l'éducation - art. L122-5 (V)
+  - Code de l'éducation - art. L123-1 (V)
   - Code de l'éducation - art. L131-1 (V)
-  - Code de l'éducation - art. L131-2 (M)
+  - Code de l'éducation - art. L131-1-1 (V)
+  - Code de l'éducation - art. L131-2 (V)
   - Code de l'éducation - art. L131-4 (V)
   - Code de l'éducation - art. L132-1 (V)
-  - Code de l'éducation - art. L132-2 (V)
   - Code de l'éducation - art. L141-2 (V)
-  - Code de l'éducation - art. L141-4 (V)
-  - Code de l'éducation - art. L141-5 (V)
-  - Code de l'éducation - art. L141-6 (V)
   - Code de l'éducation - art. L151-1 (V)
-  - Code de l'éducation - art. L151-3 (V)
   - Code de l'éducation - art. L151-6 (V)
-  - Code de l'éducation L111-1, L111-2 à L111-5, L112-2, L113-1, L121-1 à L121-4, L122-1, L122-5, L123-1 à L123-9, L131-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5, L141-6, L151-1, L151-3, L151-6
 
 
 ###### Article L163-2
@@ -2963,18 +2993,13 @@ _Cite_:
 
 ###### Article L164-1
 
-Sont applicables en Nouvelle-Calédonie les premier, deuxième, troisième et cinquième alinéas de l'article L. 111-1, les
-articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L. 121-4, L. 122-1,
-le deuxième alinéa de l'article L. 122-5, les articles L. 123-1 à L. 123-9, L. 131-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2,
-L. 141-2, L. 141-4, L. 141-5, L. 141-6, L. 151-1, L. 151-3 et L. 151-6.
+Sont applicables en Nouvelle-Calédonie les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de
+l'article L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L.
+121-1 à L. 121-4, L. 122-1, L. 122-1-1, le deuxième alinéa de l'article L. 122-5, les articles L. 123-1 à L. 123-9, L. 131-1,
+L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-5, L. 141-6, L. 151-1, L. 151-3 et L. 151-6.
 
 L'article L. 141-5-1 est applicable aux établissements publics d'enseignement du second degré mentionnés au III de l'article
 21 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie qui relèvent de la compétence de l'Etat.
-
-**Nota:**
-
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-scolaire qui suit sa publication.
 
 **Liens relatifs à cet article**
 
@@ -2989,39 +3014,26 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°99-209 du 19 mars 1999 - art. 21 (V)
-  - Code de l'éducation - art. L111-1 (M)
-  - Code de l'éducation - art. L112-2 (M)
-  - Code de l'éducation - art. L113-1 (M)
+  - Loi n°99-209 du 19 mars 1999 (V)
+  - Code de l'éducation - art. L111-1 (V)
+  - Code de l'éducation - art. L111-2 (V)
+  - Code de l'éducation - art. L113-1 (V)
+  - Code de l'éducation - art. L121-1 (V)
   - Code de l'éducation - art. L122-1 (T)
   - Code de l'éducation - art. L122-5 (V)
+  - Code de l'éducation - art. L123-1 (V)
   - Code de l'éducation - art. L131-1 (V)
-  - Code de l'éducation - art. L131-2 (M)
-  - Code de l'éducation - art. L131-4 (V)
   - Code de l'éducation - art. L132-1 (V)
-  - Code de l'éducation - art. L132-2 (V)
-  - Code de l'éducation - art. L141-2 (V)
-  - Code de l'éducation - art. L141-4 (V)
-  - Code de l'éducation - art. L141-5 (V)
-  - Code de l'éducation - art. L141-5-1 (V)
-  - Code de l'éducation - art. L141-6 (V)
   - Code de l'éducation - art. L151-1 (V)
-  - Code de l'éducation - art. L151-3 (V)
-  - Code de l'éducation - art. L151-6 (V)
-  - Code de l'éducation L111-1, L111-2 à L111-5, L112-2, L113-1, L121-1 à L121-4, L122-1, L122-5, L123-1 à L123-9, L131-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5, L141-6, L151-1, L151-3, L151-6, L141-5-1
 
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
-
 _Modifié par_:
 
-  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
+  - Loi n°2005-380 du 23 avril 2005 - art. 77 () JORF 24 avril 2005
 
 
 ###### Article L164-2
@@ -5585,11 +5597,11 @@ Lorsqu'un même ensemble immobilier comporte à la fois un collège et un lycée
 et la région pour déterminer celle des deux collectivités qui assure le recrutement et la gestion des personnels autres que
 ceux mentionnés à l'article L. 211-8, les grosses réparations, l'équipement et le fonctionnement de l'ensemble ; cette
 convention précise la répartition des charges entre les deux collectivités. Si cette convention n'est pas signée à la date du
-transfert de compétences, le représentant de l'Etat dans la région, dans un délai d'un mois, désigne la collectivité qui
-assure, jusqu'à l'intervention d'une convention, le recrutement et la gestion des personnels autres que ceux mentionnés à
-l'article L. 211-8, les grosses réparations, l'équipement et le fonctionnement de l'ensemble ; il fixe également la
-répartition des charges entre ces deux collectivités en tenant compte des effectifs scolarisés et de l'utilisation des
-superficies des établissements en cause.
+transfert de compétences, le représentant de l'Etat dans la région, dans un délai d'un mois, désigne, en tenant compte du
+nombre d'élèves à la charge de chacune de ces collectivités, celle qui assure, jusqu'à l'intervention d'une convention, le
+recrutement et la gestion des personnels autres que ceux mentionnés à l'article L. 211-8, les grosses réparations,
+l'équipement et le fonctionnement de l'ensemble ; il fixe également la répartition des charges entre ces deux collectivités
+en tenant compte des effectifs scolarisés et de l'utilisation des superficies des établissements en cause.
 
 **Liens relatifs à cet article**
 
@@ -5615,11 +5627,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 13 () JORF 24 avril 2005
 
 _Cite_:
 
-  - Code de l'éducation - art. L211-8 (M)
+  - Code de l'éducation - art. L211-8 (V)
 
 
 ###### Article L216-5
@@ -5969,9 +5981,92 @@ _Cite_:
 
 #### Titre III : Les organismes collégiaux nationaux et locaux<a id=43></a>
 
-##### Chapitre Ier : Le Conseil supérieur de l'éducation<a id=44></a>
+##### Chapitre préliminaire : Le Haut Conseil de l'éducation<a id=44></a>
 
-##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.<a id=45></a>
+###### Article L230-1
+
+Le Haut Conseil de l'éducation est composé de neuf membres désignés pour six ans. Trois de ses membres sont désignés par le
+Président de la République, deux par le président de l'Assemblée nationale, deux par le président du Sénat et deux par le
+président du Conseil économique et social en dehors des membres de ces assemblées. Le président du haut conseil est désigné
+par le Président de la République parmi ses membres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 14 () JORF 24 avril 2005
+
+_Cité par_:
+
+  - Code de l'éducation - art. D230-1 (Ab)
+  - Code de l'éducation - art. L261-1 (V)
+  - Code de l'éducation - art. L263-1 (M)
+  - Code de l'éducation - art. L264-1 (M)
+  - Code de l'éducation - art. L442-20 (V)
+
+
+###### Article L230-2
+
+Le Haut Conseil de l'éducation émet un avis et peut formuler des propositions à la demande du ministre chargé de l'éducation
+nationale sur les questions relatives à la pédagogie, aux programmes, aux modes d'évaluation des connaissances des élèves, à
+l'organisation et aux résultats du système éducatif et à la formation des enseignants. Ses avis et propositions sont rendus
+publics.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 14 () JORF 24 avril 2005
+
+_Abrogé par_:
+
+  - Loi n°2013-595 du 8 juillet 2013 - art. 32
+
+_Cité par_:
+
+  - Code de l'éducation - art. D230-2 (Ab)
+  - Code de l'éducation - art. D230-4 (Ab)
+  - Code de l'éducation - art. L442-20 (V)
+
+
+###### Article L230-3
+
+Le Haut Conseil de l'éducation remet chaque année au Président de la République un bilan, qui est rendu public, des résultats
+obtenus par le système éducatif. Ce bilan est transmis au Parlement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+  - Loi n°2003-339 du 14 avril 2003
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 14 () JORF 24 avril 2005
+
+_Abrogé par_:
+
+  - Loi n°2013-595 du 8 juillet 2013 - art. 32
+
+_Cité par_:
+
+  - Code de l'éducation - art. L442-20 (V)
+
+
+##### Chapitre Ier : Le Conseil supérieur de l'éducation<a id=45></a>
+
+##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.<a id=46></a>
 
 ###### Article L231-1
 
@@ -6110,9 +6205,9 @@ _Cite_:
   - Code de l'éducation - art. L231-1 (V)
 
 
-##### Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire<a id=46></a>
+##### Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire<a id=47></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=47></a>
+##### Sous-section 1 : Dispositions générales.<a id=48></a>
 
 ###### Article L231-6
 
@@ -6211,7 +6306,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=48></a>
+##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=49></a>
 
 ###### Article L231-10
 
@@ -6318,9 +6413,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche<a id=49></a>
+##### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche<a id=50></a>
 
-##### Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative.<a id=50></a>
+##### Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative.<a id=51></a>
 
 ###### Article L232-1
 
@@ -6388,9 +6483,9 @@ _Cité par_:
   - Code de la recherche - art. L125-1 (T)
 
 
-##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire<a id=51></a>
+##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire<a id=52></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=52></a>
+##### Sous-section 1 : Dispositions générales.<a id=53></a>
 
 ###### Article L232-2
 
@@ -6454,7 +6549,7 @@ _Cité par_:
   - Code de l'éducation - art. L234-2 (V)
 
 
-##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=53></a>
+##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=54></a>
 
 ###### Article L232-4
 
@@ -6573,7 +6668,7 @@ _Anciens textes_:
   - Loi n°1908-07-17 art. 4
 
 
-##### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel.<a id=54></a>
+##### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel.<a id=55></a>
 
 ###### Article L233-1
 
@@ -6622,7 +6717,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L162-1-12-1 (VD)
 
 
-##### Chapitre IV : Les conseils académiques de l'éducation nationale.<a id=55></a>
+##### Chapitre IV : Les conseils académiques de l'éducation nationale.<a id=56></a>
 
 ###### Article L234-1
 
@@ -6941,7 +7036,7 @@ _Cite_:
   - Code de l'éducation - art. L234-2 (V)
 
 
-##### Chapitre V : Les conseils départementaux de l'éducation nationale.<a id=56></a>
+##### Chapitre V : Les conseils départementaux de l'éducation nationale.<a id=57></a>
 
 ###### Article L235-1
 
@@ -6974,7 +7069,7 @@ _Cité par_:
   - Code de l'éducation - art. L442-11 (V)
 
 
-##### Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux.<a id=57></a>
+##### Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux.<a id=58></a>
 
 ###### Article L236-1
 
@@ -7007,9 +7102,9 @@ _Cité par_:
   - Code de l'éducation - art. R451-11 (V)
 
 
-##### Chapitre VII : Les instances consultatives en matière de formation professionnelle<a id=58></a>
+##### Chapitre VII : Les instances consultatives en matière de formation professionnelle<a id=59></a>
 
-##### Section 1 : Les instances consultatives nationales.<a id=59></a>
+##### Section 1 : Les instances consultatives nationales.<a id=60></a>
 
 ###### Article L237-1
 
@@ -7133,9 +7228,9 @@ _Cite_:
   - Code du travail - art. L910-2 (M)
 
 
-##### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole<a id=60></a>
+##### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole<a id=61></a>
 
-##### Section 1 : Le Conseil national de l'enseignement agricole.<a id=61></a>
+##### Section 1 : Le Conseil national de l'enseignement agricole.<a id=62></a>
 
 ###### Article L238-1
 
@@ -7214,7 +7309,7 @@ _Cite_:
   - Code rural L814-1, L814-2
 
 
-##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire.<a id=62></a>
+##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire.<a id=63></a>
 
 ###### Article L238-2
 
@@ -7249,7 +7344,7 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code rural - art. L814-3 (V)
 
 
-##### Section 3 : Les comités régionaux de l'enseignement agricole.<a id=63></a>
+##### Section 3 : Les comités régionaux de l'enseignement agricole.<a id=64></a>
 
 ###### Article L238-3
 
@@ -7294,7 +7389,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code rural - art. L814-4 (V)
 
 
-##### Chapitre IX : Le conseil territorial de l'éducation nationale et les autres instances consultatives<a id=64></a>
+##### Chapitre IX : Le conseil territorial de l'éducation nationale et les autres instances consultatives<a id=65></a>
 
 ###### Article L239-1
 
@@ -7335,9 +7430,9 @@ _Cite_:
   - Code de l'éducation - art. L211-1
 
 
-#### Titre IV : L'inspection et l'évaluation de l'éducation<a id=65></a>
+#### Titre IV : L'inspection et l'évaluation de l'éducation<a id=66></a>
 
-##### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation.<a id=66></a>
+##### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation.<a id=67></a>
 
 ###### Article L241-1
 
@@ -7503,7 +7598,9 @@ nationale et de la recherche ;
 Toutefois, les établissements d'enseignement privés ne peuvent être inspectés par les personnels enseignants de
 l'enseignement public qui font partie du conseil départemental ;
 
-5° Par le maire et les délégués départementaux de l'éducation nationale.
+5° Par le maire et les délégués départementaux de l'éducation nationale. Toutefois, les délégués départementaux de
+l'éducation nationale ne peuvent exercer leur mission que dans des établissements autres que ceux de leur commune ou, à
+Paris, Lyon et Marseille, de leur arrondissement de résidence.
 
 II. - L'inspection des établissements d'enseignement privés porte sur la moralité, l'hygiène, la salubrité et sur l'exécution
 des obligations imposées à ces établissements par le présent code. Elle ne peut porter sur l'enseignement que pour vérifier
@@ -7515,6 +7612,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 40 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -7731,7 +7832,7 @@ _Abrogé par_:
   - Loi n°2013-595 du 8 juillet 2013 - art. 79
 
 
-##### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=67></a>
+##### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=68></a>
 
 ###### Article L242-1
 
@@ -7778,7 +7879,7 @@ _Cite_:
   - Code de l'éducation - art. L123-3 (M)
 
 
-##### Chapitre II : Le Comité national d'évaluation des établissements public à caractère scientifique, culturel et professionnel<a id=68></a>
+##### Chapitre II : Le Comité national d'évaluation des établissements public à caractère scientifique, culturel et professionnel<a id=69></a>
 
 ###### Article L242-2
 
@@ -7819,9 +7920,9 @@ _Cité par_:
   - Code de l'éducation - art. L264-1 (M)
 
 
-#### Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=69></a>
+#### Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=70></a>
 
-##### Chapitre unique.<a id=70></a>
+##### Chapitre unique.<a id=71></a>
 
 ###### Article L251-1
 
@@ -7865,14 +7966,20 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L146-9 (V)
 
 
-#### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=71></a>
+#### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=72></a>
 
-##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=72></a>
+##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=73></a>
 
 ###### Article L261-1
 
-Sont applicables dans les îles Wallis et Futuna les articles L. 216-10, L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 233-1,
-L. 236-1, L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+Sont applicables dans les îles Wallis et Futuna les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à
+L. 232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+
+**Nota:**
+
+NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
+d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
+L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -7887,6 +7994,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 55 () JORF 24 avril 2005
+
 _Cite_:
 
   - Code de l'éducation - art. L216-10 (V)
@@ -7894,7 +8005,7 @@ _Cite_:
   - Code de l'éducation - art. L236-1 (V)
   - Code de l'éducation - art. L242-1 (M)
   - Code de l'éducation - art. L242-2 (Ab)
-  - Code de l'éducation L216-10, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1, L242-2
+  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1, L242-2
 
 
 ###### Article L261-2
@@ -7922,12 +8033,18 @@ _Cite_:
   - Code de l'éducation - art. L241-4 (V)
 
 
-##### Chapitre II : Dispositions applicables à Mayotte.<a id=73></a>
+##### Chapitre II : Dispositions applicables à Mayotte.<a id=74></a>
 
 ###### Article L262-1
 
-Sont applicables à Mayotte les articles L. 216-10, L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 236-1, L. 241-1 à L. 241-4,
-L. 242-1 et L. 242-2.
+Sont applicables à Mayotte les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 236-1,
+L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+
+**Nota:**
+
+NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
+d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
+L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -7946,7 +8063,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+  - Loi n°2005-380 du 23 avril 2005 - art. 63 () JORF 24 avril 2005
 
 _Cite_:
 
@@ -7954,7 +8071,7 @@ _Cite_:
   - Code de l'éducation - art. L236-1 (V)
   - Code de l'éducation - art. L242-1 (M)
   - Code de l'éducation - art. L242-2 (Ab)
-  - Code de l'éducation L216-10, L231-1 à L231-13, L232-1 à L232-7, L236-1, L241-1 à L241-4, L242-1, L242-2
+  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L236-1, L241-1 à L241-4, L242-1, L242-2
 
 
 ###### Article L262-2
@@ -8010,12 +8127,18 @@ _Nouveaux textes_:
   - Code de l'éducation - art. L262-5 (VD)
 
 
-##### Chapitre III : Dispositions applicables en Polynésie française.<a id=74></a>
+##### Chapitre III : Dispositions applicables en Polynésie française.<a id=75></a>
 
 ###### Article L263-1
 
-Sont applicables en Polynésie française les articles L. 216-10, L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 233-1, L.
-236-1, L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+Sont applicables en Polynésie française les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L.
+232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+
+**Nota:**
+
+NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
+d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
+L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -8032,6 +8155,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 71 () JORF 24 avril 2005
+
 _Cite_:
 
   - Code de l'éducation - art. L216-10 (V)
@@ -8039,7 +8166,7 @@ _Cite_:
   - Code de l'éducation - art. L236-1 (V)
   - Code de l'éducation - art. L242-1 (M)
   - Code de l'éducation - art. L242-2 (Ab)
-  - Code de l'éducation L216-10, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1, L242-2
+  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1, L242-2
 
 
 ###### Article L263-2
@@ -8069,12 +8196,18 @@ _Cite_:
   - Code de l'éducation - art. L241-4 (V)
 
 
-##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=75></a>
+##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=76></a>
 
 ###### Article L264-1
 
-Sont applicables en Nouvelle-Calédonie les articles L. 216-10, L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 233-1, L. 236-1,
-L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+Sont applicables en Nouvelle-Calédonie les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L.
+232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+
+**Nota:**
+
+NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
+d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
+L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -8091,6 +8224,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 78 () JORF 24 avril 2005
+
 _Cite_:
 
   - Code de l'éducation - art. L216-10 (V)
@@ -8098,7 +8235,7 @@ _Cite_:
   - Code de l'éducation - art. L236-1 (V)
   - Code de l'éducation - art. L242-1 (M)
   - Code de l'éducation - art. L242-2 (Ab)
-  - Code de l'éducation L216-10, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1, L242-2
+  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1, L242-2
 
 
 ###### Article L264-2
@@ -8153,13 +8290,13 @@ _Cite_:
   - Code de l'éducation - art. L241-4 (V)
 
 
-## Deuxième partie : Les enseignements scolaires<a id=76></a>
+## Deuxième partie : Les enseignements scolaires<a id=77></a>
 
-### Livre III : L'organisation des enseignements scolaires<a id=77></a>
+### Livre III : L'organisation des enseignements scolaires<a id=78></a>
 
-#### Titre Ier : L'organisation générale des enseignements<a id=78></a>
+#### Titre Ier : L'organisation générale des enseignements<a id=79></a>
 
-##### Chapitre Ier : Dispositions communes.<a id=79></a>
+##### Chapitre Ier : Dispositions communes.<a id=80></a>
 
 ###### Article L311-1
 
@@ -8237,6 +8374,30 @@ _Cité par_:
   - Code de l'éducation - art. R371-2 (V)
   - Code de l'éducation - art. R372-2 (V)
   - Code de l'éducation - art. R451-3 (V)
+
+
+###### Article L311-3-1
+
+A tout moment de la scolarité obligatoire, lorsqu'il apparaît qu'un élève risque de ne pas maîtriser les connaissances et les
+compétences indispensables à la fin d'un cycle, le directeur d'école ou le chef d'établissement propose aux parents ou au
+responsable légal de l'élève de mettre conjointement en place un programme personnalisé de réussite éducative.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°96-465 du 29 mai 1996 - art. 5-1 (Ab)
+  - Code de l'éducation - art. D311-12 (V)
+  - Code de l'éducation - art. D332-6 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 16 () JORF 24 avril 2005
 
 
 ###### Article L311-4
@@ -8335,6 +8496,12 @@ _Cité par_:
 Durant la scolarité, l'appréciation des aptitudes et de l'acquisition des connaissances s'exerce par un contrôle continu
 assuré par les enseignants sous la responsabilité du directeur ou du chef d'établissement.
 
+Au terme de chaque année scolaire, à l'issue d'un dialogue et après avoir recueilli l'avis des parents ou du responsable
+légal de l'élève, le conseil des maîtres dans le premier degré ou le conseil de classe présidé par le chef d'établissement
+dans le second degré se prononce sur les conditions dans lesquelles se poursuit la scolarité de l'élève. S'il l'estime
+nécessaire, il propose la mise en place d'un dispositif de soutien, notamment dans le cadre d'un programme personnalisé de
+réussite éducative.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -8342,9 +8509,9 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-1207 du 13 décembre 2000 - art. 35 () JORF 14 décembre 2000
+  - Loi n°2005-380 du 23 avril 2005 - art. 17 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -8361,9 +8528,9 @@ _Anciens textes_:
   - Code de l'éducation - art. L311-6 (M)
 
 
-##### Chapitre II : Dispositions propres à certaines matières d'enseignement<a id=80></a>
+##### Chapitre II : Dispositions propres à certaines matières d'enseignement<a id=81></a>
 
-##### Section 1 : L'éducation physique et sportive.<a id=81></a>
+##### Section 1 : L'éducation physique et sportive.<a id=82></a>
 
 ###### Article L312-1
 
@@ -8476,7 +8643,7 @@ _Modifié par_:
   - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 
-##### Section 2 : Les enseignements artistiques.<a id=82></a>
+##### Section 2 : Les enseignements artistiques.<a id=83></a>
 
 ###### Article L312-5
 
@@ -8565,14 +8732,16 @@ _Cite_:
 
 ###### Article L312-8
 
-Le haut comité des enseignements artistiques est chargé de suivre la mise en oeuvre des mesures administratives et
-financières relatives au développement des enseignements artistiques.
+Le Haut Conseil de l'éducation artistique et culturelle est chargé de suivre la mise en oeuvre des mesures administratives et
+financières relatives au développement de l'éducation artistique et culturelle.
 
-Ce haut comité comprend notamment des représentants de l'Etat et des collectivités territoriales et des personnalités du
+Ce haut conseil comprend notamment des représentants de l'Etat et des collectivités territoriales et des personnalités du
 monde artistique ; il est présidé conjointement par le ministre chargé de la culture et par le ministre chargé de
-l'éducation ; il établit et publie chaque année un rapport sur son activité et sur l'état des enseignements artistiques.
+l'éducation ; il établit et publie chaque année un rapport sur son activité et sur l'état de l'éducation artistique et
+culturelle.
 
-Des décrets précisent la composition et le mode de désignation du haut comité, ainsi que les modalités de son fonctionnement.
+Des décrets précisent la composition et le mode de désignation du haut conseil, ainsi que les modalités de son
+fonctionnement.
 
 **Liens relatifs à cet article**
 
@@ -8586,13 +8755,17 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 22 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Décret n°2005-1289 du 17 octobre 2005 - art. 1 (Ab)
   - Code de l'éducation - art. D312-7 (V)
 
 
-##### Section 3 : Les enseignements de technologie et d'informatique.<a id=83></a>
+##### Section 3 : Les enseignements de technologie et d'informatique.<a id=84></a>
 
 ###### Article L312-9
 
@@ -8615,7 +8788,7 @@ _Cité par_:
   - Code de l'éducation - art. L442-20 (V)
 
 
-##### Section 3 bis : L'enseignement de la langue des signes.<a id=84></a>
+##### Section 3 bis : L'enseignement de la langue des signes.<a id=85></a>
 
 ###### Article L312-9-1
 
@@ -8636,11 +8809,55 @@ _Créé par_:
   - Loi n°2005-102 du 11 février 2005 - art. 75 () JORF 12 février 2005
 
 
-##### Section 4 : L'enseignement des langues et cultures régionales.<a id=85></a>
+##### Section 3 ter : L'enseignement des langues vivantes étrangères.<a id=86></a>
+
+###### Article L312-9-2
+
+Il est institué, dans chaque académie, une commission sur l'enseignement des langues, placée auprès du recteur.
+
+Celle-ci comprend des représentants de l'administration, des personnels et des usagers de l'éducation nationale, des
+représentants des collectivités territoriales concernées et des milieux économiques et professionnels.
+
+Cette commission est chargée de veiller à la diversité de l'offre de langues, à la cohérence et à la continuité des parcours
+de langues proposés, de diffuser une information aux établissements, aux élus, aux parents et aux élèves sur l'offre
+linguistique, d'actualiser cette offre en fonction des besoins identifiés et de vérifier l'adéquation de l'offre de langues
+avec les spécificités locales.
+
+Chaque année, la commission établit un bilan de l'enseignement et peut faire des propositions d'aménagement de la carte
+académique des langues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 19 () JORF 24 avril 2005
+
+_Cité par_:
+
+  - Décret n°2005-1011 du 22 août 2005 - art. 8 (Ab)
+  - Code de l'éducation - art. L371-1 (V)
+  - Code de l'éducation - art. L442-20 (V)
+
+_Abrogé par_:
+
+  - Décret n°2006-583 2006-05-23 art. 7 1° JORF 24 mai 2006
+
+_Nouveaux textes_:
+
+  - Code de l'éducation - art. D312-24 (V)
+
+
+##### Section 4 : L'enseignement des langues et cultures régionales.<a id=87></a>
 
 ###### Article L312-10
 
-Un enseignement de langues et cultures régionales peut être dispensé tout au long de la scolarité.
+Un enseignement de langues et cultures régionales peut être dispensé tout au long de la scolarité selon des modalités
+définies par voie de convention entre l'Etat et les collectivités territoriales où ces langues sont en usage.
 
 Le Conseil supérieur de l'éducation est consulté, conformément aux attributions qui lui sont conférées par l'article L.
 231-1, sur les moyens de favoriser l'étude des langues et cultures régionales dans les régions où ces langues sont en usage.
@@ -8664,6 +8881,10 @@ _Cité par_:
   - Loi n°2015-1268 du 14 octobre 2015 - art. 71
   - Code de l'éducation - art. L372-1 (V)
   - Code de l'éducation - art. L442-20 (V)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 20 () JORF 24 avril 2005
 
 _Cite_:
 
@@ -8708,7 +8929,7 @@ _Créé par_:
   - Loi n°2002-92 du 22 janvier 2002 - art. 7 () JORF 23 janvier 2002
 
 
-##### Section 5 : L'enseignement de la défense.<a id=86></a>
+##### Section 5 : L'enseignement de la défense.<a id=88></a>
 
 ###### Article L312-12
 
@@ -8742,7 +8963,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code du service national - art. L114-1 (V)
 
 
-##### Section 6 : Les enseignements de la sécurité.<a id=87></a>
+##### Section 6 : Les enseignements de la sécurité.<a id=89></a>
 
 ###### Article L312-13
 
@@ -8791,7 +9012,7 @@ _Cité par_:
   - Code de l'éducation - art. L374-4 (V)
 
 
-##### Section 7 : L'enseignement des problèmes démographiques.<a id=88></a>
+##### Section 7 : L'enseignement des problèmes démographiques.<a id=90></a>
 
 ###### Article L312-14
 
@@ -8810,14 +9031,15 @@ _Anciens textes_:
   - Code de la famille et de l'aide sociale. - art. 38 (Ab)
 
 
-##### Section 8 : L'enseignement d'éducation civique.<a id=89></a>
+##### Section 8 : L'enseignement d'éducation civique.<a id=91></a>
 
 ###### Article L312-15
 
-Outre les enseignements concourant aux objectifs définis à l'article L. 122-1, l'enseignement d'éducation civique comporte, à
-tous les stades de la scolarité, une formation à la connaissance et au respect des droits de l'enfant consacrés par la loi ou
-par un engagement international et à la compréhension des situations concrètes qui y portent atteinte. Dans ce cadre est
-donnée une information sur le rôle des organisations non gouvernementales oeuvrant pour la protection de l'enfant.
+Outre les enseignements concourant aux objectifs définis à l'article L. 131-1-1, l'enseignement d'éducation civique comporte,
+à tous les stades de la scolarité, une formation aux valeurs de la République, à la connaissance et au respect des droits de
+l'enfant consacrés par la loi ou par un engagement international et à la compréhension des situations concrètes qui y portent
+atteinte. Dans ce cadre est donnée une information sur le rôle des organisations non gouvernementales oeuvrant pour la
+protection de l'enfant.
 
 Lors de la présentation de la liste des fournitures scolaires, les élèves reçoivent une information sur la nécessité d'éviter
 l'achat de produits fabriqués par des enfants dans des conditions contraires aux conventions internationalement reconnues.
@@ -8842,7 +9064,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 22 () JORF 12 février 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 18 () JORF 24 avril 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 8 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -8858,10 +9081,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. L122-1 (T)
+  - Code de l'éducation - art. L131-1-1 (V)
 
 
-##### Section 9 : L'éducation à la santé et à la sexualité<a id=90></a>
+##### Section 9 : L'éducation à la santé et à la sexualité<a id=92></a>
 
 ###### Article L312-16
 
@@ -8915,7 +9138,7 @@ _Créé par_:
   - Loi n°2004-806 du 9 août 2004 - art. 49 () JORF 11 août 2004
 
 
-##### Section 10 : Prévention et information sur les toxicomanies.<a id=91></a>
+##### Section 10 : Prévention et information sur les toxicomanies.<a id=93></a>
 
 ###### Article L312-18
 
@@ -8936,17 +9159,20 @@ _Créé par_:
   - Loi n°2004-806 du 9 août 2004 - art. 51 () JORF 11 août 2004
 
 
-##### Chapitre III : L'information et l'orientation.<a id=92></a>
+##### Chapitre III : L'information et l'orientation.<a id=94></a>
 
 ###### Article L313-1
 
 Le droit au conseil en orientation et à l'information sur les enseignements, sur l'obtention d'une qualification
-professionnelle sanctionnée dans les conditions définies à l'article L. 115-1 du code du travail et sur les professions fait
-partie du droit à l'éducation.
+professionnelle sanctionnée dans les conditions définies à l'article L. 115-1 du code du travail, sur les professions ainsi
+que sur les débouchés et les perspectives professionnels fait partie du droit à l'éducation.
 
-Les élèves élaborent leur projet d'orientation scolaire et professionnelle en fonction de leurs aspirations et de leurs
-capacités avec l'aide des parents, des enseignants, des personnels d'orientation et des professionnels compétents. Les
-administrations concernées, les collectivités territoriales, les entreprises et les associations y contribuent.
+L'orientation et les formations proposées aux élèves tiennent compte de leurs aspirations, de leurs aptitudes et des
+perspectives professionnelles liées aux besoins prévisibles de la société, de l'économie et de l'aménagement du territoire.
+
+Dans ce cadre, les élèves élaborent leur projet d'orientation scolaire et professionnelle avec l'aide des parents, des
+enseignants, des personnels d'orientation et des autres professionnels compétents. Les administrations concernées, les
+collectivités territoriales, les organisations professionnelles, les entreprises et les associations y contribuent.
 
 **Liens relatifs à cet article**
 
@@ -8961,6 +9187,11 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 21 () JORF 24 avril 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 23 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -9107,7 +9338,7 @@ _Cité par_:
   - Code de l'éducation - art. D313-14 (V)
 
 
-##### Chapitre IV : La recherche et la documentation pédagogiques.<a id=93></a>
+##### Chapitre IV : La recherche et la documentation pédagogiques.<a id=95></a>
 
 ###### Article L314-1
 
@@ -9153,9 +9384,9 @@ _Cité par_:
   - Code de l'éducation - art. R451-1 (VD)
 
 
-#### Titre II : L'enseignement du premier degré<a id=94></a>
+#### Titre II : L'enseignement du premier degré<a id=96></a>
 
-##### Chapitre unique.<a id=95></a>
+##### Chapitre unique.<a id=97></a>
 
 ###### Article L321-1
 
@@ -9190,7 +9421,9 @@ _Cité par_:
 
 Sans rendre obligatoire l'apprentissage précoce de la lecture ou de l'écriture, la formation qui est dispensée dans les
 classes enfantines et les écoles maternelles favorise l'éveil de la personnalité des enfants. Elle tend à prévenir des
-difficultés scolaires, à dépister les handicaps et à compenser les inégalités.
+difficultés scolaires, à dépister les handicaps et à compenser les inégalités. La mission éducative de l'école maternelle
+comporte une première approche des outils de base de la connaissance, prépare les enfants aux apprentissages fondamentaux
+dispensés à l'école élémentaire et leur apprend les principes de la vie en société.
 
 L'Etat affecte le personnel enseignant nécessaire à ces activités éducatives.
 
@@ -9204,6 +9437,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 24 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -9220,8 +9457,9 @@ l'article L. 321-1 ; la période initiale peut être organisée sur une durée v
 
 Cette formation assure l'acquisition des instruments fondamentaux de la connaissance : expression orale ou écrite, lecture,
 calcul ; elle suscite le développement de l'intelligence, de la sensibilité artistique, des aptitudes manuelles, physiques et
-sportives. Elle offre une initiation aux arts plastiques et musicaux. Elle assure conjointement avec la famille l'éducation
-morale et l'éducation civique.
+sportives. Elle offre un premier apprentissage d'une langue vivante étrangère et une initiation aux arts plastiques et
+musicaux. Elle assure conjointement avec la famille l'éducation morale et offre un enseignement d'éducation civique qui
+comporte obligatoirement l'apprentissage de l'hymne national et de son histoire.
 
 **Liens relatifs à cet article**
 
@@ -9233,6 +9471,11 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 25 () JORF 24 avril 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 26 () JORF 24 avril 2005
 
 _Cite_:
 
@@ -9247,7 +9490,18 @@ _Cité par_:
 ###### Article L321-4
 
 Dans les écoles, des aménagements particuliers et des actions de soutien sont prévus au profit des élèves qui éprouvent des
-difficultés. Lorsque celles-ci sont graves et permanentes, les élèves reçoivent un enseignement adapté.
+difficultés, notamment les élèves atteints de troubles spécifiques du langage oral et/ou écrit, telle la dyslexie. Lorsque
+ces difficultés sont graves et permanentes, les élèves reçoivent un enseignement adapté.
+
+Des aménagements appropriés sont prévus au profit des élèves intellectuellement précoces ou manifestant des aptitudes
+particulières, afin de leur permettre de développer pleinement leurs potentialités. La scolarité peut être accélérée en
+fonction du rythme d'apprentissage de l'élève.
+
+Des actions particulières sont prévues pour l'accueil et la scolarisation des élèves non francophones nouvellement arrivés en
+France.
+
+Pour l'application des dispositions du présent article, des établissements scolaires peuvent se regrouper pour proposer des
+structures d'accueil adaptées.
 
 **Liens relatifs à cet article**
 
@@ -9260,28 +9514,40 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 27 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Code de l'éducation - art. L371-1 (V)
   - Code de l'éducation - art. L442-20 (V)
 
 
-#### Titre III : Les enseignements du second degré<a id=96></a>
+#### Titre III : Les enseignements du second degré<a id=98></a>
 
-##### Chapitre Ier : Dispositions communes aux enseignements du second degré<a id=97></a>
+##### Chapitre Ier : Dispositions communes aux enseignements du second degré<a id=99></a>
 
-##### Section 1 : Les examens et diplômes nationaux.<a id=98></a>
+##### Section 1 : Les examens et diplômes nationaux.<a id=100></a>
 
 ###### Article L331-1
 
-L'Etat sanctionne par des diplômes nationaux les formations secondaires.
+L'Etat sanctionne par des diplômes nationaux les formations secondaires. 
 
 Sous réserve des dispositions de l'article L. 335-14, les jurys sont composés de membres des personnels enseignants de
 l'Etat. Ils peuvent également comprendre des maîtres contractuels des établissements d'enseignement privés du second degré
-sous contrat d'association bénéficiant d'un contrat définitif.
+sous contrat d'association bénéficiant d'un contrat définitif. 
 
-En vue de la délivrance des diplômes, il peut être tenu compte, soit des résultats du contrôle continu, soit des résultats
-d'examens terminaux, soit de la combinaison des deux types de résultats.
+Les jurys des examens conduisant à la délivrance du diplôme national du brevet option internationale et du baccalauréat
+option internationale peuvent comprendre des membres de corps d'inspection ou d'enseignement étrangers. Les jurys des
+baccalauréats binationaux peuvent comprendre des membres de corps d'inspection ou d'enseignement des pays concernés. 
+
+En vue de la délivrance des diplômes, il peut être tenu compte, éventuellement en les combinant, des résultats d'examens
+terminaux, des résultats des contrôles en cours de formation, des résultats du contrôle continu des connaissances, et de la
+validation des acquis de l'expérience. 
+
+Lorsqu'une part de contrôle continu est prise en compte pour la délivrance d'un diplôme national, l'évaluation des
+connaissances des candidats s'effectue dans le respect des conditions d'équité. 
 
 Les diplômes peuvent être obtenus sous forme d'unités de valeur capitalisables.
 
@@ -9295,6 +9561,11 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 28 () JORF 24 avril 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 29 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -9359,7 +9630,7 @@ _Cité par_:
   - Code de l'éducation - art. R451-1 (VD)
 
 
-##### Section 2 : La formation en alternance.<a id=99></a>
+##### Section 2 : La formation en alternance.<a id=101></a>
 
 ###### Article L331-4
 
@@ -9453,7 +9724,7 @@ _Cite_:
   - Code du travail - art. L211-1 (M)
 
 
-##### Section 3 : La pratique sportive de haut niveau.<a id=100></a>
+##### Section 3 : La pratique sportive de haut niveau.<a id=102></a>
 
 ###### Article L331-6
 
@@ -9480,7 +9751,7 @@ _Cité par_:
   - Code du sport. - art. R221-20 (V)
 
 
-##### Section 4 : La procédure d'orientation.<a id=101></a>
+##### Section 4 : La procédure d'orientation.<a id=103></a>
 
 ###### Article L331-7
 
@@ -9500,8 +9771,8 @@ conduisent.
 Cette information est organisée sous la responsabilité des chefs d'établissement, dans le cadre des projets d'établissement
 ou de projets communs à plusieurs établissements. Elle est conjointement réalisée par les conseillers d'orientation-
 psychologues, les personnels enseignants, les conseillers de l'enseignement technologique et les représentants des
-organisations professionnelles et des chambres de commerce et d'industrie, de métiers et d'agriculture. Elle s'accompagne de
-la remise d'une documentation.
+organisations professionnelles et des chambres de commerce et d'industrie, de métiers et d'agriculture, en liaison avec les
+collectivités territoriales. Elle s'accompagne de la remise d'une documentation.
 
 **Liens relatifs à cet article**
 
@@ -9514,6 +9785,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 30 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -9562,7 +9837,7 @@ _Cité par_:
   - Code de l'éducation - art. L442-20 (V)
 
 
-##### Chapitre II : Les enseignements dispensés dans les collèges.<a id=102></a>
+##### Chapitre II : Les enseignements dispensés dans les collèges.<a id=104></a>
 
 ###### Article L332-1
 
@@ -9654,6 +9929,16 @@ difficultés. Lorsque celles-ci sont graves et permanentes, les élèves reçoiv
 Par ailleurs, des activités d'approfondissement dans les disciplines de l'enseignement commun des collèges sont offertes aux
 élèves qui peuvent en tirer bénéfice.
 
+Des aménagements appropriés sont prévus au profit des élèves intellectuellement précoces ou manifestant des aptitudes
+particulières, afin de leur permettre de développer pleinement leurs potentialités. La scolarité peut être accélérée en
+fonction du rythme d'apprentissage de l'élève.
+
+Des actions particulières sont prévues pour l'accueil et la scolarisation des élèves non francophones nouvellement arrivés en
+France.
+
+Pour l'application des dispositions du présent article, des établissements scolaires peuvent se regrouper pour proposer des
+structures d'accueil adaptées.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -9664,6 +9949,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 31 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -9691,7 +9980,46 @@ _Cité par_:
   - Code de l'éducation - art. L374-1 (V)
 
 
-##### Chapitre III : Dispositions communes aux enseignements dispensés dans les lycées.<a id=103></a>
+###### Article L332-6
+
+Le diplôme national du brevet sanctionne la formation acquise à l'issue de la scolarité suivie dans les collèges ou dans les
+classes de niveau équivalent situées dans d'autres établissements.
+
+Il atteste la maîtrise des connaissances et des compétences définies à l'article L. 122-1-1, intègre les résultats de
+l'enseignement d'éducation physique et sportive et prend en compte, dans des conditions déterminées par décret, les autres
+enseignements suivis par les élèves selon leurs capacités et leurs intérêts. Il comporte une note de vie scolaire.
+
+Des mentions sont attribuées aux lauréats qui se distinguent par la qualité de leurs résultats.
+
+Des bourses au mérite, qui s'ajoutent aux aides à la scolarité prévues au titre III du livre V, sont attribuées, sous
+conditions de ressources et dans des conditions déterminées par décret, aux lauréats qui obtiennent une mention ou à d'autres
+élèves méritants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 32 () JORF 24 avril 2005
+
+_Cite_:
+
+  - Code de l'éducation - art. L122-1-1 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. L371-1 (V)
+  - Code de l'éducation - art. L372-1 (V)
+  - Code de l'éducation - art. L373-1 (V)
+  - Code de l'éducation - art. L374-1 (V)
+  - Code de l'éducation - art. L442-20 (V)
+
+
+##### Chapitre III : Dispositions communes aux enseignements dispensés dans les lycées.<a id=105></a>
 
 ###### Article L333-1
 
@@ -9768,7 +10096,7 @@ _Abrogé par_:
   - Loi n°2013-595 du 8 juillet 2013 - art. 55
 
 
-##### Chapitre IV : Dispositions propres aux enseignements conduisant au baccalauréat général.<a id=104></a>
+##### Chapitre IV : Dispositions propres aux enseignements conduisant au baccalauréat général.<a id=106></a>
 
 ###### Article L334-1
 
@@ -9802,7 +10130,7 @@ _Cité par_:
   - Code de l'éducation - art. R451-1 (VD)
 
 
-##### Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles.<a id=105></a>
+##### Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles.<a id=107></a>
 
 ###### Article L335-1
 
@@ -9811,6 +10139,17 @@ qualification. Il constitue un facteur déterminant de la modernisation de l'éc
 
 Il doit permettre à ceux qui le suivent l'entrée dans la vie professionnelle à tous les niveaux de qualification et leur
 faciliter l'accès à des formations ultérieures.
+
+Un label de "lycée des métiers" peut être délivré par l'Etat aux établissements d'enseignement qui remplissent des critères
+définis par un cahier des charges national. Ces établissements comportent notamment des formations technologiques et
+professionnelles dont l'identité est construite autour d'un ensemble cohérent de métiers. Les enseignements y sont dispensés
+en formation initiale sous statut scolaire, en apprentissage et en formation continue. Ils préparent une gamme étendue de
+diplômes et titres nationaux allant du certificat d'aptitude professionnelle aux diplômes d'enseignement supérieur. Ces
+établissements offrent également des services de validation des acquis de l'expérience.
+
+Les autres caractéristiques de ce cahier des charges, ainsi que la procédure et la durée de délivrance du label de "lycée des
+métiers" sont définies par décret. La liste des établissements ayant obtenu le label est régulièrement publiée par arrêté du
+ministre chargé de l'éducation nationale.
 
 Des dispositions spéciales sont prises pour les enfants handicapés.
 
@@ -9834,6 +10173,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 33 () JORF 24 avril 2005
 
 _Nouveaux textes_:
 
@@ -11032,7 +11375,7 @@ _Cite_:
   - Code du travail - art. L900-2 (M)
 
 
-##### Chapitre VI : Dispositions propres aux formations technologiques.<a id=106></a>
+##### Chapitre VI : Dispositions propres aux formations technologiques.<a id=108></a>
 
 ###### Article L336-1
 
@@ -11093,7 +11436,7 @@ _Cité par_:
   - Code de l'éducation - art. L374-1 (V)
 
 
-##### Chapitre VII : Dispositions propres aux formations professionnelles.<a id=107></a>
+##### Chapitre VII : Dispositions propres aux formations professionnelles.<a id=109></a>
 
 ###### Article L337-1
 
@@ -11329,9 +11672,9 @@ _Cite_:
   - Code du travail - art. L115-2 (M)
 
 
-#### Titre IV : L'enseignement agricole et maritime<a id=108></a>
+#### Titre IV : L'enseignement agricole et maritime<a id=110></a>
 
-##### Chapitre Ier : L'enseignement agricole.<a id=109></a>
+##### Chapitre Ier : L'enseignement agricole.<a id=111></a>
 
 ###### Article L341-1
 
@@ -11493,9 +11836,9 @@ _Cite_:
   - PILOTE_SUIVEUR: Code rural - art. L813-2 (V)
 
 
-#### Titre V : Les enseignements pour les enfants et adolescents handicapés<a id=110></a>
+#### Titre V : Les enseignements pour les enfants et adolescents handicapés<a id=112></a>
 
-##### Chapitre Ier : Scolarité.<a id=111></a>
+##### Chapitre Ier : Scolarité.<a id=113></a>
 
 ###### Article L351-1
 
@@ -11670,7 +12013,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L146-9 (V)
 
 
-##### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.<a id=112></a>
+##### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.<a id=114></a>
 
 ###### Article L352-1
 
@@ -11703,9 +12046,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-#### Titre VI : Les enseignements préparant aux professions artistiques et sportives<a id=113></a>
+#### Titre VI : Les enseignements préparant aux professions artistiques et sportives<a id=115></a>
 
-##### Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.<a id=114></a>
+##### Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.<a id=116></a>
 
 ###### Article L361-1
 
@@ -11868,7 +12211,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : L'enseignement de la danse.<a id=115></a>
+##### Chapitre II : L'enseignement de la danse.<a id=117></a>
 
 ###### Article L362-1
 
@@ -12044,7 +12387,7 @@ _Cite_:
   - Code pénal - art. 227-22 (V)
 
 
-##### Chapitre III : Les formations et les professions des activités physiques et sportives.<a id=116></a>
+##### Chapitre III : Les formations et les professions des activités physiques et sportives.<a id=118></a>
 
 ###### Article L363-1
 
@@ -12354,15 +12697,15 @@ _Nouveaux textes_:
   - Code du sport. - art. L211-7 (V)
 
 
-#### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=117></a>
+#### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=119></a>
 
-##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=118></a>
+##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=120></a>
 
 ###### Article L371-1
 
-Sont applicables dans les îles Wallis et Futuna les articles L. 311-1 à L. 311-6, L. 312-7, L. 312-12, L. 312-15, L. 313-1 à
-L. 313-3, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-7, L. 331-8, L. 332-1 à L. 332-5, L. 333-1 à L. 333-3, L. 334-1,
-L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L. 336-2 et L. 337-1.
+Sont applicables dans les îles Wallis et Futuna les articles L. 311-1 à L. 311-4, L. 311-7, L. 312-7, L. 312-12, L. 312-15,
+L. 313-1 à L. 313-3, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-7, L. 331-8, L. 332-1 à L. 332-5, L. 332-6, L. 333-1 à
+L. 333-3, L. 334-1, L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L. 336-2 et L. 337-1.
 
 **Liens relatifs à cet article**
 
@@ -12377,18 +12720,24 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 56 () JORF 24 avril 2005
+
 _Cite_:
 
+  - Code de l'éducation - art. L311-7 (M)
   - Code de l'éducation - art. L312-12 (V)
   - Code de l'éducation - art. L312-15 (M)
   - Code de l'éducation - art. L312-7 (V)
   - Code de l'éducation - art. L331-7 (M)
   - Code de l'éducation - art. L331-8 (V)
+  - Code de l'éducation - art. L332-6 (V)
   - Code de l'éducation - art. L334-1 (V)
   - Code de l'éducation - art. L336-1 (V)
   - Code de l'éducation - art. L336-2 (V)
   - Code de l'éducation - art. L337-1 (V)
-  - Code de l'éducation L311-1 à L311-6, L312-7, L312-12, L312-15, L313-1 à L313-3, L321-1 à L321-4, L331-1 à L331-4, L331-7, L331-8, L332-1 à L332-5, L333-1 à L333-3, L334-1, L335-3 à L335-6, L335-9 à L335-11, L335-14 à L335-16, L336-1, L336-2, L337-1
+  - Code de l'éducation L311-1 à L311-4, L311-7, L312-7, L312-12, L312-15, L313-1 à L313-3, L321-1 à L321-4, L331-1 à L331-4, L331-7, L331-8, L332-1 à L332-5, L332-6, L333-1 à L333-3, L334-1, L335-3 à L335-6, L335-9 à L335-11, L335-14 à L335-16, L336-1,
 
 
 ###### Article L371-2
@@ -12404,14 +12753,14 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Dispositions applicables à Mayotte.<a id=119></a>
+##### Chapitre II : Dispositions applicables à Mayotte.<a id=121></a>
 
 ###### Article L372-1
 
-Sont applicables à Mayotte les articles L. 311-1 à L. 311-6, L. 312-1 à L. 312-4, L. 312-7, L. 312-12, L. 312-13-1, L.
-312-15, L. 312-16, L. 313-1, L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-6 à L. 331-8, L. 332-1 à L. 332-5, L.
-333-1 à L. 333-3, L. 334-1, L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L. 336-2, L. 337-1,
-L. 363-1 à L. 363-4.
+Sont applicables à Mayotte les articles L. 311-1 à L. 311-4, L. 311-7, L. 312-1 à L. 312-4, L. 312-7, L. 312-12, L. 312-13-1,
+L. 312-15, L. 312-16, L. 313-1, L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-6 à L. 331-8, L. 332-1 à L. 332-5,
+L. 332-6, L. 333-1 à L. 333-3, L. 334-1, L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L.
+336-2, L. 337-1, L. 363-1 à L. 363-4.
 
 **Liens relatifs à cet article**
 
@@ -12429,10 +12778,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-811 du 13 août 2004 - art. 90 () JORF 17 août 2004
+  - Loi n°2005-380 du 23 avril 2005 - art. 64 () JORF 24 avril 2005
 
 _Cite_:
 
+  - Code de l'éducation - art. L311-7 (M)
   - Code de l'éducation - art. L312-12 (V)
   - Code de l'éducation - art. L312-13-1 (V)
   - Code de l'éducation - art. L312-15 (M)
@@ -12440,11 +12790,12 @@ _Cite_:
   - Code de l'éducation - art. L312-7 (V)
   - Code de l'éducation - art. L313-1 (M)
   - Code de l'éducation - art. L313-2 (V)
+  - Code de l'éducation - art. L332-6 (V)
   - Code de l'éducation - art. L334-1 (V)
   - Code de l'éducation - art. L336-1 (V)
   - Code de l'éducation - art. L336-2 (V)
   - Code de l'éducation - art. L337-1 (V)
-  - Code de l'éducation L311-1 à L311-6, L312-1 à L312-4, L312-7, L312-12, L312-13-1, L312-15, L312-16, L313-1, L313-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332-1 à L332-5, L333-1 à L333-3, L334-1, L335-3 à L335-6, L335-9 à L335-11, L335-1
+  - Code de l'éducation L311-1 à L311-4, L311-7, L312-1 à L312-4, L312-7, L312-12, L312-13-1, L312-15, L312-16, L313-1, L313-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332-1 à L332-5, L332-6, L333-1 à L333-3, L334-1, L335-3 à L335-6, L335-9 à
 
 
 ###### Article L372-2
@@ -12465,13 +12816,16 @@ _Cité par_:
   - Arrêté du 6 juillet 2018 (V)
 
 
-##### Chapitre III : Dispositions applicables en Polynésie française.<a id=120></a>
+##### Chapitre III : Dispositions applicables en Polynésie française.<a id=122></a>
 
 ###### Article L373-1
 
-Sont applicables en Polynésie française les articles L. 312-12, L. 312-15, L. 313-1 à L. 313-3, L. 331-1 à L. 331-4, L.
-334-1, L. 335-5, L. 335-6, L. 335-9 à L. 335-11, L. 335-14, L. 335-16, le dernier alinéa de l'article L. 336-1, l'article L.
-336-2 et le troisième alinéa de l'article L. 337-1.
+Sont applicables en Polynésie française les articles L. 312-12, L. 312-15, L. 313-1 à L. 313-3, L. 331-1 à L. 331-4, les
+trois premiers alinéas de l'article L. 332-6, L. 334-1, L. 335-5, L. 335-6, L. 335-9 à L. 335-11, L. 335-14, L. 335-16, le
+dernier alinéa de l'article L. 336-1, l'article L. 336-2 et le troisième alinéa de l'article L. 337-1.
+
+Le dernier alinéa de l'article L. 332-6 est applicable en Polynésie française sans préjudice de l'exercice de leurs
+compétences par les autorités locales.
 
 **Liens relatifs à cet article**
 
@@ -12488,6 +12842,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 72 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Arrêté du 3 août 2016 (V)
@@ -12497,15 +12855,11 @@ _Cite_:
 
   - Code de l'éducation - art. L312-12 (V)
   - Code de l'éducation - art. L312-15 (M)
-  - Code de l'éducation - art. L334-1 (V)
-  - Code de l'éducation - art. L335-14 (V)
-  - Code de l'éducation - art. L335-16 (M)
-  - Code de l'éducation - art. L335-5 (M)
-  - Code de l'éducation - art. L335-6 (M)
+  - Code de l'éducation - art. L332-6 (V)
   - Code de l'éducation - art. L336-1 (V)
   - Code de l'éducation - art. L336-2 (V)
   - Code de l'éducation - art. L337-1 (V)
-  - Code de l'éducation L312-12, L312-15, L313-1 à L313-3, L331-1 à L331-4, L334-1, L335-5, L335-6, L335-9 à L335-11, L335-14, L335-16, L336-1, L336-2, L337-1
+  - Code de l'éducation L312-12, L312-15, L313-1 à L313-3, L331-1 à L331-4, L332-6, L336-1, L336-2, L337-1
 
 
 ###### Article L373-2
@@ -12544,19 +12898,23 @@ _Cité par_:
   - Arrêté du 6 juillet 2018 (V)
 
 
-##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=121></a>
+##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=123></a>
 
 ###### Article L374-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 312-7, L. 312-12, L. 312-15, L. 313-1 à L. 313-3, L. 331-1 à L. 331-4,
-L. 331-7, L. 331-8, L. 332-1 à L. 332-5, L. 333-1 à L. 333-3, L. 334-1, L. 335-3 à L. 335-5, les deux premiers alinéas de
-l'article L. 335-6, les articles L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L. 336-2 et L. 337-1.
+L. 331-7, L. 331-8, L. 332-1 à L. 332-5, les trois premiers alinéas de l'article L. 332-6, les articles L. 333-1 à L. 333-3,
+L. 334-1, L. 335-3 à L. 335-5, les deux premiers alinéas de l'article L. 335-6, les articles L. 335-9 à L. 335-11, L. 335-14
+à L. 335-16, L. 336-1, L. 336-2 et L. 337-1.
 
-Les articles L. 311-1 à L. 311-3, L. 311-5 et L. 311-6 ne sont applicables en Nouvelle-Calédonie qu'en tant qu'ils concernent
+Les articles L. 311-1 à L. 311-3-1 et L. 311-6 ne sont applicables en Nouvelle-Calédonie qu'en tant qu'ils concernent
 l'enseignement du premier degré dispensé dans les établissements d'enseignement privés et l'enseignement du second degré.
 
 Les articles L. 321-1 à L. 321-4 ne sont applicables en Nouvelle-Calédonie qu'en tant qu'ils concernent l'enseignement du
 premier degré dispensé dans les établissements d'enseignement privés.
+
+Le dernier alinéa de l'article L. 332-6 est applicable en Nouvelle-Calédonie sans préjudice de l'exercice de leurs
+compétences par les autorités locales.
 
 **Liens relatifs à cet article**
 
@@ -12573,21 +12931,24 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 79 () JORF 24 avril 2005
+
 _Cite_:
 
-  - Code de l'éducation - art. L311-5 (Ab)
   - Code de l'éducation - art. L311-6 (M)
   - Code de l'éducation - art. L312-12 (V)
   - Code de l'éducation - art. L312-15 (M)
   - Code de l'éducation - art. L312-7 (V)
   - Code de l'éducation - art. L331-7 (M)
   - Code de l'éducation - art. L331-8 (V)
-  - Code de l'éducation - art. L334-1 (V)
+  - Code de l'éducation - art. L332-6 (V)
   - Code de l'éducation - art. L335-6 (M)
   - Code de l'éducation - art. L336-1 (V)
   - Code de l'éducation - art. L336-2 (V)
   - Code de l'éducation - art. L337-1 (V)
-  - Code de l'éducation L312-7, L312-12, L312-15, L313-1 à L313-3, L331-1 à L331-4, L331-7, L331-8, L332-1 à L332-5, L333-1 à L333-3, L334-1, L335-3 à L335-5, L335-6, L335-9 à L335-11, L335-14 à L335-16, L336-1, L336-2, L337-1, L311-1 à L311-3, L311-5, L
+  - Code de l'éducation L312-7, L312-12, L312-15, L313-1 à L313-3, L331-1 à L331-4, L331-7, L331-8, L332-1 à L332-5, L332-6, L335-6, L335-9 à L335-11, L335-14 à L335-16, L336-1, L336-2, L337-1, L311-1 à L311-3-1, L311-6, L321-1 à L321-4
 
 
 ###### Article L374-2
@@ -12621,18 +12982,94 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-### Livre IV : Les établissements d'enseignement scolaire<a id=122></a>
+### Livre IV : Les établissements d'enseignement scolaire<a id=124></a>
 
-#### Titre Ier : Les écoles<a id=123></a>
+#### Titre préliminaire : Dispositions communes.<a id=125></a>
 
-##### Chapitre Ier : Organisation et fonctionnement des écoles maternelles et élémentaires.<a id=124></a>
+###### Article L401-1
+
+Dans chaque école et établissement d'enseignement scolaire public, un projet d'école ou d'établissement est élaboré avec les
+représentants de la communauté éducative. Le projet est adopté, pour une durée comprise entre trois et cinq ans, par le
+conseil d'école ou le conseil d'administration, sur proposition de l'équipe pédagogique de l'école ou du conseil pédagogique
+de l'établissement pour ce qui concerne sa partie pédagogique.
+
+Le projet d'école ou d'établissement définit les modalités particulières de mise en oeuvre des objectifs et des programmes
+nationaux et précise les activités scolaires et périscolaires qui y concourent. Il précise les voies et moyens qui sont mis
+en oeuvre pour assurer la réussite de tous les élèves et pour associer les parents à cette fin. Il détermine également les
+modalités d'évaluation des résultats atteints.
+
+Sous réserve de l'autorisation préalable des autorités académiques, le projet d'école ou d'établissement peut prévoir la
+réalisation d'expérimentations, pour une durée maximum de cinq ans, portant sur l'enseignement des disciplines,
+l'interdisciplinarité, l'organisation pédagogique de la classe, de l'école ou de l'établissement, la coopération avec les
+partenaires du système éducatif, les échanges ou le jumelage avec des établissements étrangers d'enseignement scolaire. Ces
+expérimentations font l'objet d'une évaluation annuelle.
+
+Le Haut Conseil de l'éducation établit chaque année un bilan des expérimentations menées en application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°81-594 du 11 mai 1981 - art. 8 (Ab)
+  - Décret n°85-924 du 30 août 1985 - art. 2-1 (Ab)
+  - Décret n°90-788 du 6 septembre 1990 - art. 9-1 (Ab)
+  - Arrêté du 4 novembre 2005 - art. 1 (V)
+  - Code de l'éducation - art. D230-5 (Ab)
+  - Code de l'éducation - art. D241-37 (V)
+  - Code de l'éducation - art. D241-38 (V)
+  - Code de l'éducation - art. D331-43 (V)
+  - Code de l'éducation - art. D411-8 (VD)
+  - Code de l'éducation - art. D422-65 (V)
+  - Code de l'éducation - art. L421-22 (V)
+  - Code de l'éducation - art. L491-1 (V)
+  - Code de l'éducation - art. L492-1 (V)
+  - Code de l'éducation - art. L494-1 (V)
+  - Code de l'éducation - art. R421-3 (V)
+  - Code de l'éducation - art. R421-41-3 (VD)
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 34 () JORF 24 avril 2005
+
+
+###### Article L401-2
+
+Dans chaque école et établissement d'enseignement scolaire public, le règlement intérieur précise les conditions dans
+lesquelles est assuré le respect des droits et des devoirs de chacun des membres de la communauté éducative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 34 () JORF 24 avril 2005
+
+_Cité par_:
+
+  - Code de l'éducation - art. L491-1 (M)
+  - Code de l'éducation - art. L492-1 (V)
+
+
+#### Titre Ier : Les écoles<a id=126></a>
+
+##### Chapitre Ier : Organisation et fonctionnement des écoles maternelles et élémentaires.<a id=127></a>
 
 ###### Article L411-1
 
 Un directeur veille à la bonne marche de chaque école maternelle ou élémentaire ; il assure la coordination nécessaire entre
-les maîtres. Les parents d'élèves élisent leurs représentants qui constituent un comité des parents, réuni périodiquement par
-le directeur de l'école. Le représentant de la commune ou de l'établissement public de coopération intercommunale intéressé
-assiste de plein droit à ces réunions.
+les maîtres. Un décret en Conseil d'Etat fixe les conditions de recrutement, de formation et d'exercice des fonctions
+spécifiques des directeurs d'école maternelle et élémentaire. Les parents d'élèves élisent leurs représentants qui
+constituent un comité des parents, réuni périodiquement par le directeur de l'école. Le représentant de la commune ou de
+l'établissement public de coopération intercommunale intéressé assiste de plein droit à ces réunions.
 
 **Liens relatifs à cet article**
 
@@ -12645,6 +13082,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 35 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Code de l'éducation - art. D411-1 (V)
@@ -12654,33 +13095,6 @@ _Cité par_:
   - Code de l'éducation - art. L491-1 (V)
   - Code de l'éducation - art. L492-1 (V)
   - Code de l'éducation - art. R451-1 (VD)
-
-
-###### Article L411-2
-
-Les écoles élaborent un projet d'établissement. Celui-ci définit les modalités particulières de mise en oeuvre des objectifs
-et des programmes nationaux. Il précise les activités scolaires et périscolaires prévues à cette fin. Il fait l'objet d'une
-évaluation. Il indique également les moyens particuliers mis en oeuvre pour prendre en charge les élèves issus des familles
-les plus défavorisées.
-
-Les membres de la communauté éducative sont associés à l'élaboration du projet qui est adopté par le conseil d'école, qui
-statue sur proposition des équipes pédagogiques pour ce qui concerne la partie pédagogique du projet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°89-486 1989-07-10 art. 18
-  - Loi n°89-486 du 10 juillet 1989 - art. 18 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Abrogé par_:
-
-  - Loi n°2005-380 du 23 avril 2005 - art. 34 () JORF 24 avril 2005
 
 
 ###### Article L411-3
@@ -12705,7 +13119,7 @@ _Cité par_:
   - Code de l'éducation - art. L492-1 (V)
 
 
-##### Chapitre II : Les écoles régionales du premier degré.<a id=125></a>
+##### Chapitre II : Les écoles régionales du premier degré.<a id=128></a>
 
 ###### Article L412-1
 
@@ -12736,9 +13150,9 @@ _Cite_:
   - Code de l'éducation - art. L421-23 (VT)
 
 
-#### Titre II : Les collèges et les lycées<a id=126></a>
+#### Titre II : Les collèges et les lycées<a id=129></a>
 
-##### Chapitre Ier : Organisation et fonctionnement des établissements publics locaux d'enseignement.<a id=127></a>
+##### Chapitre Ier : Organisation et fonctionnement des établissements publics locaux d'enseignement.<a id=130></a>
 
 ###### Article L421-1
 
@@ -12784,7 +13198,7 @@ _Cite_:
   - Code de l'éducation - art. L216-5 (V)
 
 
-##### Section 1 : Organisation administrative.<a id=128></a>
+##### Section 1 : Organisation administrative.<a id=131></a>
 
 ###### Article L421-2
 
@@ -12880,7 +13294,12 @@ autorités compétentes de l'Etat, les principes de mise en oeuvre de l'autonomi
 2° Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement, les résultats obtenus et les
 objectifs à atteindre ;
 
-3° Il adopte le budget dans les conditions fixées par le présent chapitre.
+3° Il adopte le budget dans les conditions fixées par le présent chapitre ;
+
+4° Il se prononce sur le contrat d'objectifs conclu entre l'établissement et l'autorité académique, après en avoir informé la
+collectivité territoriale de rattachement.
+
+Le conseil d'administration peut déléguer certaines de ses attributions à une commission permanente.
 
 **Liens relatifs à cet article**
 
@@ -12893,6 +13312,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 36 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Arrêté du 4 novembre 2005 - art. 1 (V)
@@ -12904,13 +13327,12 @@ _Cité par_:
 
 ###### Article L421-5
 
-Les collèges, les lycées d'enseignement général et technologique et les lycées professionnels élaborent un projet
-d'établissement. Celui-ci définit les modalités particulières de mise en oeuvre des objectifs et des programmes nationaux. Il
-précise les activités scolaires et périscolaires prévues à cette fin. Il fait l'objet d'une évaluation. Il indique également
-les moyens particuliers mis en oeuvre pour prendre en charge les élèves issus des familles les plus défavorisées.
+Dans chaque établissement public local d'enseignement, est institué un conseil pédagogique.
 
-Les membres de la communauté éducative sont associés à l'élaboration du projet qui est adopté par le conseil
-d'administration, qui statue sur proposition des équipes pédagogiques pour ce qui concerne la partie pédagogique du projet.
+Ce conseil, présidé par le chef d'établissement, réunit au moins un professeur principal de chaque niveau d'enseignement, au
+moins un professeur par champ disciplinaire, un conseiller principal d'éducation et, le cas échéant, le chef de travaux. Il a
+pour mission de favoriser la concertation entre les professeurs, notamment pour coordonner les enseignements, la notation et
+l'évaluation des activités scolaires. Il prépare la partie pédagogique du projet d'établissement.
 
 **Liens relatifs à cet article**
 
@@ -12941,13 +13363,20 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 38 () JORF 24 avril 2005
+
 
 ###### Article L421-7
 
 Les établissements scolaires organisent des contacts et des échanges avec leur environnement économique, culturel et social.
 
-Des établissements peuvent s'associer pour l'élaboration et la mise en oeuvre de projets communs, notamment dans le cadre
-d'un bassin de formation.
+Les collèges, lycées et centres de formation d'apprentis, publics et privés sous contrat, relevant de l'éducation nationale,
+de l'enseignement agricole ou d'autres statuts, peuvent s'associer au sein de réseaux, au niveau d'un bassin de formation,
+pour faciliter les parcours scolaires, permettre une offre de formation cohérente, mettre en oeuvre des projets communs et
+des politiques de partenariats, en relation avec les collectivités territoriales et leur environnement économique, culturel
+et social.
 
 **Liens relatifs à cet article**
 
@@ -12969,6 +13398,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 37 () JORF 24 avril 2005
 
 
 ###### Article L421-8
@@ -13051,7 +13484,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L322-56 (VT)
 
 
-##### Section 2 : Organisation financière.<a id=129></a>
+##### Section 2 : Organisation financière.<a id=132></a>
 
 ###### Article L421-11
 
@@ -13376,7 +13809,7 @@ _Cite_:
   - Code de l'éducation - art. L421-23 (VT)
 
 
-##### Section 3 : Dispositions applicables au patrimoine mobilier des établissements publics locaux d'enseignement.<a id=130></a>
+##### Section 3 : Dispositions applicables au patrimoine mobilier des établissements publics locaux d'enseignement.<a id=133></a>
 
 ###### Article L421-17
 
@@ -13453,7 +13886,7 @@ _Cité par_:
   - Code du sport. - art. L114-15 (VD)
 
 
-##### Section 4 : Dispositions applicables aux lycées professionnels maritimes.<a id=131></a>
+##### Section 4 : Dispositions applicables aux lycées professionnels maritimes.<a id=134></a>
 
 ###### Article L421-20
 
@@ -13522,7 +13955,7 @@ _Anciens textes_:
   - Loi n°42-466 1942-04-07 art. 1, art. 2
 
 
-##### Section 5 : Dispositions applicables aux lycées d'enseignement général et technologique agricole et aux lycées professionnels agricoles.<a id=132></a>
+##### Section 5 : Dispositions applicables aux lycées d'enseignement général et technologique agricole et aux lycées professionnels agricoles.<a id=135></a>
 
 ###### Article L421-22
 
@@ -13672,7 +14105,7 @@ _Modifié par_:
   - PILOTE_SUIVEUR: Code rural - art. L811-9 (V)
 
 
-##### Section 6 : Dispositions diverses.<a id=133></a>
+##### Section 6 : Dispositions diverses.<a id=136></a>
 
 ###### Article L421-23
 
@@ -13762,9 +14195,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement<a id=134></a>
+##### Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement<a id=137></a>
 
-##### Section 1 : Les établissements d'Etat.<a id=135></a>
+##### Section 1 : Les établissements d'Etat.<a id=138></a>
 
 ###### Article L422-1
 
@@ -13806,7 +14239,7 @@ _Cite_:
   - Code de l'éducation - art. L521-3 (V)
 
 
-##### Section 2 : Les établissements municipaux ou départementaux.<a id=136></a>
+##### Section 2 : Les établissements municipaux ou départementaux.<a id=139></a>
 
 ###### Article L422-2
 
@@ -13867,7 +14300,14 @@ responsabilité des grosses réparations, de l'équipement et du fonctionnement 
 l'entretien général et technique, de la restauration et de l'hébergement, à l'exception des missions d'encadrement et de
 surveillance des élèves. La commune ou le département assume, pendant la même période, les charges financières
 correspondantes, y compris la rémunération des personnels autres que ceux relevant de l'Etat en application de l'article L.
-211-8.
+211-8. 
+
+L'Ecole supérieure des arts appliqués aux industries de l'ameublement et d'architecture intérieure (Boulle), l'Ecole
+supérieure des arts appliqués (Duperré) et l'Ecole supérieure des arts et industries graphiques (Estienne) sont transformées
+en établissements publics locaux d'enseignement, conformément aux dispositions de l'article L. 421-1, à la demande de la
+commune de Paris. Par dérogation aux dispositions de l'article L. 214-6, la commune de Paris assume la charge de ces
+établissements. Elle exerce au lieu et place de la région les compétences dévolues par le présent code à la collectivité de
+rattachement.
 
 **Liens relatifs à cet article**
 
@@ -13876,14 +14316,15 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-809 du 13 août 2004 - art. 85 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 41 () JORF 24 avril 2005
 
 _Cite_:
 
-  - Code général des collectivités territoriales L1321-1 à L1321-8
-  - Code de l'éducation - art. L211-8 (M)
+  - Code général des collectivités territoriales - art. L1321-1 (V)
+  - Code de l'éducation - art. L211-8 (V)
+  - Code de l'éducation - art. L214-6 (V)
   - Code de l'éducation - art. L421-1 (V)
 
 _Cité par_:
@@ -13891,7 +14332,7 @@ _Cité par_:
   - Code de l'éducation - art. L492-1 (V)
 
 
-##### Chapitre III : Les groupements d'établissements scolaires publics.<a id=137></a>
+##### Chapitre III : Les groupements d'établissements scolaires publics.<a id=140></a>
 
 ###### Article L423-1
 
@@ -14018,7 +14459,7 @@ _Cité par_:
   - Code de la recherche - art. L114-5 (V)
 
 
-##### Chapitre IV : Les écoles de métiers.<a id=138></a>
+##### Chapitre IV : Les écoles de métiers.<a id=141></a>
 
 ###### Article L424-1
 
@@ -14106,9 +14547,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-#### Titre III : Les centres de formation d'apprentis<a id=139></a>
+#### Titre III : Les centres de formation d'apprentis<a id=142></a>
 
-##### Chapitre unique.<a id=140></a>
+##### Chapitre unique.<a id=143></a>
 
 ###### Article L431-1
 
@@ -14230,11 +14671,11 @@ _Cite_:
   - Code du travail L116-1 à L116-4, L116-7, L116-8
 
 
-#### Titre IV : Les établissements d'enseignement privés<a id=141></a>
+#### Titre IV : Les établissements d'enseignement privés<a id=144></a>
 
-##### Chapitre Ier : L'ouverture des établissements d'enseignement privés<a id=142></a>
+##### Chapitre Ier : L'ouverture des établissements d'enseignement privés<a id=145></a>
 
-##### Section 1 : L'ouverture des établissements d'enseignement du premier degré privés.<a id=143></a>
+##### Section 1 : L'ouverture des établissements d'enseignement du premier degré privés.<a id=146></a>
 
 ###### Article L441-1
 
@@ -14395,7 +14836,7 @@ _Anciens textes_:
   - Loi n°1886-10-30 du 30 octobre 1886 - art. 40 (Ab)
 
 
-##### Section 2 : L'ouverture des établissements d'enseignement du second degré privés.<a id=144></a>
+##### Section 2 : L'ouverture des établissements d'enseignement du second degré privés.<a id=147></a>
 
 ###### Article L441-5
 
@@ -14581,7 +15022,7 @@ _Cité par_:
   - Code de l'éducation - art. R441-14 (Ab)
 
 
-##### Section 3 : L'ouverture des établissements d'enseignement technique privés.<a id=145></a>
+##### Section 3 : L'ouverture des établissements d'enseignement technique privés.<a id=148></a>
 
 ###### Article L441-10
 
@@ -14742,9 +15183,9 @@ _Modifié par_:
   - Loi n°2004-809 2004-08-13 art. 78 9° JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
-##### Chapitre II : Rapports entre l'Etat et les établissements d'enseignement privés<a id=146></a>
+##### Chapitre II : Rapports entre l'Etat et les établissements d'enseignement privés<a id=149></a>
 
-##### Section 1 : Contrôle de l'Etat sur les établissements d'enseignement privés.<a id=147></a>
+##### Section 1 : Contrôle de l'Etat sur les établissements d'enseignement privés.<a id=150></a>
 
 ###### Article L442-1
 
@@ -14793,7 +15234,7 @@ titres exigés des directeurs et des maîtres, à l'obligation scolaire, à l'in
 public et des bonnes moeurs, à la prévention sanitaire et sociale.
 
 L'inspecteur d'académie peut prescrire chaque année un contrôle des classes hors contrat afin de s'assurer que l'enseignement
-qui y est dispensé respecte les normes minimales de connaissances requises par l'article L. 122-1 et que les élèves de ces
+qui y est dispensé respecte les normes minimales de connaissances requises par l'article L. 131-1-1 et que les élèves de ces
 classes ont accès au droit à l'éducation tel que celui-ci est défini par l'article L. 111-1.
 
 Ce contrôle a lieu dans l'établissement d'enseignement privé dont relèvent ces classes hors contrat.
@@ -14804,7 +15245,7 @@ contraire.
 
 En cas de refus de sa part d'améliorer la situation et notamment de dispenser, malgré la mise en demeure de l'inspecteur
 d'académie, un enseignement conforme à l'objet de l'instruction obligatoire, tel que celui-ci est défini par les articles L.
-122-1 et L. 131-10, l'autorité académique avise le procureur de la République des faits susceptibles de constituer une
+131-1-1 et L. 131-10, l'autorité académique avise le procureur de la République des faits susceptibles de constituer une
 infraction pénale.
 
 Dans cette hypothèse, les parents des élèves concernés sont mis en demeure d'inscrire leur enfant dans un autre
@@ -14822,6 +15263,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 8 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Code de l'éducation - art. D442-22-1 (V)
@@ -14836,7 +15281,7 @@ _Cité par_:
 _Cite_:
 
   - Code de l'éducation - art. L111-1 (M)
-  - Code de l'éducation - art. L122-1 (T)
+  - Code de l'éducation - art. L131-1-1 (V)
   - Code de l'éducation - art. L131-10 (M)
 
 
@@ -14844,9 +15289,18 @@ _Cite_:
 
 Les directeurs d'écoles élémentaires privées qui ne sont pas liées à l'Etat par contrat sont entièrement libres dans le choix
 des méthodes, des programmes et des livres, sous réserve de respecter l'objet de l'instruction obligatoire tel que celui-ci
-est défini par les articles L. 122-1 et L. 131-10.
+est défini par les articles L. 131-1-1 et L. 131-10.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'éducation - art. L131-1-1 (V)
+  - Code de l'éducation - art. L131-10 (V)
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 261 (M)
 
 _Anciens textes_:
 
@@ -14858,17 +15312,12 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'éducation - art. L122-1 (T)
-  - Code de l'éducation - art. L131-10 (M)
-
-_Cité par_:
-
-  - Code général des impôts, CGI. - art. 261 (M)
+  - Loi n°2005-380 du 23 avril 2005 - art. 8 () JORF 24 avril 2005
 
 
-##### Section 2 : Demande d'intégration d'établissements d'enseignement privés dans l'enseignement public.<a id=148></a>
+##### Section 2 : Demande d'intégration d'établissements d'enseignement privés dans l'enseignement public.<a id=151></a>
 
 ###### Article L442-4
 
@@ -14896,7 +15345,7 @@ _Cité par_:
   - Code de l'éducation - art. R442-23 (V)
 
 
-##### Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat par des établissements d'enseignement privés.<a id=149></a>
+##### Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat par des établissements d'enseignement privés.<a id=152></a>
 
 ###### Article L442-5
 
@@ -15192,7 +15641,7 @@ _Cité par_:
   - Code de l'éducation - art. R442-72 (V)
 
 
-##### Section 4 : Contrat simple passé avec l'Etat par des établissements d'enseignement privés.<a id=150></a>
+##### Section 4 : Contrat simple passé avec l'Etat par des établissements d'enseignement privés.<a id=153></a>
 
 ###### Article L442-12
 
@@ -15255,7 +15704,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 231 ter (V)
 
 
-##### Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat.<a id=151></a>
+##### Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat.<a id=154></a>
 
 ###### Article L442-13
 
@@ -15495,10 +15944,11 @@ _Cite_:
 ###### Article L442-20
 
 Les articles L. 111-1, L. 111-2, L. 111-3, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1, L.
-121-3, L. 122-1 à L. 122-5, L. 131-1, L. 311-1 à L. 311-6, L. 312-10, L. 313-1, L. 321-1, le premier alinéa de l'article L.
-321-2, les articles L. 321-3, L. 321-4, L. 331-1, L. 331-4, L. 331-7, L. 331-8, L. 332-1 à L. 332-4, L. 333-1 à L. 333-3, L.
-334-1, L. 337-2, L. 337-3, L. 511-3, la première phrase de l'article L. 521-1 et l'article L. 551-1 sont applicables aux
-établissements d'enseignement privés sous contrat dans le respect des dispositions du présent chapitre.
+121-3, L. 122-1 à L. 122-5, L. 131-1, L. 131-1-1, L. 230-1, L. 230-2, L. 230-3, L. 311-1 à L. 311-4, L. 311-6, L. 311-7, L.
+312-10, L. 313-1, L. 321-1, le premier alinéa de l'article L. 321-2, les articles L. 321-3, L. 321-4, L. 331-1, L. 331-4, L.
+331-7, L. 331-8, L. 332-1 à L. 332-4, L. 332-6, L. 333-1 à L. 333-3, L. 334-1, L. 337-2, L. 337-3, L. 511-3, la première
+phrase de l'article L. 521-1 et l'article L. 551-1 sont applicables aux établissements d'enseignement privés sous contrat
+dans le respect des dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -15512,6 +15962,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 51 () JORF 24 avril 2005
+
 _Cite_:
 
   - Code de l'éducation - art. L111-1 (M)
@@ -15522,6 +15976,11 @@ _Cite_:
   - Code de l'éducation - art. L121-1 (M)
   - Code de l'éducation - art. L121-3 (V)
   - Code de l'éducation - art. L131-1 (V)
+  - Code de l'éducation - art. L230-1 (V)
+  - Code de l'éducation - art. L230-2 (V)
+  - Code de l'éducation - art. L230-3 (V)
+  - Code de l'éducation - art. L311-6 (M)
+  - Code de l'éducation - art. L311-7 (M)
   - Code de l'éducation - art. L312-10 (M)
   - Code de l'éducation - art. L313-1 (M)
   - Code de l'éducation - art. L321-1 (V)
@@ -15532,13 +15991,14 @@ _Cite_:
   - Code de l'éducation - art. L331-4 (V)
   - Code de l'éducation - art. L331-7 (M)
   - Code de l'éducation - art. L331-8 (V)
+  - Code de l'éducation - art. L332-6 (V)
   - Code de l'éducation - art. L334-1 (V)
   - Code de l'éducation - art. L337-2 (V)
   - Code de l'éducation - art. L337-3 (M)
   - Code de l'éducation - art. L511-3 (M)
   - Code de l'éducation - art. L521-1 (V)
   - Code de l'éducation - art. L551-1 (V)
-  - Code de l'éducation L111-1, L111-2, L111-3, L112-2, L113-1, L121-1, L121-3, L122-1 à L122-5, L131-1, L311-1 à L311-6, L312-10, L313-1, L321-1, L321-2, L321-3, L321-4, L331-1, L331-4, L331-7, L331-8, L332-1 à L332-4, L333-1 à L333-3, L334-1, L337-2, L
+  - Code de l'éducation L111-1, L111-2, L111-3, L112-2, L113-1, L121-1, L121-3, L122-1 à L122-5, L131-1, L311-1-1, L230-1, L230-2, L230-3, L311-1 à L311-4, L311-6, L311-7, L312-10, L313-1, L321-1, L321-2, L321-3, L321-4, L331-1, L331-4, L331-7, L331-8, L
 
 _Cité par_:
 
@@ -15546,7 +16006,7 @@ _Cité par_:
   - Code de l'éducation - art. L494-1 (V)
 
 
-##### Section 6 : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat.<a id=152></a>
+##### Section 6 : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat.<a id=155></a>
 
 ###### Article L442-21
 
@@ -15623,9 +16083,9 @@ _Cite_:
   - PILOTE_SUIVEUR: Code rural - art. L813-7 (V)
 
 
-##### Chapitre III : Les établissements d'enseignement technique privés<a id=153></a>
+##### Chapitre III : Les établissements d'enseignement technique privés<a id=156></a>
 
-##### Section 1 : Les écoles des chambres de commerce et d'industrie.<a id=154></a>
+##### Section 1 : Les écoles des chambres de commerce et d'industrie.<a id=157></a>
 
 ###### Article L443-1
 
@@ -15668,7 +16128,7 @@ _Anciens textes_:
   - Loi n°1919-07-25 art. 10
 
 
-##### Section 2 : Les écoles techniques privées.<a id=155></a>
+##### Section 2 : Les écoles techniques privées.<a id=158></a>
 
 ###### Article L443-2
 
@@ -15762,7 +16222,7 @@ _Anciens textes_:
   - Loi n°1919-07-25 art. 36
 
 
-##### Section 3 : Les centres d'apprentissage privés.<a id=156></a>
+##### Section 3 : Les centres d'apprentissage privés.<a id=159></a>
 
 ###### Article L443-5
 
@@ -15793,7 +16253,7 @@ _Cite_:
   - Code de l'éducation - art. L443-2 (V)
 
 
-##### Chapitre IV : Les établissements privés dispensant un enseignement à distance.<a id=157></a>
+##### Chapitre IV : Les établissements privés dispensant un enseignement à distance.<a id=160></a>
 
 ###### Article L444-1
 
@@ -16081,24 +16541,15 @@ _Cite_:
   - Code du travail - art. L920-1 (M)
 
 
-#### Titre V : Les établissements français d'enseignement à l'étranger<a id=158></a>
+#### Titre V : Les établissements français d'enseignement à l'étranger<a id=161></a>
 
-##### Chapitre Ier : Dispositions générales.<a id=159></a>
+##### Chapitre Ier : Dispositions générales.<a id=162></a>
 
 ###### Article L451-1
 
-Des décrets en Conseil d'Etat fixent les conditions dans lesquelles les dispositions des articles L. 111-1 à L. 111-4, L.
-112-2, L. 113-1, L. 121-1, L. 121-3, L. 122-2 à L. 122-5, L. 131-1, L. 132-1, L. 141-5-1, L. 231-1 à L. 231-9, L. 236-1, L.
-241-1 à L. 241-3, L. 311-1 à L. 311-6, L. 313-1, L. 313-2, L. 314-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-6 à L.
-331-8, L. 332-1 à L. 332-5, L. 333-1 à L. 333-3, L. 334-1, L. 335-1, L. 335-2, L. 336-1, L. 337-1, L. 337-2, L. 411-1 à L.
-411-3, L. 421-3, L. 421-5 à L. 421-7, L. 421-9, L. 423-1, L. 511-1 à L. 511-4, L. 521-1, L. 521-4, L. 551-1, L. 911-1, L.
-912-1, L. 912-3, L. 913-1 sont appliquées aux établissements scolaires français à l'étranger, compte tenu de leur situation
-particulière et des accords conclus avec des Etats étrangers.
-
-**Nota:**
-
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-scolaire qui suit sa publication.
+Des décrets en Conseil d'Etat fixent les conditions dans lesquelles les dispositions du présent code sont appliquées aux
+établissements scolaires français à l'étranger, compte tenu de leur situation particulière et des accords conclus avec des
+Etats étrangers.
 
 **Liens relatifs à cet article**
 
@@ -16117,47 +16568,12 @@ _Cité par_:
   - Loi n°2002-1062 du 6 août 2002 - art. 11 (V)
   - Code de l'éducation - art. L452-4 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
-
 _Modifié par_:
 
-  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
-
-_Cite_:
-
-  - Code de l'éducation - art. L112-2 (M)
-  - Code de l'éducation - art. L113-1 (M)
-  - Code de l'éducation - art. L121-1 (M)
-  - Code de l'éducation - art. L121-3 (V)
-  - Code de l'éducation - art. L131-1 (V)
-  - Code de l'éducation - art. L132-1 (V)
-  - Code de l'éducation - art. L141-5-1 (V)
-  - Code de l'éducation - art. L236-1 (V)
-  - Code de l'éducation - art. L313-1 (M)
-  - Code de l'éducation - art. L313-2 (V)
-  - Code de l'éducation - art. L314-2 (V)
-  - Code de l'éducation - art. L334-1 (V)
-  - Code de l'éducation - art. L335-1 (M)
-  - Code de l'éducation - art. L335-2 (V)
-  - Code de l'éducation - art. L336-1 (V)
-  - Code de l'éducation - art. L337-1 (V)
-  - Code de l'éducation - art. L337-2 (V)
-  - Code de l'éducation - art. L421-3 (V)
-  - Code de l'éducation - art. L421-9 (V)
-  - Code de l'éducation - art. L423-1 (V)
-  - Code de l'éducation - art. L521-1 (V)
-  - Code de l'éducation - art. L521-4 (V)
-  - Code de l'éducation - art. L551-1 (V)
-  - Code de l'éducation - art. L911-1 (V)
-  - Code de l'éducation - art. L912-1 (M)
-  - Code de l'éducation - art. L912-3 (V)
-  - Code de l'éducation - art. L913-1 (M)
-  - Code de l'éducation L111-1 à L111-4, L112-2, L113-1, L121-1, L121-3, L122-2 à L122-5, L131-1, L132-1, L141-5-1, L231-1 à L231-9, L236-1, L241-1 à L241-3, L311-1 à L311-6, L313-1, L313-2, L314-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332
+  - Loi n°2005-380 du 23 avril 2005 - art. 52 () JORF 24 avril 2005
 
 
-##### Chapitre II : L'Agence pour l'enseignement français à l'étranger.<a id=160></a>
+##### Chapitre II : L'Agence pour l'enseignement français à l'étranger.<a id=163></a>
 
 ###### Article L452-1
 
@@ -16435,7 +16851,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne.<a id=161></a>
+##### Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne.<a id=164></a>
 
 ###### Article L453-1
 
@@ -16454,11 +16870,11 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-#### Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives<a id=162></a>
+#### Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives<a id=165></a>
 
-##### Chapitre II : Les établissements d'enseignement de la danse<a id=163></a>
+##### Chapitre II : Les établissements d'enseignement de la danse<a id=166></a>
 
-##### Section 1 : Conditions d'exploitation d'une salle de danse à des fins d'enseignement.<a id=164></a>
+##### Section 1 : Conditions d'exploitation d'une salle de danse à des fins d'enseignement.<a id=167></a>
 
 ###### Article L462-1
 
@@ -16580,7 +16996,7 @@ _Cite_:
   - Code de l'éducation - art. L462-1 (V)
 
 
-##### Section 2 : Dispositions pénales.<a id=165></a>
+##### Section 2 : Dispositions pénales.<a id=168></a>
 
 ###### Article L462-5
 
@@ -16676,7 +17092,7 @@ _Cite_:
   - Code pénal - art. 227-22 (V)
 
 
-##### Chapitre III : Les établissements de formation aux professions des activités physiques et sportives.<a id=166></a>
+##### Chapitre III : Les établissements de formation aux professions des activités physiques et sportives.<a id=169></a>
 
 ###### Article L463-1
 
@@ -17059,9 +17475,9 @@ _Nouveaux textes_:
   - Code du sport. - art. L322-4 (V)
 
 
-#### Titre VII : Dispositions communes<a id=167></a>
+#### Titre VII : Dispositions communes<a id=170></a>
 
-##### Chapitre Ier : Publicité et démarchage.<a id=168></a>
+##### Chapitre Ier : Publicité et démarchage.<a id=171></a>
 
 ###### Article L471-1
 
@@ -17186,7 +17602,7 @@ _Cité par_:
   - Code de l'éducation - art. R471-7 (V)
 
 
-##### Chapitre II : Dispositions pénales.<a id=169></a>
+##### Chapitre II : Dispositions pénales.<a id=172></a>
 
 ###### Article L472-1
 
@@ -17212,9 +17628,9 @@ _Cite_:
   - Code de procédure pénale - art. 395 (V)
 
 
-#### Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=170></a>
+#### Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle<a id=173></a>
 
-##### Chapitre unique.<a id=171></a>
+##### Chapitre unique.<a id=174></a>
 
 ###### Article L481-1
 
@@ -17233,14 +17649,14 @@ _Cité par_:
   - Code de l'éducation - art. R481-1 (V)
 
 
-#### Titre IX : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=172></a>
+#### Titre IX : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=175></a>
 
-##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=173></a>
+##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=176></a>
 
 ###### Article L491-1
 
-Sont applicables dans les îles Wallis et Futuna les articles L. 411-1 à L. 411-3, L. 421-5 à L. 421-10 et L. 423-1 à L.
-423-3.
+Sont applicables dans les îles Wallis et Futuna les articles L. 401-1, L. 401-2, L. 411-1 et L. 411-3, L. 421-7 à L. 421-10
+et L. 423-1 à L. 423-3.
 
 **Liens relatifs à cet article**
 
@@ -17255,17 +17671,25 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 57 () JORF 24 avril 2005
+
 _Cite_:
 
-  - Code de l'éducation L411-1 à L411-3, L421-5 à L421-10, L423-1 à L423-3
+  - Code de l'éducation - art. L401-1 (V)
+  - Code de l'éducation - art. L401-2 (V)
+  - Code de l'éducation - art. L411-1 (M)
+  - Code de l'éducation - art. L411-3 (V)
+  - Code de l'éducation L401-1, L401-2, L411-1, L411-3, L421-7 à L421-10, L423-1 à L423-3
 
 
-##### Chapitre II : Dispositions applicables à Mayotte.<a id=174></a>
+##### Chapitre II : Dispositions applicables à Mayotte.<a id=177></a>
 
 ###### Article L492-1
 
-Sont applicables à Mayotte les articles L. 411-1 à L. 411-3, L. 421-5 à L. 421-10, L. 423-1 à L. 423-3, L. 442-6, L. 442-7 et
-L. 463-1 à L. 463-7.
+Sont applicables à Mayotte les articles L. 401-1, L. 401-2, L. 411-1, L. 411-3, L. 421-7 à L. 421-10, L. 423-1 à L. 423-3, L.
+442-6, L. 442-7 et L. 463-1 à L. 463-7.
 
 **Liens relatifs à cet article**
 
@@ -17281,11 +17705,19 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 65 () JORF 24 avril 2005
+
 _Cite_:
 
+  - Code de l'éducation - art. L401-1 (V)
+  - Code de l'éducation - art. L401-2 (V)
+  - Code de l'éducation - art. L411-1 (M)
+  - Code de l'éducation - art. L411-3 (V)
   - Code de l'éducation - art. L442-6 (V)
   - Code de l'éducation - art. L442-7 (V)
-  - Code de l'éducation L411-1 à L411-3, L421-5 à L421-10, L423-1 à L423-3, L442-6, L442-7, L463-1 à L463-7
+  - Code de l'éducation L401-1, L401-2, L411-1, L411-3, L421-7 à L421-10, L423-1 à L423-3, L442-6, L442-7, L463-1 à L463-7
 
 
 ###### Article L492-2
@@ -17301,7 +17733,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre III : Dispositions applicables en Polynésie française.<a id=175></a>
+##### Chapitre III : Dispositions applicables en Polynésie française.<a id=178></a>
 
 ###### Article L493-1
 
@@ -17335,12 +17767,15 @@ _Cite_:
   - Code de l'éducation - art. L442-5 (M)
 
 
-##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=176></a>
+##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=179></a>
 
 ###### Article L494-1
 
-Sont applicables en Nouvelle-Calédonie les articles L. 421-5 à L. 421-7, L. 421-9, L. 421-10, L. 423-1 à L. 423-3, L. 442-1,
+Sont applicables en Nouvelle-Calédonie les articles L. 421-6 à L. 421-7, L. 421-9, L. 421-10, L. 423-1 à L. 423-3, L. 442-1,
 le premier alinéa de l'article L. 442-2, les articles L. 442-4, L. 442-5, L. 442-12, L. 442-15, L. 442-18 et L. 442-20.
+
+L'article L. 401-1 n'est applicable en Nouvelle-Calédonie qu'en tant qu'il concerne les établissements d'enseignement publics
+du second degré.
 
 **Liens relatifs à cet article**
 
@@ -17357,8 +17792,13 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 80 () JORF 24 avril 2005
+
 _Cite_:
 
+  - Code de l'éducation - art. L401-1 (V)
   - Code de l'éducation - art. L421-10 (M)
   - Code de l'éducation - art. L421-9 (V)
   - Code de l'éducation - art. L442-1 (V)
@@ -17369,14 +17809,14 @@ _Cite_:
   - Code de l'éducation - art. L442-20 (M)
   - Code de l'éducation - art. L442-4 (V)
   - Code de l'éducation - art. L442-5 (M)
-  - Code de l'éducation L421-5 à L421-7, L421-9, L421-10, L423-1 à L423-3, L442-1, L442-2, L442-4, L442-5, L442-12, L442-15, L442-18, L442-20
+  - Code de l'éducation L421-6 à L421-7, L421-9, L421-10, L423-1 à L423-3, L442-1, L442-2, L442-4, L442-5, L442-12, L442-15, L442-18, L442-20, L401-1
 
 
-### Livre V : La vie scolaire<a id=177></a>
+### Livre V : La vie scolaire<a id=180></a>
 
-#### Titre Ier : Les droits et obligations des élèves<a id=178></a>
+#### Titre Ier : Les droits et obligations des élèves<a id=181></a>
 
-##### Chapitre unique.<a id=179></a>
+##### Chapitre unique.<a id=182></a>
 
 ###### Article L511-1
 
@@ -17500,9 +17940,9 @@ _Cite_:
   - Code civil - art. 21-7 (V)
 
 
-#### Titre II : L'organisation du temps et de l'espace scolaires<a id=180></a>
+#### Titre II : L'organisation du temps et de l'espace scolaires<a id=183></a>
 
-##### Chapitre unique.<a id=181></a>
+##### Chapitre unique.<a id=184></a>
 
 ###### Article L521-1
 
@@ -17629,9 +18069,9 @@ _Cité par_:
   - Code de l'éducation - art. R451-1 (VD)
 
 
-#### Titre III : Les aides à la scolarité<a id=182></a>
+#### Titre III : Les aides à la scolarité<a id=185></a>
 
-##### Chapitre Ier : L'aide à la scolarité et les bourses nationales.<a id=183></a>
+##### Chapitre Ier : L'aide à la scolarité et les bourses nationales.<a id=186></a>
 
 ###### Article L531-1
 
@@ -17783,7 +18223,7 @@ _Cite_:
   - Code de l'éducation - art. L443-2 (V)
 
 
-##### Chapitre II : L'allocation de rentrée scolaire.<a id=184></a>
+##### Chapitre II : L'allocation de rentrée scolaire.<a id=187></a>
 
 ###### Article L532-1
 
@@ -17847,7 +18287,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L755-22 (V)
 
 
-##### Chapitre III : Les aides attribuées par les collectivités territoriales.<a id=185></a>
+##### Chapitre III : Les aides attribuées par les collectivités territoriales.<a id=188></a>
 
 ###### Article L533-1
 
@@ -17902,9 +18342,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-#### Titre IV : La santé scolaire<a id=186></a>
+#### Titre IV : La santé scolaire<a id=189></a>
 
-##### Chapitre Ier : La protection de la santé.<a id=187></a>
+##### Chapitre Ier : La protection de la santé.<a id=190></a>
 
 ###### Article L541-1
 
@@ -18114,7 +18554,7 @@ _Cite_:
   - Code rural L751-1
 
 
-##### Chapitre II : La prévention des mauvais traitements.<a id=188></a>
+##### Chapitre II : La prévention des mauvais traitements.<a id=191></a>
 
 ###### Article L542-1
 
@@ -18239,9 +18679,9 @@ _Anciens textes_:
   - Code de la santé publique - art. L198-3 (Ab)
 
 
-#### Titre V : Les activités périscolaires, sportives et culturelles<a id=189></a>
+#### Titre V : Les activités périscolaires, sportives et culturelles<a id=192></a>
 
-##### Chapitre Ier : Les activités périscolaires.<a id=190></a>
+##### Chapitre Ier : Les activités périscolaires.<a id=193></a>
 
 ###### Article L551-1
 
@@ -18290,7 +18730,7 @@ _Cité par_:
   - Code de l'éducation - art. R551-13 (VD)
 
 
-##### Chapitre II : Les activités physiques et sportives.<a id=191></a>
+##### Chapitre II : Les activités physiques et sportives.<a id=194></a>
 
 ###### Article L552-1
 
@@ -18404,9 +18844,9 @@ _Modifié par_:
   - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
 
 
-#### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=192></a>
+#### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=195></a>
 
-##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=193></a>
+##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=196></a>
 
 ###### Article L561-1
 
@@ -18433,7 +18873,7 @@ _Cite_:
   - Code de l'éducation - art. L551-1 (V)
 
 
-##### Chapitre II : Dispositions applicables à Mayotte.<a id=194></a>
+##### Chapitre II : Dispositions applicables à Mayotte.<a id=197></a>
 
 ###### Article L562-1
 
@@ -18465,7 +18905,7 @@ _Cite_:
   - Code de l'éducation - art. L552-1 (V)
 
 
-##### Chapitre III : Dispositions applicables en Polynésie française.<a id=195></a>
+##### Chapitre III : Dispositions applicables en Polynésie française.<a id=198></a>
 
 ###### Article L563-1
 
@@ -18492,7 +18932,7 @@ _Cite_:
   - Code de l'éducation - art. L542-1 (V)
 
 
-##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=196></a>
+##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=199></a>
 
 ###### Article L564-1
 
@@ -18525,13 +18965,13 @@ _Cite_:
   - Code de l'éducation L511-1 à L511-4, L533-1, L542-1, L542-3, L521-1, L551-1
 
 
-## Troisième partie : Les enseignements supérieurs<a id=197></a>
+## Troisième partie : Les enseignements supérieurs<a id=200></a>
 
-### Livre VI : L'organisation des enseignements supérieurs<a id=198></a>
+### Livre VI : L'organisation des enseignements supérieurs<a id=201></a>
 
-#### Titre Ier : L'organisation générale des enseignements<a id=199></a>
+#### Titre Ier : L'organisation générale des enseignements<a id=202></a>
 
-##### Chapitre Ier : Dispositions communes.<a id=200></a>
+##### Chapitre Ier : Dispositions communes.<a id=203></a>
 
 ###### Article L611-1
 
@@ -18687,7 +19127,7 @@ _Cite_:
   - Code de l'éducation L612-2 à L612-4, L613-3 à L613-5
 
 
-##### Chapitre II : Déroulement des études supérieures.<a id=201></a>
+##### Chapitre II : Déroulement des études supérieures.<a id=204></a>
 
 ###### Article L612-1
 
@@ -18742,7 +19182,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Section 1 : Le premier cycle.<a id=202></a>
+##### Section 1 : Le premier cycle.<a id=205></a>
 
 ###### Article L612-2
 
@@ -18891,7 +19331,7 @@ _Cité par_:
   - Décret n°2010-1129 du 28 septembre 2010 - art. 1 (V)
 
 
-##### Section 2 : Le deuxième cycle.<a id=203></a>
+##### Section 2 : Le deuxième cycle.<a id=206></a>
 
 ###### Article L612-5
 
@@ -18975,7 +19415,7 @@ _Cite_:
   - Code de l'éducation - art. L613-5 (V)
 
 
-##### Section 3 : Le troisième cycle.<a id=204></a>
+##### Section 3 : Le troisième cycle.<a id=207></a>
 
 ###### Article L612-7
 
@@ -19074,9 +19514,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre III : Collation des grades et titres universitaires<a id=205></a>
+##### Chapitre III : Collation des grades et titres universitaires<a id=208></a>
 
-##### Section 1 : Règles générales de délivrance des diplômes.<a id=206></a>
+##### Section 1 : Règles générales de délivrance des diplômes.<a id=209></a>
 
 ###### Article L613-1
 
@@ -19238,7 +19678,7 @@ _Cité par_:
   - Code de l'éducation - art. L752-1 (M)
 
 
-##### Section 2 : Validation des acquis de l'expérience pour la délivrance des diplômes<a id=207></a>
+##### Section 2 : Validation des acquis de l'expérience pour la délivrance des diplômes<a id=210></a>
 
 ###### Article L613-3
 
@@ -19426,7 +19866,7 @@ _Cite_:
   - Code de l'éducation - art. L613-3 (V)
 
 
-##### Section 3 : Obtention de diplômes nationaux par les étudiants des établissements d'enseignement supérieur privés.<a id=208></a>
+##### Section 3 : Obtention de diplômes nationaux par les étudiants des établissements d'enseignement supérieur privés.<a id=211></a>
 
 ###### Article L613-7
 
@@ -19468,12 +19908,12 @@ _Cite_:
   - Code de l'éducation - art. L719-10 (V)
 
 
-##### Chapitre IV : Programmation et développement des formations supérieures.<a id=209></a>
+##### Chapitre IV : Programmation et développement des formations supérieures.<a id=212></a>
 
 ###### Article L614-1
 
 Les pouvoirs publics prennent les mesures indispensables à la cohésion du service public de l'enseignement supérieur, dans le
-cadre de la planification nationale ou régionale.
+cadre de la planification nationale ou régionale, et du respect des engagements européens.
 
 Ils favorisent le rapprochement des règles d'organisation et de fonctionnement des établissements d'enseignement supérieur
 tout en respectant la nécessaire diversité de ceux-ci.
@@ -19496,6 +19936,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 42 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -19614,9 +20058,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L812-1 (V)
 
 
-#### Titre II : Les formations universitaires générales<a id=210></a>
+#### Titre II : Les formations universitaires générales et la formation des maîtres<a id=213></a>
 
-##### Chapitre Ier : Droit, sciences politiques, économie et administration.<a id=211></a>
+##### Chapitre Ier : Droit, sciences politiques, économie et administration.<a id=214></a>
 
 ###### Article L621-1
 
@@ -19635,6 +20079,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 43 () JORF 24 avril 2005
+
 
 ###### Article L621-2
 
@@ -19651,6 +20099,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 43 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -19675,16 +20127,16 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-624 du 17 juillet 2001 - art. 14 (V)
+  - Loi n°2005-380 du 23 avril 2005 - art. 43 () JORF 24 avril 2005
 
 _Cite_:
 
-  - Code de l'éducation - art. L612-3 (M)
+  - Code de l'éducation - art. L612-3 (V)
 
 
-##### Chapitre II : Sciences et technologie.<a id=212></a>
+##### Chapitre II : Sciences et technologie.<a id=215></a>
 
 ###### Article L622-1
 
@@ -19701,6 +20153,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 43 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Code de l'éducation - art. L681-1 (V)
@@ -19708,13 +20164,13 @@ _Cité par_:
   - Code de l'éducation - art. L684-1 (V)
 
 
-##### Chapitre III : Lettres, langues, arts et sciences humaines et sociales.<a id=213></a>
+##### Chapitre III : Lettres, langues, arts et sciences humaines et sociales.<a id=216></a>
 
 ###### Article L623-1
 
 Les établissements entrant dans le champ d'application du livre VII qui dispensent des enseignements artistiques et les
 établissements d'enseignement supérieur reconnus en application de l'article L. 361-2 assurent des formations de haut niveau
-dans les disciplines visées à l'article L. 121-6.
+dans les disciplines visées à l'article L. 121-6. 
 
 Ils participent, dans le cadre des missions qui leur sont propres, à la formation professionnelle, au progrès de la
 recherche, à la diffusion de la culture et au développement des liens entre les activités artistiques et l'ensemble des
@@ -19731,6 +20187,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 43 () JORF 24 avril 2005
+
 _Cite_:
 
   - Code de l'éducation - art. L121-6 (V)
@@ -19743,7 +20203,7 @@ _Cité par_:
   - Code de l'éducation - art. L684-1 (V)
 
 
-##### Chapitre IV : Education physique et sportive.<a id=214></a>
+##### Chapitre IV : Education physique et sportive.<a id=217></a>
 
 ###### Article L624-1
 
@@ -19759,6 +20219,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 43 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -19796,16 +20260,51 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+  - Loi n°2005-380 du 23 avril 2005 - art. 43 () JORF 24 avril 2005
 
 _Cité par_:
 
   - Code de l'éducation - art. L682-1 (V)
 
 
-#### Titre III : Les formations de santé<a id=215></a>
+##### Chapitre V : Formation des maîtres.<a id=218></a>
 
-##### Chapitre Ier : Dispositions communes.<a id=216></a>
+###### Article L625-1
+
+La formation des maîtres est assurée par les instituts universitaires de formation des maîtres. Ces instituts accueillent à
+cette fin des étudiants préparant les concours d'accès aux corps des personnels enseignants et les stagiaires admis à ces
+concours.
+
+La formation dispensée dans les instituts universitaires de formation des maîtres répond à un cahier des charges fixé par
+arrêté des ministres chargés de l'enseignement supérieur et de l'éducation nationale après avis du Haut Conseil de
+l'éducation. Elle fait alterner des périodes de formation théorique et des périodes de formation pratique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 43 () JORF 24 avril 2005
+
+_Cité par_:
+
+  - Loi n°2013-595 du 8 juillet 2013 - art. 83 (V)
+  - ORDONNANCE n°2014-693 du 26 juin 2014 - art. 28 (V)
+  - Code de l'éducation - art. L681-1 (V)
+  - Code de l'éducation - art. L682-1 (V)
+  - Code de l'éducation - art. L683-1 (V)
+  - Code de l'éducation - art. L683-2-1 (V)
+  - Code de l'éducation - art. L684-1 (V)
+  - Code de l'éducation - art. L684-2-1 (V)
+
+
+#### Titre III : Les formations de santé<a id=219></a>
+
+##### Chapitre Ier : Dispositions communes.<a id=220></a>
 
 ###### Article L631-1
 
@@ -19926,7 +20425,7 @@ _Abrogé par_:
   - Loi n°2009-879 du 21 juillet 2009 - art. 43
 
 
-##### Chapitre II : Les études médicales.<a id=217></a>
+##### Chapitre II : Les études médicales.<a id=221></a>
 
 ###### Article L632-1
 
@@ -20269,7 +20768,7 @@ _Cité par_:
   - Code de la santé publique - art. R4111-15 (M)
 
 
-##### Chapitre III : Les études pharmaceutiques.<a id=218></a>
+##### Chapitre III : Les études pharmaceutiques.<a id=222></a>
 
 ###### Article L633-1
 
@@ -20520,7 +21019,7 @@ _Cite_:
   - Code de l'éducation - art. L952-18 (V)
 
 
-##### Chapitre IV : Les études odontologiques.<a id=219></a>
+##### Chapitre IV : Les études odontologiques.<a id=223></a>
 
 ###### Article L634-1
 
@@ -20572,7 +21071,7 @@ _Modifié par_:
   - Ordonnance n°2004-1174 du 4 novembre 2004 - art. 8 () JORF 5 novembre 2004
 
 
-##### Chapitre V : Les autres formations de santé.<a id=220></a>
+##### Chapitre V : Les autres formations de santé.<a id=224></a>
 
 ###### Article L635-1
 
@@ -20595,9 +21094,9 @@ _Nouveaux textes_:
   - Code de l'éducation - art. L636-1 (V)
 
 
-#### Titre IV : Les formations technologiques<a id=221></a>
+#### Titre IV : Les formations technologiques<a id=225></a>
 
-##### Chapitre Ier : Dispositions communes.<a id=222></a>
+##### Chapitre Ier : Dispositions communes.<a id=226></a>
 
 ###### Article L641-1
 
@@ -20734,7 +21233,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Les formations technologiques longues.<a id=223></a>
+##### Chapitre II : Les formations technologiques longues.<a id=227></a>
 
 ###### Article L642-1
 
@@ -21086,9 +21585,9 @@ _Anciens textes_:
   - Loi n°1934-07-10 art. 16
 
 
-#### Titre VII : Les formations dans les autres établissements d'enseignement supérieur<a id=224></a>
+#### Titre VII : Les formations dans les autres établissements d'enseignement supérieur<a id=228></a>
 
-##### Chapitre Ier : L'enseignement supérieur agricole et vétérinaire public.<a id=225></a>
+##### Chapitre Ier : L'enseignement supérieur agricole et vétérinaire public.<a id=229></a>
 
 ###### Article L671-1
 
@@ -21182,7 +21681,7 @@ _Cité par_:
   - Code de l'éducation - art. L684-1 (V)
 
 
-##### Chapitre V : L'enseignement dans les écoles supérieures militaires.<a id=226></a>
+##### Chapitre V : L'enseignement dans les écoles supérieures militaires.<a id=230></a>
 
 ###### Article L675-1
 
@@ -21218,7 +21717,7 @@ _Cité par_:
   - Code de la défense. - art. L3411-1 (V)
 
 
-##### Chapitre VI : L'enseignement dans les écoles sanitaires et sociales.<a id=227></a>
+##### Chapitre VI : L'enseignement dans les écoles sanitaires et sociales.<a id=231></a>
 
 ###### Article L676-1
 
@@ -21238,22 +21737,22 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L451-1 (VT)
 
 
-#### Titre VIII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=228></a>
+#### Titre VIII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=232></a>
 
-##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=229></a>
+##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=233></a>
 
 ###### Article L681-1
 
 Sont applicables dans les îles Wallis et Futuna les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 612-1 à L. 612-7, L.
-613-1 à L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 631-1, L.
-632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+613-1 à L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L.
+631-1, L. 632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
   - Loi n°1934-07-10 art. 17
+  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
 
 _Codifié par_:
 
@@ -21262,30 +21761,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 6 () JORF 15 avril 2003
-
-_Cite_:
-
-  - Code de l'éducation - art. L611-1 (M)
-  - Code de l'éducation - art. L611-2 (V)
-  - Code de l'éducation - art. L611-3 (V)
-  - Code de l'éducation - art. L611-4 (M)
-  - Code de l'éducation - art. L614-1 (M)
-  - Code de l'éducation - art. L614-3 (V)
-  - Code de l'éducation - art. L622-1 (M)
-  - Code de l'éducation - art. L623-1 (M)
-  - Code de l'éducation - art. L624-1 (M)
-  - Code de l'éducation - art. L631-1 (M)
-  - Code de l'éducation - art. L632-12 (M)
-  - Code de l'éducation - art. L671-2 (V)
-  - Code de l'éducation L611-1, L611-2, L611-3, L611-4, L612-1 à L612-7, L613-1 à L613-7, L614-1, L614-3, L622-1, L623-1, L624-1, L631-1, L632-1 à L632-10, L632-12, L633-2 à L633-4, L641-1 à L641-5, L642-1 à L642-12, L671-2
+  - Loi n°2005-380 du 23 avril 2005 - art. 58 () JORF 24 avril 2005
 
 
-##### Chapitre II : Dispositions applicables à Mayotte.<a id=230></a>
+##### Chapitre II : Dispositions applicables à Mayotte.<a id=234></a>
 
 ###### Article L682-1
 
-Sont applicables à Mayotte les articles L. 611-4, L. 624-1, L. 624-2, L. 632-3, L. 642-2 à L. 642-12.
+Sont applicables à Mayotte les articles L. 611-4, L. 624-1, L. 624-2, L. 625-1, L. 632-3, L. 642-2 à L. 642-12.
 
 **Liens relatifs à cet article**
 
@@ -21294,8 +21777,9 @@ _Cite_:
   - Code de l'éducation - art. L611-4 (M)
   - Code de l'éducation - art. L624-1 (M)
   - Code de l'éducation - art. L624-2 (M)
+  - Code de l'éducation - art. L625-1 (V)
   - Code de l'éducation - art. L632-3 (V)
-  - Code de l'éducation L611-4, L624-1, L624-2, L632-3, L642-2 à L642-12
+  - Code de l'éducation L611-4, L624-1, L624-2, L625-1, L632-3, L642-2 à L642-12
 
 _Anciens textes_:
 
@@ -21307,21 +21791,25 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
 
-##### Chapitre III : Dispositions applicables en Polynésie française.<a id=231></a>
+  - Loi n°2005-380 du 23 avril 2005 - art. 66 () JORF 24 avril 2005
+
+
+##### Chapitre III : Dispositions applicables en Polynésie française.<a id=235></a>
 
 ###### Article L683-1
 
 Sont applicables en Polynésie française les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 612-1 à L. 612-7, L. 613-1 à
-L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 631-1, L. 632-1 à
-L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1,
+L. 632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
   - Loi n°1934-07-10 art. 17
+  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
 
 _Codifié par_:
 
@@ -21330,23 +21818,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 6 () JORF 15 avril 2003
-
-_Cite_:
-
-  - Code de l'éducation - art. L611-1 (M)
-  - Code de l'éducation - art. L611-2 (V)
-  - Code de l'éducation - art. L611-3 (V)
-  - Code de l'éducation - art. L611-4 (M)
-  - Code de l'éducation - art. L614-1 (M)
-  - Code de l'éducation - art. L614-3 (V)
-  - Code de l'éducation - art. L622-1 (M)
-  - Code de l'éducation - art. L623-1 (M)
-  - Code de l'éducation - art. L624-1 (M)
-  - Code de l'éducation - art. L631-1 (M)
-  - Code de l'éducation - art. L632-12 (M)
-  - Code de l'éducation - art. L671-2 (V)
-  - Code de l'éducation L611-1, L611-2, L611-3, L611-4, L612-1 à L612-7, L613-1 à L613-7, L614-1, L614-3, L622-1, L623-1, L624-1, L631-1, L632-1 à L632-10, L632-12, L633-2 à L633-4, L641-1 à L641-5, L642-1 à L642-12, L671-2
+  - Loi n°2005-380 du 23 avril 2005 - art. 73 () JORF 24 avril 2005
 
 
 ###### Article L683-2
@@ -21411,20 +21883,20 @@ _Cité par_:
   - Code de l'éducation - art. R683-4 (V)
 
 
-##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=232></a>
+##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=236></a>
 
 ###### Article L684-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 612-1 à L. 612-7, L. 613-1 à
-L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 631-1, L. 632-1 à
-L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1,
+L. 632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
   - Loi n°1934-07-10 art. 17
+  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
 
 _Codifié par_:
 
@@ -21433,23 +21905,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 6 () JORF 15 avril 2003
-
-_Cite_:
-
-  - Code de l'éducation - art. L611-1 (M)
-  - Code de l'éducation - art. L611-2 (V)
-  - Code de l'éducation - art. L611-3 (V)
-  - Code de l'éducation - art. L611-4 (M)
-  - Code de l'éducation - art. L614-1 (M)
-  - Code de l'éducation - art. L614-3 (V)
-  - Code de l'éducation - art. L622-1 (M)
-  - Code de l'éducation - art. L623-1 (M)
-  - Code de l'éducation - art. L624-1 (M)
-  - Code de l'éducation - art. L631-1 (M)
-  - Code de l'éducation - art. L632-12 (M)
-  - Code de l'éducation - art. L671-2 (V)
-  - Code de l'éducation L611-1, L611-2, L611-3, L611-4, L612-1 à L612-7, L613-1 à L613-7, L614-1, L614-3, L622-1, L623-1, L624-1, L631-1, L632-1 à L632-10, L632-12, L633-2 à L633-4, L641-1 à L641-5, L642-1 à L642-12, L671-2
+  - Loi n°2005-380 du 23 avril 2005 - art. 81 () JORF 24 avril 2005
 
 
 ###### Article L684-2
@@ -21514,11 +21970,11 @@ _Cité par_:
   - Code de l'éducation - art. R684-4 (V)
 
 
-### Livre VII : Les établissements d'enseignement supérieur<a id=233></a>
+### Livre VII : Les établissements d'enseignement supérieur<a id=237></a>
 
-#### Titre Ier : Les établissements publics à caractère scientifique, culturel et professionnel<a id=234></a>
+#### Titre Ier : Les établissements publics à caractère scientifique, culturel et professionnel<a id=238></a>
 
-##### Chapitre Ier : Principes relatifs à la création et à l'autonomie des établissements publics à caractère scientifique, culturel et professionnel.<a id=235></a>
+##### Chapitre Ier : Principes relatifs à la création et à l'autonomie des établissements publics à caractère scientifique, culturel et professionnel.<a id=239></a>
 
 ###### Article L711-1
 
@@ -22067,7 +22523,7 @@ _Cité par_:
   - Code du sport. - art. R211-1-2 (V)
 
 
-##### Chapitre II : Les universités.<a id=236></a>
+##### Chapitre II : Les universités.<a id=240></a>
 
 ###### Article L712-1
 
@@ -22471,7 +22927,7 @@ _Cité par_:
   - Code de l'éducation - art. L711-4 (V)
 
 
-##### Chapitre III : Les composantes des universités.<a id=237></a>
+##### Chapitre III : Les composantes des universités.<a id=241></a>
 
 ###### Article L713-1
 
@@ -22585,7 +23041,7 @@ _Cite_:
   - Code de l'éducation - art. L713-9 (V)
 
 
-##### Section 1 : Les unités de formation et de recherche.<a id=238></a>
+##### Section 1 : Les unités de formation et de recherche.<a id=242></a>
 
 ###### Article L713-3
 
@@ -22632,7 +23088,7 @@ _Cité par_:
   - Code de l'éducation - art. R632-25 (V)
 
 
-##### Section 2 : Dispositions propres aux unités de formation et de recherche de médecine, pharmacie et odontologie.<a id=239></a>
+##### Section 2 : Dispositions propres aux unités de formation et de recherche de médecine, pharmacie et odontologie.<a id=243></a>
 
 ###### Article L713-4
 
@@ -22892,7 +23348,7 @@ _Modifié par_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-12 (V)
 
 
-##### Section 3 : Les instituts et les écoles.<a id=240></a>
+##### Section 3 : Les instituts et les écoles.<a id=244></a>
 
 ###### Article L713-9
 
@@ -22901,10 +23357,10 @@ choisi dans l'une des catégories de personnels qui ont vocation à enseigner da
 nationalité. Les directeurs d'école sont nommés par le ministre chargé de l'enseignement supérieur sur proposition du conseil
 et les directeurs d'instituts sont élus par le conseil. Leur mandat est de cinq ans renouvelable une fois.
 
-Le conseil, dont l'effectif ne peut dépasser quarante membres, comprend de 30 à 50 % de personnalités extérieures ; les
-personnels d'enseignement et assimilés y sont en nombre au moins égal à celui des autres personnels et des étudiants. Le
-conseil élit pour un mandat de trois ans, au sein des personnalités extérieures, celui de ses membres qui est appelé à le
-présider. Le mandat du président est renouvelable.
+Le conseil, dont l'effectif ne peut dépasser quarante membres, comprend de 30 à 50 % de personnalités extérieures, dont un ou
+plusieurs représentants des acteurs économiques ; les personnels d'enseignement et assimilés y sont en nombre au moins égal à
+celui des autres personnels et des étudiants. Le conseil élit pour un mandat de trois ans, au sein des personnalités
+extérieures celui de ses membres qui est appelé à le présider. Le mandat du président est renouvelable.
 
 Le conseil définit le programme pédagogique et le programme de recherche de l'institut ou de l'école dans le cadre de la
 politique de l'établissement dont il fait partie et de la réglementation nationale en vigueur. Il donne son avis sur les
@@ -22996,12 +23452,16 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 44 () JORF 24 avril 2005
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L6142-14 (V)
 
 
-##### Chapitre IV : Les services communs.<a id=241></a>
+##### Chapitre IV : Les services communs.<a id=245></a>
 
 ###### Article L714-1
 
@@ -23113,7 +23573,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre V : Les instituts et les écoles ne faisant pas partie des universités.<a id=242></a>
+##### Chapitre V : Les instituts et les écoles ne faisant pas partie des universités.<a id=246></a>
 
 ###### Article L715-1
 
@@ -23255,7 +23715,7 @@ _Cité par_:
   - Décret n°2018-285 du 18 avril 2018 - art. 3 (VD)
 
 
-##### Chapitre VI : Les écoles normales supérieures.<a id=243></a>
+##### Chapitre VI : Les écoles normales supérieures.<a id=247></a>
 
 ###### Article L716-1
 
@@ -23321,7 +23781,7 @@ _Cite_:
   - Code de l'éducation - art. L952-7 (V)
 
 
-##### Chapitre VII : Les grands établissements.<a id=244></a>
+##### Chapitre VII : Les grands établissements.<a id=248></a>
 
 ###### Article L717-1
 
@@ -23417,7 +23877,7 @@ _Cite_:
   - Code de l'éducation - art. L952-7 (V)
 
 
-##### Chapitre VIII : Les écoles françaises à l'étranger.<a id=245></a>
+##### Chapitre VIII : Les écoles françaises à l'étranger.<a id=249></a>
 
 ###### Article L718-1
 
@@ -23478,9 +23938,9 @@ _Cite_:
   - Code de l'éducation - art. L952-7 (V)
 
 
-##### Chapitre IX : Dispositions communes<a id=246></a>
+##### Chapitre IX : Dispositions communes<a id=250></a>
 
-##### Section 1 : Dispositions relatives à la composition des conseils.<a id=247></a>
+##### Section 1 : Dispositions relatives à la composition des conseils.<a id=251></a>
 
 ###### Article L719-1
 
@@ -23692,7 +24152,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Section 2 : Régime financier.<a id=248></a>
+##### Section 2 : Régime financier.<a id=252></a>
 
 ###### Article L719-4
 
@@ -23894,7 +24354,7 @@ _Cite_:
   - Code de l'éducation - art. L719-4 (V)
 
 
-##### Section 3 : Contrôle administratif et financier.<a id=249></a>
+##### Section 3 : Contrôle administratif et financier.<a id=253></a>
 
 ###### Article L719-7
 
@@ -24108,7 +24568,7 @@ _Cite_:
   - Code de l'éducation - art. L719-5 (V)
 
 
-##### Section 4 : Relations extérieures.<a id=250></a>
+##### Section 4 : Relations extérieures.<a id=254></a>
 
 ###### Article L719-10
 
@@ -24190,23 +24650,20 @@ _Abrogé par_:
   - Loi n°2011-525 du 17 mai 2011 - art. 118
 
 
-#### Titre II : Etablissements de formation des maîtres<a id=251></a>
+#### Titre II : Etablissements de formation des maîtres<a id=255></a>
 
-##### Chapitre Ier : Missions et organisation des instituts universitaires de formation des maîtres.<a id=252></a>
+##### Chapitre Ier : Missions et organisation des instituts universitaires de formation des maîtres.<a id=256></a>
 
 ###### Article L721-1
 
-Dans chaque académie, un institut universitaire de formation des maîtres est rattaché à une ou plusieurs universités de
-l'académie pour garantir la responsabilité institutionnelle de ces établissements d'enseignement supérieur par l'intervention
-des personnes et la mise en oeuvre des moyens qui leur sont affectés. Il peut être prévu, dans des conditions et des limites
-déterminées par décret en Conseil d'Etat, la création de plusieurs instituts universitaires de formation des maîtres dans
-certaines académies ou le rattachement à des établissements publics à caractère scientifique, culturel et professionnel
-autres que des universités. Lorsqu'un institut universitaire de formation des maîtres est créé dans une académie qui ne
-comprend aucune université, il est rattaché à une ou plusieurs universités d'une autre académie.
+Les instituts universitaires de formation des maîtres sont régis par les dispositions de l'article L. 713-9 et sont
+assimilés, pour l'application de ces dispositions, à des écoles faisant partie des universités.
 
-Les instituts universitaires de formation des maîtres sont des établissements publics d'enseignement supérieur.
-Etablissements publics à caractère administratif, ils sont placés sous la tutelle du ministre chargé de l'enseignement
-supérieur et organisés selon des règles fixées par décret en Conseil d'Etat. Le contrôle financier s'exerce a posteriori.
+Des conventions peuvent être conclues, en tant que de besoin, avec d'autres établissements d'enseignement supérieur.
+
+D'ici 2010, le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel
+procède à une évaluation des modalités et des résultats de l'intégration des instituts universitaires de formation des
+maîtres au sein des universités, notamment au regard des objectifs qui leur sont fixés.
 
 Dans le cadre des orientations définies par l'Etat, ces instituts universitaires de formation des maîtres conduisent les
 actions de formation professionnelle initiale des personnels enseignants. Celles-ci comprennent des parties communes à
@@ -24219,8 +24676,12 @@ Ils organisent des formations de préparation professionnelle en faveur des étu
 
 **Nota:**
 
-NOTA : Loi 2005-380 2005-04-23 art. 87 : l'article L. 721-1 demeure applicable aux instituts universitaires de formation des
-maîtres jusqu'à la date de leur intégration dans l'une des universités de rattachement.
+NOTA : Loi 2005-380 du 23 avril 2005 art. 87 : l'article L. 721-1 demeure applicable aux instituts universitaires de
+formation des maîtres jusqu'à la date de leur intégration dans l'une des universités de rattachement.
+
+NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
+d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L.
+114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -24263,14 +24724,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 45 () JORF 24 avril 2005
+
+_Cite_:
+
+  - Code de l'éducation - art. L713-9 (M)
 
 
 ###### Article L721-2
 
 Les instituts universitaires de formation des maîtres qui possèdent une capacité d'accueil adaptée à la formation des
-enseignants de l'enseignement technique peuvent organiser, à titre expérimental, des stages de formation continue des
-enseignants des centres de formation d'apprentis.
+enseignants de l'enseignement technique peuvent organiser des stages de formation continue des enseignants des centres de
+formation d'apprentis.
 
 **Liens relatifs à cet article**
 
@@ -24297,65 +24762,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+  - Loi n°2005-380 du 23 avril 2005 - art. 46 () JORF 24 avril 2005
 
 
-###### Article L721-3
-
-Les instituts universitaires de formation des maîtres sont dirigés par un directeur nommé par le ministre chargé de
-l'enseignement supérieur, choisi sur une liste de propositions établie par le conseil d'administration de l'institut. Ils
-sont administrés par un conseil d'administration présidé par le recteur d'académie.
-
-Le conseil d'administration comprend notamment, dans des conditions fixées par décret en Conseil d'Etat, des représentants
-des conseils d'administration des établissements auxquels l'institut universitaire de formation des maîtres est rattaché
-ainsi que des représentants des communes, départements et région, des représentants des personnels formateurs ou ayant
-vocation à bénéficier de formations et des étudiants en formation.
-
-**Nota:**
-
-Loi 2005-380 2005-04-23 art. 87 : l'article L. 721-3 demeure applicable aux instituts universitaires de formation des maîtres
-jusqu'à la date de leur intégration dans l'une des universités de rattachement.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Date d'application indéterminée
-
-_Anciens textes_:
-
-  - Loi n°89-486 du 10 juillet 1989 - art. 17 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Modifié par_:
-
-  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
-
-_Abrogé par_:
-
-  - Loi n°2005-380 du 23 avril 2005 - art. 45 () JORF 24 avril 2005
-
-_Cité par_:
-
-  - Loi n°2005-380 du 23 avril 2005 - art. 87 (V)
-  - Loi n°2013-595 du 8 juillet 2013 - art. 83 (V)
-  - Arrêté du 27 août 2013 - art. 1 (V)
-  - Décret n°2015-6 du 6 janvier 2015 - art. 4 (V)
-  - Code de l'éducation - art. D719-2 (V)
-  - Code de l'éducation - art. D721-4 (VD)
-  - Code de l'éducation - art. L771-1 (M)
-  - Code de l'éducation - art. L771-2 (V)
-  - Code de l'éducation - art. L773-1 (M)
-  - Code de l'éducation - art. L773-3-1 (V)
-  - Code de l'éducation - art. L774-1 (M)
-  - Code de l'éducation - art. L774-3-1 (V)
-
-
-##### Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres.<a id=253></a>
+##### Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres.<a id=257></a>
 
 ###### Article L722-1
 
@@ -24968,7 +25378,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4425-24 (VD)
 
 
-##### Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaires<a id=254></a>
+##### Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaires<a id=258></a>
 
 ###### Article L723-1
 
@@ -24997,9 +25407,9 @@ _Créé par_:
   - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
 
 
-#### Titre III : Les établissements d'enseignement supérieur privés<a id=255></a>
+#### Titre III : Les établissements d'enseignement supérieur privés<a id=259></a>
 
-##### Chapitre unique.<a id=256></a>
+##### Chapitre unique.<a id=260></a>
 
 ###### Article L731-1
 
@@ -25573,9 +25983,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 261 (V)
 
 
-#### Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur<a id=257></a>
+#### Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur<a id=261></a>
 
-##### Chapitre unique.<a id=258></a>
+##### Chapitre unique.<a id=262></a>
 
 ###### Article L741-1
 
@@ -25612,9 +26022,9 @@ _Cite_:
   - Code de l'éducation L712-4, L811-5, L811-6, L952-7 à L952-9
 
 
-#### Titre V : Les établissements d'enseignement supérieur spécialisés<a id=259></a>
+#### Titre V : Les établissements d'enseignement supérieur spécialisés<a id=263></a>
 
-##### Chapitre Ier : Les établissements d'enseignement supérieur agricole et vétérinaire.<a id=260></a>
+##### Chapitre Ier : Les établissements d'enseignement supérieur agricole et vétérinaire.<a id=264></a>
 
 ###### Article L751-1
 
@@ -25742,7 +26152,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code rural - art. L813-10 (V)
 
 
-##### Chapitre II : Les écoles d'architecture.<a id=261></a>
+##### Chapitre II : Les écoles d'architecture.<a id=265></a>
 
 ###### Article L752-1
 
@@ -25782,7 +26192,7 @@ _Cite_:
   - Code de l'éducation L614-3, L713-4 à L713-8, L951-1, L951-2, L952-1, L952-3, L952-6, L952-13, L953-1 à L953-4
 
 
-##### Chapitre III : Les écoles de commerce.<a id=262></a>
+##### Chapitre III : Les écoles de commerce.<a id=266></a>
 
 ###### Article L753-1
 
@@ -25825,7 +26235,7 @@ _Anciens textes_:
   - Loi n°1919-07-25 art. 10
 
 
-##### Chapitre V : Les écoles supérieures militaires.<a id=263></a>
+##### Chapitre V : Les écoles supérieures militaires.<a id=267></a>
 
 ###### Article L755-1
 
@@ -25894,7 +26304,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre VI : Les écoles sanitaires et sociales.<a id=264></a>
+##### Chapitre VI : Les écoles sanitaires et sociales.<a id=268></a>
 
 ###### Article L756-1
 
@@ -25965,7 +26375,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1415-1 (V)
 
 
-##### Chapitre VII : Les écoles de la marine marchande.<a id=265></a>
+##### Chapitre VII : Les écoles de la marine marchande.<a id=269></a>
 
 ###### Article L757-1
 
@@ -26003,7 +26413,7 @@ _Cite_:
   - Code de l'éducation L715-1 à L715-3
 
 
-##### Chapitre VIII : La Fondation nationale des sciences politiques.<a id=266></a>
+##### Chapitre VIII : La Fondation nationale des sciences politiques.<a id=270></a>
 
 ###### Article L758-1
 
@@ -26070,7 +26480,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre IX : Les établissements d'enseignement supérieur de la musique, de la danse, du théâtre et des arts du cirque<a id=267></a>
+##### Chapitre IX : Les établissements d'enseignement supérieur de la musique, de la danse, du théâtre et des arts du cirque<a id=271></a>
 
 ###### Article L759-1
 
@@ -26102,9 +26512,9 @@ _Cité par_:
   - Code de l'éducation - art. L759-4 (V)
 
 
-#### Titre VI : Dispositions communes<a id=268></a>
+#### Titre VI : Dispositions communes<a id=272></a>
 
-##### Chapitre Ier : Dispositions communes aux établissements publics et privés.<a id=269></a>
+##### Chapitre Ier : Dispositions communes aux établissements publics et privés.<a id=273></a>
 
 ###### Article L761-1
 
@@ -26118,7 +26528,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Dispositions communes aux établissements publics.<a id=270></a>
+##### Chapitre II : Dispositions communes aux établissements publics.<a id=274></a>
 
 ###### Article L762-1
 
@@ -26193,15 +26603,15 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1382 D (V)
 
 
-#### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=271></a>
+#### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=275></a>
 
-##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=272></a>
+##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=276></a>
 
 ###### Article L771-1
 
 Sont applicables dans les îles Wallis et Futuna les articles L. 711-1, L. 711-2, L. 711-4 à L. 711-8, L. 712-1 à L. 712-4, L.
 712-5 à L. 712-7, L. 713-1, L. 713-3, L. 713-4, L. 713-9, L. 714-1, L. 714-2, L. 715-1 à L. 715-3, L. 716-1, L. 717-1, L.
-718-1, L. 719-1 à L. 719-11, L. 721-1, L. 721-3, L. 741-1, L. 762-1 et L. 762-2.
+718-1, L. 719-1 à L. 719-11, L. 721-1, L. 741-1, L. 762-1 et L. 762-2.
 
 **Liens relatifs à cet article**
 
@@ -26216,32 +26626,16 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'éducation - art. L711-1 (M)
-  - Code de l'éducation - art. L711-2 (V)
-  - Code de l'éducation - art. L713-1 (M)
-  - Code de l'éducation - art. L713-3 (M)
-  - Code de l'éducation - art. L713-4 (M)
-  - Code de l'éducation - art. L713-9 (M)
-  - Code de l'éducation - art. L714-1 (V)
-  - Code de l'éducation - art. L714-2 (V)
-  - Code de l'éducation - art. L716-1 (V)
-  - Code de l'éducation - art. L717-1 (V)
-  - Code de l'éducation - art. L718-1 (V)
-  - Code de l'éducation - art. L721-1 (M)
-  - Code de l'éducation - art. L721-3 (M)
-  - Code de l'éducation - art. L741-1 (V)
-  - Code de l'éducation - art. L762-1 (V)
-  - Code de l'éducation - art. L762-2 (V)
-  - Code de l'éducation L711-1, L711-2, L711-4 à L711-8, L712-1 à L712-4, L712-5 à L712-7, L713-1, L713-3, L713-4, L713-9, L714-1, L714-2, L715-1 à L715-3, L716-1, L717-1, L718-1, L719-1 à L719-11, L721-1, L721-3, L741-1, L762-1, L762-2
+  - Loi n°2005-380 du 23 avril 2005 - art. 59 () JORF 24 avril 2005
 
 
-##### Chapitre II : Dispositions applicables à Mayotte.<a id=273></a>
+##### Chapitre II : Dispositions applicables à Mayotte.<a id=277></a>
 
 ###### Article L772-1
 
-Les articles L. 721-1 à L. 721-3 sont applicables à Mayotte, sauf en ce qui concerne la formation des instituteurs de la
+Les articles L. 721-1 et L. 721-2 sont applicables à Mayotte, sauf en ce qui concerne la formation des instituteurs de la
 collectivité départementale de Mayotte.
 
 L'article L. 762-2 est applicable à Mayotte.
@@ -26261,7 +26655,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2002-198 du 14 février 2002 - art. 2 () JORF 16 février 2002
+  - Loi n°2005-380 du 23 avril 2005 - art. 67 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -26269,17 +26663,18 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'éducation - art. L721-1 (M)
+  - Code de l'éducation - art. L721-2 (M)
   - Code de l'éducation - art. L762-2 (V)
-  - Code de l'éducation L721-1 à L721-3, L762-2
 
 
-##### Chapitre III : Dispositions applicables en Polynésie française.<a id=274></a>
+##### Chapitre III : Dispositions applicables en Polynésie française.<a id=278></a>
 
 ###### Article L773-1
 
 Sont applicables en Polynésie française les articles L. 711-1, L. 711-2, L. 711-4 à L. 711-8, L. 712-1 à L. 712-7, L. 713-1,
 L. 713-3, L. 713-4, L. 713-9, L. 714-1, L. 714-2, L. 715-1 à L. 715-3, L. 716-1, L. 717-1, L. 718-1, L. 719-1 à L. 719-11, L.
-721-1, L. 721-3, L. 741-1, L. 762-1 et L. 762-2.
+721-1, L. 741-1, L. 762-1 et L. 762-2.
 
 **Liens relatifs à cet article**
 
@@ -26294,25 +26689,9 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'éducation - art. L711-1 (M)
-  - Code de l'éducation - art. L711-2 (V)
-  - Code de l'éducation - art. L713-1 (M)
-  - Code de l'éducation - art. L713-3 (M)
-  - Code de l'éducation - art. L713-4 (M)
-  - Code de l'éducation - art. L713-9 (M)
-  - Code de l'éducation - art. L714-1 (V)
-  - Code de l'éducation - art. L714-2 (V)
-  - Code de l'éducation - art. L716-1 (V)
-  - Code de l'éducation - art. L717-1 (V)
-  - Code de l'éducation - art. L718-1 (V)
-  - Code de l'éducation - art. L721-1 (M)
-  - Code de l'éducation - art. L721-3 (M)
-  - Code de l'éducation - art. L741-1 (V)
-  - Code de l'éducation - art. L762-1 (V)
-  - Code de l'éducation - art. L762-2 (V)
-  - Code de l'éducation L711-1, L711-2, L711-4 à L711-8, L712-1 à L712-7, L713-1, L713-3, L713-4, L713-9, L714-1, L714-2, L715-1 à L715-3, L716-1, L717-1, L718-1, L719-1 à L719-11, L721-1, L721-3, L741-1, L762-1, L762-2
+  - Loi n°2005-380 du 23 avril 2005 - art. 74 () JORF 24 avril 2005
 
 
 ###### Article L773-2
@@ -26416,13 +26795,13 @@ _Cite_:
   - Code de l'éducation - art. L773-2 (V)
 
 
-##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=275></a>
+##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=279></a>
 
 ###### Article L774-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 711-1, L. 711-2, L. 711-4 à L. 711-8, L. 712-1 à L. 712-4, L. 712-5 à
 L. 712-7, L. 713-1, L. 713-3, L. 713-4, L. 713-9, L. 714-1, L. 714-2, L. 715-1 à L. 715-3, L. 716-1, L. 717-1, L. 718-1, L.
-719-1 à L. 719-11, L. 721-1, L. 721-3, L. 741-1, L. 762-1 et L. 762-2.
+719-1 à L. 719-11, L. 721-1, L. 741-1, L. 762-1 et L. 762-2.
 
 **Liens relatifs à cet article**
 
@@ -26437,25 +26816,9 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'éducation - art. L711-1 (M)
-  - Code de l'éducation - art. L711-2 (V)
-  - Code de l'éducation - art. L713-1 (M)
-  - Code de l'éducation - art. L713-3 (M)
-  - Code de l'éducation - art. L713-4 (M)
-  - Code de l'éducation - art. L713-9 (M)
-  - Code de l'éducation - art. L714-1 (V)
-  - Code de l'éducation - art. L714-2 (V)
-  - Code de l'éducation - art. L716-1 (V)
-  - Code de l'éducation - art. L717-1 (V)
-  - Code de l'éducation - art. L718-1 (V)
-  - Code de l'éducation - art. L721-1 (M)
-  - Code de l'éducation - art. L721-3 (M)
-  - Code de l'éducation - art. L741-1 (V)
-  - Code de l'éducation - art. L762-1 (V)
-  - Code de l'éducation - art. L762-2 (V)
-  - Code de l'éducation L711-1, L711-2, L711-4 à L711-8, L712-1 à L712-4, L712-5 à L712-7, L713-1, L713-3, L713-4, L713-9, L714-1, L714-2, L715-1 à L715-3, L716-1, L717-1, L718-1, L719-1 à L719-11, L721-1, L721-3, L741-1, L762-1, L762-2
+  - Loi n°2005-380 du 23 avril 2005 - art. 82 () JORF 24 avril 2005
 
 
 ###### Article L774-2
@@ -26558,11 +26921,11 @@ _Cite_:
   - Code de l'éducation - art. L774-2 (V)
 
 
-### Livre VIII : La vie universitaire<a id=276></a>
+### Livre VIII : La vie universitaire<a id=280></a>
 
-#### Titre Ier : Les droits et obligations des usagers du service public de l'enseignement supérieur<a id=277></a>
+#### Titre Ier : Les droits et obligations des usagers du service public de l'enseignement supérieur<a id=281></a>
 
-##### Chapitre unique.<a id=278></a>
+##### Chapitre unique.<a id=282></a>
 
 ###### Article L811-1
 
@@ -26767,9 +27130,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-#### Titre II : Les aides aux étudiants et les oeuvres universitaires<a id=279></a>
+#### Titre II : Les aides aux étudiants et les oeuvres universitaires<a id=283></a>
 
-##### Chapitre Ier : Les aides aux étudiants.<a id=280></a>
+##### Chapitre Ier : Les aides aux étudiants.<a id=284></a>
 
 ###### Article L821-1
 
@@ -26906,7 +27269,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Les oeuvres universitaires.<a id=281></a>
+##### Chapitre II : Les oeuvres universitaires.<a id=285></a>
 
 ###### Article L822-1
 
@@ -27105,9 +27468,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-#### Titre III : La santé et la protection sociale des étudiants<a id=282></a>
+#### Titre III : La santé et la protection sociale des étudiants<a id=286></a>
 
-##### Chapitre Ier : La santé universitaire.<a id=283></a>
+##### Chapitre Ier : La santé universitaire.<a id=287></a>
 
 ###### Article L831-1
 
@@ -27207,7 +27570,7 @@ _Anciens textes_:
   - Code de la santé publique - art. L198 (M)
 
 
-##### Chapitre II : La protection sociale des étudiants.<a id=284></a>
+##### Chapitre II : La protection sociale des étudiants.<a id=288></a>
 
 ###### Article L832-1
 
@@ -27317,9 +27680,9 @@ _Cite_:
   - Code rural L751-1
 
 
-#### Titre IV : Les activités périuniversitaires, sportives et culturelles<a id=285></a>
+#### Titre IV : Les activités périuniversitaires, sportives et culturelles<a id=289></a>
 
-##### Chapitre unique.<a id=286></a>
+##### Chapitre unique.<a id=290></a>
 
 ###### Article L841-1
 
@@ -27421,9 +27784,9 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-#### Titre V : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=287></a>
+#### Titre V : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=291></a>
 
-##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=288></a>
+##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=292></a>
 
 ###### Article L851-1
 
@@ -27452,7 +27815,7 @@ _Cite_:
   - Code de l'éducation - art. L841-1 (V)
 
 
-##### Chapitre II : Dispositions applicables à Mayotte.<a id=289></a>
+##### Chapitre II : Dispositions applicables à Mayotte.<a id=293></a>
 
 ###### Article L852-1
 
@@ -27483,7 +27846,7 @@ _Cite_:
   - Code de l'éducation - art. L841-1 (V)
 
 
-##### Chapitre III : Dispositions applicables en Polynésie française.<a id=290></a>
+##### Chapitre III : Dispositions applicables en Polynésie française.<a id=294></a>
 
 ###### Article L853-1
 
@@ -27512,7 +27875,7 @@ _Cite_:
   - Code de l'éducation - art. L841-1 (V)
 
 
-##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=291></a>
+##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=295></a>
 
 ###### Article L854-1
 
@@ -27541,13 +27904,13 @@ _Cite_:
   - Code de l'éducation - art. L841-1 (V)
 
 
-## Quatrième partie : Les personnels<a id=292></a>
+## Quatrième partie : Les personnels<a id=296></a>
 
-### Livre IX : Les personnels de l'éducation<a id=293></a>
+### Livre IX : Les personnels de l'éducation<a id=297></a>
 
-#### Titre Ier : Dispositions générales<a id=294></a>
+#### Titre Ier : Dispositions générales<a id=298></a>
 
-##### Chapitre Ier : Dispositions communes.<a id=295></a>
+##### Chapitre Ier : Dispositions communes.<a id=299></a>
 
 ###### Article L911-1
 
@@ -27787,7 +28150,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Dispositions propres aux personnels enseignants.<a id=296></a>
+##### Chapitre II : Dispositions propres aux personnels enseignants.<a id=300></a>
 
 ###### Article L912-1
 
@@ -27798,7 +28161,10 @@ personnels d'éducation y sont associés.
 
 Les enseignants apportent une aide au travail personnel des élèves et en assurent le suivi. Ils procèdent à leur évaluation.
 Ils les conseillent dans le choix de leur projet d'orientation en collaboration avec les personnels d'éducation et
-d'orientation. Ils participent aux actions de formation continue des adultes.
+d'orientation. Ils participent aux actions de formation continue des adultes et aux formations par apprentissage.
+
+Ils contribuent à la continuité de l'enseignement sous l'autorité du chef d'établissement en assurant des enseignements
+complémentaires.
 
 Leur formation les prépare à l'ensemble de ces missions.
 
@@ -27814,6 +28180,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 47 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Décret n°2005-1035 du 26 août 2005 - art. 3 (V)
@@ -27823,6 +28193,95 @@ _Cité par_:
   - Code de l'éducation - art. L973-1 (V)
   - Code de l'éducation - art. L974-1 (V)
   - Code de l'éducation - art. R451-1 (VD)
+
+
+###### Article L912-1-1
+
+La liberté pédagogique de l'enseignant s'exerce dans le respect des programmes et des instructions du ministre chargé de
+l'éducation nationale et dans le cadre du projet d'école ou d'établissement avec le conseil et sous le contrôle des membres
+des corps d'inspection. 
+
+Le conseil pédagogique prévu à l'article L. 421-5 ne peut porter atteinte à cette liberté.
+
+**Nota:**
+
+La loi 2005-380 a transféré les dispositions édictées par l'article L. 421-5 du code de l'éducation sous l'article L. 401-1
+du même code.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°60-403 du 22 avril 1960 - art. 4-2 (Ab)
+  - Décret n°72-580 du 4 juillet 1972 - art. 7-2 (Ab)
+  - Décret n°72-581 du 4 juillet 1972 - art. 30-2 (VD)
+  - Décret n°72-583 du 4 juillet 1972 - art. 3-2 (Ab)
+  - Décret n°80-627 du 4 août 1980 - art. 9-2 (Ab)
+  - Décret n°86-492 du 14 mars 1986 - art. 17-2 (Ab)
+  - Décret n°90-680 du 1 août 1990 - art. 23-2 (VD)
+  - Décret n°92-1189 du 6 novembre 1992 - art. 20-2 (VD)
+  - Décret n°2005-119 du 14 février 2005 - art. 13-2 (Ab)
+  - Code de l'éducation - art. L973-1 (M)
+  - Code de l'éducation - art. L974-1 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 48 () JORF 24 avril 2005
+
+_Cite_:
+
+  - Code de l'éducation - art. L421-5 (V)
+
+
+###### Article L912-1-2
+
+Lorsqu'elle correspond à un projet personnel concourant à l'amélioration des enseignements et approuvé par le recteur, la
+formation continue des enseignants s'accomplit en priorité en dehors des obligations de service d'enseignement et peut donner
+lieu à une indemnisation dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 48 () JORF 24 avril 2005
+
+_Cité par_:
+
+  - Code de l'éducation - art. L973-1 (M)
+  - Code de l'éducation - art. L974-1 (M)
+  - Code rural et de la pêche maritime - art. D810-2 (Ab)
+  - Code rural et de la pêche maritime - art. R810-1 (V)
+
+
+###### Article L912-1-3
+
+La formation continue des enseignants est prise en compte dans la gestion de leur carrière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 48 () JORF 24 avril 2005
+
+_Cité par_:
+
+  - Code de l'éducation - art. L973-1 (M)
+  - Code de l'éducation - art. L974-1 (M)
 
 
 ###### Article L912-2
@@ -27912,13 +28371,13 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre III : Dispositions propres aux personnels administratifs, techniques, ouvriers, sociaux, de santé et de service.<a id=297></a>
+##### Chapitre III : Dispositions propres aux personnels administratifs, techniques, ouvriers, sociaux, de santé et de service.<a id=301></a>
 
 ###### Article L913-1
 
 Les personnels administratifs, techniques, ouvriers, sociaux, de santé et de service sont membres de la communauté éducative.
 Ils concourent directement aux missions du service public de l'éducation et contribuent à assurer le fonctionnement des
-établissements et des services de l'éducation nationale.
+établissements et des services de l'éducation nationale. Ils jouent un rôle éducatif en liaison avec les enseignants.
 
 Ils contribuent à la qualité de l'accueil et du cadre de vie et assurent la sécurité, le service de restauration, la
 protection sanitaire et sociale et, dans les internats, l'hébergement des élèves.
@@ -27934,6 +28393,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 49 () JORF 24 avril 2005
+
 _Cité par_:
 
   - Code de l'éducation - art. L213-2-1 (V)
@@ -27948,7 +28411,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4424-2 (VD)
 
 
-##### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=298></a>
+##### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=302></a>
 
 ###### Article L914-1
 
@@ -28224,7 +28687,7 @@ _Modifié par_:
   - Loi n°2004-809 2004-08-13 art. 78 10° JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
-##### Chapitre VI : Dispositions relatives aux assistants d'éducation.<a id=299></a>
+##### Chapitre VI : Dispositions relatives aux assistants d'éducation.<a id=303></a>
 
 ###### Article L916-1
 
@@ -28336,9 +28799,9 @@ _Cite_:
   - Code de l'éducation - art. L216-1 (V)
 
 
-#### Titre II : Les personnels du premier degré<a id=300></a>
+#### Titre II : Les personnels du premier degré<a id=304></a>
 
-##### Chapitre unique.<a id=301></a>
+##### Chapitre unique.<a id=305></a>
 
 ###### Article L921-1
 
@@ -28448,9 +28911,9 @@ _Cite_:
   - Code des pensions civiles et militaires de retrait - art. L24 (M)
 
 
-#### Titre III : Les personnels du second degré<a id=302></a>
+#### Titre III : Les personnels du second degré<a id=306></a>
 
-##### Chapitre Ier : Dispositions communes.<a id=303></a>
+##### Chapitre Ier : Dispositions communes.<a id=307></a>
 
 ###### Article L931-1
 
@@ -28485,7 +28948,7 @@ _Cité par_:
   - Code de l'éducation - art. L974-1 (V)
 
 
-##### Chapitre II : Les personnels enseignants des lycées et collèges.<a id=304></a>
+##### Chapitre II : Les personnels enseignants des lycées et collèges.<a id=308></a>
 
 ###### Article L932-1
 
@@ -28514,16 +28977,13 @@ _Cité par_:
 
 ###### Article L932-2
 
-Dans les établissements publics locaux d'enseignement relevant du ministre chargé de l'éducation, il peut être fait appel,
-dans les disciplines d'enseignement technologique et professionnel, à des professeurs associés.
+Dans les établissements publics locaux d'enseignement, il peut être fait appel à des professeurs associés.
 
-Les professeurs associés assurent un service à temps plein ou un service à temps incomplet au maximum égal à un demi-service
-d'enseignement.
+Les professeurs associés sont recrutés à temps plein ou à temps incomplet.
 
-Ils doivent justifier d'une expérience professionnelle en rapport avec la discipline enseignée, autre qu'une activité
-d'enseignement, d'une durée de cinq ans pour les professeurs associés à temps incomplet et d'une durée de dix ans pour les
-professeurs associés à temps complet. Ils sont recrutés par contrat pour une durée limitée dans des conditions fixées par
-décret. Celui-ci détermine les conditions de priorité accordée aux demandeurs d'emploi de plus de trois mois.
+Ils doivent justifier d'une expérience professionnelle d'une durée de cinq ans. Ils sont recrutés par contrat, pour une durée
+limitée, dans des conditions fixées par décret. Celui-ci détermine les conditions de priorité accordée aux demandeurs
+d'emploi de plus de trois mois.
 
 **Liens relatifs à cet article**
 
@@ -28536,6 +28996,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-380 du 23 avril 2005 - art. 50 () JORF 24 avril 2005
 
 _Cité par_:
 
@@ -28674,7 +29138,7 @@ _Cite_:
   - Code de l'éducation - art. L932-5 (V)
 
 
-##### Chapitre IV : Les personnels d'orientation.<a id=305></a>
+##### Chapitre IV : Les personnels d'orientation.<a id=309></a>
 
 ###### Article L934-1
 
@@ -28698,7 +29162,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre V : Les personnels de surveillance.<a id=306></a>
+##### Chapitre V : Les personnels de surveillance.<a id=310></a>
 
 ###### Article L935-1
 
@@ -28746,7 +29210,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre VI : Les personnels des centres de formation d'apprentis.<a id=307></a>
+##### Chapitre VI : Les personnels des centres de formation d'apprentis.<a id=311></a>
 
 ###### Article L936-1
 
@@ -28794,9 +29258,9 @@ _Cite_:
   - Code du travail - art. L116-6 (AbD)
 
 
-#### Titre IV : Les personnels d'inspection et de direction<a id=308></a>
+#### Titre IV : Les personnels d'inspection et de direction<a id=312></a>
 
-##### Chapitre Ier : Les personnels d'inspection.<a id=309></a>
+##### Chapitre Ier : Les personnels d'inspection.<a id=313></a>
 
 ###### Article L941-1
 
@@ -28829,9 +29293,9 @@ _Cité par_:
   - Code de l'éducation - art. L974-1 (V)
 
 
-#### Titre V : Les personnels de l'enseignement supérieur<a id=310></a>
+#### Titre V : Les personnels de l'enseignement supérieur<a id=314></a>
 
-##### Chapitre Ier : Dispositions communes.<a id=311></a>
+##### Chapitre Ier : Dispositions communes.<a id=315></a>
 
 ###### Article L951-1
 
@@ -28996,9 +29460,9 @@ _Anciens textes_:
   - Loi n°1880-02-27 art. 15
 
 
-##### Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs<a id=312></a>
+##### Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs<a id=316></a>
 
-##### Section 1 : Dispositions générales.<a id=313></a>
+##### Section 1 : Dispositions générales.<a id=317></a>
 
 ###### Article L952-1
 
@@ -29544,7 +30008,7 @@ _Cité par_:
   - Code de l'éducation - art. L974-1 (V)
 
 
-##### Section 2 : Dispositions particulières.<a id=314></a>
+##### Section 2 : Dispositions particulières.<a id=318></a>
 
 ###### Article L952-15
 
@@ -29679,7 +30143,7 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Section 3 : Dispositions propres aux personnels enseignants et hospitaliers.<a id=315></a>
+##### Section 3 : Dispositions propres aux personnels enseignants et hospitaliers.<a id=319></a>
 
 ###### Article L952-21
 
@@ -29801,7 +30265,7 @@ _Cité par_:
   - Code de l'éducation - art. L952-9 (V)
 
 
-##### Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service.<a id=316></a>
+##### Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service.<a id=320></a>
 
 ###### Article L953-1
 
@@ -30014,9 +30478,9 @@ _Cité par_:
   - Code de l'éducation - art. L974-1 (V)
 
 
-#### Titre VI : Les personnels des établissements d'enseignement spécialisés<a id=317></a>
+#### Titre VI : Les personnels des établissements d'enseignement spécialisés<a id=321></a>
 
-##### Chapitre Ier : Les personnels de l'enseignement agricole.<a id=318></a>
+##### Chapitre Ier : Les personnels de l'enseignement agricole.<a id=322></a>
 
 ###### Article L961-1
 
@@ -30109,7 +30573,7 @@ _Cite_:
   - Code rural L813-7, L813-8, L813-9
 
 
-##### Chapitre II : Les personnels enseignants de l'architecture.<a id=319></a>
+##### Chapitre II : Les personnels enseignants de l'architecture.<a id=323></a>
 
 ###### Article L962-1
 
@@ -30142,15 +30606,15 @@ _Cité par_:
   - Arrêté du 7 mai 2018 (V)
 
 
-#### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=320></a>
+#### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=324></a>
 
-##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=321></a>
+##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=325></a>
 
 ###### Article L971-1
 
-Sont applicables dans les îles Wallis et Futuna les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-2, L. 913-1, L. 931-1, L.
-932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L. 952-20, L. 953-1 à L. 953-4,
-L. 953-6.
+Sont applicables dans les îles Wallis et Futuna les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L.
+912-1-3, L. 912-2, L. 913-1, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L.
+952-14 à L. 952-20, L. 953-1 à L. 953-4, L. 953-6.
 
 **Liens relatifs à cet article**
 
@@ -30167,18 +30631,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
-
-_Cite_:
-
-  - Code de l'éducation - art. L912-1 (M)
-  - Code de l'éducation - art. L912-2 (V)
-  - Code de l'éducation - art. L913-1 (M)
-  - Code de l'éducation - art. L931-1 (V)
-  - Code de l'éducation - art. L932-1 (V)
-  - Code de l'éducation - art. L941-1 (V)
-  - Code de l'éducation - art. L953-6 (M)
-  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
+  - Loi n°2005-380 du 23 avril 2005 - art. 60 () JORF 24 avril 2005
 
 
 ###### Article L971-2
@@ -30226,12 +30679,12 @@ _Codifié par_:
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre II : Dispositions applicables à Mayotte.<a id=322></a>
+##### Chapitre II : Dispositions applicables à Mayotte.<a id=326></a>
 
 ###### Article L972-1
 
-Sont applicables à Mayotte les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-2, L. 913-1, L. 931-1, L. 932-1, L. 932-3 à L.
-932-6, L. 941-1.
+Sont applicables à Mayotte les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L. 912-1-3, L. 912-2, L.
+913-1, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1.
 
 **Liens relatifs à cet article**
 
@@ -30247,17 +30700,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+  - Loi n°2005-380 du 23 avril 2005 - art. 68 () JORF 24 avril 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
 
 _Cite_:
 
-  - Code de l'éducation - art. L912-1 (M)
-  - Code de l'éducation - art. L912-2 (V)
-  - Code de l'éducation - art. L913-1 (M)
+  - Code de l'éducation - art. L911-1 (V)
+  - Code de l'éducation - art. L912-1 (V)
+  - Code de l'éducation - art. L913-1 (V)
   - Code de l'éducation - art. L931-1 (V)
   - Code de l'éducation - art. L932-1 (V)
   - Code de l'éducation - art. L941-1 (V)
-  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L931-1, L932-1, L932-3 à L932-6, L941-1
 
 
 ###### Article L972-2
@@ -30327,13 +30783,13 @@ _Abrogé par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 19
 
 
-##### Chapitre III : Dispositions applicables en Polynésie française.<a id=323></a>
+##### Chapitre III : Dispositions applicables en Polynésie française.<a id=327></a>
 
 ###### Article L973-1
 
-Sont applicables en Polynésie française les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-2, L. 913-1, L. 914-1, L. 914-2,
-L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L. 952-20, L. 953-1
-à L. 953-4, L. 953-6.
+Sont applicables en Polynésie française les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L. 912-1-3, L.
+912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L.
+952-12, L. 952-14 à L. 952-20, L. 953-1 à L. 953-4, L. 953-6.
 
 **Liens relatifs à cet article**
 
@@ -30352,11 +30808,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+  - Loi n°2005-380 du 23 avril 2005 - art. 75 () JORF 24 avril 2005
 
 _Cite_:
 
   - Code de l'éducation - art. L912-1 (M)
+  - Code de l'éducation - art. L912-1-1 (V)
+  - Code de l'éducation - art. L912-1-2 (V)
+  - Code de l'éducation - art. L912-1-3 (V)
   - Code de l'éducation - art. L912-2 (V)
   - Code de l'éducation - art. L913-1 (M)
   - Code de l'éducation - art. L914-1 (M)
@@ -30365,7 +30824,7 @@ _Cite_:
   - Code de l'éducation - art. L932-1 (V)
   - Code de l'éducation - art. L941-1 (V)
   - Code de l'éducation - art. L953-6 (M)
-  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
+  - Code de l'éducation L911-1 à L911-5, L912-1, L912-1-1, L912-1-2, L912-1-3, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
 
 
 ###### Article L973-2
@@ -30413,13 +30872,13 @@ _Cité par_:
   - Code de l'éducation - art. D263-11 (V)
 
 
-##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=324></a>
+##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=328></a>
 
 ###### Article L974-1
 
-Sont applicables en Nouvelle-Calédonie les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-2, L. 913-1, L. 914-1, L. 914-2, L.
-931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L. 952-20, L. 953-1 à
-L. 953-4, L. 953-6.
+Sont applicables en Nouvelle-Calédonie les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L. 912-1-3, L.
+912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L.
+952-12, L. 952-14 à L. 952-20, L. 953-1 à L. 953-4, L. 953-6.
 
 **Liens relatifs à cet article**
 
@@ -30438,11 +30897,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+  - Loi n°2005-380 du 23 avril 2005 - art. 83 () JORF 24 avril 2005
 
 _Cite_:
 
   - Code de l'éducation - art. L912-1 (M)
+  - Code de l'éducation - art. L912-1-1 (V)
+  - Code de l'éducation - art. L912-1-2 (V)
+  - Code de l'éducation - art. L912-1-3 (V)
   - Code de l'éducation - art. L912-2 (V)
   - Code de l'éducation - art. L913-1 (M)
   - Code de l'éducation - art. L914-1 (M)
@@ -30451,7 +30913,7 @@ _Cite_:
   - Code de l'éducation - art. L932-1 (V)
   - Code de l'éducation - art. L941-1 (V)
   - Code de l'éducation - art. L953-6 (M)
-  - Code de l'éducation L911-1 à L911-5, L912-1, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
+  - Code de l'éducation L911-1 à L911-5, L912-1, L912-1-1, L912-1-2, L912-1-3, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
 
 
 ###### Article L974-2
@@ -30499,13 +30961,13 @@ _Cité par_:
   - Code de l'éducation - art. D264-11 (V)
 
 
-# Partie réglementaire<a id=325></a>
+# Partie réglementaire<a id=329></a>
 
-## Livre Ier : Principes généraux de l'éducation.<a id=326></a>
+## Livre Ier : Principes généraux de l'éducation.<a id=330></a>
 
-### Titre Ier : Le droit à l'éducation.<a id=327></a>
+### Titre Ier : Le droit à l'éducation.<a id=331></a>
 
-#### Chapitre III : Dispositions particulières aux enfants d'âge préscolaire.<a id=328></a>
+#### Chapitre III : Dispositions particulières aux enfants d'âge préscolaire.<a id=332></a>
 
 ###### Article D113-1
 
@@ -30541,11 +31003,11 @@ _Cité par_:
   - Code de l'éducation - art. D321-27 (V)
 
 
-### Titre II : Objectifs et missions du service public de l'enseignement.<a id=329></a>
+### Titre II : Objectifs et missions du service public de l'enseignement.<a id=333></a>
 
-#### Chapitre II : Objectifs et missions de l'enseignement scolaire<a id=330></a>
+#### Chapitre II : Objectifs et missions de l'enseignement scolaire<a id=334></a>
 
-##### Section 2 : Mission de formation continue des adultes.<a id=331></a>
+##### Section 2 : Mission de formation continue des adultes.<a id=335></a>
 
 ###### Article D122-1
 
@@ -30779,7 +31241,7 @@ _Transféré par_:
   - Décret n°2006-830 du 11 juillet 2006 - art. 3 () JORF 12 juillet 2006
 
 
-##### Section 3 : Mission d'éducation culturelle.<a id=332></a>
+##### Section 3 : Mission d'éducation culturelle.<a id=336></a>
 
 ###### Article D122-7
 
@@ -30815,9 +31277,9 @@ _Transféré par_:
   - Décret n°2006-830 du 11 juillet 2006 - art. 3 () JORF 12 juillet 2006
 
 
-#### Chapitre III : Objectifs et missions de l'enseignement supérieur<a id=333></a>
+#### Chapitre III : Objectifs et missions de l'enseignement supérieur<a id=337></a>
 
-##### Section 1 : Mission de formation continue des adultes.<a id=334></a>
+##### Section 1 : Mission de formation continue des adultes.<a id=338></a>
 
 ###### Article D123-1
 
@@ -30834,9 +31296,9 @@ _Cite_:
   - Code de l'éducation - art. D122-1 (V)
 
 
-##### Section 2 : Missions de valorisation des résultats de la recherche scientifique et technique ainsi que de la culture et de l'information scientifique et technique<a id=335></a>
+##### Section 2 : Missions de valorisation des résultats de la recherche scientifique et technique ainsi que de la culture et de l'information scientifique et technique<a id=339></a>
 
-##### Sous-section 1 : Prestations de services.<a id=336></a>
+##### Sous-section 1 : Prestations de services.<a id=340></a>
 
 ###### Article D123-2
 
@@ -30993,7 +31455,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 2 : Recrutement d'agents non titulaires.<a id=337></a>
+##### Sous-section 2 : Recrutement d'agents non titulaires.<a id=341></a>
 
 ###### Article R123-8
 
@@ -31020,7 +31482,7 @@ _Cité par_:
   - Code de l'éducation - art. D164-1 (V)
 
 
-##### Sous-section 3 : Transactions et conventions d'arbitrage.<a id=338></a>
+##### Sous-section 3 : Transactions et conventions d'arbitrage.<a id=342></a>
 
 ###### Article D123-9
 
@@ -31104,7 +31566,7 @@ _Cite_:
   - Code de l'éducation - art. D123-9 (V)
 
 
-##### Section 3 : Construction de l'Espace européen de l'enseignement supérieur.<a id=339></a>
+##### Section 3 : Construction de l'Espace européen de l'enseignement supérieur.<a id=343></a>
 
 ###### Article D123-12
 
@@ -31251,9 +31713,9 @@ _Cité par_:
   - Code de l'éducation - art. D611-1 (V)
 
 
-##### Section 4 : Mission de coopération internationale<a id=340></a>
+##### Section 4 : Mission de coopération internationale<a id=344></a>
 
-##### Sous-section 1 : Coopération internationale des établissements.<a id=341></a>
+##### Sous-section 1 : Coopération internationale des établissements.<a id=345></a>
 
 ###### Article D123-15
 
@@ -31419,7 +31881,7 @@ _Cite_:
   - Code de l'éducation - art. D123-15 (V)
 
 
-##### Sous-section 2 : Accueil des étudiants étrangers.<a id=342></a>
+##### Sous-section 2 : Accueil des étudiants étrangers.<a id=346></a>
 
 ###### Article D123-22
 
@@ -31449,13 +31911,13 @@ _Cité par_:
   - Code de l'éducation - art. D613-41 (V)
 
 
-### Titre III : L'obligation et la gratuité scolaires.<a id=343></a>
+### Titre III : L'obligation et la gratuité scolaires.<a id=347></a>
 
-#### Chapitre Ier : L'obligation scolaire<a id=344></a>
+#### Chapitre Ier : L'obligation scolaire<a id=348></a>
 
-##### Section 1 : Contrôle de l'obligation scolaire<a id=345></a>
+##### Section 1 : Contrôle de l'obligation scolaire<a id=349></a>
 
-##### Sous-section 1 : Contrôle de l'inscription.<a id=346></a>
+##### Sous-section 1 : Contrôle de l'inscription.<a id=350></a>
 
 ###### Article R131-1
 
@@ -31566,7 +32028,7 @@ _Cite_:
   - Code de l'éducation - art. R131-3 (V)
 
 
-##### Sous-section 2 : Contrôle de l'assiduité.<a id=347></a>
+##### Sous-section 2 : Contrôle de l'assiduité.<a id=351></a>
 
 ###### Article R131-5
 
@@ -31725,7 +32187,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 3 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat.<a id=348></a>
+##### Sous-section 3 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat.<a id=352></a>
 
 ###### Article D131-11
 
@@ -31891,9 +32353,9 @@ _Cite_:
   - Code de l'éducation - art. D131-12
 
 
-##### Section 2 : Sanctions aux manquements relatifs à l'obligation scolaire<a id=349></a>
+##### Section 2 : Sanctions aux manquements relatifs à l'obligation scolaire<a id=353></a>
 
-##### Sous-section 1 : Sanctions disciplinaires.<a id=350></a>
+##### Sous-section 1 : Sanctions disciplinaires.<a id=354></a>
 
 ###### Article R131-17
 
@@ -31926,7 +32388,7 @@ _Cite_:
   - Code de l'éducation R131-2 à R131-9
 
 
-##### Sous-section 2 : Sanctions pénales.<a id=351></a>
+##### Sous-section 2 : Sanctions pénales.<a id=355></a>
 
 ###### Article R131-18
 
@@ -31985,9 +32447,9 @@ _Cité par_:
   - Code pénal - art. R624-7 (M)
 
 
-### Titre IV : La laïcité de l'enseignement public.<a id=352></a>
+### Titre IV : La laïcité de l'enseignement public.<a id=356></a>
 
-#### Chapitre unique.<a id=353></a>
+#### Chapitre unique.<a id=357></a>
 
 ###### Article R*141-1
 
@@ -32156,9 +32618,9 @@ _Cite_:
   - Code de l'éducation R141-1 à R141-7
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=354></a>
+### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=358></a>
 
-#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=355></a>
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=359></a>
 
 ###### Article D161-1
 
@@ -32179,7 +32641,7 @@ _Cite_:
   - Code de l'éducation D123-15 à D123-21
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=356></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=360></a>
 
 ###### Article D163-1
 
@@ -32200,7 +32662,7 @@ _Cite_:
   - Code de l'éducation D123-15 à D123-21
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=357></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=361></a>
 
 ###### Article D164-1
 
@@ -32221,13 +32683,13 @@ _Cite_:
   - Code de l'éducation D123-15 à D123-21
 
 
-## Livre II : L'administration de l'éducation.<a id=358></a>
+## Livre II : L'administration de l'éducation.<a id=362></a>
 
-### Titre Ier : La répartition des compétences entre l'État et les collectivités territoriales.<a id=359></a>
+### Titre Ier : La répartition des compétences entre l'État et les collectivités territoriales.<a id=363></a>
 
-#### Chapitre Ier : Les compétences de l'Etat<a id=360></a>
+#### Chapitre Ier : Les compétences de l'Etat<a id=364></a>
 
-##### Section 1 : Création d'établissements d'enseignement public du premier et du second degré.<a id=361></a>
+##### Section 1 : Création d'établissements d'enseignement public du premier et du second degré.<a id=365></a>
 
 ###### Article R211-1
 
@@ -32412,9 +32874,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Carte scolaire<a id=362></a>
+##### Section 2 : Carte scolaire<a id=366></a>
 
-##### Sous-section 1 : Carte scolaire du premier degré.<a id=363></a>
+##### Sous-section 1 : Carte scolaire du premier degré.<a id=367></a>
 
 ###### Article D211-9
 
@@ -32434,7 +32896,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 2 : Secteurs et districts du second degré.<a id=364></a>
+##### Sous-section 2 : Secteurs et districts du second degré.<a id=368></a>
 
 ###### Article D211-10
 
@@ -32498,7 +32960,7 @@ _Cité par_:
   - Décret n°2014-1275 du 23 octobre 2014 - art. (VD)
 
 
-##### Section 3 : Liste des établissements dont la responsabilité et la charge incombent entièrement à l'Etat.<a id=365></a>
+##### Section 3 : Liste des établissements dont la responsabilité et la charge incombent entièrement à l'Etat.<a id=369></a>
 
 ###### Article D211-12
 
@@ -32586,7 +33048,7 @@ _Cite_:
   - Code de l'éducation - art. L216-2 (V)
 
 
-##### Section 4 : Liste des dépenses pédagogiques à la charge de l'Etat.<a id=366></a>
+##### Section 4 : Liste des dépenses pédagogiques à la charge de l'Etat.<a id=370></a>
 
 ###### Article D211-14
 
@@ -32727,11 +33189,11 @@ _Cite_:
   - Code de l'éducation - art. D211-14 (V)
 
 
-#### Chapitre II : Les compétences des communes<a id=367></a>
+#### Chapitre II : Les compétences des communes<a id=371></a>
 
-##### Section 1 : Ecoles et classes élémentaires et maternelles<a id=368></a>
+##### Section 1 : Ecoles et classes élémentaires et maternelles<a id=372></a>
 
-##### Sous-section 1 : Logement des instituteurs.<a id=369></a>
+##### Sous-section 1 : Logement des instituteurs.<a id=373></a>
 
 ###### Article D212-1
 
@@ -33153,7 +33615,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2334-13 (V)
 
 
-##### Sous-section 2 : Logement des instituteurs de la ville de Paris.<a id=370></a>
+##### Sous-section 2 : Logement des instituteurs de la ville de Paris.<a id=374></a>
 
 ###### Article R212-20
 
@@ -33172,7 +33634,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 3 : Participation financière des communes.<a id=371></a>
+##### Sous-section 3 : Participation financière des communes.<a id=375></a>
 
 ###### Article R212-21
 
@@ -33258,7 +33720,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Caisse des écoles.<a id=372></a>
+##### Section 2 : Caisse des écoles.<a id=376></a>
 
 ###### Article R212-24
 
@@ -33539,7 +34001,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2321-5 (M)
 
 
-##### Section 3 : Collèges.<a id=373></a>
+##### Section 3 : Collèges.<a id=377></a>
 
 ###### Article D212-34
 
@@ -33562,9 +34024,9 @@ _Cite_:
   - Code de l'éducation - art. L422-2 (M)
 
 
-#### Chapitre III : Les compétences des départements<a id=374></a>
+#### Chapitre III : Les compétences des départements<a id=378></a>
 
-##### Section 1 : Collèges.<a id=375></a>
+##### Section 1 : Collèges.<a id=379></a>
 
 ###### Article R213-1
 
@@ -33599,11 +34061,11 @@ _Cite_:
   - Code général des collectivités territoriales - art. R3443-3 (V)
 
 
-##### Section 2 : Transports scolaires<a id=376></a>
+##### Section 2 : Transports scolaires<a id=380></a>
 
-##### Sous-section 1 : Dispositions générales<a id=377></a>
+##### Sous-section 1 : Dispositions générales<a id=381></a>
 
-##### Paragraphe 1 : L'organisation des transports scolaires.<a id=378></a>
+##### Paragraphe 1 : L'organisation des transports scolaires.<a id=382></a>
 
 ###### Article R213-3
 
@@ -33900,7 +34362,7 @@ _Nouveaux textes_:
   - Code des transports - art. R3111-23 (V)
 
 
-##### Paragraphe 2 : Le financement des frais de déplacement des élèves et étudiants handicapés.<a id=379></a>
+##### Paragraphe 2 : Le financement des frais de déplacement des élèves et étudiants handicapés.<a id=383></a>
 
 ###### Article R213-13
 
@@ -34013,7 +34475,7 @@ _Nouveaux textes_:
   - Code des transports - art. R3111-27 (V)
 
 
-##### Paragraphe 3 : Les transports organisés sur l'initiative des établissements d'enseignement.<a id=380></a>
+##### Paragraphe 3 : Les transports organisés sur l'initiative des établissements d'enseignement.<a id=384></a>
 
 ###### Article R213-17
 
@@ -34061,7 +34523,7 @@ _Nouveaux textes_:
   - Code des transports - art. R3131-2 (M)
 
 
-##### Paragraphe 4 : Compensation financière et statistiques.<a id=381></a>
+##### Paragraphe 4 : Compensation financière et statistiques.<a id=385></a>
 
 ###### Article R213-18
 
@@ -34114,9 +34576,9 @@ _Nouveaux textes_:
   - Code des transports - art. R3111-29 (V)
 
 
-##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France<a id=382></a>
+##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France<a id=386></a>
 
-##### Paragraphe 1 : L'organisation des transports scolaires en région d'Ile-de-France.<a id=383></a>
+##### Paragraphe 1 : L'organisation des transports scolaires en région d'Ile-de-France.<a id=387></a>
 
 ###### Article R213-20
 
@@ -34140,7 +34602,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Paragraphe 2 : Financement des transports scolaires en région d'Ile-de-France.<a id=384></a>
+##### Paragraphe 2 : Financement des transports scolaires en région d'Ile-de-France.<a id=388></a>
 
 ###### Article R213-21
 
@@ -34180,7 +34642,7 @@ _Cité par_:
   - Décret n°2005-664 du 10 juin 2005 - art. 26 (Ab)
 
 
-##### Paragraphe 3 : Financement des frais de déplacement des élèves et étudiants handicapés dans la région d'Ile-de-France.<a id=385></a>
+##### Paragraphe 3 : Financement des frais de déplacement des élèves et étudiants handicapés dans la région d'Ile-de-France.<a id=389></a>
 
 ###### Article D213-22
 
@@ -34461,7 +34923,7 @@ _Cité par_:
   - Décret n°2005-664 du 10 juin 2005 - art. 27 (Ab)
 
 
-##### Sous-section 3 : Procédure de consultation<a id=386></a>
+##### Sous-section 3 : Procédure de consultation<a id=390></a>
 
 ###### Article D213-29
 
@@ -34534,9 +34996,9 @@ _Cite_:
   - Code de l'éducation - art. D213-29 (M)
 
 
-#### Chapitre IV : Les compétences des régions<a id=387></a>
+#### Chapitre IV : Les compétences des régions<a id=391></a>
 
-##### Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole.<a id=388></a>
+##### Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole.<a id=392></a>
 
 ###### Article R214-1
 
@@ -34555,9 +35017,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. R4332-10 (V)
 
 
-##### Section 3 : Formation professionnelle et apprentissage<a id=389></a>
+##### Section 3 : Formation professionnelle et apprentissage<a id=393></a>
 
-##### Sous-section 1 : Le fonds régional de l'apprentissage et de la formation professionnelle continue.<a id=390></a>
+##### Sous-section 1 : Le fonds régional de l'apprentissage et de la formation professionnelle continue.<a id=394></a>
 
 ###### Article R214-2
 
@@ -34608,7 +35070,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1614-10 (V)
 
 
-##### Sous-section 2 : Contrats pluriannuels d'objectifs de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance.<a id=391></a>
+##### Sous-section 2 : Contrats pluriannuels d'objectifs de développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance.<a id=395></a>
 
 ###### Article D214-5
 
@@ -34718,7 +35180,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 3 : Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue.<a id=392></a>
+##### Sous-section 3 : Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue.<a id=396></a>
 
 ###### Article R214-9
 
@@ -34981,7 +35443,7 @@ _Abrogé par_:
   - Décret n°2006-583 2006-05-23 art. 4 3° JORF 24 mai 2006
 
 
-#### Chapitre V : Les compétences de la collectivité territoriale de Corse.<a id=393></a>
+#### Chapitre V : Les compétences de la collectivité territoriale de Corse.<a id=397></a>
 
 ###### Article R215-1
 
@@ -35034,7 +35496,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre VI : Les compétences communes aux collectivités territoriales.<a id=394></a>
+#### Chapitre VI : Les compétences communes aux collectivités territoriales.<a id=398></a>
 
 ###### Article D216-1
 
@@ -35104,9 +35566,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-### Titre II : L'organisation des services de l'administration de l'éducation.<a id=395></a>
+### Titre II : L'organisation des services de l'administration de l'éducation.<a id=399></a>
 
-#### Chapitre Ier : Les services de l'administration centrale.<a id=396></a>
+#### Chapitre Ier : Les services de l'administration centrale.<a id=400></a>
 
 ###### Article R221-1
 
@@ -35127,11 +35589,11 @@ _Cité par_:
   - Décret n°2006-572 du 17 mai 2006 - art. 17 (VT)
 
 
-#### Chapitre II : Les services académiques et départementaux<a id=397></a>
+#### Chapitre II : Les services académiques et départementaux<a id=401></a>
 
-##### Section 1 : Circonscriptions académiques<a id=398></a>
+##### Section 1 : Circonscriptions académiques<a id=402></a>
 
-##### Sous-section 1 : Les circonscriptions académiques métropolitaines.<a id=399></a>
+##### Sous-section 1 : Les circonscriptions académiques métropolitaines.<a id=403></a>
 
 ###### Article R*222-1
 
@@ -35219,7 +35681,7 @@ _Cité par_:
   - Décret n°2017-1543 du 6 novembre 2017 (V)
 
 
-##### Sous-section 2 : Dispositions propres aux académies de Paris, de Créteil et de Versailles.<a id=400></a>
+##### Sous-section 2 : Dispositions propres aux académies de Paris, de Créteil et de Versailles.<a id=404></a>
 
 ###### Article D222-4
 
@@ -35369,7 +35831,7 @@ _Anciens textes_:
   - Décret n°71-1023 du 22 décembre 1971 - art. 4 (Ab)
 
 
-##### Sous-section 3 : Dispositions propres aux académies d'outre-mer.<a id=401></a>
+##### Sous-section 3 : Dispositions propres aux académies d'outre-mer.<a id=405></a>
 
 ###### Article R222-8
 
@@ -35437,7 +35899,7 @@ _Cité par_:
   - Code de l'éducation - art. R222-19-1 (VD)
 
 
-##### Sous-section 4 : Dispositions communes.<a id=402></a>
+##### Sous-section 4 : Dispositions communes.<a id=406></a>
 
 ###### Article D222-11
 
@@ -35476,9 +35938,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Autorités administratives déconcentrées<a id=403></a>
+##### Section 2 : Autorités administratives déconcentrées<a id=407></a>
 
-##### Sous-section 1 : Le recteur.<a id=404></a>
+##### Sous-section 1 : Le recteur.<a id=408></a>
 
 ###### Article D222-15
 
@@ -35774,7 +36236,7 @@ _Cite_:
   - Code de l'éducation R222-17, R222-18
 
 
-##### Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.<a id=405></a>
+##### Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.<a id=409></a>
 
 ###### Article R222-24
 
@@ -35798,9 +36260,9 @@ _Cité par_:
   - Décret n°2016-1413 du 20 octobre 2016 - art. 8 (V)
 
 
-##### Section 3 : Compétences<a id=406></a>
+##### Section 3 : Compétences<a id=410></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=407></a>
+##### Sous-section 1 : Dispositions générales.<a id=411></a>
 
 ###### Article D222-27
 
@@ -36034,7 +36496,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 2 : Contentieux.<a id=408></a>
+##### Sous-section 2 : Contentieux.<a id=412></a>
 
 ###### Article D222-35
 
@@ -36084,7 +36546,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 4 : Médiateurs.<a id=409></a>
+##### Section 4 : Médiateurs.<a id=413></a>
 
 ###### Article D222-37
 
@@ -36205,11 +36667,11 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-### Titre III : Les organismes collégiaux nationaux et locaux.<a id=410></a>
+### Titre III : Les organismes collégiaux nationaux et locaux.<a id=414></a>
 
-#### Chapitre Ier : Le Conseil supérieur de l'éducation<a id=411></a>
+#### Chapitre Ier : Le Conseil supérieur de l'éducation<a id=415></a>
 
-##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.<a id=412></a>
+##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.<a id=416></a>
 
 ###### Article R231-1
 
@@ -36787,9 +37249,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire<a id=413></a>
+##### Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire<a id=417></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=414></a>
+##### Sous-section 1 : Dispositions générales.<a id=418></a>
 
 ###### Article R231-17
 
@@ -37061,7 +37523,7 @@ _Cite_:
   - Code de l'éducation - art. L231-6 (M)
 
 
-##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=415></a>
+##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=419></a>
 
 ###### Article R231-27
 
@@ -37228,9 +37690,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche<a id=416></a>
+#### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche<a id=420></a>
 
-##### Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative.<a id=417></a>
+##### Section 1 : Le Conseil national de l'enseignement supérieur et de la recherche délibérant en matière consultative.<a id=421></a>
 
 ###### Article D232-1
 
@@ -37259,7 +37721,7 @@ _Cité par_:
   - Code de l'éducation - art. D264-4 (V)
 
 
-##### Sous-section 1 : Composition.<a id=418></a>
+##### Sous-section 1 : Composition.<a id=422></a>
 
 ###### Article D232-2
 
@@ -37633,7 +38095,7 @@ _Cité par_:
   - Code de l'éducation - art. D232-9 (V)
 
 
-##### Sous-section 2 : Fonctionnement.<a id=419></a>
+##### Sous-section 2 : Fonctionnement.<a id=423></a>
 
 ###### Article D232-14
 
@@ -37883,11 +38345,11 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire<a id=420></a>
+##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire<a id=424></a>
 
-##### Sous-section 1 : Dispositions générales<a id=421></a>
+##### Sous-section 1 : Dispositions générales<a id=425></a>
 
-##### Paragraphe 1 : Composition de la formation disciplinaire.<a id=422></a>
+##### Paragraphe 1 : Composition de la formation disciplinaire.<a id=426></a>
 
 ###### Article R232-23
 
@@ -38104,7 +38566,7 @@ _Cite_:
   - Code de l'éducation - art. R232-34 (V)
 
 
-##### Paragraphe 2 : Procédure disciplinaire.<a id=423></a>
+##### Paragraphe 2 : Procédure disciplinaire.<a id=427></a>
 
 ###### Article R232-31
 
@@ -38498,7 +38960,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. D810-2 (Ab)
 
 
-##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=424></a>
+##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=428></a>
 
 ###### Article R232-44
 
@@ -38615,9 +39077,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel<a id=425></a>
+#### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel<a id=429></a>
 
-##### Section 1 : La Conférence des présidents d'université.<a id=426></a>
+##### Section 1 : La Conférence des présidents d'université.<a id=430></a>
 
 ###### Article D233-1
 
@@ -38749,7 +39211,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : La Conférence des directeurs d'écoles et de formations d'ingénieurs.<a id=427></a>
+##### Section 2 : La Conférence des directeurs d'écoles et de formations d'ingénieurs.<a id=431></a>
 
 ###### Article D233-7
 
@@ -38873,9 +39335,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre IV : Les conseils académiques de l'éducation nationale<a id=428></a>
+#### Chapitre IV : Les conseils académiques de l'éducation nationale<a id=432></a>
 
-##### Section 1 : Dispositions générales.<a id=429></a>
+##### Section 1 : Dispositions générales.<a id=433></a>
 
 ###### Article R234-1
 
@@ -39393,9 +39855,9 @@ _Cité par_:
   - Code de l'éducation - art. R234-29 (V)
 
 
-##### Section 2 : Dispositions particulières<a id=430></a>
+##### Section 2 : Dispositions particulières<a id=434></a>
 
-##### Sous-section 1 : Conseil interacadémique d'Ile-de-France.<a id=431></a>
+##### Sous-section 1 : Conseil interacadémique d'Ile-de-France.<a id=435></a>
 
 ###### Article R234-16
 
@@ -39624,7 +40086,7 @@ _Cite_:
   - Code de l'éducation - art. R234-18 (VT)
 
 
-##### Sous-section 2 : Conseil de l'éducation nationale de l'académie de Corse.<a id=432></a>
+##### Sous-section 2 : Conseil de l'éducation nationale de l'académie de Corse.<a id=436></a>
 
 ###### Article R234-22
 
@@ -39720,7 +40182,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 3 : Conseils de l'éducation nationale dans les académies d'outre-mer.<a id=433></a>
+##### Sous-section 3 : Conseils de l'éducation nationale dans les académies d'outre-mer.<a id=437></a>
 
 ###### Article R234-25
 
@@ -40000,9 +40462,9 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 3 : Dispositions contentieuses et disciplinaires<a id=434></a>
+##### Section 3 : Dispositions contentieuses et disciplinaires<a id=438></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=435></a>
+##### Sous-section 1 : Dispositions générales.<a id=439></a>
 
 ###### Article R234-34
 
@@ -40161,7 +40623,7 @@ _Cite_:
   - Code de l'éducation - art. L234-3
 
 
-##### Sous-section 2 : Dispositions particulières au conseil interacadémique d'Ile-de-France.<a id=436></a>
+##### Sous-section 2 : Dispositions particulières au conseil interacadémique d'Ile-de-France.<a id=440></a>
 
 ###### Article R234-39
 
@@ -40308,9 +40770,9 @@ _Cite_:
   - Code de l'éducation - art. R234-36 (V)
 
 
-#### Chapitre V : Les conseils départementaux de l'éducation nationale<a id=437></a>
+#### Chapitre V : Les conseils départementaux de l'éducation nationale<a id=441></a>
 
-##### Section 1 : Dispositions générales.<a id=438></a>
+##### Section 1 : Dispositions générales.<a id=442></a>
 
 ###### Article R235-1
 
@@ -40615,7 +41077,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Dispositions particulières au département de Paris.<a id=439></a>
+##### Section 2 : Dispositions particulières au département de Paris.<a id=443></a>
 
 ###### Article R235-12
 
@@ -40744,7 +41206,7 @@ _Cite_:
   - Code de l'éducation R235-1 à R235-11
 
 
-##### Section 3 : Dispositions particulières à la collectivité territoriale de Corse.<a id=440></a>
+##### Section 3 : Dispositions particulières à la collectivité territoriale de Corse.<a id=444></a>
 
 ###### Article R235-17
 
@@ -40769,11 +41231,11 @@ _Cite_:
   - Code de l'éducation R235-1 à R235-11, R234-22 à R234-24
 
 
-#### Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle<a id=441></a>
+#### Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle<a id=445></a>
 
-##### Section 1 : Les instances nationales<a id=442></a>
+##### Section 1 : Les instances nationales<a id=446></a>
 
-##### Sous-section 1 : Le Haut Comité éducation-économie-emploi.<a id=443></a>
+##### Sous-section 1 : Le Haut Comité éducation-économie-emploi.<a id=447></a>
 
 ###### Article D237-1
 
@@ -40970,7 +41432,7 @@ _Abrogé par_:
   - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
-##### Sous-section 2 : Le comité interministériel de la formation professionnelle et de l'emploi et le Conseil national de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=444></a>
+##### Sous-section 2 : Le comité interministériel de la formation professionnelle et de l'emploi et le Conseil national de la formation professionnelle, de la promotion sociale et de l'emploi.<a id=448></a>
 
 ###### Article R237-9
 
@@ -40993,7 +41455,7 @@ _Cite_:
   - Code du travail R910-1 à R910-10
 
 
-##### Section 2 : Les instances régionales et départementales.<a id=445></a>
+##### Section 2 : Les instances régionales et départementales.<a id=449></a>
 
 ###### Article D237-11
 
@@ -41152,7 +41614,7 @@ _Cite_:
   - Code du travail - art. R910-15 (M)
 
 
-##### Section 3 : La Commission spéciale de la taxe d'apprentissage.<a id=446></a>
+##### Section 3 : La Commission spéciale de la taxe d'apprentissage.<a id=450></a>
 
 ###### Article R237-15
 
@@ -41475,9 +41937,9 @@ _Abrogé par_:
   - Décret n°2015-652 du 10 juin 2015 - art. 7
 
 
-#### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole<a id=447></a>
+#### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole<a id=451></a>
 
-##### Section 1 : Le Conseil national de l'enseignement agricole.<a id=448></a>
+##### Section 1 : Le Conseil national de l'enseignement agricole.<a id=452></a>
 
 ###### Article R238-1
 
@@ -41499,7 +41961,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire.<a id=449></a>
+##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire.<a id=453></a>
 
 ###### Article R238-2
 
@@ -41518,7 +41980,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 3 : Les comités régionaux de l'enseignement agricole.<a id=450></a>
+##### Section 3 : Les comités régionaux de l'enseignement agricole.<a id=454></a>
 
 ###### Article R238-3
 
@@ -41536,7 +41998,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 4 : Les conseils de l'enseignement vétérinaire.<a id=451></a>
+##### Section 4 : Les conseils de l'enseignement vétérinaire.<a id=455></a>
 
 ###### Article R238-4
 
@@ -41554,7 +42016,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 5 : Le comité de coordination.<a id=452></a>
+##### Section 5 : Le comité de coordination.<a id=456></a>
 
 ###### Article R238-5
 
@@ -41574,9 +42036,9 @@ _Cite_:
   - Code rural et de la pêche maritime - art. R814-41 (T)
 
 
-#### Chapitre IX : Les autres instances consultatives<a id=453></a>
+#### Chapitre IX : Les autres instances consultatives<a id=457></a>
 
-##### Section 1 : La Commission nationale pour l'éducation, la science et la culture.<a id=454></a>
+##### Section 1 : La Commission nationale pour l'éducation, la science et la culture.<a id=458></a>
 
 ###### Article D239-1
 
@@ -42033,7 +42495,7 @@ _Anciens textes_:
   - Décret n°1951-05-02 art. 8
 
 
-##### Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur.<a id=455></a>
+##### Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur.<a id=459></a>
 
 ###### Article D239-11
 
@@ -42379,7 +42841,7 @@ _Nouveaux textes_:
   - Code de l'éducation - art. D239-33 (V)
 
 
-##### Section 3 : Le Conseil supérieur des bibliothèques.<a id=456></a>
+##### Section 3 : Le Conseil supérieur des bibliothèques.<a id=460></a>
 
 ###### Article D239-20
 
@@ -42629,13 +43091,13 @@ _Nouveaux textes_:
   - Code de l'éducation - art. D239-41 (V)
 
 
-### Titre IV : L'inspection et l'évaluation de l'éducation.<a id=457></a>
+### Titre IV : L'inspection et l'évaluation de l'éducation.<a id=461></a>
 
-#### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation<a id=458></a>
+#### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation<a id=462></a>
 
-##### Section 1 : Missions des inspections générales<a id=459></a>
+##### Section 1 : Missions des inspections générales<a id=463></a>
 
-##### Sous-section 1 : Dispositions communes.<a id=460></a>
+##### Sous-section 1 : Dispositions communes.<a id=464></a>
 
 ###### Article D241-1
 
@@ -42685,7 +43147,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 2 : L'inspection générale de l'éducation nationale.<a id=461></a>
+##### Sous-section 2 : L'inspection générale de l'éducation nationale.<a id=465></a>
 
 ###### Article R*241-3
 
@@ -42764,7 +43226,7 @@ _Codifié par_:
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
 
-##### Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche.<a id=462></a>
+##### Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche.<a id=466></a>
 
 ###### Article R*241-6
 
@@ -43027,7 +43489,7 @@ _Cite_:
   - Code de l'éducation - art. L241-1 (V)
 
 
-##### Section 2 : L'inspection générale des bibliothèques.<a id=463></a>
+##### Section 2 : L'inspection générale des bibliothèques.<a id=467></a>
 
 ###### Article R241-17
 
@@ -43056,7 +43518,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale.<a id=464></a>
+##### Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale.<a id=468></a>
 
 ###### Article R241-18
 
@@ -43159,7 +43621,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 4 : Le service académique de l'inspection de l'apprentissage.<a id=465></a>
+##### Section 4 : Le service académique de l'inspection de l'apprentissage.<a id=469></a>
 
 ###### Article R241-22
 
@@ -43298,7 +43760,7 @@ _Cite_:
   - Code du travail - art. R119-65 (Ab)
 
 
-##### Section 5 : Les délégués départementaux de l'éducation nationale.<a id=466></a>
+##### Section 5 : Les délégués départementaux de l'éducation nationale.<a id=470></a>
 
 ###### Article D241-24
 
@@ -43540,7 +44002,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=467></a>
+#### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=471></a>
 
 ###### Article D*242-1
 
@@ -43930,7 +44392,7 @@ _Abrogé par_:
   - Décret n°2006-1334 du 3 novembre 2006 - art. 19 () JORF 4 novembre 2006
 
 
-#### Chapitre III : Le Haut Conseil de l'évaluation de l'école.<a id=468></a>
+#### Chapitre III : Le Haut Conseil de l'évaluation de l'école.<a id=472></a>
 
 ###### Article D243-1
 
@@ -44231,9 +44693,9 @@ _Abrogé par_:
   - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
 
 
-### Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=469></a>
+### Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=473></a>
 
-#### Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation.<a id=470></a>
+#### Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation.<a id=474></a>
 
 ###### Article D251-1
 
@@ -44416,9 +44878,9 @@ _Cite_:
   - Code du travail - art. D910-21 (Ab)
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=471></a>
+### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=475></a>
 
-#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=472></a>
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=476></a>
 
 ###### Article D*261-6
 
@@ -44602,7 +45064,7 @@ _Cite_:
   - Code de l'éducation - art. R232-41 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=473></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=477></a>
 
 ###### Article D262-3
 
@@ -44703,7 +45165,7 @@ _Cite_:
   - Code de l'éducation
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=474></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=478></a>
 
 ###### Article D*263-8
 
@@ -44990,7 +45452,7 @@ _Cite_:
   - Code de l'éducation - art. R232-43 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=475></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=479></a>
 
 ###### Article D*264-8
 
