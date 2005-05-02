@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-04-24
+Version Consolidée au 2005-05-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -414,7 +414,7 @@ Version Consolidée au 2005-04-24
             - [Sous-section 1 : Dispositions générales. (art. D222-27 à R222-34)](#411)
             - [Sous-section 2 : Contentieux. (art. D222-35 à R222-36)](#412)
           - [Section 4 : Médiateurs. (art. D222-37 à D222-42)](#413)
-      - [Titre III : Les organismes collégiaux nationaux et locaux. (art. R231-1 à D239-27)](#414)
+      - [Titre III : Les organismes collégiaux nationaux et locaux. (art. R231-1 à R238-5)](#414)
         - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. R231-1 à R231-33)](#415)
           - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. R231-1 à R231-16)](#416)
           - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. R231-17 à R231-33)](#417)
@@ -457,29 +457,25 @@ Version Consolidée au 2005-04-24
           - [Section 3 : Les comités régionaux de l'enseignement agricole. (art. R238-3)](#454)
           - [Section 4 : Les conseils de l'enseignement vétérinaire. (art. R238-4)](#455)
           - [Section 5 : Le comité de coordination. (art. R238-5)](#456)
-        - [Chapitre IX : Les autres instances consultatives (art. D239-1 à D239-27)](#457)
-          - [Section 1 : La Commission nationale pour l'éducation, la science et la culture. (art. D239-1 à D239-10)](#458)
-          - [Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur. (art. D239-11 à D239-19)](#459)
-          - [Section 3 : Le Conseil supérieur des bibliothèques. (art. D239-20 à D239-27)](#460)
-      - [Titre IV : L'inspection et l'évaluation de l'éducation. (art. D241-1 à D243-9)](#461)
-        - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation (art. D241-1 à D241-35)](#462)
-          - [Section 1 : Missions des inspections générales (art. D241-1 à R241-16)](#463)
-            - [Sous-section 1 : Dispositions communes. (art. D241-1 à D241-2)](#464)
-            - [Sous-section 2 : L'inspection générale de l'éducation nationale. (art. R*241-3 à R*241-5)](#465)
-            - [Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche. (art. R*241-6 à R241-16)](#466)
-          - [Section 2 : L'inspection générale des bibliothèques. (art. R241-17)](#467)
-          - [Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale. (art. R241-18 à R241-21)](#468)
-          - [Section 4 : Le service académique de l'inspection de l'apprentissage. (art. R241-22 à R241-23)](#469)
-          - [Section 5 : Les délégués départementaux de l'éducation nationale. (art. D241-24 à D241-35)](#470)
-        - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. D*242-1 à D*242-14)](#471)
-        - [Chapitre III : Le Haut Conseil de l'évaluation de l'école. (art. D243-1 à D243-9)](#472)
-      - [Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. D251-1 à D251-8)](#473)
-        - [Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation. (art. D251-1 à D251-8)](#474)
-      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D*261-6 à R264-19)](#475)
-        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D*261-6 à R261-5)](#476)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. D262-3 à R262-4)](#477)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D*263-8 à R263-6)](#478)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D*264-8 à R264-19)](#479)
+      - [Titre IV : L'inspection et l'évaluation de l'éducation. (art. D241-1 à D243-9)](#457)
+        - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation (art. D241-1 à D241-35)](#458)
+          - [Section 1 : Missions des inspections générales (art. D241-1 à R241-16)](#459)
+            - [Sous-section 1 : Dispositions communes. (art. D241-1 à D241-2)](#460)
+            - [Sous-section 2 : L'inspection générale de l'éducation nationale. (art. R*241-3 à R*241-5)](#461)
+            - [Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche. (art. R*241-6 à R241-16)](#462)
+          - [Section 2 : L'inspection générale des bibliothèques. (art. R241-17)](#463)
+          - [Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale. (art. R241-18 à R241-21)](#464)
+          - [Section 4 : Le service académique de l'inspection de l'apprentissage. (art. R241-22 à R241-23)](#465)
+          - [Section 5 : Les délégués départementaux de l'éducation nationale. (art. D241-24 à D241-35)](#466)
+        - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. D*242-1 à D*242-14)](#467)
+        - [Chapitre III : Le Haut Conseil de l'évaluation de l'école. (art. D243-1 à D243-9)](#468)
+      - [Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. D251-1 à D251-8)](#469)
+        - [Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation. (art. D251-1 à D251-8)](#470)
+      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D*261-6 à R264-19)](#471)
+        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D*261-6 à R261-5)](#472)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. D262-3 à R262-4)](#473)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D*263-8 à R263-6)](#474)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D*264-8 à R264-19)](#475)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -23485,77 +23481,86 @@ _Cite_:
 ###### Article L713-5
 
 Les centres hospitaliers et universitaires sont organisés conformément aux dispositions des articles L. 6142-1, L. 6142-3 à
-L. 6142-6, L. 6142-11, L. 6142-13 et L. 6142-17 du code de la santé publique, ci-après reproduites :
+L. 6142-6, L. 6142-11, L. 6142-13 et L. 6142-17 du code de la santé publique, ci-après reproduites : 
 
-"Art. L. 6142-1. - Les centres hospitaliers et universitaires sont des centres de soins où, dans le respect des malades, sont
+" Art.L. 6142-1.-Les centres hospitaliers et universitaires sont des centres de soins où, dans le respect des malades, sont
 organisés les enseignements publics médical et pharmaceutique et post-universitaire, ainsi que, sans préjudice des
 attributions des autres établissements de recherche et d'enseignement, la recherche médicale et pharmaceutique et les
-enseignements para-médicaux.
+enseignements para-médicaux. 
 
-Ils sont aménagés conformément à la mission ainsi définie."
+Ils sont aménagés conformément à la mission ainsi définie. " 
 
-"Art. L. 6142-3. - Dans les villes sièges d'unités de formation et de recherche de médecine et de pharmacie, les universités,
+" Art.L. 6142-3.-Dans les villes sièges d'unités de formation et de recherche de médecine et de pharmacie, les universités,
 pour ce qui concerne ces unités, et les centres hospitaliers régionaux organisent conjointement l'ensemble de leurs services
-en centres hospitaliers et universitaires.
+en centres hospitaliers et universitaires. 
 
 Les universités et les centres hospitaliers régionaux conservent leur personnalité juridique et leurs organes
-d'administration respectifs ; ils sont tenus de conclure des conventions pour préciser la structure et les modalités de
-fonctionnement des centres hospitaliers et universitaires.
+d'administration respectifs ; ils sont tenus de conclure des conventions pour préciser les axes stratégiques et les modalités
+de mise en œuvre de la politique hospitalo-universitaire entre l'université et le centre hospitalier régional. 
+
+Ces conventions sont élaborées en cohérence avec les contrats pluriannuels d'objectifs et de moyens mentionnés à l'article L.
+6114-1 les projets d'établissement mentionnés à l'article L. 6143-2, les contrats pluriannuels d'établissement mentionnés à
+l'article L. 711-1 du code de l'éducation et les contrats de projets Etat-régions. 
+
+Elles portent en particulier sur la politique de recherche biomédicale de l'université et les modalités de son déploiement au
+sein du centre hospitalier et universitaire et les modalités de participation du centre hospitalier régional et le cas
+échéant des autres établissements de soins à l'enseignement universitaire et post-universitaire. 
+
+Des établissements de santé ainsi que des établissements publics à caractère scientifique et technologique ou autres
+organismes de recherche peuvent être associés à ces conventions pour tout ou partie de leurs clauses. 
+
+Ces conventions sont révisées tous les cinq ans. 
 
 Les législations et réglementations universitaires et hospitalières restent respectivement applicables à ces centres, chacune
-dans son domaine propre, sous réserve des dérogations prévues par le présent chapitre et ses textes d'application."
+dans son domaine propre, sous réserve des dérogations prévues par le présent chapitre et ses textes d'application. " 
 
-"Art. L. 6142-4. - Dans le ressort d'une même académie, deux ou plusieurs centres hospitaliers régionaux ont la possibilité
-de passer convention avec la ou les universités de cette académie, pour la constitution d'un centre hospitalier et
-universitaire unique."
+" Art.L. 6142-4.-Dans le ressort d'une même académie, deux ou plusieurs centres hospitaliers régionaux ont la possibilité de
+passer convention avec la ou les universités de cette académie, pour la constitution d'un centre hospitalier et universitaire
+unique. " 
 
-"Art. L. 6142-5. - Des conventions peuvent être conclues par les universités et par les centres hospitaliers régionaux,
+" Art.L. 6142-5.-Des conventions peuvent être conclues par les universités et par les centres hospitaliers régionaux,
 agissant conjointement, avec d'autres établissements de santé ou organismes publics ou privés susceptibles d'être associés
-aux diverses missions définies à l'article L. 6142-1. ."
+aux diverses missions définies à l'article L. 6142-1. " 
 
-"Art. L. 6142-6. - Dans le cadre des dispositions de l'article L. 6142-5, les universités et les centres hospitaliers
-régionaux peuvent conclure conjointement des conventions avec les syndicats interhospitaliers ou avec des établissements de
-la conférence sanitaire s'ils ne font pas partie du syndicat interhospitalier."
+" Art.L. 6142-6.-Dans le cadre des dispositions de l'article L. 6142-5, les universités et les centres hospitaliers régionaux
+peuvent conclure conjointement des conventions avec les syndicats interhospitaliers ou avec des établissements de la
+conférence sanitaire s'ils ne font pas partie du syndicat interhospitalier. " 
 
-"Art. L. 6142-11. - Les difficultés qui s'élèvent à l'occasion de la conclusion ou de l'application des conventions prévues à
+" Art.L. 6142-11.-Les difficultés qui s'élèvent à l'occasion de la conclusion ou de l'application des conventions prévues à
 l'article L. 6142-3 sont examinées par une commission comprenant le représentant de l'Etat dans le département, président, le
 directeur de l'unité de formation et de recherches médicales ou pharmaceutiques ou, lorsqu'il existe un comité de
 coordination de l'enseignement médical ou pharmaceutique, le président de ce comité et le médecin inspecteur régional de
 santé publique ou le pharmacien inspecteur régional.
 
 A défaut d'accord intervenu devant cette commission, il est statué par décision commune des ministres de l'enseignement
-supérieur et de la santé, dans les conditions déterminées par voie réglementaire."
+supérieur et de la santé, dans les conditions déterminées par voie réglementaire. " 
 
-"Art. L. 6142-13. - Dans chaque centre hospitalier et universitaire, le comité de coordination hospitalo-universitaire est
-obligatoirement consulté sur le choix des priorités en matière d'équipement hospitalier et universitaire.
+" Art.L. 6142-13.-Dans chaque centre hospitalier et universitaire, il est crée un comité de la recherche en matière
+biomédicale et de santé publique consulté sur des matières déterminées par voie réglementaire, notamment sur les conditions
+dans lesquelles l'établissement organise sa politique de recherche conjointement avec les universités et avec les
+établissements publics scientifiques et technologiques ou autres organismes de recherche ayant passé une convention
+d'association au fonctionnement du centre hospitalier universitaire dans les conditions prévues à l'article L. 6142-5. " 
 
-Les conventions mentionnées à l'article L. 6142-6 entre les établissements publics de santé et les universités ne peuvent
-être conclues qu'après avis favorable de ce comité.
-
-Le comité de coordination hospitalo-universitaire comprend notamment des représentants du centre hospitalier régional, des
-représentants des unités de formation et de recherches médicales, odontologiques et pharmaceutiques et, le cas échéant, des
-syndicats interhospitaliers de secteur et des établissements assurant le service public hospitalier qui ont conclu les
-conventions prévues à l'article L. 6142-5. ."
-
-"Art. L. 6142-17. - Sont déterminées par décret en Conseil d'Etat, les modalités d'application des dispositions du présent
-chapitre, à l'exception de celles fixées à l'article L. 6142-16 et notamment :
+" Art.L. 6142-17.-Sont déterminées par décret en Conseil d'Etat, les modalités d'application des dispositions du présent
+chapitre, à l'exception de celles fixées à l'article L. 6142-16 et notamment : 
 
 1° Les conditions dans lesquelles certains services ou certains personnels médicaux des établissements de santé mentionnés à
-l'article L. 6142-3 peuvent être maintenus partiellement ou totalement en dehors de l'application du présent chapitre ;
+l'article L. 6142-3 peuvent être maintenus partiellement ou totalement en dehors de l'application du présent chapitre ; 
 
-2° Les conditions dans lesquelles sont établies les conventions prévues aux articles L. 6142-3 et L. 6142-5 ;
+2° Les conditions dans lesquelles sont établies les conventions prévues aux articles L. 6142-3 et L. 6142-5 ; 
 
-3° Les conditions dans lesquelles les dépenses d'enseignement et de recherches qui ne peuvent être isolées dans le budget des
-établissements de santé font l'objet d'un versement forfaitaire du ministère de l'enseignement supérieur ;
+3° Les conditions dans lesquelles les dépenses d'enseignement et de recherches qui ne peuvent être isolées dans l'état des
+prévisions de recettes et de dépenses des établissements de santé font l'objet d'un versement forfaitaire du ministère de
+l'enseignement supérieur ; 
 
 4° Les conditions dans lesquelles certaines dispositions du présent chapitre sont rendues applicables aux études dentaires et
-aux chirurgiens-dentistes, ainsi qu'aux pharmaciens pour certaines disciplines biologiques ;
+aux chirurgiens-dentistes, ainsi qu'aux pharmaciens pour certaines disciplines biologiques ; 
 
 5° Les conditions dans lesquelles certaines dispositions du présent chapitre peuvent être rendues applicables aux études
 pharmaceutiques et aux pharmaciens notamment les mesures transitoires nécessaires et les modalités du recrutement commun
 initial, hospitalier et universitaire, ainsi que les conditions dans lesquelles les enseignants des unités de formation de
 recherche de pharmacie ayant à la fois des fonctions hospitalières et universitaires peuvent demander à être intégrés dans le
-nouveau corps ou à conserver le régime du corps auquel ils appartiennent."
+nouveau corps ou à conserver le régime du corps auquel ils appartiennent. "
 
 **Liens relatifs à cet article**
 
@@ -23566,9 +23571,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-73 2002-01-17 art. 64 II, art. 65 I 1°, 2°, 4°, 8° et 9° JORF 18 janvier 2002
-  - Loi n°2002-73 du 17 janvier 2002 - art. 64 () JORF 18 janvier 2002
-  - Loi n°2002-73 du 17 janvier 2002 - art. 65 () JORF 18 janvier 2002
+  - Ordonnance 2005-406 2005-05-02 art. 9 I, art. 13 II JORF 3 mai 2005
+  - Ordonnance n°2005-406 du 2 mai 2005 - art. 9 () JORF 3 mai 2005
 
 _Cité par_:
 
@@ -23586,11 +23590,20 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la santé publique - art. L6142-1 (M)
-  - Code de la santé publique - art. L6142-11 (M)
-  - Code de la santé publique - art. L6142-13 (M)
-  - Code de la santé publique - art. L6142-17 (M)
-  - Code de la santé publique L6142-1, L6142-3 à L6142-6, L6142-11, L6142-13, L6142-17
+  - Code de l'éducation - art. L711-1 (V)
+  - Code de la santé publique - art. L6114-1 (V)
+  - Code de la santé publique - art. L6143-2 (V)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-1 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-11 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-13 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-17 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-3 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-4 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-5 (V)
+  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-6 (V)
 
 
 ###### Article L713-6
@@ -42489,1068 +42502,13 @@ _Cite_:
   - Code rural et de la pêche maritime - art. R814-41 (T)
 
 
-#### Chapitre IX : Les autres instances consultatives<a id=457></a>
+### Titre IV : L'inspection et l'évaluation de l'éducation.<a id=457></a>
 
-##### Section 1 : La Commission nationale pour l'éducation, la science et la culture.<a id=458></a>
+#### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation<a id=458></a>
 
-###### Article D239-1
+##### Section 1 : Missions des inspections générales<a id=459></a>
 
-La Commission nationale pour l'éducation, la science et la culture est chargée de promouvoir dans la République française les
-idées de compréhension mutuelle entre les peuples, d'encourager les initiatives d'ordre intellectuel, ainsi que les efforts
-d'éducation en ce sens, d'intéresser l'opinion publique aux buts, au programme et à l'oeuvre de l'Union des nations unies
-pour l'éducation, la science et la culture (UNESCO).
-
-A cette fin :
-
-1° Elle donne son avis au Gouvernement sur le programme et les activités de l'UNESCO ;
-
-2° Elle établit une liaison efficace tant avec l'UNESCO qu'avec les commissions nationales et organismes nationaux de
-coopération des autres Etats membres de l'UNESCO ;
-
-3° Elle veille, sur le plan national, à l'exécution des décisions prises à la conférence générale de l'UNESCO ;
-
-4° Elle prend les contacts nécessaires avec les groupements culturels nationaux et internationaux de caractère public ou
-privé ;
-
-5° Elle convoque, chaque fois que cela est nécessaire, les principaux groupes nationaux et les personnalités qui
-s'intéressent aux problèmes d'éducation, de science, de culture et de communication ;
-
-6° Elle fait connaître, par les moyens appropriés, à l'opinion publique, les buts et les travaux de l'UNESCO ;
-
-7° Elle remplit toutes les tâches que lui confie le Gouvernement dans le domaine de l'éducation, de la science, de la culture
-et de la communication, notamment par sa participation à des actions conduites dans le cadre de la politique culturelle
-extérieure de la France. A cet effet, elle veille à la coordination de ses activités avec ces actions ;
-
-8° Elle adresse au Gouvernement un rapport écrit sur ses activités au 31 décembre de chaque année.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 1, art. 2
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Cité par_:
-
-  - Décret n°2017-778 du 4 mai 2017 - art. 2 (V)
-  - Arrêté du 16 octobre 2017 - art. 1 (V)
-  - Arrêté du 13 juillet 2018 - art. 1 (V)
-  - Code de l'éducation - art. D239-12 (Ab)
-  - Code de l'éducation - art. D239-2 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-15 (T)
-  - Code de l'éducation - art. D239-15 (V)
-
-
-###### Article D239-2
-
-La Commission nationale pour l'éducation, la science et la culture est consultée par le Gouvernement sur le choix de ses cinq
-délégués principaux à la conférence générale de l'organisation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Cité par_:
-
-  - Décret n°2017-778 du 4 mai 2017 - art. 3 (V)
-  - Arrêté du 26 mars 2018 - art. 1 (V)
-  - Arrêté du 26 mars 2018 - art. 6 (V)
-  - Arrêté du 26 mars 2018 - art. 8 (V)
-  - Arrêté du 13 juillet 2018 - art. 1 (V)
-  - Code de l'éducation - art. D239-10 (V)
-  - Code de l'éducation - art. D239-12 (V)
-  - Code de l'éducation - art. D239-6 (V)
-  - Code de l'éducation - art. D239-7 (V)
-  - Code de l'éducation - art. D239-8 (V)
-  - Code de l'éducation - art. D239-9 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-16 (T)
-  - Code de l'éducation - art. D239-16 (V)
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 3
-
-
-###### Article D239-3
-
-La Commission nationale pour l'éducation, la science et la culture comprend :
-
-a) Quatre membres représentant le Parlement ;
-
-b) Deux membres désignés par le Conseil économique et social ;
-
-c) Vingt-cinq personnalités désignées par le Gouvernement ;
-
-d) Huit personnalités représentant le Conseil d'Etat, la Cour des comptes, la Cour de cassation, le Médiateur de la
-République, la Commission nationale de l'informatique et des libertés, le Conseil supérieur de l'audiovisuel, le Comité
-national d'éthique et la Commission nationale consultative des droits de l'homme ;
-
-e) Cinq membres représentant l'Institut de France ;
-
-f) Un représentant de chacun des établissements ou fondations suivants :
-
-1° Bibliothèque nationale de France ;
-
-2° Bureau de recherche géologique et minière ;
-
-3° Centre de coopération internationale en recherche agronomique pour le développement ;
-
-4° Centre d'études et de recherches sur les qualifications ;
-
-5° Centre international d'études pédagogiques ;
-
-6° Centre national de documentation pédagogique ;
-
-7° Centre national d'enseignement à distance ;
-
-8° Centre national de la recherche scientifique ;
-
-9° Cité des sciences et de l'industrie ;
-
-10° Collège de France ;
-
-11° Conservatoire national des arts et métiers ;
-
-12° Ecole des hautes études en sciences sociales ;
-
-13° Ecole nationale du patrimoine ;
-
-14° Ecole normale supérieure de Cachan ;
-
-15° Ecole normale supérieure de Fontenay - Saint-Cloud ;
-
-16° Ecole normale supérieure de Lyon ;
-
-17° Ecole normale supérieure de Paris ;
-
-18° Ecole pratique des hautes études ;
-
-19° Fondation nationale des sciences politiques ;
-
-20° Institut français de recherche pour l'exploitation de la mer ;
-
-21° Institut français de recherche scientifique pour le développement en coopération ;
-
-22° Institut national de l'audiovisuel ;
-
-23° Institut national d'études démographiques ;
-
-24° Institut national de la jeunesse et de l'éducation populaire ;
-
-25° Institut Pasteur ;
-
-26° Institut national de recherche pédagogique ;
-
-27° Maison des sciences de l'homme ;
-
-28° Muséum national d'histoire naturelle ;
-
-29° Palais de la Découverte ;
-
-g) Un représentant de la Conférence des présidents d'université et un représentant de la conférence des grandes écoles ;
-
-h) Dix membres représentant les syndicats représentatifs au plan national ;
-
-i) Quatre-vingts membres élus par les différents groupements scientifiques, éducatifs et culturels ;
-
-j) Trente membres de droit représentant l'administration et nommés par arrêté du ministre des affaires étrangères, sur
-proposition des départements ministériels intéressés ;
-
-k) Un représentant de chacune des associations nationales suivantes :
-
-1° Centres UNESCO ;
-
-2° Comité pour les relations nationales et internationales des associations françaises de jeunesse et d'éducation populaire ;
-
-3° Fédération française des clubs UNESCO ;
-
-4° Fondation de l'Arche de la fraternité ;
-
-5° Institut de formation aux droits de l'homme du barreau de Paris ;
-
-l) Un représentant de chacune des associations nationales, sections françaises d'organisations internationales non
-gouvernementales suivantes ;
-
-1° Centre français du théâtre ;
-
-2° Comité français du Conseil international des musées ;
-
-3° Comité français de l'Union internationale pour la conservation de la nature ;
-
-4° Comité national de la musique ;
-
-5° Conseil français des arts plastiques ;
-
-6° Pen-Club français ;
-
-7° Section française du Conseil international des archives ;
-
-8° Section française du Conseil international des critiques d'art ;
-
-9° Section française du Conseil international des monuments et des sites ;
-
-m) Un représentant de chacun des comités français des programmes scientifiques et culturels internationaux de l'UNESCO ;
-
-n) Dix personnalités cooptées par la commission nationale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 4, alinéas 1 à 58
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-17 (T)
-  - Code de l'éducation - art. D239-17 (V)
-
-
-###### Article D239-4
-
-Des experts peuvent être invités à siéger dans les comités de travail de la commission.
-
-La commission peut demander, notamment aux régions, aux départements et autres collectivités territoriales d'outre-mer et aux
-organismes publics de radiodiffusion et télévision, de désigner des correspondants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-18 (T)
-  - Code de l'éducation - art. D239-18 (V)
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 4, alinéa 59
-
-
-###### Article D239-5
-
-La Commission nationale pour l'éducation, la science et la culture se réunit en séance plénière au moins une fois par an sur
-convocation de son président.
-
-Dans l'intervalle de ces séances, un comité permanent, dont la commission fixe elle-même la composition et les attributions,
-se réunit au moins une fois par trimestre pour statuer sur les questions inscrites à son ordre du jour.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-19 (T)
-  - Code de l'éducation - art. D239-19 (V)
-
-_Cité par_:
-
-  - Code de l'éducation - art. D239-7 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 5, alinéa 1 et 2
-
-
-###### Article D239-6
-
-La commission peut former des comités spécialisés et des comités régionaux.
-
-Font partie des comités spécialisés :
-
-1° Les membres de la commission nationale ;
-
-2° Les experts désignés par la commission nationale.
-
-Font partie des comités régionaux :
-
-1° Les membres de la commission nationale ;
-
-2° Les experts ;
-
-3° Les correspondants qui résident dans la région considérée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-20 (T)
-  - Code de l'éducation - art. D239-20 (V)
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 5, alinéa 3 à 10
-
-
-###### Article D239-7
-
-Les comités spécialisés ou régionaux font rapport à la commission nationale ou, dans l'intervalle de ses sessions, au comité
-permanent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-21 (T)
-  - Code de l'éducation - art. D239-21 (V)
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 5, alinéa 11
-
-
-###### Article D239-8
-
-Le mandat des membres de la Commission nationale pour l'éducation, la science et la culture a une durée de cinq ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Cité par_:
-
-  - Arrêté du 26 mars 2018 - art. 3 (V)
-  - Arrêté du 26 mars 2018 - art. 7 (V)
-  - Code de l'éducation - art. D239-10 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-22 (T)
-  - Code de l'éducation - art. D239-22 (V)
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 6
-
-
-###### Article D239-9
-
-La commission nationale élit son président parmi ses membres. Cette nomination doit être approuvée par le Premier ministre.
-Cinq vice-présidents peuvent, en outre, être élus par la commission. Le président nomme le secrétaire général, après
-consultation des départements ministériels intéressés. Le secrétaire général dirige le secrétariat prévu à l'article D.
-239-10 et participe, à ce titre, aux travaux et aux réunions de la commission.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Cite_:
-
-  - Code de l'éducation - art. D239-10 (T)
-
-_Cité par_:
-
-  - Code de l'éducation - art. D239-23 (Ab)
-  - Code de l'éducation - art. D239-7 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-23 (T)
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 7
-
-
-###### Article D239-10
-
-Le secrétariat général de la Commission nationale pour l'éducation, la science et la culture est assuré par l'Association
-pour l'éducation, la science et la culture, dont les statuts ont été légalement déposés le 16 mai 1947.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-24 (T)
-  - Code de l'éducation - art. D239-24 (V)
-
-_Cité par_:
-
-  - Code de l'éducation - art. D239-9 (T)
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 8
-
-
-##### Section 2 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur.<a id=459></a>
-
-###### Article D239-11
-
-L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur, placé auprès du ministre
-chargé de l'éducation et de l'enseignement supérieur étudie, au regard des règles de sécurité et dans le respect des
-compétences des commissions centrale et locales de sécurité et de celles des inspecteurs du travail, les conditions
-d'application des règles de sécurité, l'état des immeubles et des équipements affectés aux établissements scolaires, aux
-établissements d'enseignement supérieur et aux centres d'information et d'orientation ou qui sont utilisés par eux de façon
-régulière.
-
-Il informe des conclusions de ses travaux les collectivités territoriales, les administrations, les chancelleries des
-universités, les établissements d'enseignement supérieur ou les propriétaires privés concernés. Il peut porter à la
-connaissance du public les informations qu'il estime nécessaires. Dans le respect du droit de propriété, du principe de la
-libre administration des collectivités territoriales et de l'autonomie des établissements d'enseignement supérieur, il peut
-solliciter tous renseignements et demander à consulter sur place tous documents qu'il estime, en toute indépendance, utiles à
-sa mission. Il remet au ministre chargé de l'éducation le 31 décembre de chaque année, un rapport qui est rendu public.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-591 du 6 mai 1995 - art. 1 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 2 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 1 (Ab)
-  - Décret n°95-591 du 6 mai 1995 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-25 (T)
-  - Code de l'éducation - art. D239-25 (V)
-
-
-###### Article D239-12
-
-L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur est compétent pour les
-établissements scolaires du premier et du second degré, publics et privés sous contrat, ainsi que pour les établissements
-publics d'enseignement supérieur et ceux visés à l'article L. 813-10 du code rural.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L813-10
-
-_Anciens textes_:
-
-  - Décret n°95-591 du 6 mai 1995 - art. 3 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-26 (T)
-  - Code de l'éducation - art. D239-26 (V)
-
-
-###### Article D239-13
-
-L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur est composé de cinquante et
-un membres. Ceux-ci ainsi que, s'il y a lieu, leurs suppléants, sont nommés pour une durée de trois ans par arrêté du
-ministre chargé de l'éducation.
-
-Ils se répartissent de la manière suivante :
-
-1° Collège des élus et des gestionnaires de l'immobilier scolaire et universitaire, composé de dix-sept membres titulaires et
-de deux suppléants pour chaque membre titulaire :
-
-a) Un membre de l'Assemblée nationale ;
-
-b) Un membre du Sénat ;
-
-c) Trois présidents ou vice-présidents de conseil régional ;
-
-d) Trois présidents ou vice-présidents de conseil général ;
-
-e) Sept maires ;
-
-f) Un représentant de la Fédération nationale des organismes de gestion de l'enseignement catholique ;
-
-g) Un président d'université désigné par la Conférence des présidents d'université.
-
-2° Collège des représentants des personnels et des usagers, composé de dix-sept membres titulaires et de deux membres
-suppléants pour chaque membre titulaire nommés sur proposition des organisations représentatives :
-
-a) Représentants des établissements publics :
-
-aa) Trois représentants de la Fédération syndicale unitaire (FSU) ;
-
-ab) Trois représentants de l'Union nationale des syndicats autonomes (UNSA-Education) ;
-
-ac) Un représentant du Syndicat général de l'éducation nationale (SGEN-CFDT) ;
-
-ad) Un représentant de la Confédération générale du travail-Force ouvrière (CGT-FO) ;
-
-ae) Un représentant du Syndicat national des lycées et collèges (SNALC-CSEN) ;
-
-af) Un représentant de la Confédération générale du travail (CGT) ;
-
-ag) Trois représentants de la Fédération des conseils de parents d'élèves (FCPE) ;
-
-ah) Un représentant de la Fédération des parents d'élèves de l'enseignement public (PEEP) ;
-
-ai) Un représentant de l'organisation syndicale d'étudiants la plus représentative au Conseil national de l'enseignement
-supérieur et de la recherche.
-
-b) Représentants des établissements privés :
-
-ba) Un représentant de la Fédération de l'enseignement privé (FEP-CFDT) ;
-
-bb) Un représentant de l'Union nationale des associations de parents d'élèves de l'enseignement libre (UNAPEL).
-
-3° Collège des représentants de l'Etat, des chefs d'établissement et des personnalités qualifiées nommées par lui, composé
-ainsi qu'il suit :
-
-a) Onze représentants des ministres et deux suppléants pour chaque membre titulaire :
-
-aa) Deux représentants du ministre chargé de l'éducation ;
-
-ab) Un représentant du ministre chargé de l'enseignement supérieur ;
-
-ac) Un représentant du ministre de l'intérieur ;
-
-ad) Un représentant du ministre chargé des collectivités locales ;
-
-ae) Un représentant du ministre chargé du budget ;
-
-af) Un représentant du ministre chargé de la fonction publique ;
-
-ag) Un représentant du ministre chargé de l'agriculture ;
-
-ah) Un représentant du ministre chargé de l'outre-mer ;
-
-ai) Un représentant du ministre chargé de l'équipement ;
-
-aj) Un représentant du ministre chargé des sports.
-
-b) Deux membres titulaires représentants des chefs d'établissement et deux suppléants, nommés sur proposition des
-organisations représentatives :
-
-ba) Un représentant du Syndicat national des personnels de direction de l'éducation nationale (SNPDEN) ;
-
-bb) Un représentant du Syndicat national des chefs d'établissement de l'enseignement libre (SNCEEL) ;
-
-bc) Quatre personnalités qualifiées désignées en fonction de leurs compétences.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-591 du 6 mai 1995 - art. 4 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-27 (T)
-  - Code de l'éducation - art. D239-27 (V)
-
-
-###### Article D239-14
-
-Le ministre chargé de l'éducation nomme, parmi les membres de l'Observatoire national de la sécurité des établissements
-scolaires et d'enseignement supérieur, le président, pour une durée de trois ans, par arrêté.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-591 du 6 mai 1995 - art. 5 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-28 (V)
-
-
-###### Article D239-15
-
-Des experts peuvent être entendus par l'Observatoire national de la sécurité des établissements scolaires et d'enseignement
-supérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-591 du 6 mai 1995 - art. 6 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 6 (Ab)
-  - Code de l'éducation - art. D239-1 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-29 (V)
-
-
-###### Article D239-16
-
-L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur élabore son règlement
-intérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-591 1995-05-06 art. 7, alinéa 1, 1ère phrase
-  - Décret n°95-591 du 6 mai 1995 - art. 7 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 7 (Ab)
-  - Code de l'éducation - art. D239-2 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Cité par_:
-
-  - Arrêté du 15 février 2010 - art. 1 (V)
-  - Arrêté du 2 juin 2010 - art. 1 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-30 (V)
-
-
-###### Article D239-17
-
-L'observatoire détermine notamment la périodicité, la nature et les conditions de ses travaux ainsi que les conditions dans
-lesquelles les collectivités ou les propriétaires privés présentent les remarques que leur suggèrent les informations
-transmises par l'observatoire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-591 1995-05-06 art. 7, alinéa 1, 2ème phrase
-  - Décret n°95-591 du 6 mai 1995 - art. 7 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 7 (Ab)
-  - Code de l'éducation - art. D239-3 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-31 (V)
-
-
-###### Article D239-18
-
-L'ordre du jour des séances est fixé par le président, ou sur demande d'au moins un quart des membres de l'Observatoire
-national de la sécurité des établissements scolaires et d'enseignement supérieur. Il choisit, en son sein, un rapporteur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-591 1995-05-06 art. 7, alinéa 2
-  - Décret n°95-591 du 6 mai 1995 - art. 7 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 7 (Ab)
-  - Code de l'éducation - art. D239-4 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-32 (V)
-
-
-###### Article D239-19
-
-Un secrétariat est mis à la disposition de l'Observatoire national de la sécurité des établissements scolaires et
-d'enseignement supérieur par le ministre chargé de l'enseignement supérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-591 du 6 mai 1995 - art. 8 (M)
-  - Décret n°95-591 du 6 mai 1995 - art. 8 (Ab)
-  - Code de l'éducation - art. D239-5 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-33 (V)
-
-
-##### Section 3 : Le Conseil supérieur des bibliothèques.<a id=460></a>
-
-###### Article D239-20
-
-Le Conseil supérieur des bibliothèques, placé auprès du ministre chargé de l'enseignement supérieur, du ministre chargé de la
-culture et du ministre chargé de la recherche, émet des avis et des recommandations sur la situation et les questions qui
-concernent les bibliothèques et les réseaux documentaires. Il favorise la coordination des politiques documentaires relevant
-de plusieurs ministres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-778 1989-10-23 art. 1, art. 2 alinéa 1
-  - Décret n°89-778 du 23 octobre 1989 - art. 1 (M)
-  - Décret n°89-778 du 23 octobre 1989 - art. 1 (Ab)
-  - Décret n°89-778 du 23 octobre 1989 - art. 2 (Ab)
-  - Code de l'éducation - art. D239-6 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-34 (V)
-
-
-###### Article D239-21
-
-Sur la demande du Conseil supérieur des bibliothèques, les différents ministres et les services placés auprès du Premier
-ministre lui communiquent les informations nécessaires concernant les bibliothèques placées sous leur tutelle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-778 1989-10-23 art. 2, alinéa 2
-  - Décret n°89-778 du 23 octobre 1989 - art. 2 (M)
-  - Décret n°89-778 du 23 octobre 1989 - art. 2 (Ab)
-  - Code de l'éducation - art. D239-7 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-35 (V)
-
-
-###### Article D239-22
-
-Le Conseil supérieur des bibliothèques est composé d'un président et de deux vice-présidents nommés par arrêté du Premier
-ministre et de dix-huit membres nommés par arrêté conjoint du ministre chargé de l'enseignement supérieur, du ministre chargé
-de la culture et du ministre chargé de la recherche :
-
-1° Six membres proposés par le ministre chargé de l'enseignement supérieur ;
-
-2° Six membres proposés par le ministre chargé de la culture ;
-
-3° Trois membres proposés par le ministre chargé de la recherche ;
-
-4° Trois élus, dont un maire, un conseiller général, un conseiller régional proposés conjointement par le ministre chargé de
-l'enseignement supérieur, le ministre chargé de la culture et le ministre chargé de la recherche.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-778 1989-10-23 art. 3, alinéas 1 à 5
-  - Décret n°89-778 du 23 octobre 1989 - art. 3 (M)
-  - Décret n°89-778 du 23 octobre 1989 - art. 3 (Ab)
-  - Code de l'éducation - art. D239-8 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-36 (V)
-
-
-###### Article D239-23
-
-Le directeur du livre et de la lecture et le directeur de l'enseignement supérieur participent, avec voix consultative, aux
-travaux du Conseil supérieur des bibliothèques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-778 1989-10-23 art. 3, alinéa 6
-  - Décret n°89-778 du 23 octobre 1989 - art. 3 (M)
-  - Décret n°89-778 du 23 octobre 1989 - art. 3 (Ab)
-  - Code de l'éducation - art. D239-9 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-37 (V)
-
-
-###### Article D239-24
-
-Les membres du Conseil supérieur des bibliothèques sont nommés pour une période de trois ans renouvelable une fois. En cas de
-vacance d'un siège, un nouveau membre est désigné pour la durée du mandat restant à courir, sauf si la vacance intervient
-moins de six mois avant le terme normal du mandat.
-
-Lorsqu'un membre du Conseil supérieur des bibliothèques perd la qualité au titre de laquelle il a été nommé, son mandat prend
-fin de plein droit.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-778 1989-10-23 art. 3 bis
-  - Décret n°89-778 du 23 octobre 1989 - art. 3 bis (Ab)
-  - Code de l'éducation - art. D239-10 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-38 (V)
-
-
-###### Article D239-25
-
-Le Conseil supérieur des bibliothèques se réunit au moins trois fois par an sur convocation de son président, qui fixe
-l'ordre du jour de chaque réunion. Le président peut en outre le réunir à la demande des ministres concernés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-778 1989-10-23 art. 4, phrases 1 et 2
-  - Décret n°89-778 du 23 octobre 1989 - art. 4 (Ab)
-  - Code de l'éducation - art. D239-11 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Cité par_:
-
-  - Décret n°2009-627 du 6 juin 2009 - art. (V)
-  - Décret n°2015-623 du 5 juin 2015 - art. Annexe 1 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-39 (V)
-
-
-###### Article D239-26
-
-Le Conseil supérieur des bibliothèques organise lui-même ses travaux ; il arrête son règlement intérieur, fixe le programme
-de ses activités, détermine sa méthodologie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°89-778 1989-10-23 art. 4, phrase 3
-  - Décret n°89-778 du 23 octobre 1989 - art. 4 (Ab)
-  - Code de l'éducation - art. D239-12 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Cité par_:
-
-  - Code de l'éducation - art. D239-25 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-40 (V)
-
-
-###### Article D239-27
-
-Les fonctions de membres du Conseil supérieur des bibliothèques sont gratuites. Il peut toutefois être alloué des indemnités
-correspondant aux frais de déplacement et de séjour effectivement supportés à l'occasion des réunions du Conseil supérieur
-des bibliothèques dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 fixant les conditions et les modalités
-de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France
-lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de
-certains organismes subventionnés et le décret n° 89-271 du 12 avril 1989 fixant les conditions et modalités de règlement des
-frais de déplacement des personnels civils à l'intérieur des départements d'outre-mer, entre la métropole et ces
-départements, et pour se rendre d'un département d'outre-mer à l'autre.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°89-271 1989-04-12
-  - Décret n°90-437 1990-05-28
-
-_Anciens textes_:
-
-  - Décret n°89-778 du 23 octobre 1989 - art. 5 (Ab)
-  - Code de l'éducation - art. D239-13 (T)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Transféré par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. D239-41 (V)
-
-
-### Titre IV : L'inspection et l'évaluation de l'éducation.<a id=461></a>
-
-#### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation<a id=462></a>
-
-##### Section 1 : Missions des inspections générales<a id=463></a>
-
-##### Sous-section 1 : Dispositions communes.<a id=464></a>
+##### Sous-section 1 : Dispositions communes.<a id=460></a>
 
 ###### Article D241-1
 
@@ -43600,7 +42558,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Sous-section 2 : L'inspection générale de l'éducation nationale.<a id=465></a>
+##### Sous-section 2 : L'inspection générale de l'éducation nationale.<a id=461></a>
 
 ###### Article R*241-3
 
@@ -43679,7 +42637,7 @@ _Codifié par_:
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
 
-##### Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche.<a id=466></a>
+##### Sous-section 3 : L'inspection générale de l'administration de l'éducation nationale et de la recherche.<a id=462></a>
 
 ###### Article R*241-6
 
@@ -43942,7 +42900,7 @@ _Cite_:
   - Code de l'éducation - art. L241-1 (V)
 
 
-##### Section 2 : L'inspection générale des bibliothèques.<a id=467></a>
+##### Section 2 : L'inspection générale des bibliothèques.<a id=463></a>
 
 ###### Article R241-17
 
@@ -43972,7 +42930,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale.<a id=468></a>
+##### Section 3 : Missions des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale.<a id=464></a>
 
 ###### Article R241-18
 
@@ -44075,7 +43033,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 4 : Le service académique de l'inspection de l'apprentissage.<a id=469></a>
+##### Section 4 : Le service académique de l'inspection de l'apprentissage.<a id=465></a>
 
 ###### Article R241-22
 
@@ -44214,7 +43172,7 @@ _Cite_:
   - Code du travail - art. R119-65 (Ab)
 
 
-##### Section 5 : Les délégués départementaux de l'éducation nationale.<a id=470></a>
+##### Section 5 : Les délégués départementaux de l'éducation nationale.<a id=466></a>
 
 ###### Article D241-24
 
@@ -44456,7 +43414,7 @@ _Codifié par_:
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-#### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=471></a>
+#### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.<a id=467></a>
 
 ###### Article D*242-1
 
@@ -44846,7 +43804,7 @@ _Abrogé par_:
   - Décret n°2006-1334 du 3 novembre 2006 - art. 19 () JORF 4 novembre 2006
 
 
-#### Chapitre III : Le Haut Conseil de l'évaluation de l'école.<a id=472></a>
+#### Chapitre III : Le Haut Conseil de l'évaluation de l'école.<a id=468></a>
 
 ###### Article D243-1
 
@@ -45147,9 +44105,9 @@ _Abrogé par_:
   - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
 
 
-### Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=473></a>
+### Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=469></a>
 
-#### Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation.<a id=474></a>
+#### Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation.<a id=470></a>
 
 ###### Article D251-1
 
@@ -45332,9 +44290,9 @@ _Cite_:
   - Code du travail - art. D910-21 (Ab)
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=475></a>
+### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=471></a>
 
-#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=476></a>
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=472></a>
 
 ###### Article D*261-6
 
@@ -45521,7 +44479,7 @@ _Cite_:
   - Code de l'éducation - art. R232-41 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=477></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=473></a>
 
 ###### Article D262-3
 
@@ -45623,7 +44581,7 @@ _Cite_:
   - Code de l'éducation
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=478></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=474></a>
 
 ###### Article D*263-8
 
@@ -45911,7 +44869,7 @@ _Cite_:
   - Code de l'éducation - art. R232-43 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=479></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=475></a>
 
 ###### Article D*264-8
 
