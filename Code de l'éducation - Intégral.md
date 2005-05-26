@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-05-14
+Version Consolidée au 2005-05-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -10775,16 +10775,15 @@ II. - II est créé un répertoire national des certifications professionnelles.
 professionnelle y sont classés par domaine d'activité et par niveau.
 
 Les diplômes et titres à finalité professionnelle, ainsi que les certificats de qualification figurant sur une liste établie
-par la commission paritaire nationale de l'emploi d'une branche professionnelle, peuvent y être enregistrés, par arrêté du
-Premier ministre, à la demande des organismes les ayant créés et après avis de la Commission nationale de la certification
-professionnelle.
+par la commission paritaire nationale de l'emploi d'une branche professionnelle, peuvent y être enregistrés à la demande des
+organismes les ayant créés et après avis de la Commission nationale de la certification professionnelle.
 
 Ceux qui sont délivrés au nom de l'Etat et créés après avis d'instances consultatives associant les organisations
 représentatives d'employeurs et de salariés sont enregistrés de droit dans ce répertoire.
 
-La Commission nationale de la certification professionnelle, placée auprès du Premier ministre, établit et actualise le
-répertoire national des certifications professionnelles. Elle veille au renouvellement et à l'adaptation des diplômes et
-titres à l'évolution des qualifications et de l'organisation du travail.
+La Commission nationale de la certification professionnelle établit et actualise le répertoire national des certifications
+professionnelles. Elle veille au renouvellement et à l'adaptation des diplômes et titres à l'évolution des qualifications et
+de l'organisation du travail.
 
 Elle émet des recommandations à l'attention des institutions délivrant des diplômes, des titres à finalité professionnelle ou
 des certificats de qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une
@@ -11123,10 +11122,6 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-_Modifié par_:
-
-  - Loi n°2002-73 du 17 janvier 2002 - art. 134 () JORF 18 janvier 2002
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°2002-616 du 26 avril 2002
@@ -11138,6 +11133,10 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°2002-616 du 26 avril 2002 - art. 6 (AbD)
   - TXT_SOURCE: Décret n°2002-616 du 26 avril 2002 - art. 7 (Ab)
   - PILOTE_SUIVEUR: Code du travail - art. L6412-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2005-545 du 26 mai 2005 - art. 1 () JORF 27 mai 2005
 
 _Cite_:
 
