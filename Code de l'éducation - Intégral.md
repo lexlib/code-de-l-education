@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -7804,6 +7804,8 @@ du travail, ci-après reproduites :
 pédagogique ou, dans le cas de l'enseignement supérieur, par des enseignants-chercheurs. Pour l'apprentissage agricole, elle
 est assurée par les inspecteurs de l'enseignement agricole ou, à défaut, par des fonctionnaires chargés d'inspection. Ces
 fonctionnaires sont commissionnés par le ministre chargé de l'éducation nationale ou par le ministre chargé de l'agriculture.
+Pour le secteur de la jeunesse et des sports, l'inspection de l'apprentissage est assurée par des inspecteurs de la jeunesse
+et des sports, commissionnés à cet effet par leur ministre.
 
 L'inspection de l'apprentissage peut être exercée conjointement, en tant que de besoin, par d'autres fonctionnaires,
 commissionnés en raison de leurs compétences techniques, qui relèvent de ministères exerçant une tutelle sur les
@@ -7834,6 +7836,10 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-841 du 26 juillet 2005 - art. 27 () JORF 27 juillet 2005
 
 
 ###### Article L241-10
