@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-09-01
+Version Consolidée au 2005-11-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -221,7 +221,7 @@ Version Consolidée au 2005-09-01
           - [Chapitre V : Formation des maîtres. (art. L625-1)](#218)
         - [Titre III : Les formations de santé (art. L631-1 à L635-1)](#219)
           - [Chapitre Ier : Dispositions communes. (art. L631-1 à L631-3)](#220)
-          - [Chapitre II : Les études médicales. (art. L632-1 à L632-12)](#221)
+          - [Chapitre II : Les études médicales. (art. L632-1 à L632-13)](#221)
           - [Chapitre III : Les études pharmaceutiques. (art. L633-1 à L633-6)](#222)
           - [Chapitre IV : Les études odontologiques. (art. L634-1)](#223)
           - [Chapitre V : Les autres formations de santé. (art. L635-1)](#224)
@@ -20991,6 +20991,30 @@ _Cité par_:
   - Code de l'éducation - art. R632-75 (VD)
   - Code de la santé publique - art. L4111-1-2 (V)
   - Code de la santé publique - art. R4111-15 (M)
+
+
+###### Article L632-13
+
+Un décret en Conseil d'Etat détermine les modalités selon lesquelles il est tenu compte de la formation spécialisée, de
+l'expérience professionnelle, de la formation complémentaire et de la formation médicale continue dont justifie un
+ressortissant d'un Etat membre de la Communauté européenne lorsqu'il souhaite obtenir un diplôme, certificat ou autre titre
+qui n'est pas délivré dans son Etat d'origine ou de provenance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2004-1174 du 4 novembre 2004 - art. 8 () JORF 5 novembre 2004
+
+_Cité par_:
+
+  - Décret n°2005-541 du 25 mai 2005 - art. 1 (Ab)
+  - Code de l'éducation - art. R631-17 (V)
 
 
 ##### Chapitre III : Les études pharmaceutiques.<a id=222></a>
