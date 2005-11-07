@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-11-05
+Version Consolidée au 2005-11-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -464,7 +464,7 @@ Version Consolidée au 2005-11-05
           - [Section 2 : La Commission nationale pour l'éducation, la science et la culture. (art. D239-15 à D239-24)](#461)
           - [Section 3 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur. (art. D239-25 à D239-33)](#462)
           - [Section 4 : Le Conseil supérieur des bibliothèques. (art. D239-34 à D239-41)](#463)
-      - [Titre IV : L'inspection et l'évaluation de l'éducation. (art. D241-1 à D243-9)](#464)
+      - [Titre IV : L'inspection et l'évaluation de l'éducation. (art. D241-1 à D*242-14)](#464)
         - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation (art. D241-1 à D241-35)](#465)
           - [Section 1 : Missions des inspections générales (art. D241-1 à R241-16)](#466)
             - [Sous-section 1 : Dispositions communes. (art. D241-1 à D241-2)](#467)
@@ -475,14 +475,13 @@ Version Consolidée au 2005-11-05
           - [Section 4 : Le service académique de l'inspection de l'apprentissage. (art. R241-22 à R241-23)](#472)
           - [Section 5 : Les délégués départementaux de l'éducation nationale. (art. D241-24 à D241-35)](#473)
         - [Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel. (art. D*242-1 à D*242-14)](#474)
-        - [Chapitre III : Le Haut Conseil de l'évaluation de l'école. (art. D243-1 à D243-9)](#475)
-      - [Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. D251-1 à D251-8)](#476)
-        - [Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation. (art. D251-1 à D251-8)](#477)
-      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D*261-6 à R264-19)](#478)
-        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D*261-6 à R261-5)](#479)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. D262-3 à R262-4)](#480)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D*263-8 à R263-6)](#481)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D*264-8 à R264-19)](#482)
+      - [Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. D251-1 à D251-8)](#475)
+        - [Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation. (art. D251-1 à D251-8)](#476)
+      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D*261-6 à R264-19)](#477)
+        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D*261-6 à R261-5)](#478)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. D262-3 à R262-4)](#479)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D*263-8 à R263-6)](#480)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D*264-8 à R264-19)](#481)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -8473,41 +8472,6 @@ _Cité par_:
   - Code de l'éducation - art. L373-1 (V)
   - Code de l'éducation - art. L374-1 (V)
   - Code de l'éducation - art. R451-1 (VD)
-
-
-###### Article L311-5
-
-Un conseil national des programmes donne des avis et adresse des propositions au ministre chargé de l'éducation sur la
-conception générale des enseignements, les grands objectifs à atteindre, l'adéquation des programmes et des champs
-disciplinaires à ces objectifs et leur adaptation au développement des connaissances. Il est composé de personnalités
-qualifiées, nommées par le ministre chargé de l'éducation.
-
-Les avis et propositions du conseil national des programmes sont rendus publics.
-
-**Nota:**
-
-NOTA : Loi 2005-380 2005-04-23 art. 15 : L'article L311-5 est abrogé à compter de l'installation du Haut conseil de
-l'éducation. Cette installation a eu lieu le 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°89-486 du 10 juillet 1989 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Abrogé par_:
-
-  - Loi n°2005-380 du 23 avril 2005 - art. 15 (V) JORF 24 avril 2005 en vigueur le 8 novembre 2005
-
-_Cité par_:
-
-  - Loi n°2005-380 du 23 avril 2005 - art. 15 (V)
-  - Code de l'éducation - art. L374-1 (M)
 
 
 ###### Article L311-6
@@ -45458,310 +45422,9 @@ _Abrogé par_:
   - Décret n°2006-1334 du 3 novembre 2006 - art. 19 () JORF 4 novembre 2006
 
 
-#### Chapitre III : Le Haut Conseil de l'évaluation de l'école.<a id=475></a>
+### Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=475></a>
 
-###### Article D243-1
-
-Le Haut Conseil de l'évaluation de l'école, placé auprès du ministre chargé de l'éducation, donne un avis sur le programme
-annuel des évaluations produites et diffusées par le ministère de l'éducation nationale, notamment celles conduites par la
-direction de l'évaluation et de la prospective. Il se prononce sur les méthodologies utilisées à l'occasion de ces
-évaluations. Les résultats de ces évaluations sont débattus devant le haut conseil.
-
-Il expertise les évaluations externes du système éducatif. Il peut en faire réaliser. Il dispose, pour ce faire, de crédits
-d'études.
-
-Il fait une synthèse des différents travaux d'évaluation sur le système éducatif. Il a également pour mission de proposer
-l'élaboration d'outils nécessaires à l'évaluation du système éducatif, afin de favoriser le débat public sur l'éducation.
-
-Il établit un rapport annuel sur l'état de l'évaluation du système éducatif et sur l'impact des recommandations de ses
-précédents rapports. Le président du haut conseil présente ce rapport annuel au Conseil supérieur de l'éducation. Le rapport,
-les avis et les recommandations du haut conseil sont rendus publics.
-
-**Nota:**
-
-NOTA : Décret n° 2005-999 du 22 août 2005 art. 3 : A la date d'installation du Haut Conseil de l'éducation, les articles D.
-243-1 à D. 243-9 du code de l'éducation sont abrogés. La date de cette installation est celle du 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
-
-
-###### Article D243-2
-
-Il se réunit au moins deux fois par an. Il se réunit en outre à la demande du ministre, de son président ou de la majorité de
-ses membres.
-
-**Nota:**
-
-NOTA : Décret n° 2005-999 du 22 août 2005 art. 3 : A la date d'installation du Haut Conseil de l'éducation, les articles D.
-243-1 à D. 243-9 du code de l'éducation sont abrogés. La date de cette installation est celle du 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-1060 2000-10-27 art. 2, alinéa 5
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 2 (M)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
-
-
-###### Article D243-3
-
-Le haut conseil comprend trente-cinq membres nommés par le ministre chargé de l'éducation pour une durée de trois ans :
-
-a) Un député et un sénateur ;
-
-b) Un maire, un conseiller général et un conseiller régional désignés sur proposition d'une association représentative,
-respectivement des maires, des présidents de conseil général et des présidents de conseil régional ;
-
-c) Le président du Comité national d'évaluation des établissements publics à caractère scientifique, culturel et
-professionnel ou son représentant ;
-
-d) Deux représentants des salariés et deux représentants des employeurs désignés sur proposition des organisations les plus
-représentatives ;
-
-e) Trois représentants des parents d'élèves, désignés sur proposition des organisations les plus représentatives ;
-
-f) Six représentants des personnels enseignants de l'enseignement public, désignés sur proposition des fédérations ou
-confédérations syndicales, compte tenu du nombre de voix obtenues lors de l'élection des représentants du personnel dans les
-commissions administratives paritaires et au comité technique paritaire des personnels titulaires et stagiaires de statut
-universitaire ;
-
-g) Un représentant des chefs d'établissement d'enseignement public désigné sur proposition de l'organisation professionnelle
-la plus représentative ;
-
-h) Un représentant des élèves de lycée désigné sur proposition de l'organisation la plus représentative et un représentant
-des étudiants désigné sur proposition de l'organisation la plus représentative ;
-
-i) Un représentant d'une association éducative complémentaire de l'enseignement public, désigné sur proposition du Conseil
-national des associations éducatives complémentaires de l'enseignement public ;
-
-j) Douze personnalités qualifiées, françaises ou étrangères, choisies pour leur compétence en matière d'évaluation et
-d'éducation.
-
-**Nota:**
-
-NOTA : Décret n° 2005-999 du 22 août 2005 art. 3 : A la date d'installation du Haut Conseil de l'éducation, les articles D.
-243-1 à D. 243-9 du code de l'éducation sont abrogés. La date de cette installation est celle du 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-1060 2000-10-27 art. 3, alinéas 1 à 11
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 3 (M)
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
-
-_Cité par_:
-
-  - Code de l'éducation - art. D243-4 (Ab)
-  - Code de l'éducation - art. D243-5 (Ab)
-
-
-###### Article D243-4
-
-Pour chacun des membres prévus aux a, b, d, e, f, g et i de l'article D. 243-3, un suppléant est désigné dans les mêmes
-conditions que le titulaire afin de le remplacer en cas d'empêchement. Pour chacun des membres prévus au h, un suppléant est
-désigné respectivement après avis des deux principales organisations représentatives des étudiants et des deux principales
-organisations représentatives des lycéens.
-
-Les mandats des membres mentionnés aux a, b, d, e, f, g, h, i et j ainsi que, le cas échéant, ceux de leurs suppléants sont
-renouvelables une fois.
-
-**Nota:**
-
-NOTA : Décret n° 2005-999 du 22 août 2005 art. 3 : A la date d'installation du Haut Conseil de l'éducation, les articles D.
-243-1 à D. 243-9 du code de l'éducation sont abrogés. La date de cette installation est celle du 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-1060 2000-10-27 art. 3, alinéas 12 et 13
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 3 (M)
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
-
-_Cite_:
-
-  - Code de l'éducation - art. D243-3 (Ab)
-
-
-###### Article D243-5
-
-Le président du haut conseil est nommé par le ministre chargé de l'éducation parmi les personnalités mentionnées au j de
-l'article D. 243-3.
-
-**Nota:**
-
-NOTA : Décret n° 2005-999 du 22 août 2005 art. 3 : A la date d'installation du Haut Conseil de l'éducation, les articles D.
-243-1 à D. 243-9 du code de l'éducation sont abrogés. La date de cette installation est celle du 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
-
-_Cite_:
-
-  - Code de l'éducation - art. D243-3 (Ab)
-
-
-###### Article D243-6
-
-En cas de décès ou de démission d'un membre titulaire ou suppléant du haut conseil, il est pourvu à son remplacement dans les
-mêmes conditions pour la durée du mandat restant à courir.
-
-**Nota:**
-
-NOTA : Décret n° 2005-999 du 22 août 2005 art. 3 : A la date d'installation du Haut Conseil de l'éducation, les articles D.
-243-1 à D. 243-9 du code de l'éducation sont abrogés. La date de cette installation est celle du 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
-
-
-###### Article D243-7
-
-Le doyen de l'inspection générale de l'éducation nationale, le chef de service de l'inspection générale de l'administration
-de l'éducation nationale et de la recherche et le directeur de l'évaluation et de la prospective du ministère de l'éducation
-nationale participent aux travaux du haut conseil avec voix consultative.
-
-Le haut conseil peut entendre tout expert sur les questions qui relèvent de sa compétence.
-
-**Nota:**
-
-NOTA : Décret n° 2005-999 du 22 août 2005 art. 3 : A la date d'installation du Haut Conseil de l'éducation, les articles D.
-243-1 à D. 243-9 du code de l'éducation sont abrogés. La date de cette installation est celle du 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-1060 2000-10-27 art. 6, alinéas 1 et 2
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 6 (M)
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
-
-
-###### Article D243-8
-
-Un secrétaire général, nommé par le ministre chargé de l'éducation, assure l'organisation des travaux du haut conseil.
-
-**Nota:**
-
-NOTA : Décret n° 2005-999 du 22 août 2005 art. 3 : A la date d'installation du Haut Conseil de l'éducation, les articles D.
-243-1 à D. 243-9 du code de l'éducation sont abrogés. La date de cette installation est celle du 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-1060 2000-10-27 art. 6, alinéa 3
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 6 (M)
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
-
-
-###### Article D243-9
-
-Les frais occasionnés par les déplacements et les séjours des membres du haut conseil et des experts sont remboursés dans les
-conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
-
-**Nota:**
-
-NOTA : Décret n° 2005-999 du 22 août 2005 art. 3 : A la date d'installation du Haut Conseil de l'éducation, les articles D.
-243-1 à D. 243-9 du code de l'éducation sont abrogés. La date de cette installation est celle du 8 novembre 2005.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-1060 du 27 octobre 2000 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2005-999 2005-08-22 art 3 : Abrogé à compter de l'installation du Haut Conseil de l'éducation
-
-_Abrogé par_:
-
-  - Décret n°2005-999 du 22 août 2005 - art. 3 (V) JORF 23 août 2005
-
-
-### Titre V : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=476></a>
-
-#### Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation.<a id=477></a>
+#### Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation.<a id=476></a>
 
 ###### Article D251-1
 
@@ -45944,9 +45607,9 @@ _Cite_:
   - Code du travail - art. D910-21 (Ab)
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=478></a>
+### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=477></a>
 
-#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=479></a>
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=478></a>
 
 ###### Article D*261-6
 
@@ -46130,7 +45793,7 @@ _Cite_:
   - Code de l'éducation - art. R232-41 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=480></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=479></a>
 
 ###### Article D262-3
 
@@ -46231,7 +45894,7 @@ _Cite_:
   - Code de l'éducation
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=481></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=480></a>
 
 ###### Article D*263-8
 
@@ -46518,7 +46181,7 @@ _Cite_:
   - Code de l'éducation - art. R232-43 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=482></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=481></a>
 
 ###### Article D*264-8
 
