@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-01-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -414,7 +414,7 @@ Version Consolidée au 2006-01-06
             - [Sous-section 2 : Contentieux. (art. D222-35 à R222-36)](#411)
           - [Section 4 : Médiateurs. (art. D222-37 à D222-42)](#412)
       - [Titre III : Les organismes collégiaux nationaux et locaux. (art. D230-1 à D239-41)](#413)
-        - [Chapitre préliminaire : Le Haut Conseil de l'éducation (art. D230-1 à D230-6)](#414)
+        - [Chapitre préliminaire : Le Haut Conseil de l'éducation (art. D230-1 à D230-7)](#414)
         - [Chapitre Ier : Le Conseil supérieur de l'éducation (art. R231-1 à R231-33)](#415)
           - [Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative. (art. R231-1 à R231-16)](#416)
           - [Section 2 : Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire (art. R231-17 à R231-33)](#417)
@@ -37689,6 +37689,27 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
+
+_Abrogé par_:
+
+  - Décret n°2013-681 du 24 juillet 2013 - art. 2
+
+
+###### Article D230-7
+
+Le président du Haut Conseil de l'éducation est ordonnateur principal des recettes et des dépenses du Haut Conseil de
+l'éducation. Il peut donner délégation de signature au secrétaire général du Haut Conseil pour signer tous les actes relatifs
+à sa fonction d'ordonnateur principal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-703 du 13 juillet 2004
+
+_Créé par_:
+
+  - Décret n°2006-89 du 24 janvier 2006 - art. 1 () JORF 31 janvier 2006
 
 _Abrogé par_:
 
