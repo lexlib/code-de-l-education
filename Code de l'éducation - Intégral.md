@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-01-31
+Version Consolidée au 2006-02-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -34007,6 +34007,10 @@ _Cite_:
 Ce montant est majoré d'un quart pour les instituteurs mariés avec ou sans enfant à charge et pour les instituteurs
 célibataires, veufs ou divorcés, avec enfant à charge.
 
+L'instituteur divorcé ou séparé au domicile duquel la résidence d'au moins un enfant est fixée en alternance en application
+de l'article 373-2-9 du code civil bénéficie également de la majoration prévue à l'alinéa précédent. Cette disposition
+s'applique aux deux parents s'ils sont tous les deux instituteurs.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -34016,6 +34020,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Décret n°2006-24 du 3 janvier 2006 - art. 1 () JORF 10 janvier 2006 en vigueur le 1er février 2006
+
+_Cite_:
+
+  - Code civil - art. 373-2-9 (M)
 
 _Cité par_:
 
