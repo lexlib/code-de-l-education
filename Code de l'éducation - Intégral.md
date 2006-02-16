@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-02-01
+Version Consolidée au 2006-02-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -78,7 +78,7 @@ Version Consolidée au 2006-02-01
           - [Chapitre III : Dispositions applicables en Polynésie française. (art. L263-1 à L263-2)](#75)
           - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L264-1 à L264-3)](#76)
     - [Deuxième partie : Les enseignements scolaires (art. L311-1 à L564-1)](#77)
-      - [Livre III : L'organisation des enseignements scolaires (art. L311-1 à L374-3)](#78)
+      - [Livre III : L'organisation des enseignements scolaires (art. L311-1 à L374-4)](#78)
         - [Titre Ier : L'organisation générale des enseignements (art. L311-1 à L314-2)](#79)
           - [Chapitre Ier : Dispositions communes. (art. L311-1 à L311-7)](#80)
           - [Chapitre II : Dispositions propres à certaines matières d'enseignement (art. L312-1 à L312-18)](#81)
@@ -119,11 +119,11 @@ Version Consolidée au 2006-02-01
           - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique. (art. L361-1 à L361-6)](#116)
           - [Chapitre II : L'enseignement de la danse. (art. L362-1 à L362-5)](#117)
           - [Chapitre III : Les formations et les professions des activités physiques et sportives. (art. L363-1 à L363-4)](#118)
-        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L371-1 à L374-3)](#119)
+        - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L371-1 à L374-4)](#119)
           - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L371-1 à L371-2)](#120)
           - [Chapitre II : Dispositions applicables à Mayotte. (art. L372-1 à L372-2)](#121)
           - [Chapitre III : Dispositions applicables en Polynésie française. (art. L373-1 à L373-3)](#122)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L374-1 à L374-3)](#123)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L374-1 à L374-4)](#123)
       - [Livre IV : Les établissements d'enseignement scolaire (art. L401-1 à L494-1)](#124)
         - [Titre préliminaire : Dispositions communes. (art. L401-1 à L401-2)](#125)
         - [Titre Ier : Les écoles (art. L411-1 à L412-1)](#126)
@@ -12961,13 +12961,14 @@ _Cité par_:
 
 ###### Article L374-1
 
-Sont applicables en Nouvelle-Calédonie les articles L. 312-7, L. 312-12, L. 312-15, L. 313-1 à L. 313-3, L. 331-1 à L. 331-4,
-L. 331-7, L. 331-8, L. 332-1 à L. 332-5, les trois premiers alinéas de l'article L. 332-6, les articles L. 333-1 à L. 333-3,
-L. 334-1, L. 335-3 à L. 335-5, les deux premiers alinéas de l'article L. 335-6, les articles L. 335-9 à L. 335-11, L. 335-14
-à L. 335-16, L. 336-1, L. 336-2 et L. 337-1.
+Sont applicables en Nouvelle-Calédonie les articles L. 312-7, L. 312-12, L. 312-13-1, L. 312-15, L. 313-1 à L. 313-3, L.
+331-1 à L. 331-4, L. 331-7, L. 331-8, L. 332-1 à L. 332-5, les trois premiers alinéas de l'article L. 332-6, les articles L.
+333-1 à L. 333-3, L. 334-1, L. 335-3 à L. 335-5, les deux premiers alinéas de l'article L. 335-6, les articles L. 335-9 à L.
+335-11, L. 335-14 à L. 335-16, L. 336-1, L. 336-2 et L. 337-1.
 
-Les articles L. 311-1 à L. 311-3-1 et L. 311-6 ne sont applicables en Nouvelle-Calédonie qu'en tant qu'ils concernent
-l'enseignement du premier degré dispensé dans les établissements d'enseignement privés et l'enseignement du second degré.
+Les articles L. 311-1 à L. 311-3-1 et L. 311-6, L. 312-13-1 ne sont applicables en Nouvelle-Calédonie qu'en tant qu'ils
+concernent l'enseignement du premier degré dispensé dans les établissements d'enseignement privés et l'enseignement du second
+degré.
 
 Les articles L. 321-1 à L. 321-4 ne sont applicables en Nouvelle-Calédonie qu'en tant qu'ils concernent l'enseignement du
 premier degré dispensé dans les établissements d'enseignement privés.
@@ -12992,12 +12993,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-380 du 23 avril 2005 - art. 79 () JORF 24 avril 2005
+  - Ordonnance n°2006-172 du 15 février 2006 - art. 32 () JORF 17 février 2006
 
 _Cite_:
 
   - Code de l'éducation - art. L311-6 (M)
   - Code de l'éducation - art. L312-12 (V)
+  - Code de l'éducation - art. L312-13-1 (V)
   - Code de l'éducation - art. L312-15 (M)
   - Code de l'éducation - art. L312-7 (V)
   - Code de l'éducation - art. L331-7 (M)
@@ -13007,7 +13009,7 @@ _Cite_:
   - Code de l'éducation - art. L336-1 (V)
   - Code de l'éducation - art. L336-2 (V)
   - Code de l'éducation - art. L337-1 (V)
-  - Code de l'éducation L312-7, L312-12, L312-15, L313-1 à L313-3, L331-1 à L331-4, L331-7, L331-8, L332-1 à L332-5, L332-6, L335-6, L335-9 à L335-11, L335-14 à L335-16, L336-1, L336-2, L337-1, L311-1 à L311-3-1, L311-6, L321-1 à L321-4
+  - Code de l'éducation L312-7, L312-12, L312-13-1, L312-15, L313-1 à L313-3, L331-1 à L331-4, L331-7, L331-8, L332-1 à L332-5, L332-6, L335-6, L335-9 à L335-11, L335-14 à L335-16, L336-1, L336-2, L337-1, L311-1 à L311-3-1, L311-6, L321-1 à L321-4
 
 
 ###### Article L374-2
@@ -13039,6 +13041,33 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+
+###### Article L374-4
+
+Pour l'application de l'article L. 312-13-1, la référence à l'article 35 de la loi n° 2004-811 du 13 août 2004 de
+modernisation de la sécurité civile est remplacée par la référence à l'article 18 de l'ordonnance n° 2006-172 du 15 février
+2006.
+
+**Nota:**
+
+L'article 35 de la loi n° 2004-811 du 13 août 2004 a été codifié à l'article L725-1 du code de la sécurité intérieure par
+l'ordonnance n° 2012-351 du 12 mars 2012.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Cite_:
+
+  - Ordonnance n°2006-172 du 15 février 2006 - art. 18 (Ab)
+  - Code de l'éducation - art. L312-13-1 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2006-172 du 15 février 2006 - art. 32 () JORF 17 février 2006
 
 
 ### Livre IV : Les établissements d'enseignement scolaire<a id=124></a>
