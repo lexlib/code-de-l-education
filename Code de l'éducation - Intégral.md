@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-04-19
+Version Consolidée au 2006-05-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -386,9 +386,9 @@ Version Consolidée au 2006-04-19
               - [Paragraphe 2 : Le financement des frais de déplacement des élèves et étudiants handicapés. (art. R213-13 à R213-16)](#383)
               - [Paragraphe 3 : Les transports organisés sur l'initiative des établissements d'enseignement. (art. R213-17)](#384)
               - [Paragraphe 4 : Compensation financière et statistiques. (art. R213-18 à R213-19)](#385)
-            - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France (art. R213-20 à D213-28)](#386)
+            - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France (art. R213-20 à D213-26)](#386)
               - [Paragraphe 1 : L'organisation des transports scolaires en région d'Ile-de-France. (art. R213-20)](#387)
-              - [Paragraphe 3 : Financement des frais de déplacement des élèves et étudiants handicapés dans la région d'Ile-de-France. (art. D213-22 à D213-28)](#388)
+              - [Paragraphe 3 : Financement des frais de déplacement des élèves et étudiants handicapés dans la région d'Ile-de-France. (art. D213-22 à D213-26)](#388)
             - [Sous-section 3 : Procédure de consultation (art. D213-29 à D213-30)](#389)
         - [Chapitre IV : Les compétences des régions (art. R214-1 à R214-17)](#390)
           - [Section 2 : Lycées, établissements d'éducation spéciale, lycées professionnels maritimes et établissements d'enseignement agricole. (art. R214-1)](#391)
@@ -35105,27 +35105,23 @@ _Nouveaux textes_:
 
 ###### Article D213-22
 
-En région d'Ile-de-France, les frais de déplacement exposés par les élèves handicapés fréquentant un des établissements
-d'enseignement général, agricole ou professionnel, publics et privés sous contrat conclu en application des articles L. 442-5
-et L. 442-12 du présent code, ou reconnus selon les dispositions des articles R. 813-1 à R. 813-35 du code rural et qui ne
-peuvent utiliser les moyens de transport en commun compte tenu de la gravité de leur handicap, médicalement établie, pour se
-rendre audit établissement et en revenir, sont remboursés par l'Etat dans la limite d'un aller et retour par jour de
-scolarité.
-
-La prise en charge de l'Etat n'intervient qu'en fonction du domicile des élèves.
-
-Ces dépenses s'imputent sur le budget du ministère dont relèvent les établissements scolaires d'accueil.
+Dans la région d'Ile-de-France, les frais de déplacement exposés par les élèves handicapés ayant leur domicile dans la région
+et fréquentant un des établissements d'enseignement général, agricole ou professionnel, publics et privés sous contrat conclu
+en application des articles L. 442-5 et L. 442-12 du présent code, ou reconnus selon les dispositions des articles R. 813-1 à
+R. 813-35 du code rural et qui ne peuvent utiliser les moyens de transport en commun compte tenu de la gravité de leur
+handicap, médicalement établie, pour se rendre audit établissement et en revenir, sont remboursés par le Syndicat des
+transports d'Ile-de-France.
 
 **Nota:**
 
-NOTA : Décret n° 2005-664 du 10 juin 2005 art. 27 : Les dispositions des articles D. 213-22 à D. 213-28 du code de
-l'éducation antérieurement en vigueur définissant les critères de remboursement et les conditions de versement des frais de
-transport individuel des élèves et étudiants handicapés vers les établissements scolaires ou universitaires rendus
-nécessaires du fait de leur handicap demeurent applicables jusqu'à l'entrée en vigueur de la délibération du syndicat des
-transports d'Ile-de-France fixant les conditions et les tarifs de remboursement et au plus tard dans un délai de six mois à
-compter de l'installation du conseil du syndicat dans sa composition résultant de l'article 1er du présent décret.
+Décret n° 2005-664 du 10 juin 2005 art. 27 : Les dispositions des articles D. 213-22 à D. 213-28 du code de l'éducation
+antérieurement en vigueur définissant les critères de remboursement et les conditions de versement des frais de transport
+individuel des élèves et étudiants handicapés vers les établissements scolaires ou universitaires rendus nécessaires du fait
+de leur handicap demeurent applicables jusqu'à l'entrée en vigueur de la délibération du syndicat des transports d'Ile-de-
+France fixant les conditions et les tarifs de remboursement et au plus tard dans un délai de six mois à compter de
+l'installation du conseil du syndicat dans sa composition résultant de l'article 1er du présent décret. 
 
-Il s'agit de la délibération n° 2006/0442 du 10 mai 2006.
+Il s'agit de la délibération n° 2006 / 0442 du 10 mai 2006.
 
 **Liens relatifs à cet article**
 
@@ -35138,6 +35134,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Décret n°2005-664 du 10 juin 2005 - art. 25 () JORF 11 juin 2005 en vigueur  le 10 mai 2006
 
 _Cité par_:
 
@@ -35152,19 +35152,8 @@ _Cite_:
 
 ###### Article D213-23
 
-Les frais de transport mentionnés à l'article D. 213-22 sont remboursés directement aux familles ou, le cas échéant, à
-l'organisme qui a consenti à en faire l'avance.
-
-**Nota:**
-
-NOTA : Décret n° 2005-664 du 10 juin 2005 art. 27 : Les dispositions des articles D. 213-22 à D. 213-28 du code de
-l'éducation antérieurement en vigueur définissant les critères de remboursement et les conditions de versement des frais de
-transport individuel des élèves et étudiants handicapés vers les établissements scolaires ou universitaires rendus
-nécessaires du fait de leur handicap demeurent applicables jusqu'à l'entrée en vigueur de la délibération du syndicat des
-transports d'Ile-de-France fixant les conditions et les tarifs de remboursement et au plus tard dans un délai de six mois à
-compter de l'installation du conseil du syndicat dans sa composition résultant de l'article 1er du présent décret.
-
-Il s'agit de la délibération n° 2006/0442 du 10 mai 2006.
+Les frais de transport mentionnés à l'article D. 213-22 sont remboursés directement aux familles ou aux intéressés s'ils sont
+majeurs ou, le cas échéant, à l'organisme qui en a fait l'avance.
 
 **Liens relatifs à cet article**
 
@@ -35176,34 +35165,35 @@ _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+_Modifié par_:
+
+  - Décret n°2005-664 du 10 juin 2005 - art. 25 () JORF 11 juin 2005 en vigueur  le 10 mai 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1550 du 17 novembre 2016 - art. 4
+
 _Cite_:
 
-  - Code de l'éducation - art. D213-22 (M)
+  - Code de l'éducation - art. D213-22 (VT)
 
 _Cité par_:
 
   - Code de l'éducation - art. D213-25 (Ab)
+  - Code de l'éducation - art. D213-26 (VT)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. D3111-34 (V)
 
 
 ###### Article D213-24
 
-Pour les déplacements effectués dans des véhicules appartenant aux familles des élèves, le remboursement des frais précités
-s'opère sur la base du tarif kilométrique moyen applicable aux usagers des lignes régulières de transport routier du
-département d'implantation de l'établissement fréquenté.
+Pour les déplacements effectués dans des véhicules appartenant aux élèves ou à leur famille, le remboursement des frais de
+transfert s'opère sur la base d'un tarif fixé par le conseil du Syndicat des transports d'Ile-de-France.
 
 Pour les déplacements effectués à bord des véhicules exploités par des tiers, rémunérés à ce titre, le remboursement des
-frais s'opère sur la base des dépenses réelles, dûment justifiées, supportées par les familles.
-
-**Nota:**
-
-NOTA : Décret n° 2005-664 du 10 juin 2005 art. 27 : Les dispositions des articles D. 213-22 à D. 213-28 du code de
-l'éducation antérieurement en vigueur définissant les critères de remboursement et les conditions de versement des frais de
-transport individuel des élèves et étudiants handicapés vers les établissements scolaires ou universitaires rendus
-nécessaires du fait de leur handicap demeurent applicables jusqu'à l'entrée en vigueur de la délibération du syndicat des
-transports d'Ile-de-France fixant les conditions et les tarifs de remboursement et au plus tard dans un délai de six mois à
-compter de l'installation du conseil du syndicat dans sa composition résultant de l'article 1er du présent décret.
-
-Il s'agit de la délibération n° 2006/0442 du 10 mai 2006.
+frais s'opère sur la base des dépenses réelles, dûment justifiées.
 
 **Liens relatifs à cet article**
 
@@ -35213,80 +35203,35 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2004-703 du 13 juillet 2004
+
+_Modifié par_:
+
+  - Décret n°2005-664 du 10 juin 2005 - art. 25 () JORF 11 juin 2005 en vigueur  le 10 mai 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1550 du 17 novembre 2016 - art. 4
 
 _Cité par_:
 
   - Code de l'éducation - art. D213-25 (Ab)
 
+_Nouveaux textes_:
 
-###### Article D213-25
-
-Les remboursements prévus aux articles D. 213-23 et D. 213-24 sont décidés par le préfet, qui apprécie le bien-fondé des
-demandes présentées à ce titre.
-
-Dans les cas litigieux susceptibles de se présenter, une commission spécialisée est appelée à se prononcer sur l'admission au
-bénéfice des remboursements de frais précités. Cette commission se compose de six membres nommés par le préfet, dont
-l'inspecteur d'académie ou son représentant, président, le directeur départemental de l'action sanitaire et sociale ou son
-représentant, l'ingénieur général d'agronomie chargé de région ou son représentant, un chef d'établissement d'enseignement
-privé accueillant des enfants handicapés, un médecin désigné sur proposition du directeur départemental de l'action sanitaire
-et sociale et un représentant des associations de familles d'enfants handicapés. En cas de partage égal des voix, celle du
-président est prépondérante.
-
-**Nota:**
-
-NOTA : Décret n° 2005-664 du 10 juin 2005 art. 27 : Les dispositions des articles D. 213-22 à D. 213-28 du code de
-l'éducation antérieurement en vigueur définissant les critères de remboursement et les conditions de versement des frais de
-transport individuel des élèves et étudiants handicapés vers les établissements scolaires ou universitaires rendus
-nécessaires du fait de leur handicap demeurent applicables jusqu'à l'entrée en vigueur de la délibération du syndicat des
-transports d'Ile-de-France fixant les conditions et les tarifs de remboursement et au plus tard dans un délai de six mois à
-compter de l'installation du conseil du syndicat dans sa composition résultant de l'article 1er du présent décret.
-
-Il s'agit de la délibération n° 2006/0442 du 10 mai 2006.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-864 du 22 juillet 1977 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-664 du 10 juin 2005 - art. 27 (Ab) JORF 11 juin 2005 en vigueur le  10 mai 2006
-
-_Cité par_:
-
-  - Décret n°2005-664 du 10 juin 2005 - art. 27 (Ab)
-
-_Cite_:
-
-  - Code de l'éducation - art. D213-23 (M)
-  - Code de l'éducation - art. D213-24 (M)
+  - Code des transports - art. D3111-35 (V)
 
 
 ###### Article D213-26
 
-En région d'Ile-de-France, les frais de déplacement exposés par les étudiants handicapés fréquentant un des établissements
-d'enseignement supérieur relevant de la tutelle du ministre chargé de l'éducation et du ministre chargé de l'enseignement
-supérieur ou du ministre de l'agriculture et qui ne peuvent utiliser les moyens de transport en commun, compte tenu de la
-gravité de leur handicap ou de l'inadaptation de ces moyens de transport pour se rendre audit établissement et en revenir,
-sont pris en charge par l'Etat, sur le budget du département ministériel concerné, selon les modalités fixées par le présent
-paragraphe.
+Dans la région d'Ile-de-France, les frais de déplacement exposés par les étudiants handicapés ayant leur domicile dans la
+région et fréquentant un des établissements d'enseignement supérieur relevant de la tutelle du ministre chargé de l'éducation
+et du ministre chargé de l'enseignement supérieur ou du ministre de l'agriculture et qui ne peuvent utiliser les moyens de
+transport en commun, compte tenu de la gravité de leur handicap ou de l'inadaptation de ces moyens de transport pour se
+rendre audit établissement et en revenir, sont pris en charge par le Syndicat des transports d'Ile-de-France. 
 
-**Nota:**
-
-NOTA : Décret n° 2005-664 du 10 juin 2005 art. 27 : Les dispositions des articles D. 213-22 à D. 213-28 du code de
-l'éducation antérieurement en vigueur définissant les critères de remboursement et les conditions de versement des frais de
-transport individuel des élèves et étudiants handicapés vers les établissements scolaires ou universitaires rendus
-nécessaires du fait de leur handicap demeurent applicables jusqu'à l'entrée en vigueur de la délibération du syndicat des
-transports d'Ile-de-France fixant les conditions et les tarifs de remboursement et au plus tard dans un délai de six mois à
-compter de l'installation du conseil du syndicat dans sa composition résultant de l'article 1er du présent décret.
-
-Il s'agit de la délibération n° 2006/0442 du 10 mai 2006.
+Les frais de déplacement exposés par les étudiants handicapés sont pris en charge dans les conditions prévues aux articles D.
+213-23 et D. 213-24.
 
 **Liens relatifs à cet article**
 
@@ -35296,90 +35241,27 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2004-703 du 13 juillet 2004
+
+_Modifié par_:
+
+  - Décret n°2005-664 du 10 juin 2005 - art. 25 () JORF 11 juin 2005 en vigueur  le 10 mai 2006
+
+_Abrogé par_:
+
+  - Décret n°2016-1550 du 17 novembre 2016 - art. 4
+
+_Cite_:
+
+  - Code de l'éducation - art. D213-23 (VT)
 
 _Cité par_:
 
   - Code de l'éducation - art. D213-27 (Ab)
 
+_Nouveaux textes_:
 
-###### Article D213-27
-
-Les frais mentionnés à l'article D. 213-26 sont couverts par des allocations individuelles versées par les recteurs
-d'académie ou les directeurs départementaux de l'agriculture. Les crédits correspondants sont délégués aux recteurs ou aux
-directeurs départementaux de l'agriculture dans les mêmes conditions que les crédits de bourses.
-
-**Nota:**
-
-NOTA : Décret n° 2005-664 du 10 juin 2005 art. 27 : Les dispositions des articles D. 213-22 à D. 213-28 du code de
-l'éducation antérieurement en vigueur définissant les critères de remboursement et les conditions de versement des frais de
-transport individuel des élèves et étudiants handicapés vers les établissements scolaires ou universitaires rendus
-nécessaires du fait de leur handicap demeurent applicables jusqu'à l'entrée en vigueur de la délibération du syndicat des
-transports d'Ile-de-France fixant les conditions et les tarifs de remboursement et au plus tard dans un délai de six mois à
-compter de l'installation du conseil du syndicat dans sa composition résultant de l'article 1er du présent décret.
-
-Il s'agit de la délibération n° 2006/0442 du 10 mai 2006.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-864 du 22 juillet 1977 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-664 du 10 juin 2005 - art. 27 (Ab) JORF 11 juin 2005 en vigueur le  10 mai 2006
-
-_Cité par_:
-
-  - Décret n°2005-664 du 10 juin 2005 - art. 27 (Ab)
-
-_Cite_:
-
-  - Code de l'éducation - art. D213-26 (M)
-
-
-###### Article D213-28
-
-Une commission régionale complétée en tant que de besoin du directeur régional de l'agriculture et de la forêt, présidée par
-le recteur d'académie ou son représentant et composée d'un représentant de l'établissement d'enseignement où l'étudiant est
-inscrit, d'un médecin désigné par le chef des services déconcentrés de l'action sanitaire et sociale, d'un représentant des
-associations de handicapés et d'un représentant des étudiants handicapés désignés l'un et l'autre par le recteur ou le
-directeur régional de l'agriculture et de la forêt, est appelée à se prononcer sur l'admission au bénéfice des remboursements
-de frais dans les cas litigieux susceptibles de se présenter.
-
-**Nota:**
-
-NOTA : Décret n° 2005-664 du 10 juin 2005 art. 27 : Les dispositions des articles D. 213-22 à D. 213-28 du code de
-l'éducation antérieurement en vigueur définissant les critères de remboursement et les conditions de versement des frais de
-transport individuel des élèves et étudiants handicapés vers les établissements scolaires ou universitaires rendus
-nécessaires du fait de leur handicap demeurent applicables jusqu'à l'entrée en vigueur de la délibération du syndicat des
-transports d'Ile-de-France fixant les conditions et les tarifs de remboursement et au plus tard dans un délai de six mois à
-compter de l'installation du conseil du syndicat dans sa composition résultant de l'article 1er du présent décret.
-
-Il s'agit de la délibération n° 2006/0442 du 10 mai 2006.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-864 du 22 juillet 1977 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2005-664 du 10 juin 2005 - art. 27 (Ab) JORF 11 juin 2005 en vigueur le  10 mai 2006
-
-_Cité par_:
-
-  - Décret n°2005-664 du 10 juin 2005 - art. 27 (Ab)
+  - Code des transports - art. D3111-36 (V)
 
 
 ##### Sous-section 3 : Procédure de consultation<a id=389></a>
