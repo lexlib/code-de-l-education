@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-05-10
+Version Consolidée au 2006-05-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -36280,17 +36280,25 @@ _Codifié par_:
 
 ###### Article R221-1
 
-L'administration centrale est organisée conformément aux dispositions du décret n° 2003-317 du 7 avril 2003.
+L'administration centrale est organisée conformément aux dispositions du décret n° 2006-572 du 17 mai 2006.
+
+**Nota:**
+
+Le décret n° 2006-572 du 17 mai 2006 a été abrogé par l'article 15 du décret n° 2014-133 du 15 février 2014.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2003-317 2003-04-07
 
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Cite_:
+
+  - Décret n°2006-572 du 17 mai 2006 (M)
+
+_Modifié par_:
+
+  - Décret n°2006-572 du 17 mai 2006 - art. 17 (VT) JORF 21 mai 2006
 
 _Cité par_:
 
