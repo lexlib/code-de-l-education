@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-06-02
+Version Consolidée au 2006-06-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -44871,10 +44871,10 @@ effectuer des inspections administratives et financières relevant des ministres
 été signées les conventions de création des centres de formation d'apprentis ou des sections d'apprentissage. Dans la mesure
 du possible, des inspections conjointes sont réalisées dans une même entreprise ou une même localité.
 
-" Art. R. 119-51. - Les rapports sont transmis au comité départemental de l'emploi, chaque fois qu'ils établissent un
-manquement aux dispositions du présent code relatives à l'apprentissage ; ils sont transmis au comité de coordination
-régional de l'emploi et de la formation professionnelle ainsi qu'au conseil régional lorsque le manquement met en cause la
-gestion ou le fonctionnement d'un centre de formation d'apprentis ou d'une section d'apprentissage.
+" Art. R. 119-51. - Les rapports sont transmis à la commission départementale de l'emploi et de l'insertion, chaque fois
+qu'ils établissent un manquement aux dispositions du présent code relatives à l'apprentissage ; ils sont transmis au comité
+de coordination régional de l'emploi et de la formation professionnelle ainsi qu'au conseil régional lorsque le manquement
+met en cause la gestion ou le fonctionnement d'un centre de formation d'apprentis ou d'une section d'apprentissage.
 
 " Lorsque les faits sont susceptibles de constituer une infraction pénale dont la constatation relève de l'inspecteur du
 travail ou de l'un des autres fonctionnaires chargés du contrôle de la législation du travail ou des lois sociales, le
@@ -44937,6 +44937,10 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Décret n°2006-665 du 7 juin 2006 - art. 25 () JORF 8 juin 2006
 
 _Cité par_:
 
