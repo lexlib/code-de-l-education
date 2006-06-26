@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-06-23
+Version Consolidée au 2006-06-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -33014,13 +33014,11 @@ incombent entièrement à l'Etat est fixée ainsi qu'il suit :
 
 1° Pour les établissements relevant du ministère de l'agriculture :
 
-a) Centre d'expérimentation pédagogique de Florac (Lozère) ;
+a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
 
-b) Centre d'étude du milieu et de pédagogie appliquée du ministère de l'agriculture de Fouesnant (Finistère) ;
+b) Centre national de promotion rurale, enseignement et formation professionnelle à distance, Marmilhat (Puy-de-Dôme) ;
 
-c) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
-
-d) Centre national de promotion rurale, enseignement et formation professionnelle à distance, Marmilhat (Puy-de-Dôme) ;
+c) Centre d'expérimentation pédagogique de Florac (Lozère) ;
 
 2° Pour les établissements relevant du ministère de l'éducation nationale :
 
@@ -33065,7 +33063,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1754 du 30 décembre 2005 - art. 30 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°2006-610 du 26 mai 2006 - art. 4 () JORF 28 mai 2006 en vigueur le 27 juin 2006
 
 _Cite_:
 
