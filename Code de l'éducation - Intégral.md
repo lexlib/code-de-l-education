@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-06-27
+Version Consolidée au 2006-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -580,7 +580,7 @@ Version Consolidée au 2006-06-27
           - [Section 2 : Dispositions particulières au baccalauréat technologique série " hôtellerie " (art. D336-23 à D336-38)](#577)
           - [Section 3 : Dispositions particulières au baccalauréat technologique série " techniques de la musique et de la danse ". (art. D336-39 à D336-48)](#578)
           - [Section 4 : Le brevet de technicien. (art. D336-49 à D336-58)](#579)
-        - [Chapitre VII : Dispositions propres aux formations professionnelles. (art. D337-1 à D337-160)](#580)
+        - [Chapitre VII : Dispositions propres aux formations professionnelles. (art. D337-1 à D337-171)](#580)
           - [Section 1 : Le certificat d'aptitude professionnelle (art. D337-1 à D337-25)](#581)
             - [Sous-section 1 : Dispositions générales. (art. D337-1 à D337-4)](#582)
             - [Sous-section 2 : Voies d'accès au diplôme et conditions de délivrance. (art. D337-5 à R337-15)](#583)
@@ -608,51 +608,52 @@ Version Consolidée au 2006-06-27
             - [Sous-section 2 : Modalités de préparation. (art. D337-142 à D337-146)](#605)
             - [Sous-section 3 : Conditions de délivrance. (art. D337-147 à D337-153)](#606)
             - [Sous-section 4 : Organisation des examens. (art. D337-154 à D337-160)](#607)
-        - [Chapitre VIII : Autres diplômes et titres. (art. R338-1 à D338-22)](#608)
-          - [Section 1 : Le titre professionnel. (art. R338-1 à R338-8)](#609)
-          - [Section 2 : Le diplôme " un des meilleurs ouvriers de France " (art. D338-9 à D338-22)](#610)
-            - [Sous-section 1 : Définition du diplôme. (art. D338-9 à R*338-10)](#611)
-            - [Sous-section 2 : Organisation. (art. D338-11 à D338-18)](#612)
-            - [Sous-section 3 : Les jurys. (art. D338-19 à D338-22)](#613)
-      - [Titre IV : L'enseignement agricole et maritime. (art. D341-1 à R342-8)](#614)
-        - [Chapitre Ier : L'enseignement agricole. (art. D341-1 à R341-40)](#615)
-          - [Section 1 : L'orientation des élèves (art. D341-1 à D341-39)](#616)
-            - [Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics. (art. D341-1 à D341-22)](#617)
-            - [Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat. (art. D341-23 à D341-39)](#618)
-          - [Section 2 : Les enseignements et les diplômes. (art. D341-41 à R341-40)](#619)
-        - [Chapitre II : L'enseignement maritime. (art. R342-1 à R342-8)](#620)
-          - [Section 1 : La formation professionnelle maritime. (art. R342-1 à R342-6)](#621)
-          - [Section 2 : Les titres de formation professionnelle maritime. (art. R342-7 à R342-8)](#622)
-      - [Titre V : Les enseignements pour les enfants et adolescents handicapés. (art. D351-1 à R352-1)](#623)
-        - [Chapitre Ier : Scolarité. (art. D351-1 à D351-33)](#624)
-          - [Section 1 : Dispositions générales. (art. D351-1 à R351-2)](#625)
-          - [Section 2 : Le parcours de formation des élèves présentant un handicap (art. D351-3 à D351-20)](#626)
-            - [Sous-section 1 : Organisation de la scolarité. (art. D351-3 à D351-9)](#627)
-            - [Sous-section 2 : Les équipes de suivi de la scolarisation. (art. D351-10 à D351-16)](#628)
-            - [Sous-section 3 : Les unités d'enseignement. (art. D351-17 à D351-20)](#629)
-          - [Section 3 : Dispositions particulières en faveur des jeunes sourds. (art. R351-21 à R351-26)](#630)
-          - [Section 4 : Aménagement des examens et concours. (art. D351-27 à D351-32)](#631)
-          - [Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur. (art. D351-33)](#632)
-        - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés. (art. R352-1)](#633)
-      - [Titre VI : Les enseignements préparant aux professions artistiques et sportives. (art. R361-1 à R363-3)](#634)
-        - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique. (art. R361-1 à R361-6)](#635)
-          - [Section 1 : Dispositions générales. (art. R361-1 à R361-2)](#636)
-          - [Section 2 : L'enseignement du théâtre. (art. R361-3 à R361-6)](#637)
-        - [Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation. (art. R363-1 à R363-3)](#638)
-          - [Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives. (art. R363-1)](#639)
-          - [Section 2 : Les diplômes. (art. D363-2 à R363-3)](#640)
-      - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D371-3 à R374-26)](#641)
-        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D371-3 à R371-2)](#642)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. D372-3 à R372-2)](#643)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D373-2 à R373-9)](#644)
-          - [Section 1 : Dispositions générales. (art. D373-2 à R373-1)](#645)
-          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française. (art. R373-3 à R373-9)](#646)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D374-3 à R374-26)](#647)
-          - [Section 1 : Dispositions générales. (art. D374-3 à R374-2)](#648)
-          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie. (art. R374-6 à R374-12)](#649)
-          - [Section 3 : Le centre de documentation pédagogique (art. R374-13 à R374-26)](#650)
-            - [Sous-section 1 : Organisation et fonctionnement. (art. R374-13 à R374-19)](#651)
-            - [Sous-section 2 : Régime financier. (art. R374-20 à R374-26)](#652)
+          - [Section 7 : La formation d'apprenti junior (art. D337-161 à D337-171)](#608)
+        - [Chapitre VIII : Autres diplômes et titres. (art. R338-1 à D338-22)](#609)
+          - [Section 1 : Le titre professionnel. (art. R338-1 à R338-8)](#610)
+          - [Section 2 : Le diplôme " un des meilleurs ouvriers de France " (art. D338-9 à D338-22)](#611)
+            - [Sous-section 1 : Définition du diplôme. (art. D338-9 à R*338-10)](#612)
+            - [Sous-section 2 : Organisation. (art. D338-11 à D338-18)](#613)
+            - [Sous-section 3 : Les jurys. (art. D338-19 à D338-22)](#614)
+      - [Titre IV : L'enseignement agricole et maritime. (art. D341-1 à R342-8)](#615)
+        - [Chapitre Ier : L'enseignement agricole. (art. D341-1 à R341-40)](#616)
+          - [Section 1 : L'orientation des élèves (art. D341-1 à D341-39)](#617)
+            - [Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics. (art. D341-1 à D341-22)](#618)
+            - [Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat. (art. D341-23 à D341-39)](#619)
+          - [Section 2 : Les enseignements et les diplômes. (art. D341-41 à R341-40)](#620)
+        - [Chapitre II : L'enseignement maritime. (art. R342-1 à R342-8)](#621)
+          - [Section 1 : La formation professionnelle maritime. (art. R342-1 à R342-6)](#622)
+          - [Section 2 : Les titres de formation professionnelle maritime. (art. R342-7 à R342-8)](#623)
+      - [Titre V : Les enseignements pour les enfants et adolescents handicapés. (art. D351-1 à R352-1)](#624)
+        - [Chapitre Ier : Scolarité. (art. D351-1 à D351-33)](#625)
+          - [Section 1 : Dispositions générales. (art. D351-1 à R351-2)](#626)
+          - [Section 2 : Le parcours de formation des élèves présentant un handicap (art. D351-3 à D351-20)](#627)
+            - [Sous-section 1 : Organisation de la scolarité. (art. D351-3 à D351-9)](#628)
+            - [Sous-section 2 : Les équipes de suivi de la scolarisation. (art. D351-10 à D351-16)](#629)
+            - [Sous-section 3 : Les unités d'enseignement. (art. D351-17 à D351-20)](#630)
+          - [Section 3 : Dispositions particulières en faveur des jeunes sourds. (art. R351-21 à R351-26)](#631)
+          - [Section 4 : Aménagement des examens et concours. (art. D351-27 à D351-32)](#632)
+          - [Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur. (art. D351-33)](#633)
+        - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés. (art. R352-1)](#634)
+      - [Titre VI : Les enseignements préparant aux professions artistiques et sportives. (art. R361-1 à R363-3)](#635)
+        - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique. (art. R361-1 à R361-6)](#636)
+          - [Section 1 : Dispositions générales. (art. R361-1 à R361-2)](#637)
+          - [Section 2 : L'enseignement du théâtre. (art. R361-3 à R361-6)](#638)
+        - [Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation. (art. R363-1 à R363-3)](#639)
+          - [Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives. (art. R363-1)](#640)
+          - [Section 2 : Les diplômes. (art. D363-2 à R363-3)](#641)
+      - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D371-3 à R374-26)](#642)
+        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D371-3 à R371-2)](#643)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. D372-3 à R372-2)](#644)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D373-2 à R373-9)](#645)
+          - [Section 1 : Dispositions générales. (art. D373-2 à R373-1)](#646)
+          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française. (art. R373-3 à R373-9)](#647)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D374-3 à R374-26)](#648)
+          - [Section 1 : Dispositions générales. (art. D374-3 à R374-2)](#649)
+          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie. (art. R374-6 à R374-12)](#650)
+          - [Section 3 : Le centre de documentation pédagogique (art. R374-13 à R374-26)](#651)
+            - [Sous-section 1 : Organisation et fonctionnement. (art. R374-13 à R374-19)](#652)
+            - [Sous-section 2 : Régime financier. (art. R374-20 à R374-26)](#653)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -4914,16 +4915,16 @@ _Cite_:
 
 ###### Article L214-4
 
-I. - Les équipements nécessaires à la pratique de l'éducation physique et sportive doivent être prévus à l'occasion de la
+I.-Les équipements nécessaires à la pratique de l'éducation physique et sportive doivent être prévus à l'occasion de la
 création d'établissements publics locaux d'enseignement, ainsi que lors de l'établissement du schéma prévisionnel des
-formations mentionné à l'article L. 214-1.
+formations mentionné à l'article L. 214-1. 
 
-II. - Des conventions sont passées entre les établissements publics locaux d'enseignement, leur collectivité de rattachement
-et les propriétaires d'équipements sportifs afin de permettre la réalisation des programmes scolaires de l'éducation physique
-et sportive.
+II.-Des conventions sont passées entre les établissements publics locaux d'enseignement, leur collectivité de rattachement et
+les propriétaires d'équipements sportifs afin de permettre la réalisation des programmes scolaires de l'éducation physique et
+sportive. 
 
-III. - L'utilisation des équipements se fait conformément aux dispositions de l'article L. 1311-7 du code général des
-collectivités territoriales, sauf dans l'hypothèse où des conventions de mise à disposition gracieuse ont été négociées.
+III.-L'utilisation des équipements se fait conformément aux dispositions de l'article L. 1311-15 du code général des
+collectivité territoriales, sauf dans l'hypothèse où des conventions de mise à disposition gracieuse ont été négociées.
 
 **Liens relatifs à cet article**
 
@@ -4938,12 +4939,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L1311-7 (M)
-  - Code de l'éducation - art. L214-1 (M)
+  - Code général des collectivités territoriales - art. L1311-15 (V)
+  - Code de l'éducation - art. L214-1 (V)
 
 _Cité par_:
 
@@ -7407,7 +7408,7 @@ _Cité par_:
 Les institutions de la formation professionnelle sont organisées conformément aux dispositions des articles L. 910-1 et L.
 910-2 du code du travail, ci-après reproduites :
 
-"Art. L. 910-1. -  Il est créé un Conseil national de la formation professionnelle tout au long de la vie : ce conseil est
+"Art. L. 910-1. - Il est créé un Conseil national de la formation professionnelle tout au long de la vie : ce conseil est
 chargé de favoriser, au plan national, la concertation entre les acteurs pour la conception des politiques de formation
 professionnelle et le suivi de leur mise en oeuvre, en liaison avec les comités de coordination régionaux de l'emploi et de
 la formation professionnelle. Il est chargé d'évaluer les politiques régionales d'apprentissage et de formation
@@ -7415,23 +7416,22 @@ professionnelle tout au long de la vie. Il donne son avis sur la législation et
 formation professionnelle tout au long de la vie et d'apprentissage.
 
 Il établit tous les ans un rapport sur l'utilisation des ressources financières soit collectées, soit affectées à la
-formation professionnelle tout au long de la vie ainsi qu'à l'apprentissage. Il assure ainsi un contr<cb>le régulier de
-l'emploi de ces fonds. Il établit tous les trois ans un rapport d'évaluation des politiques régionales d'apprentissage et de
-formation tout au long de la vie. Ces rapports sont transmis au Parlement, aux conseils régionaux et aux comités de
-coordination régionaux de l'emploi et de la formation professionnelle.
+formation professionnelle tout au long de la vie ainsi qu'à l'apprentissage. Il assure ainsi un contrôle régulier de l'emploi
+de ces fonds. Il établit tous les trois ans un rapport d'évaluation des politiques régionales d'apprentissage et de formation
+tout au long de la vie. Ces rapports sont transmis au Parlement, aux conseils régionaux et aux comités de coordination
+régionaux de l'emploi et de la formation professionnelle.
 
 Il est composé de représentants élus des conseils régionaux, de représentants de l'Etat et du Parlement et de représentants
 des organisations professionnelles et syndicales intéressées. Il comprend en outre, des personnes qualifiées en matière de
 formation professionnelle.
 
-Les conditions de nomination des membres du conseil et l'exercice de ses missions, notamment de contr<cb>le, ainsi que ses
+Les conditions de nomination des membres du conseil et l'exercice de ses missions, notamment de contrôle, ainsi que ses
 modalités de fonctionnement et de compte rendu de son activité, sont fixées par décret.
 
-Sont institués des comités de coordination régionaux de l'emploi et de la formation professionnelle et des comités
-départementaux de l'emploi.
+Sont institués des comités de coordination régionaux de l'emploi et de la formation professionnelle.
 
 Dans chacune des régions d'outre-mer, le comité de coordination régional de l'emploi et de la formation professionnelle
-exerce l'ensemble des attributions dévolues au comité de coordination régional et au comité départemental de l'emploi.
+exerce l'ensemble des attributions dévolues au comité de coordination régional.
 
 Le comité de coordination régional a pour mission de favoriser la concertation entre les divers acteurs afin d'assurer une
 meilleure coordination des politiques de formation professionnelle et d'emploi. Il est notamment chargé des fonctions de
@@ -7464,7 +7464,7 @@ présentent chaque année au comité un rapport sur l'affectation des sommes ain
 
 Dans la collectivité locale de Saint-Pierre-et-Miquelon, le comité de coordination de l'emploi et de la formation
 professionnelle exerce l'ensemble des attributions dévolues au comité de coordination régional de l'emploi et de la formation
-professionnelle et au comité départemental de l'emploi et de la formation professionnelle.
+professionnelle.
 
 Dans des conditions définies par décret, les comités de coordination régionaux de l'emploi et de la formation professionnelle
 sont consultés sur les programmes et les moyens mis en oeuvre dans chaque région par l'Agence nationale pour l'emploi et par
@@ -7484,26 +7484,13 @@ Dans les régions d'outre-mer, les conventions tripartites mentionnées à l'ali
 lesquelles l'Association nationale pour la formation professionnelle des adultes apporte un concours technique aux
 interventions des associations régionales pour la formation professionnelle des adultes.
 
-Les comités départementaux de l'emploi comprennent des représentants élus des collectivités territoriales et les
-parlementaires du département. Ces comités se réunissent au moins une fois par an sous la présidence du préfet du département
-qui, à cette occasion, présente le bilan de la politique de l'emploi et de la formation professionnelle dans le département.
-
-Les membres non fonctionnaires des comités visés au troisième alinéa bénéficient pendant les heures qu'ils consacrent à leur
-mission d'une rémunération, dans le cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de leurs frais
-de déplacement.
-
 Les modalités d'organisation et de fonctionnement des comités mentionnés aux alinéas précédents sont déterminées par décret."
 
-"Art. L. 910-2. -  (article abrogé).
-
-</cb></cb>
+"Art. L. 910-2. - (article abrogé).
 
 **Nota:**
 
-Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : Ces dispositions sont applicables à compter de la date de publication du
-décret d'application prévu au quatrième alinéa de l'article L910-1 du code du travail.
-
-Ce décret est le décret n° 2005-180 du 24 février 2005 publié le 26 février 2005.
+La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30 art. 3.
 
 **Liens relatifs à cet article**
 
@@ -7514,7 +7501,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V) JORF 5 mai 2004 en vigueur le 26 février 2005
+  - Ordonnance 2004-637 2004-07-01 ar. 19 II JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+  - Loi n°2004-809 du 13 août 2004 - art. 14 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 _Cite_:
 
@@ -11415,13 +11403,13 @@ A cette fin, une concertation permanente est organisée entre l'Etat, les compag
 chambres d'agriculture, les organisations professionnelles d'employeurs et de salariés, les organisations familiales et les
 représentants de l'enseignement.
 
-Au niveau régional, cette concertation est réalisée au sein des comités de coordination régionaux de l'emploi et de la
+Au niveau régional, cette concertation est réalisée au sein des comités régionaux de coordination de l'emploi et de la
 formation professionnelle, ainsi que, pour les formations assurées par les établissements d'enseignement supérieur, dans le
 cadre des conseils académiques de l'éducation nationale.
 
 **Nota:**
 
-NOTA : La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
+La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -11438,7 +11426,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-  - Loi n°2004-809 2004-08-13 art. 78 6° JORF 17 août 2004 en  vigueur le 1er janvier 2005
 
 _Cité par_:
 
@@ -20796,16 +20783,12 @@ d'internes en médecine de telle façon que tous les étudiants ayant validé le
 entreprendre un troisième cycle, et en fixent la répartition selon des modalités prévues par décret en Conseil d'Etat.
 
 La liste des services et des départements formateurs et la répartition des postes d'internes dans les services et
-départements sont arrêtés par le représentant de l'Etat dans la région après avis d'une commission dont la composition et le
-fonctionnement sont fixés par décret. Un décret en Conseil d'Etat fixe les conditions d'attribution des postes d'internes aux
-élèves médecins des écoles du service de santé des armées.
+départements sont arrêtés par le représentant de l'Etat dans la région. Un décret en Conseil d'Etat fixe les conditions
+d'attribution des postes d'internes aux élèves médecins des écoles du service de santé des armées.
 
-Pour évaluer les besoins de santé de la population, les ministres chargés des universités et de la santé consultent des
-commissions régionales et une commission nationale. Leur composition, leur rôle et leurs modalités de fonctionnement sont
-fixés par décret en Conseil d'Etat.
+**Nota:**
 
-La composition des commissions régionales assure la parité entre l'ensemble des professionnels de santé et les autres
-représentants.
+La date d'entrée en vigueur de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727 du 30 juin 2005, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -20826,7 +20809,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
+  - Ordonnance 2004-637 2004-07-01 art. 26 I, II JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 26 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+
+_Abrogé par_:
+
+  - Loi n°2009-879 du 21 juillet 2009 - art. 43
 
 
 ###### Article L632-11
@@ -21048,15 +21036,15 @@ d'interne en pharmacie mis au concours, d'une part, dans chaque formation propre
 formation commune à la pharmacie et à la médecine.
 
 La liste des services formateurs et la répartition des postes d'interne dans les services sont arrêtées par le représentant
-de l'Etat dans la région, après avis d'une commission dont la composition et le fonctionnement sont fixés par décret.
-
-Pour évaluer les besoins de la population, les ministres chargés de l'enseignement supérieur et de la santé consultent des
-commissions régionales et une commission nationale. Leur composition, leur rôle et leurs modalités de fonctionnement sont
-fixés par décret en Conseil d'Etat.
+de l'Etat dans la région.
 
 En ce qui concerne les formations accessibles à la fois aux internes en médecine, aux internes en pharmacie et aux étudiants
 en sciences vétérinaires, les postes offerts sont affectés dans des services dirigés par des médecins, des pharmaciens ou des
 vétérinaires.
+
+**Nota:**
+
+La date de vigueur de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727 du 30 juin 2005, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -21076,6 +21064,11 @@ _Cité par_:
   - Code de l'éducation - art. L633-2 (V)
   - Code de l'éducation - art. R633-26 (V)
   - Code de la santé publique - art. L4221-12 (V)
+
+_Modifié par_:
+
+  - Ordonnance 2004-637 2004-07-01 art. 26 III, IV JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 26 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 
 ###### Article L633-4
@@ -29750,12 +29743,15 @@ du travail, ci-après reproduites :
 
 " Art. L. 116-5. - Les membres du personnel de direction, d'enseignement et d'encadrement des centres de formation
 d'apprentis devront posséder des qualifications définies selon des règles fixées par le décret prévu à l'article L. 119-4.
+Les personnels dispensant des enseignements techniques et pratiques sont tenus, dans des conditions et selon des modalités
+définies par décret, d'effectuer périodiquement des stages pratiques en entreprise.
 
 Les personnels mentionnés à l'alinéa ci-dessus, déjà en fonction dans les cours professionnels ou organismes de formation
-d'apprentis publics ou privés existants, qui ne satisfont pas aux règles définies ci-dessus mais aux qualifications exigées
-avant le 1er juillet 1972 sont admis à exercer leurs fonctions dans les centres de formation issus des cours professionnels.
-Ce droit leur est conféré par le comité départemental de l'emploi, sous réserve, le cas échéant, d'avoir à accomplir un stage
-de recyclage et de perfectionnement pédagogique organisé sous le contrôle des ministères compétents.
+d'apprentis publics ou privés existants, qui ne satisferont pas aux règles définies ci-dessus mais aux qualifications exigées
+avant le 1er juillet 1972 seront admis à exercer leurs fonctions dans les centres de formation issus des cours
+professionnels. Ce droit leur sera conféré par le comité de coordination régional de l'emploi et de la formation
+profesionnelle, sous réserve, le cas échéant, d'avoir à accomplir un stage de recyclage et de perfectionnement pédagogique
+organisé sous le contrôle des ministères compétents.
 
 Des fonctionnaires et spécialement ceux des corps de l'enseignement public peuvent être détachés à temps plein dans des
 centres de formation d'apprentis. "
@@ -29764,12 +29760,16 @@ centres de formation d'apprentis. "
 par les organismes responsables des centres.
 
 Ils peuvent en outre être déférés par les autorités chargées d'exercer le contrôle technique et pédagogique de ces centres au
-comité départemental de l'emploi qui peut prononcer contre eux, sous réserve d'appel devant le conseil supérieur de
-l'éducation, le blâme, la suspension à temps, l'interdiction d'exercer des fonctions dans les centres de formation
-d'apprentis.
+comité de coordination régional de l'emploi et de la formation professionnelles qui peut prononcer contre eux, sous réserve
+d'appel devant le conseil supérieur de l'éducation, le blâme, la suspension à temps, l'interdiction d'exercer des fonctions
+dans les centres de formation d'apprentis.
 
 La procédure visée à l'alinéa précédent n'est applicable ni aux agents fonctionnaires de l'Etat, ni aux agents titulaires des
 collectivités territoriales, ni aux établissements publics. "
+
+**Nota:**
+
+La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -29780,7 +29780,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 _Cite_:
 
@@ -67202,9 +67202,287 @@ _Cite_:
   - Code de l'éducation - art. D337-149 (V)
 
 
-#### Chapitre VIII : Autres diplômes et titres.<a id=608></a>
+##### Section 7 : La formation d'apprenti junior<a id=608></a>
 
-##### Section 1 : Le titre professionnel.<a id=609></a>
+###### Article D337-161
+
+La formation d'apprenti junior définie à l'article L. 337-3 se déroule au cours des deux dernières années de la scolarité
+obligatoire mentionnée à l'article L. 131-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. L131-1
+  - Code de l'éducation - art. L337-3
+
+
+###### Article D337-162
+
+L'admission dans la formation d'apprenti junior est prononcée par le chef d'établissement du lycée professionnel ou le
+directeur du centre de formation d'apprentis dans lequel est ouverte la formation d'apprenti junior. Elle intervient à la
+rentrée de l'année scolaire suivante. Elle peut intervenir, par dérogation de l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale, pendant l'année scolaire en cours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+
+###### Article D337-163
+
+L'élève inscrit dans une formation d'apprenti junior dans un lycée professionnel ou un centre de formation d'apprentis
+continue d'être rattaché à son établissement d'origine pendant toute la durée de cette formation. Cet établissement est
+informé régulièrement du déroulement de la formation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 du 23 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+
+###### Article D337-164
+
+Pour tout élève admis en formation d'apprenti junior, un bilan des connaissances et des compétences acquises, notamment au
+regard du socle commun de connaissances et de compétences mentionné à l'article L. 122-1-1, est effectué à l'entrée au lycée
+professionnel ou au centre de formation d'apprentis. Ce bilan sert de base à l'élaboration du projet pédagogique personnalisé
+mentionné au deuxième alinéa de l'article L. 337-3.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 du 23 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. L122-1-1
+  - Code de l'éducation - art. L337-3
+
+
+###### Article D337-165
+
+Le projet pédagogique personnalisé définit, pour l'ensemble de la formation d'apprenti junior, les périodes de formation
+donnant lieu à des bilans d'étape.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+
+###### Article D337-166
+
+Le chef d'établissement du lycée professionnel ou le directeur du centre de formation d'apprentis dans lequel est ouverte la
+formation d'apprenti junior désigne au sein de l'équipe pédagogique un tuteur chargé de suivre l'apprenti junior durant sa
+formation.
+
+En coordination avec les autres membres de l'équipe pédagogique, le tuteur organise des entretiens avec l'apprenti junior
+afin de procéder à des évaluations régulières de la formation, assure la liaison avec son établissement d'origine et avec les
+entreprises qui l'accueillent en stage ou en apprentissage, recherche tout appui susceptible de l'aider à résoudre
+d'éventuelles difficultés liées à sa formation ou à sa vie personnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+_Cité par_:
+
+  - Code de l'éducation - art. D311-8 (V)
+
+
+###### Article D337-167
+
+Les stages en milieu professionnel effectués pendant le parcours d'initiation aux métiers sont des stages d'initiation tels
+que définis aux articles D. 331-11 et D. 331-12 du présent code, aux articles R. 715-1 et suivants du code rural, aux
+articles 111 et 114 du code du travail maritime ou par le décret n° 2006-534 du 10 mai 2006 relatif à la protection des
+jeunes âgés de moins de dix-huit ans embarqués sur les navires.
+
+Durant ces stages, l'apprenti junior est suivi par un tuteur. Le chef de l'entreprise où est effectué le stage peut assurer
+lui-même le tutorat ou désigner un tuteur parmi les salariés de l'entreprise, ayant au moins un an d'ancienneté dans celle-
+ci.
+
+Le nombre maximal d'apprentis juniors suivis par un même tuteur est fixé à deux.
+
+Lorsqu'un stage en milieu professionnel tel que défini à l'article L. 331-5 excède une durée de 20 jours de présence dans la
+même entreprise, y compris de manière discontinue, il donne lieu, à l'issue de cette période, au bénéfice de l'apprenti
+junior au versement par cette entreprise d'une gratification correspondant à 20 % du salaire minimum de croissance par heure
+d'activité, sans préjudice du remboursement éventuel par l'entreprise des frais de nourriture et de transport.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-534 2006-05-10
+  - Code de l'éducation - art. D331-11 (V)
+  - Code de l'éducation - art. D331-12 (V)
+  - Code de l'éducation - art. L331-5 (M)
+  - Code du travail 111, 114
+  - Code rural R715-1
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+
+###### Article D337-168
+
+A l'issue de chaque phase de formation, les éléments du socle commun de connaissances et de compétences acquis par l'apprenti
+junior sont validés et inscrits dans un livret d'apprenti junior.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 du 23 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+
+###### Article D337-169
+
+L'élève en parcours d'initiation aux métiers, avec l'accord de son représentant légal, peut signer un contrat d'apprentissage
+à partir de quinze ans si, au vu d'un bilan portant notamment sur les connaissances et les compétences acquises, il est jugé
+apte à poursuivre l'acquisition du socle commun de connaissances et de compétences par la voie de l'apprentissage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+
+###### Article D337-170
+
+Si l'élève en parcours d'initiation aux métiers n'est pas jugé apte à poursuivre l'acquisition du socle commun de
+connaissances et de compétences par la voie de l'apprentissage, il reprend sa scolarité dans les conditions définies à
+l'article D. 337-171 ou poursuit le parcours d'initiation aux métiers sous statut scolaire dans un lycée professionnel ou
+dans un centre de formation d'apprentis.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. D337-171
+
+
+###### Article D337-171
+
+Lorsque, en application du troisième alinéa de l'article L. 337-3, l'apprenti junior demande à mettre fin à sa formation pour
+reprendre sa scolarité dans un collège ou un établissement d'enseignement agricole ou maritime, il est procédé lors de son
+retour à un bilan approfondi au vu duquel il intègre la classe qui correspond au niveau de connaissances et de compétences
+qu'il a atteint.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+_Abrogé par_:
+
+  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+_Cité par_:
+
+  - Code de l'éducation - art. D337-170 (Ab)
+
+_Cite_:
+
+  - Code de l'éducation - art. L337-3
+
+
+#### Chapitre VIII : Autres diplômes et titres.<a id=609></a>
+
+##### Section 1 : Le titre professionnel.<a id=610></a>
 
 ###### Article R338-1
 
@@ -67833,9 +68111,9 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Le diplôme " un des meilleurs ouvriers de France "<a id=610></a>
+##### Section 2 : Le diplôme " un des meilleurs ouvriers de France "<a id=611></a>
 
-##### Sous-section 1 : Définition du diplôme.<a id=611></a>
+##### Sous-section 1 : Définition du diplôme.<a id=612></a>
 
 ###### Article D338-9
 
@@ -67906,7 +68184,7 @@ _Créé par_:
   - Décret n°2006-582 du 23 mai 2006, v. init.
 
 
-##### Sous-section 2 : Organisation.<a id=612></a>
+##### Sous-section 2 : Organisation.<a id=613></a>
 
 ###### Article D338-11
 
@@ -68072,7 +68350,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 3 : Les jurys.<a id=613></a>
+##### Sous-section 3 : Les jurys.<a id=614></a>
 
 ###### Article D338-19
 
@@ -68149,13 +68427,13 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre IV : L'enseignement agricole et maritime.<a id=614></a>
+### Titre IV : L'enseignement agricole et maritime.<a id=615></a>
 
-#### Chapitre Ier : L'enseignement agricole.<a id=615></a>
+#### Chapitre Ier : L'enseignement agricole.<a id=616></a>
 
-##### Section 1 : L'orientation des élèves<a id=616></a>
+##### Section 1 : L'orientation des élèves<a id=617></a>
 
-##### Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics.<a id=617></a>
+##### Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics.<a id=618></a>
 
 ###### Article D341-1
 
@@ -68680,7 +68958,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat.<a id=618></a>
+##### Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat.<a id=619></a>
 
 ###### Article D341-23
 
@@ -69078,7 +69356,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Les enseignements et les diplômes.<a id=619></a>
+##### Section 2 : Les enseignements et les diplômes.<a id=620></a>
 
 ###### Article D341-41
 
@@ -69201,9 +69479,9 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-#### Chapitre II : L'enseignement maritime.<a id=620></a>
+#### Chapitre II : L'enseignement maritime.<a id=621></a>
 
-##### Section 1 : La formation professionnelle maritime.<a id=621></a>
+##### Section 1 : La formation professionnelle maritime.<a id=622></a>
 
 ###### Article R342-1
 
@@ -69389,7 +69667,7 @@ _Abrogé par_:
   - Décret n°2019-640 du 25 juin 2019 - art. 14
 
 
-##### Section 2 : Les titres de formation professionnelle maritime.<a id=622></a>
+##### Section 2 : Les titres de formation professionnelle maritime.<a id=623></a>
 
 ###### Article R342-7
 
@@ -69444,11 +69722,11 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre V : Les enseignements pour les enfants et adolescents handicapés.<a id=623></a>
+### Titre V : Les enseignements pour les enfants et adolescents handicapés.<a id=624></a>
 
-#### Chapitre Ier : Scolarité.<a id=624></a>
+#### Chapitre Ier : Scolarité.<a id=625></a>
 
-##### Section 1 : Dispositions générales.<a id=625></a>
+##### Section 1 : Dispositions générales.<a id=626></a>
 
 ###### Article D351-1
 
@@ -69495,9 +69773,9 @@ _Cite_:
   - Code de l'action sociale et des familles L241-6, R241-24 à R241-34
 
 
-##### Section 2 : Le parcours de formation des élèves présentant un handicap<a id=626></a>
+##### Section 2 : Le parcours de formation des élèves présentant un handicap<a id=627></a>
 
-##### Sous-section 1 : Organisation de la scolarité.<a id=627></a>
+##### Sous-section 1 : Organisation de la scolarité.<a id=628></a>
 
 ###### Article D351-3
 
@@ -69741,7 +70019,7 @@ _Cite_:
   - Code de l'éducation - art. D351-5 (V)
 
 
-##### Sous-section 2 : Les équipes de suivi de la scolarisation.<a id=628></a>
+##### Sous-section 2 : Les équipes de suivi de la scolarisation.<a id=629></a>
 
 ###### Article D351-10
 
@@ -69966,7 +70244,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R241-34 (VT)
 
 
-##### Sous-section 3 : Les unités d'enseignement.<a id=629></a>
+##### Sous-section 3 : Les unités d'enseignement.<a id=630></a>
 
 ###### Article D351-17
 
@@ -70089,7 +70367,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-88 (V)
 
 
-##### Section 3 : Dispositions particulières en faveur des jeunes sourds.<a id=630></a>
+##### Section 3 : Dispositions particulières en faveur des jeunes sourds.<a id=631></a>
 
 ###### Article R351-21
 
@@ -70288,7 +70566,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-3 (M)
 
 
-##### Section 4 : Aménagement des examens et concours.<a id=631></a>
+##### Section 4 : Aménagement des examens et concours.<a id=632></a>
 
 ###### Article D351-27
 
@@ -70486,7 +70764,7 @@ _Cite_:
   - Code de l'éducation - art. D351-27
 
 
-##### Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur.<a id=632></a>
+##### Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur.<a id=633></a>
 
 ###### Article D351-33
 
@@ -70501,7 +70779,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-#### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.<a id=633></a>
+#### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.<a id=634></a>
 
 ###### Article R352-1
 
@@ -70515,11 +70793,11 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre VI : Les enseignements préparant aux professions artistiques et sportives.<a id=634></a>
+### Titre VI : Les enseignements préparant aux professions artistiques et sportives.<a id=635></a>
 
-#### Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.<a id=635></a>
+#### Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.<a id=636></a>
 
-##### Section 1 : Dispositions générales.<a id=636></a>
+##### Section 1 : Dispositions générales.<a id=637></a>
 
 ###### Article R361-1
 
@@ -70577,7 +70855,7 @@ _Cite_:
   - Code de l'éducation - art. R335-5 (V)
 
 
-##### Section 2 : L'enseignement du théâtre.<a id=637></a>
+##### Section 2 : L'enseignement du théâtre.<a id=638></a>
 
 ###### Article R361-3
 
@@ -70681,9 +70959,9 @@ _Abrogé par_:
   - Décret n°2015-1227 du 2 octobre 2015 - art. 1
 
 
-#### Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation.<a id=638></a>
+#### Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation.<a id=639></a>
 
-##### Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives.<a id=639></a>
+##### Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives.<a id=640></a>
 
 ###### Article R363-1
 
@@ -70713,7 +70991,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Les diplômes.<a id=640></a>
+##### Section 2 : Les diplômes.<a id=641></a>
 
 ###### Article D363-2
 
@@ -70775,9 +71053,9 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=641></a>
+### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=642></a>
 
-#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=642></a>
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=643></a>
 
 ###### Article D371-3
 
@@ -70984,7 +71262,7 @@ _Cite_:
   - Code de l'éducation - art. L311-3 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=643></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=644></a>
 
 ###### Article D372-3
 
@@ -71196,9 +71474,9 @@ _Cite_:
   - Code de l'éducation - art. L311-3 (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=644></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=645></a>
 
-##### Section 1 : Dispositions générales.<a id=645></a>
+##### Section 1 : Dispositions générales.<a id=646></a>
 
 ###### Article D373-2
 
@@ -71272,7 +71550,7 @@ _Cite_:
   - Code de l'éducation - art. R337-75 (V)
 
 
-##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française.<a id=646></a>
+##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française.<a id=647></a>
 
 ###### Article R373-3
 
@@ -71464,9 +71742,9 @@ _Cite_:
   - Code de l'éducation - art. R335-16 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=647></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=648></a>
 
-##### Section 1 : Dispositions générales.<a id=648></a>
+##### Section 1 : Dispositions générales.<a id=649></a>
 
 ###### Article D374-3
 
@@ -71685,7 +71963,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie.<a id=649></a>
+##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie.<a id=650></a>
 
 ###### Article R374-6
 
@@ -71876,9 +72154,9 @@ _Cite_:
   - Code de l'éducation - art. R335-16 (V)
 
 
-##### Section 3 : Le centre de documentation pédagogique<a id=650></a>
+##### Section 3 : Le centre de documentation pédagogique<a id=651></a>
 
-##### Sous-section 1 : Organisation et fonctionnement.<a id=651></a>
+##### Sous-section 1 : Organisation et fonctionnement.<a id=652></a>
 
 ###### Article R374-13
 
@@ -72113,7 +72391,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 2 : Régime financier.<a id=652></a>
+##### Sous-section 2 : Régime financier.<a id=653></a>
 
 ###### Article R374-20
 
