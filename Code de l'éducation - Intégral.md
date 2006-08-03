@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-07-29
+Version Consolidée au 2006-08-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -58850,33 +58850,33 @@ _Cité par_:
 
 ###### Article D334-4
 
-L'examen du baccalauréat comprend des épreuves obligatoires et des épreuves facultatives.
+L'examen du baccalauréat comprend des épreuves obligatoires et des épreuves facultatives. 
 
 Le ministre chargé de l'éducation peut prévoir qu'un enseignement obligatoire nouvellement créé fait l'objet d'une épreuve
-facultative pendant une durée qui ne peut excéder trois ans à compter de sa mise en place.
+facultative pendant une durée qui ne peut excéder trois ans à compter de sa mise en place. 
 
 Les épreuves portent sur les disciplines faisant partie des enseignements obligatoires ou des options du cycle terminal de la
-série concernée.
+série concernée. 
 
 Les épreuves sont réparties en deux groupes. Le premier groupe d'épreuves comprend l'ensemble des épreuves obligatoires et,
 le cas échéant, des épreuves facultatives. Le second groupe d'épreuves est constitué d'épreuves de contrôle portant sur les
-disciplines ayant fait l'objet d'épreuves obligatoires du premier groupe, anticipées ou non.
+disciplines ayant fait l'objet d'épreuves obligatoires du premier groupe, anticipées ou non. 
 
-Les candidats ne peuvent être inscrits à plus de deux épreuves facultatives correspondant aux options.
+Les candidats ne peuvent être inscrits à plus de deux épreuves facultatives correspondant aux options. 
 
 La liste, la nature, la durée, le coefficient des épreuves des différentes séries et les conditions dans lesquelles la note
 attribuée à certaines épreuves peut prendre en compte des résultats obtenus en cours d'année scolaire, sont définis par
-arrêté du ministre chargé de l'éducation.
+arrêté du ministre chargé de l'éducation. 
 
 En ce qui concerne l'épreuve d'éducation physique et sportive et certaines épreuves facultatives, la note résulte, pour les
 élèves de classe terminale des lycées publics et des lycées d'enseignement privés sous contrat, du contrôle en cours de
-formation prévu par l'article L. 331-1. Pour les autres candidats, le cas échéant, la note résulte d'un examen terminal.
+formation prévu par l'article L. 331-1. Pour les autres candidats, le cas échéant, la note résulte d'un examen terminal. 
 
-Le ministre chargé de l'éducation arrête la liste des langues que les candidats peuvent choisir à l'examen.
+Le ministre chargé de l'éducation arrête la liste des langues que les candidats peuvent choisir à l'examen. 
 
 L'inscription au baccalauréat impose aux candidats de subir la totalité des épreuves obligatoires sous réserve des
 dispositions prévues aux articles D. 334-6, D. 334-7, D. 334-12, D. 334-13, D. 334-14 et au dernier alinéa de l'article D.
-334-19.
+334-19 et sous réserve de dispositions particulières prévues par arrêté du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -58889,6 +58889,10 @@ _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+_Modifié par_:
+
+  - Décret n°2006-978 du 1 août 2006 - art. 1 () JORF 4 août 2006
+
 _Cité par_:
 
   - Arrêté du 30 mars 2018 (V)
@@ -58898,12 +58902,10 @@ _Cité par_:
 _Cite_:
 
   - Code de l'éducation - art. D334-12 (V)
-  - Code de l'éducation - art. D334-13 (M)
-  - Code de l'éducation - art. D334-14 (M)
+  - Code de l'éducation - art. D334-14 (V)
   - Code de l'éducation - art. D334-19 (V)
   - Code de l'éducation - art. D334-6 (V)
-  - Code de l'éducation - art. D334-7 (V)
-  - Code de l'éducation - art. L331-1 (M)
+  - Code de l'éducation - art. L331-1 (V)
 
 
 ###### Article D334-5
@@ -59007,6 +59009,11 @@ Après délibération du jury à l'issue du second groupe d'épreuves, sont déc
 l'ensemble des deux groupes d'épreuves est au moins égale à 10 sur 20. Les candidats admis à l'issue du second groupe
 d'épreuves ne peuvent obtenir une mention.
 
+Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
+et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
+pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
+candidat.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -59024,6 +59031,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2006-978 du 1 août 2006 - art. 2 () JORF 4 août 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L114 (V)
 
 
 ###### Article D334-9
@@ -59090,7 +59105,7 @@ _Cite_:
 
 ###### Article D334-11
 
-Les diplômes délivrés aux candidats admis à l'issue des épreuves, sous réserve des dispositions du dernier alinéa de
+Les diplômes délivrés aux candidats admis à l'issue des épreuves, sous réserve des dispositions du sixième alinéa de
 l'article D. 334-8 et de l'article D. 334-14, portent les mentions :
 
 1° Assez bien, quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ;
@@ -59113,6 +59128,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2006-978 du 1 août 2006 - art. 3 () JORF 4 août 2006
 
 _Cité par_:
 
@@ -59153,7 +59172,8 @@ _Cité par_:
 
 ###### Article D334-13
 
-Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi, peuvent
+Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi, ainsi que
+les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports peuvent
 conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la
 première session à laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au
 présent alinéa, le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues. Ils ne subissent alors que les autres
@@ -59184,6 +59204,10 @@ _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+_Modifié par_:
+
+  - Décret n°2006-978 du 1 août 2006 - art. 4 () JORF 4 août 2006
+
 _Cité par_:
 
   - Arrêté du 30 novembre 2011 - art. 2 (V)
@@ -59195,12 +59219,16 @@ _Cité par_:
 
 ###### Article D334-14
 
-Les dispositions des articles D. 334-12 et D. 334-13 s'appliquent :
+Les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
+peuvent conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant
+la première session à laquelle ils se sont présentés, le bénéfice des notes qu'ils ont obtenues. Ils ne subissent alors que
+les autres épreuves.
 
-a) Aux candidats scolarisés handicapés physiques moteurs ou sensoriels et aux candidats atteints de maladie grave, dans des
-conditions fixées par arrêté du ministre chargé de l'éducation ;
+Les dispositions des deuxième et troisième alinéas de l'article D. 334-13 s'appliquent aux candidats mentionnés au premier
+alinéa du présent article.
 
-b) Aux candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports.
+Pour ces candidats, à chaque session, le calcul de la moyenne pour l'admission s'effectue sur la base des notes conservées et
+des notes obtenues aux épreuves nouvellement subies.
 
 **Liens relatifs à cet article**
 
@@ -59214,6 +59242,10 @@ _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+_Modifié par_:
+
+  - Décret n°2006-978 du 1 août 2006 - art. 5 () JORF 4 août 2006
+
 _Cité par_:
 
   - Code de l'éducation - art. D334-11 (VD)
@@ -59222,8 +59254,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. D334-12 (V)
   - Code de l'éducation - art. D334-13 (M)
+  - Code de l'action sociale et des familles - art. L114 (V)
 
 
 ##### Section 2 : Organisation de l'examen.<a id=571></a>
