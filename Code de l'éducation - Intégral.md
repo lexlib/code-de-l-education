@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-08-04
+Version Consolidée au 2006-08-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -61178,24 +61178,25 @@ Le baccalauréat technologique comprend les séries suivantes :
 
 4° Série STG : sciences et technologies de gestion ;
 
-5° Série STAE : sciences et technologies de l'agronomie et de l'environnement ;
+5° Série STAV : sciences et technologies de l'agronomie et du vivant : agronomie - alimentation - environnement -
+territoires ;
 
-6° Série STPA : sciences et technologies du produit agroalimentaire ;
+6° Série " hôtellerie " ;
 
-7° Série " hôtellerie " ;
-
-8° Série " techniques de la musique et de la danse ".
+7° Série " techniques de la musique et de la danse ".
 
 Chacune de ces séries peut comprendre différentes spécialités et options. Celles relatives aux séries SMS, STI, STL, STG et "
 hôtellerie " sont fixées par arrêté du ministre chargé de l'éducation.
 
-Celles relatives aux séries STAE et STPA sont fixées par arrêté du ministre chargé de l'éducation et du ministre chargé de
-l'agriculture.
-
-Les dispositions des cinquième et dixième alinéas du présent article, relatives à la série STG, entrent en application à
+Les dispositions des cinquième et neuvième alinéas du présent article, relatives à la série STG, entrent en application à
 compter de la session 2007 de l'examen et prennent effet pour les épreuves anticipées de cette session, organisées en 2006.
 Elles remplacent, à compter de cette session et de ces épreuves anticipées, les dispositions relatives à la série STT :
 sciences et technologies tertiaires.
+
+Les dispositions du sixième alinéa (5°) du présent article, relatives à la série STAV, entrent en application à compter de la
+session 2008 de l'examen et prennent effet pour les épreuves anticipées de cette session, organisées en 2007. Elles
+remplacent, à compter de cette session et de ces épreuves anticipées, les dispositions relatives aux séries STAE : sciences
+et technologies de l'agronomie et de l'environnement et STPA : sciences et technologies du produit agroalimentaire.
 
 **Liens relatifs à cet article**
 
@@ -61214,37 +61215,58 @@ _Cité par_:
 
   - Arrêté du 31 mars 2015 - art. 3 (VD)
 
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 1 JORF 22 août 2006
+
 
 ##### Sous-section 1 : Conditions de délivrance.<a id=582></a>
 
 ###### Article D336-4
 
 L'examen du baccalauréat technologique comprend des épreuves obligatoires et des épreuves facultatives. Les épreuves portent
-sur les matières d'enseignements obligatoires ou d'options du cycle terminal de la série concernée.
+sur les matières d'enseignements obligatoires ou d'options du cycle terminal de la série concernée. 
 
 Les épreuves sont réparties en deux groupes. Le premier groupe d'épreuves comprend l'ensemble des épreuves obligatoires et,
 le cas échéant, des épreuves facultatives. Le second groupe d'épreuves est constitué d'épreuves de contrôle portant sur les
-disciplines ayant fait l'objet d'épreuves obligatoires du premier groupe, anticipées ou non.
+disciplines ayant fait l'objet d'épreuves obligatoires du premier groupe, anticipées ou non. 
 
-Les candidats ne peuvent être inscrits à plus de deux épreuves facultatives correspondant aux options.
+Les candidats ne peuvent être inscrits à plus de deux épreuves facultatives correspondant aux options. 
 
 La liste, la nature, la durée et le coefficient des épreuves des différentes séries sont fixés par arrêtés du ministre chargé
-de l'éducation ou, pour les séries STAE et STPA, par arrêté du ministre chargé de l'éducation et du ministre chargé de
-l'agriculture. Les conditions dans lesquelles la note attribuée à certaines épreuves peut prendre en compte des résultats
-obtenus en cours d'année scolaire sont définies par arrêté du ministre chargé de l'éducation ou, pour les séries STAE et
-STPA, par arrêté du ministre chargé de l'agriculture.
+de l'éducation ou, pour la série STAV, par arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture.
+Les conditions dans lesquelles la note attribuée à certaines épreuves peut prendre en compte des résultats obtenus en cours
+d'année scolaire sont définies par arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté du ministre
+chargé de l'agriculture. 
 
 En ce qui concerne l'épreuve d'éducation physique et sportive, la note résulte, pour les élèves des classes terminales des
 lycées d'enseignement public et des lycées d'enseignement privé sous contrat, du contrôle en cours de formation prévu par
-l'article L. 331-1. Pour les autres candidats, la note résulte d'un examen terminal.
+l'article L. 331-1. Pour les autres candidats, la note résulte d'un examen terminal. 
 
 La liste des langues que les candidats peuvent choisir à l'examen est fixée par arrêté du ministre chargé de l'éducation ou,
-pour les séries STAE, STPA, par arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture.
+pour la série STAV, par arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture. 
 
 L'inscription au baccalauréat impose aux candidats de subir la totalité des épreuves obligatoires sous réserve des
-dispositions prévues aux articles D. 336-6, D. 336-7, D. 336-13 et D. 336-14 et au dernier alinéa de l'article D. 336-18.
+dispositions prévues aux articles D. 336-6, D. 336-7, D. 336-13 et D. 336-14 et au dernier alinéa de l'article D. 336-18 et
+sous réserve de dispositions particulières prévues par arrêté du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 30 mars 2018 (V)
+  - Code de l'éducation - art. D336-10 (VD)
+
+_Cite_:
+
+  - Code de l'éducation - art. D336-13 (V)
+  - Code de l'éducation - art. D336-18 (V)
+  - Code de l'éducation - art. D336-6 (V)
+  - Code de l'éducation - art. L331-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 2, art. 3 JORF 22 août 2006
 
 _Anciens textes_:
 
@@ -61255,35 +61277,24 @@ _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
-_Cité par_:
-
-  - Arrêté du 30 mars 2018 (V)
-  - Code de l'éducation - art. D336-10 (VD)
-
-_Cite_:
-
-  - Code de l'éducation - art. D336-13 (M)
-  - Code de l'éducation - art. D336-14 (M)
-  - Code de l'éducation - art. D336-18 (V)
-  - Code de l'éducation - art. D336-6 (V)
-  - Code de l'éducation - art. D336-7 (V)
-  - Code de l'éducation - art. L331-1 (M)
-
 
 ###### Article D336-5
 
 Les épreuves portent sur les programmes officiels applicables en classes terminales, celles relatives aux matières
 technologiques portent sur les programmes officiels des classes de première et terminales. La liste des épreuves qui doivent
-être subies par anticipation est fixée par arrêté du ministre chargé de l'éducation ou, pour les séries STAE et STPA, par
-arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture. Elles portent sur les programmes des classes
-de première. Les résultats obtenus à ces épreuves sont pris en compte avec l'ensemble des notes des épreuves de l'examen subi
+être subies par anticipation est fixée par arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté du
+ministre chargé de l'éducation et du ministre chargé de l'agriculture. Elles portent sur les programmes des classes de
+première. Les résultats obtenus à ces épreuves sont pris en compte avec l'ensemble des notes des épreuves de l'examen subi
 l'année suivante dont elles font partie intégrante.
 
-Un arrêté du ministre chargé de l'éducation ou, pour les séries STAE et STPA, un arrêté du ministre chargé de l'éducation et
-du ministre chargé de l'agriculture fixe les conditions dans lesquelles il peut être dérogé aux dispositions du présent
-article.
+Un arrêté du ministre chargé de l'éducation ou, pour la série STAV, un arrêté du ministre chargé de l'éducation et du
+ministre chargé de l'agriculture fixe les conditions dans lesquelles il peut être dérogé aux dispositions du présent article.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 2 JORF 22 août 2006
 
 _Anciens textes_:
 
@@ -61363,12 +61374,17 @@ attribués.
 Après délibération du jury à l'issue du premier groupe d'épreuves, les candidats ayant obtenu une note moyenne égale ou
 supérieure à 10 sont déclarés admis par le jury. Les candidats dont la note moyenne est inférieure à 8 sont déclarés
 ajournés. Ceux qui ont obtenu une note moyenne au moins égale à 8 et inférieure à 10 sont autorisés à se présenter au second
-groupe d'épreuves dans les conditions fixées par arrêté du ministre chargé de l'éducation ou, pour les séries STAE et STPA,
-par arrêté du ministre chargé de l'agriculture.
+groupe d'épreuves dans les conditions fixées par arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté
+du ministre chargé de l'agriculture.
 
 Après délibération du jury à l'issue du second groupe d'épreuves, sont déclarés admis les candidats dont la note moyenne pour
 l'ensemble des deux groupes d'épreuves est au moins égale à 10 sur 20. Les candidats admis à l'issue du second groupe
 d'épreuves ne peuvent obtenir une mention.
+
+Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
+et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
+pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
+candidat.
 
 **Liens relatifs à cet article**
 
@@ -61386,9 +61402,17 @@ _Cité par_:
   - Arrêté du 15 juillet 2013 - art. 4-1 (VD)
   - Code de l'éducation - art. D336-11 (VD)
 
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 2, art. 4 JORF 22 août 2006
+
 _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L114 (V)
 
 
 ###### Article D336-9
@@ -61417,19 +61441,19 @@ _Cité par_:
 
 ###### Article D336-10
 
-Les éléments d'appréciation dont dispose le jury du baccalauréat technologique sont :
+Les éléments d'appréciation dont dispose le jury du baccalauréat technologique sont : 
 
-1° Les notes obtenues par le candidat aux épreuves prévues à l'article D. 336-4 ;
+1° Les notes obtenues par le candidat aux épreuves prévues à l'article D. 336-4 ; 
 
 2° Pour certaines épreuves, les notes et les appréciations des professeurs portant sur les résultats obtenus en cours d'année
 scolaire accompagnées, le cas échéant, de travaux ou de comptes rendus de travaux réalisés par le candidat. Les modalités de
-cette disposition sont fixées par arrêté du ministre chargé de l'éducation ou, pour les séries STAE et STPA, par arrêté du
-ministre chargé de l'agriculture ;
+cette disposition sont fixées par arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté du ministre
+chargé de l'agriculture ; 
 
 3° Le livret scolaire qui peut être produit par le candidat et qui est constitué dans les conditions déterminées par arrêté
-du ministre chargé de l'éducation ou, pour les séries STAE et STPA, par arrêté du ministre chargé de l'agriculture.
+du ministre chargé de l'éducation ou, pour la série STAV, par arrêté du ministre chargé de l'agriculture. 
 
-Les notes définitives résultent de la délibération du jury.
+Les notes définitives résultent de la délibération du jury. 
 
 Aucun candidat ayant fourni un livret scolaire ne peut être ajourné sans que le jury ait examiné ce livret. La mention de cet
 examen est portée au livret scolaire sous la signature du président du jury.
@@ -61446,32 +61470,40 @@ _Cité par_:
   - Arrêté du 24 mars 1994 - art. 1 (V)
   - Arrêté du 8 février 2016 - art. 1 (V)
 
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 2 JORF 22 août 2006
+
 _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 _Cite_:
 
-  - Code de l'éducation - art. D336-4 (M)
+  - Code de l'éducation - art. D336-4 (V)
 
 
 ###### Article D336-11
 
 Les diplômes délivrés aux candidats admis à l'issue des épreuves du baccalauréat technologique portent, sous réserve des
-dispositions du dernier alinéa de l'article D. 336-8 et de l'article D. 336-13, les mentions :
+dispositions du sixième alinéa de l'article D. 336-8 et de l'article D. 336-13, les mentions : 
 
-1° Assez bien, quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ;
+1° Assez bien, quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ; 
 
-2° Bien, quand le candidat a obtenu une note moyenne au moins égale à 14 et inférieure à 16 ;
+2° Bien, quand le candidat a obtenu une note moyenne au moins égale à 14 et inférieure à 16 ; 
 
-3° Très bien, quand le candidat a obtenu une note moyenne au moins égale à 16.
+3° Très bien, quand le candidat a obtenu une note moyenne au moins égale à 16. 
 
 En application de modalités fixées par arrêté du ministre chargé de l'éducation, dans toutes les séries du baccalauréat, les
-diplômes délivrés aux candidats peuvent comporter l'indication :
+diplômes délivrés aux candidats peuvent comporter l'indication : 
 
 " section européenne " ou " section de langue orientale ".
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 5 JORF 22 août 2006
 
 _Anciens textes_:
 
@@ -61489,18 +61521,22 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. D336-13 (M)
-  - Code de l'éducation - art. D336-8 (M)
+  - Code de l'éducation - art. D336-13 (V)
+  - Code de l'éducation - art. D336-8 (V)
 
 
 ###### Article D336-12
 
 Les candidats ajournés reçoivent, s'ils ont obtenu pour l'ensemble des épreuves une note moyenne au moins égale à 8, un
 certificat de fin d'études technologiques secondaires. Ce certificat leur est délivré par le recteur de l'académie chargé de
-l'organisation de l'examen, selon des modalités fixées par arrêté du ministre chargé de l'éducation ou, pour les séries STAE
-et STPA, selon des modalités définies par arrêté du ministre chargé de l'agriculture.
+l'organisation de l'examen, selon des modalités fixées par arrêté du ministre chargé de l'éducation ou, pour la série STAV,
+selon des modalités définies par arrêté du ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 2 JORF 22 août 2006
 
 _Anciens textes_:
 
@@ -61518,7 +61554,8 @@ _Cité par_:
 
 ###### Article D336-13
 
-Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi peuvent
+Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi ainsi que
+les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports peuvent
 conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la
 première session à laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au
 présent alinéa, le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues. Ils ne subissent alors que les autres
@@ -61559,15 +61596,23 @@ _Cité par_:
   - Code de l'éducation - art. D336-14 (VD)
   - Code de l'éducation - art. D336-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 6 JORF 22 août 2006
+
 
 ###### Article D336-14
 
-Les dispositions des articles D. 336-12 et D. 336-13 s'appliquent :
+Les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
+peuvent conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant
+la première session à laquelle ils se sont présentés, le bénéfice des notes qu'ils ont obtenues. Ils ne subissent alors que
+les autres épreuves.
 
-1° Aux candidats scolarisés handicapés physiques moteurs ou sensoriels et aux candidats atteints de maladie grave dans des
-conditions fixées par arrêté du ministre chargé de l'éducation ;
+Les dispositions des deuxième et troisième alinéas de l'article D. 336-13 s'appliquent aux candidats mentionnés au premier
+alinéa du présent article.
 
-2° Aux candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports.
+Pour ces candidats, à chaque session, le calcul de la moyenne pour l'admission s'effectue sur la base des notes conservées et
+des notes obtenues aux épreuves nouvellement subies.
 
 **Liens relatifs à cet article**
 
@@ -61589,8 +61634,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. D336-12 (M)
   - Code de l'éducation - art. D336-13 (M)
+  - Code de l'action sociale et des familles - art. L114 (V)
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 7 JORF 22 août 2006
 
 
 ##### Sous-section 2 : Organisation de l'examen.<a id=583></a>
@@ -61784,11 +61833,15 @@ _Cité par_:
 
 ###### Article D336-21
 
-Pour les séries STAE et STPA, le ministre chargé de l'agriculture ou le directeur régional de l'agriculture et de la forêt
-sont substitués au ministre chargé de l'éducation ou au recteur en ce qui concerne les premier, deuxième et quatrième alinéas
-de l'article D. 336-15, les articles D. 336-17, D. 336-18 et D. 336-20.
+Pour la série STAV, le ministre chargé de l'agriculture ou le directeur régional de l'agriculture et de la forêt sont
+substitués au ministre chargé de l'éducation ou au recteur en ce qui concerne les premier, deuxième et quatrième alinéas de
+l'article D. 336-15, les articles D. 336-17, D. 336-18 et D. 336-20.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 2 JORF 22 août 2006
 
 _Anciens textes_:
 
@@ -61812,13 +61865,17 @@ _Cite_:
 
 Le diplôme du baccalauréat technologique est délivré par le recteur de l'académie chargée de l'organisation de l'examen.
 
-Pour les séries STAE et STPA, le diplôme est délivré conjointement par le recteur de l'académie et le directeur régional de
+Pour la série STAV, le diplôme est délivré conjointement par le recteur de l'académie et le directeur régional de
 l'agriculture et de la forêt.
 
 Quelles que soient la série et éventuellement la mention portées sur le diplôme, le grade de bachelier confère les mêmes
 droits.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 2 JORF 22 août 2006
 
 _Anciens textes_:
 
@@ -61988,6 +62045,11 @@ En ce qui concerne l'épreuve facultative, ne sont retenus que les points excéd
 pour l'admission à l'issue du premier ou du deuxième groupe d'épreuves ou pour l'attribution d'une mention à l'issue du
 premier groupe d'épreuves.
 
+Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
+et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
+pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
+candidat.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -62007,6 +62069,11 @@ _Cite_:
 
   - Code de l'éducation - art. D336-24 (V)
   - Code de l'éducation - art. L331-1 (M)
+  - Code de l'action sociale et des familles - art. L114 (V)
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 4 JORF 22 août 2006
 
 
 ###### Article D336-29
@@ -62100,15 +62167,17 @@ _Cité par_:
 
 Les candidats reçoivent, s'ils ont obtenu pour l'ensemble des épreuves une note moyenne au moins égale à 8, un certificat de
 fin d'études technologiques secondaires. Ce certificat leur est délivré par le recteur de l'académie dans laquelle a été subi
-l'examen suivant des modalités fixées par arrêté du ministre chargé de l'éducation.
+l'examen suivant des modalités fixées par arrêté du ministre chargé de l'éducation. 
 
 Les candidats qui ont échoué à l'examen peuvent conserver sur leur demande, dans la limite des cinq sessions suivant la
 première session à laquelle ils se sont présentés, le bénéfice des notes égales ou supérieures à 10 obtenues aux épreuves du
 premier groupe. Ils ne subissent alors que les autres épreuves. A chaque session, le calcul de la moyenne pour l'admission
-s'effectue sur la base des notes conservées et des notes obtenues aux épreuves nouvellement subies.
+s'effectue sur la base des notes conservées et des notes obtenues aux épreuves nouvellement subies. 
 
 Le renoncement à ce bénéfice est définitif et seules les notes obtenues ultérieurement sont prises en compte pour
-l'attribution du diplôme.
+l'attribution du diplôme. 
+
+Les dispositions de l'article D. 336-14 s'appliquent au baccalauréat technologique série " hôtellerie ".
 
 **Liens relatifs à cet article**
 
@@ -62120,6 +62189,18 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Abrogé par_:
+
+  - Décret n°2015-270 du 11 mars 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. D336-14
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 8 JORF 22 août 2006
 
 
 ###### Article D336-33
@@ -62377,7 +62458,16 @@ elles leur sont supérieures.
 A l'issue des épreuves du second groupe, sont déclarés admis les candidats dont la note moyenne pour l'ensemble des deux
 groupes d'épreuves est au moins égale à 10 sur 20.
 
+Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
+et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
+pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
+candidat.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 4 JORF 22 août 2006
 
 _Anciens textes_:
 
@@ -62390,6 +62480,7 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'éducation - art. L331-1 (M)
+  - Code de l'action sociale et des familles - art. L114 (V)
 
 
 ###### Article D336-41
@@ -62458,24 +62549,36 @@ _Cite_:
 Les candidats qui, pour une cause de force majeure dûment constatée, n'ont pu subir les épreuves de la session du
 baccalauréat technologique " techniques de la musique et de la danse " organisée à la fin de l'année scolaire peuvent, avec
 l'autorisation du recteur, subir des épreuves de remplacement organisées en septembre dans des centres interacadémiques
-désignés par décision ministérielle.
+désignés par décision ministérielle. 
 
 Si l'empêchement est motivé par une raison de santé, ils doivent fournir un certificat délivré par un médecin concourant à
-l'exercice des tâches médico-scolaires.
+l'exercice des tâches médico-scolaires. 
 
 Ces dispositions sont applicables aux candidats qui n'ont pu subir la totalité des épreuves obligatoires à la session
 organisée à la fin de l'année scolaire mais qui ont obtenu pour l'ensemble des épreuves subies une note moyenne au moins
 égale à 8 sur 20. Ces candidats subissent la totalité des épreuves de remplacement, à l'exception toutefois des candidats
-autorisés à subir les épreuves du second groupe qui subissent seulement les épreuves de ce deuxième groupe.
+autorisés à subir les épreuves du second groupe qui subissent seulement les épreuves de ce deuxième groupe. 
 
 Entrent en ligne de compte, pour la détermination de la note moyenne des candidats, outre les notes qu'ils ont obtenues aux
 épreuves obligatoires, les notes éventuellement obtenues lors de la session normale à l'épreuve d'éducation physique et aux
-épreuves facultatives. La session de remplacement ne comporte pas d'épreuves d'éducation physique ni d'épreuves facultatives.
+épreuves facultatives. La session de remplacement ne comporte pas d'épreuves d'éducation physique ni d'épreuves
+facultatives. 
 
 Les mesures prévues ci-dessus s'appliquent aux épreuves anticipées. Les candidats ayant subi une partie des épreuves
-anticipées subissent de nouveau toutes ces épreuves, la ou les notes obtenues à la session normale étant annulées.
+anticipées subissent de nouveau toutes ces épreuves, la ou les notes obtenues à la session normale étant annulées. 
+
+Les dispositions de l'article D. 336-14 s'appliquent au baccalauréat technologique série " techniques de la musique et de la
+danse ".
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'éducation - art. D336-14 (V)
+
+_Modifié par_:
+
+  - Décret n°2006-08-21 art. 9 JORF 22 août 2006
 
 _Anciens textes_:
 
@@ -69938,6 +70041,13 @@ formation aux candidats des établissements agricoles publics et privés ayant p
 articles L. 813-1 et L. 813-3 du code rural, scolarisés dans des classes de troisième définies par arrêté ou ayant préparé le
 brevet par la voie de la formation continue.
 
+Est également prise en compte, pour l'attribution du diplôme national du brevet, une note de vie scolaire qui est la moyenne
+des notes de vie scolaire obtenues chaque trimestre de la classe de troisième.
+
+**Nota:**
+
+Les dispositions du décret n° 2006-1031 du 21 août 2006 entrent en vigueur à compter de l'année scolaire 2006-2007.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -69951,6 +70061,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2006-1031 du 21 août 2006 - art. 1 () JORF 22 août 2006
 
 _Cité par_:
 
@@ -70015,6 +70129,38 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'éducation - art. D341-41 (V)
+
+
+###### Article D341-46
+
+Une note de vie scolaire est attribuée aux élèves des classes de quatrième et de troisième des établissements d'enseignement
+relevant du ministère de l'agriculture.
+
+Cette note prend en compte l'assiduité de l'élève et son respect des dispositions du règlement intérieur. Elle prend
+également en compte sa participation à la vie de l'établissement et aux activités organisées ou reconnues par
+l'établissement. Elle est attribuée par le chef d'établissement à partir des propositions formulées par le conseiller
+principal d'éducation ou le responsable de l'équipe d'éducation et de surveillance et l'ensemble de l'équipe pédagogique.
+
+Un arrêté du ministre de l'agriculture précise, en tant que de besoin, les conditions d'attribution de la note de vie
+scolaire.
+
+**Nota:**
+
+Les dispositions du décret n° 2006-1031 du 21 août 2006 entrent en vigueur à compter de l'année scolaire 2006-2007.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1031 du 21 août 2006 - art. 2 () JORF 22 août 2006
+
+_Abrogé par_:
+
+  - Décret n°2014-29 du 14 janvier 2014 - art. 1
 
 
 ###### Article R341-40
