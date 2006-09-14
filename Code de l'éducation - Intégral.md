@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-09-02
+Version Consolidée au 2006-09-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -363,8 +363,8 @@ Version Consolidée au 2006-09-02
           - [Section 2 : Sanctions aux manquements relatifs à l'obligation scolaire (art. R131-17 à R131-19)](#360)
             - [Sous-section 1 : Sanctions disciplinaires. (art. R131-17)](#361)
             - [Sous-section 2 : Sanctions pénales. (art. R131-18 à R131-19)](#362)
-      - [Titre IV : La laïcité de l'enseignement public. (art. R*141-1 à R*141-8)](#363)
-        - [Chapitre unique. (art. R*141-1 à R*141-8)](#364)
+      - [Titre IV : La laïcité de l'enseignement public. (art. R141-1 à R141-8)](#363)
+        - [Chapitre unique. (art. R141-1 à R141-8)](#364)
       - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D161-1 à D164-1)](#365)
         - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D161-1)](#366)
         - [Chapitre II : Dispositions applicables à Mayotte. (art. D162-1)](#367)
@@ -16028,13 +16028,9 @@ _Codifié par_:
 
 ###### Article L442-18
 
-Des décrets pris en conseil des ministres, le Conseil d'Etat entendu, fixent les mesures nécessaires à l'application des
-articles L. 141-2, L. 151-1, L. 442-1, L. 442-2, L. 442-4, L. 442-5, L. 442-12, L. 442-15, L. 914-1 et L. 914-2.
-
-**Nota:**
-
-NOTA : Décision du Conseil constitutionnel 2006-204 L du 15 juin 2006 art. 1 : les mots "en conseil des ministres" figurant à
-l'article L. 442-18 du code de l'éducation ont le caractère réglementaire.
+Des décrets en Conseil d'Etat fixent les mesures nécessaires à l'application des articles L. 141-2, L. 151-1, L. 442-1, L.
+442-2, L. 442-4, L. 442-5, 
+L. 442-12, L. 442-15, L. 914-1 et L. 914-2.
 
 **Liens relatifs à cet article**
 
@@ -16047,6 +16043,10 @@ _Codifié par_:
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+_Modifié par_:
+
+  - Décret n°2006-1149 du 14 septembre 2006 - art. 1 () JORF 15 septembre 2006
+
 _Cite_:
 
   - Code de l'éducation - art. L141-2 (V)
@@ -16054,11 +16054,8 @@ _Cite_:
   - Code de l'éducation - art. L442-1 (V)
   - Code de l'éducation - art. L442-12 (V)
   - Code de l'éducation - art. L442-15 (V)
-  - Code de l'éducation - art. L442-2 (M)
   - Code de l'éducation - art. L442-4 (V)
-  - Code de l'éducation - art. L442-5 (M)
-  - Code de l'éducation - art. L914-1 (M)
-  - Code de l'éducation - art. L914-2 (V)
+  - Code de l'éducation - art. L914-1 (V)
 
 _Cité par_:
 
@@ -34273,7 +34270,7 @@ _Cité par_:
 
 #### Chapitre unique.<a id=364></a>
 
-###### Article R*141-1
+###### Article R141-1
 
 Dans les écoles élémentaires publiques, il n'est pas prévu d'aumônerie. L'instruction religieuse est donnée, si les parents
 le désirent, à l'extérieur des locaux et en dehors des heures de classe, dans le respect des dispositions des articles L.
@@ -34289,6 +34286,10 @@ _Codifié par_:
 
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
+_Modifié par_:
+
+  - Décret n°2006-1149 du 14 septembre 2006 - art. 2 (V) JORF 15 septembre 2006
+
 _Cité par_:
 
   - Décret n°2006-1149 du 14 septembre 2006 - art. 2 (V)
@@ -34298,10 +34299,9 @@ _Cité par_:
 _Cite_:
 
   - Code de l'éducation - art. L141-3 (V)
-  - Code de l'éducation - art. L141-4 (V)
 
 
-###### Article R*141-2
+###### Article R141-2
 
 Dans les établissements publics d'enseignement comportant un internat, une aumônerie est instituée à la demande de parents
 d'élèves.
@@ -34316,13 +34316,17 @@ _Codifié par_:
 
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
+_Modifié par_:
+
+  - Décret n°2006-1149 du 14 septembre 2006 - art. 2 (V) JORF 15 septembre 2006
+
 _Cité par_:
 
   - Code de l'éducation - art. R141-3 (V)
   - Code de l'éducation - art. R141-5 (V)
 
 
-###### Article R*141-3
+###### Article R141-3
 
 L'instruction religieuse prévue à l'article R. 141-2 est donnée par les aumôniers et ministres des différents cultes dans
 l'intérieur des établissements.
@@ -34337,16 +34341,20 @@ _Codifié par_:
 
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
+_Modifié par_:
+
+  - Décret n°2006-1149 du 14 septembre 2006 - art. 2 (V) JORF 15 septembre 2006
+
 _Cite_:
 
-  - Code de l'éducation - art. R*141-2 (M)
+  - Code de l'éducation - art. R141-2 (V)
 
 _Cité par_:
 
   - Code de l'éducation - art. R141-5 (V)
 
 
-###### Article R*141-4
+###### Article R141-4
 
 Les lycées, collèges, et généralement tous établissements publics d'enseignement du niveau du second degré ne recevant pas
 d'internes et non encore pourvus d'un service d'aumônerie peuvent en être dotés, à la demande de parents d'élèves. La
@@ -34366,10 +34374,14 @@ _Codifié par_:
 
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
+_Modifié par_:
 
-###### Article R*141-5
+  - Décret n°2006-1149 du 14 septembre 2006 - art. 2 (V) JORF 15 septembre 2006
 
-Dans les cas prévus aux R.* 141-2, R. 141-3 et R. 141-4, l'instruction religieuse est donnée par les aumôniers aux heures
+
+###### Article R141-5
+
+Dans les cas prévus aux R. * 141-2, R. 141-3 et R. 141-4, l'instruction religieuse est donnée par les aumôniers aux heures
 laissées libres par l'horaire des cours et leçons, suivant un emploi du temps dressé par le chef de l'établissement.
 
 **Liens relatifs à cet article**
@@ -34382,8 +34394,17 @@ _Codifié par_:
 
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
+_Modifié par_:
 
-###### Article R*141-6
+  - Décret n°2006-1149 du 14 septembre 2006 - art. 2 (V) JORF 15 septembre 2006
+
+_Cite_:
+
+  - Code de l'éducation - art. R141-2 (V)
+  - Code de l'éducation - art. R141-3 (V)
+
+
+###### Article R141-6
 
 Les aumôniers sont proposés à l'agrément du recteur par les autorités des différents cultes.
 
@@ -34400,13 +34421,21 @@ _Codifié par_:
 
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
+_Modifié par_:
 
-###### Article R*141-7
+  - Décret n°2006-1149 du 14 septembre 2006 - art. 2 (V) JORF 15 septembre 2006
+
+
+###### Article R141-7
 
 Les frais d'aumônerie sont à la charge des familles, sous réserve de l'application des dispositions de l'article 2 de la loi
 du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi du 9 décembre 1905 concernant la séparation... - art. 2 (V)
 
 _Anciens textes_:
 
@@ -34416,12 +34445,12 @@ _Codifié par_:
 
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
-_Cite_:
+_Modifié par_:
 
-  - Loi n°1905-12-09 art. 2
+  - Décret n°2006-1149 du 14 septembre 2006 - art. 2 (V) JORF 15 septembre 2006
 
 
-###### Article R*141-8
+###### Article R141-8
 
 Les articles R. 141-1 à R. 141-7 ne sont pas applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
 
@@ -34435,9 +34464,13 @@ _Codifié par_:
 
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
 
+_Modifié par_:
+
+  - Décret n°2006-1149 du 14 septembre 2006 - art. 2 (V) JORF 15 septembre 2006
+
 _Cite_:
 
-  - Code de l'éducation R141-1 à R141-7
+  - Code de l'éducation - art. R141-1 (V)
 
 
 ### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=365></a>
