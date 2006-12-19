@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-11-04
+Version Consolidée au 2006-12-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -552,7 +552,7 @@ Version Consolidée au 2006-11-04
         - [Chapitre unique (art. D321-1 à D321-27)](#549)
           - [Section 1 : Organisation et fonctionnement des écoles maternelles et élémentaires publiques. (art. D321-1 à D321-17)](#550)
           - [Section 2 : Organisation de l'enseignement dans les écoles maternelles et élémentaires privées sous contrat. (art. D321-18 à D321-27)](#551)
-      - [Titre III : Les enseignements du second degré. (art. D331-1 à D338-22)](#552)
+      - [Titre III : Les enseignements du second degré. (art. D331-1 à D338-32)](#552)
         - [Chapitre Ier : Dispositions communes aux enseignements du second degré. (art. D331-1 à D331-61)](#553)
           - [Section 2 : La formation en alternance (art. D331-1 à D331-22)](#554)
             - [Sous-section 1 : Accueil d'élèves mineurs de moins de seize ans en milieu professionnel. (art. D331-1 à D331-15)](#555)
@@ -616,51 +616,52 @@ Version Consolidée au 2006-11-04
             - [Sous-section 3 : Conditions de délivrance. (art. D337-147 à D337-153)](#613)
             - [Sous-section 4 : Organisation des examens. (art. D337-154 à D337-160)](#614)
           - [Section 7 : La formation d'apprenti junior (art. D337-161 à D337-171)](#615)
-        - [Chapitre VIII : Autres diplômes et titres. (art. R338-1 à D338-22)](#616)
+        - [Chapitre VIII : Autres diplômes et titres. (art. R338-1 à D338-32)](#616)
           - [Section 1 : Le titre professionnel. (art. R338-1 à R338-8)](#617)
           - [Section 2 : Le diplôme " un des meilleurs ouvriers de France " (art. D338-9 à D338-22)](#618)
             - [Sous-section 1 : Définition du diplôme. (art. D338-9 à R*338-10)](#619)
             - [Sous-section 2 : Organisation. (art. D338-11 à D338-18)](#620)
             - [Sous-section 3 : Les jurys. (art. D338-19 à D338-22)](#621)
-      - [Titre IV : L'enseignement agricole et maritime. (art. D341-1 à R342-8)](#622)
-        - [Chapitre Ier : L'enseignement agricole. (art. D341-1 à R341-40)](#623)
-          - [Section 1 : L'orientation des élèves (art. D341-1 à D341-39)](#624)
-            - [Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics. (art. D341-1 à D341-22)](#625)
-            - [Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat. (art. D341-23 à D341-39)](#626)
-          - [Section 2 : Les enseignements et les diplômes. (art. D341-41 à R341-40)](#627)
-        - [Chapitre II : L'enseignement maritime. (art. R342-1 à R342-8)](#628)
-          - [Section 1 : La formation professionnelle maritime. (art. R342-1 à R342-6)](#629)
-          - [Section 2 : Les titres de formation professionnelle maritime. (art. R342-7 à R342-8)](#630)
-      - [Titre V : Les enseignements pour les enfants et adolescents handicapés. (art. D351-1 à R352-1)](#631)
-        - [Chapitre Ier : Scolarité. (art. D351-1 à D351-33)](#632)
-          - [Section 1 : Dispositions générales. (art. D351-1 à R351-2)](#633)
-          - [Section 2 : Le parcours de formation des élèves présentant un handicap (art. D351-3 à D351-20)](#634)
-            - [Sous-section 1 : Organisation de la scolarité. (art. D351-3 à D351-9)](#635)
-            - [Sous-section 2 : Les équipes de suivi de la scolarisation. (art. D351-10 à D351-16)](#636)
-            - [Sous-section 3 : Les unités d'enseignement. (art. D351-17 à D351-20)](#637)
-          - [Section 3 : Dispositions particulières en faveur des jeunes sourds. (art. R351-21 à R351-26)](#638)
-          - [Section 4 : Aménagement des examens et concours. (art. D351-27 à D351-32)](#639)
-          - [Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur. (art. D351-33)](#640)
-        - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés. (art. R352-1)](#641)
-      - [Titre VI : Les enseignements préparant aux professions artistiques et sportives. (art. R361-1 à R363-3)](#642)
-        - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique. (art. R361-1 à R361-6)](#643)
-          - [Section 1 : Dispositions générales. (art. R361-1 à R361-2)](#644)
-          - [Section 2 : L'enseignement du théâtre. (art. R361-3 à R361-6)](#645)
-        - [Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation. (art. R363-1 à R363-3)](#646)
-          - [Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives. (art. R363-1)](#647)
-          - [Section 2 : Les diplômes. (art. D363-2 à R363-3)](#648)
-      - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D371-3 à R374-26)](#649)
-        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D371-3 à R371-2)](#650)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. D372-3 à R372-2)](#651)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D373-2 à R373-9)](#652)
-          - [Section 1 : Dispositions générales. (art. D373-2 à R373-1)](#653)
-          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française. (art. R373-3 à R373-9)](#654)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D374-3 à R374-26)](#655)
-          - [Section 1 : Dispositions générales. (art. D374-3 à R374-2)](#656)
-          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie. (art. R374-6 à R374-12)](#657)
-          - [Section 3 : Le centre de documentation pédagogique (art. R374-13 à R374-26)](#658)
-            - [Sous-section 1 : Organisation et fonctionnement. (art. R374-13 à R374-19)](#659)
-            - [Sous-section 2 : Régime financier. (art. R374-20 à R374-26)](#660)
+          - [Section 3 : Diplôme initial de langue française. (art. D338-23 à D338-32)](#622)
+      - [Titre IV : L'enseignement agricole et maritime. (art. D341-1 à R342-8)](#623)
+        - [Chapitre Ier : L'enseignement agricole. (art. D341-1 à R341-40)](#624)
+          - [Section 1 : L'orientation des élèves (art. D341-1 à D341-39)](#625)
+            - [Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics. (art. D341-1 à D341-22)](#626)
+            - [Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat. (art. D341-23 à D341-39)](#627)
+          - [Section 2 : Les enseignements et les diplômes. (art. D341-41 à R341-40)](#628)
+        - [Chapitre II : L'enseignement maritime. (art. R342-1 à R342-8)](#629)
+          - [Section 1 : La formation professionnelle maritime. (art. R342-1 à R342-6)](#630)
+          - [Section 2 : Les titres de formation professionnelle maritime. (art. R342-7 à R342-8)](#631)
+      - [Titre V : Les enseignements pour les enfants et adolescents handicapés. (art. D351-1 à R352-1)](#632)
+        - [Chapitre Ier : Scolarité. (art. D351-1 à D351-33)](#633)
+          - [Section 1 : Dispositions générales. (art. D351-1 à R351-2)](#634)
+          - [Section 2 : Le parcours de formation des élèves présentant un handicap (art. D351-3 à D351-20)](#635)
+            - [Sous-section 1 : Organisation de la scolarité. (art. D351-3 à D351-9)](#636)
+            - [Sous-section 2 : Les équipes de suivi de la scolarisation. (art. D351-10 à D351-16)](#637)
+            - [Sous-section 3 : Les unités d'enseignement. (art. D351-17 à D351-20)](#638)
+          - [Section 3 : Dispositions particulières en faveur des jeunes sourds. (art. R351-21 à R351-26)](#639)
+          - [Section 4 : Aménagement des examens et concours. (art. D351-27 à D351-32)](#640)
+          - [Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur. (art. D351-33)](#641)
+        - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés. (art. R352-1)](#642)
+      - [Titre VI : Les enseignements préparant aux professions artistiques et sportives. (art. R361-1 à R363-3)](#643)
+        - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique. (art. R361-1 à R361-6)](#644)
+          - [Section 1 : Dispositions générales. (art. R361-1 à R361-2)](#645)
+          - [Section 2 : L'enseignement du théâtre. (art. R361-3 à R361-6)](#646)
+        - [Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation. (art. R363-1 à R363-3)](#647)
+          - [Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives. (art. R363-1)](#648)
+          - [Section 2 : Les diplômes. (art. D363-2 à R363-3)](#649)
+      - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D371-3 à R374-26)](#650)
+        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D371-3 à R371-2)](#651)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. D372-3 à R372-2)](#652)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D373-2 à R373-9)](#653)
+          - [Section 1 : Dispositions générales. (art. D373-2 à R373-1)](#654)
+          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française. (art. R373-3 à R373-9)](#655)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D374-3 à R374-26)](#656)
+          - [Section 1 : Dispositions générales. (art. D374-3 à R374-2)](#657)
+          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie. (art. R374-6 à R374-12)](#658)
+          - [Section 3 : Le centre de documentation pédagogique (art. R374-13 à R374-26)](#659)
+            - [Sous-section 1 : Organisation et fonctionnement. (art. R374-13 à R374-19)](#660)
+            - [Sous-section 2 : Régime financier. (art. R374-20 à R374-26)](#661)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -69445,13 +69446,230 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre IV : L'enseignement agricole et maritime.<a id=622></a>
+##### Section 3 : Diplôme initial de langue française.<a id=622></a>
 
-#### Chapitre Ier : L'enseignement agricole.<a id=623></a>
+###### Article D338-23
 
-##### Section 1 : L'orientation des élèves<a id=624></a>
+Les personnes de nationalité étrangère et les Français non francophones, non titulaires d'un diplôme de l'enseignement
+secondaire français, peuvent se voir délivrer par le ministre chargé de l'éducation nationale un diplôme initial de langue
+française, qui leur est réservé.
 
-##### Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics.<a id=625></a>
+Le diplôme initial de langue française sanctionne un niveau de connaissance de la langue intitulé "niveau A1.1".
+
+Les épreuves conduisant à la délivrance du diplôme initial de langue française comprennent une épreuve de compréhension
+orale, une épreuve de compréhension écrite, une épreuve de production orale et une épreuve de production écrite. Le contenu
+de ces épreuves est précisé par un arrêté du ministre chargé de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-24 (M)
+  - Code de l'éducation - art. D371-6 (V)
+  - Code de l'éducation - art. D372-6 (V)
+  - Code de l'éducation - art. D373-2-1 (V)
+  - Code de l'éducation - art. D374-5-1 (V)
+
+
+###### Article D338-24
+
+Les candidats au diplôme initial de langue française doivent être âgés de seize ans au moins à la date de la première
+épreuve.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+
+###### Article D338-25
+
+Il est institué une commission nationale du diplôme initial de langue française.
+
+Elle est composée comme suit :
+
+- le directeur du Centre international d'études pédagogiques, président ;
+
+- le directeur général de l'enseignement scolaire ou son représentant ;
+
+- un inspecteur général de l'éducation nationale ou un inspecteur d'académie-inspecteur pédagogique régional, nommé par le
+ministre chargé de l'éducation nationale ;
+
+- une personnalité qualifiée dans le domaine du français langue étrangère, nommée par le ministre chargé de l'éducation
+nationale.
+
+La commission dispose d'un secrétariat permanent, assuré par le Centre international d'études pédagogiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 du 23 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2019-918 du 30 août 2019 - art. 11
+
+
+###### Article D338-26
+
+La Commission nationale du diplôme initial de langue française veille à l'organisation des examens. Elle détermine les
+modalités d'inscription et de déroulement des épreuves et fixe les critères de choix des sujets.
+
+La commission se réunit au moins une fois par an, sur convocation de son président. Elle peut aussi être convoquée par le
+ministre chargé de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+
+###### Article D338-27
+
+Le président de la Commission nationale du diplôme initial de langue française dresse la liste des centres d'examen, qui se
+situent en France ou à l'étranger.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+
+###### Article D338-28
+
+Les dates des sessions de l'examen conduisant à la délivrance du diplôme, communes pour l'ensemble des centres d'examen, sont
+arrêtées par le ministre chargé de l'éducation nationale sur proposition de la Commission nationale du diplôme initial de
+langue française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+
+###### Article D338-29
+
+Le jury du diplôme initial de langue française est composé, outre son président, d'au moins deux membres.
+
+Le président est nommé par le ministre chargé de l'éducation nationale parmi les personnels d'inspection du ministère de
+l'éducation nationale. Les autres membres du jury sont désignés parmi les personnels enseignants selon la même procédure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+
+###### Article D338-30
+
+Le président de la Commission nationale du diplôme initial de langue française désigne les examinateurs et les correcteurs
+des épreuves de l'examen. Les notes proposées par les examinateurs et les correcteurs sont transmises au jury.
+
+Les notes définitives obtenues aux épreuves du diplôme résultent de la délibération du jury.
+
+Les notes obtenues à une session ne peuvent être conservées pour une session ultérieure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+
+###### Article D338-31
+
+La délivrance du diplôme initial de langue française résulte de la délibération du jury, qui est souverain.
+
+Pour être déclarés admis, les candidats doivent avoir obtenu, à la fois, une note au moins égale à 35 sur 70 aux seules
+épreuves orales et une note finale égale ou supérieure à 50 sur 100 à l'ensemble des épreuves écrites et orales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+
+###### Article D338-32
+
+Les articles D. 351-28, D. 351-29 et D. 351-31 du code de l'éducation sont applicables aux épreuves menant au diplôme initial
+de langue française. L'article D. 351-27 leur est également applicable, à l'exception des 3° et 4°. 
+
+L'autorité administrative compétente est le président de la commission nationale du diplôme initial de langue française. Pour
+l'application des dispositions du premier alinéa de l'article D. 351-28, les candidats peuvent adresser leur demande à tout
+médecin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 1 () JORF 20 décembre 2006
+
+_Cite_:
+
+  - Code de l'éducation - art. D351-27 (V)
+  - Code de l'éducation - art. D351-28 (V)
+  - Code de l'éducation - art. D351-29 (V)
+  - Code de l'éducation - art. D351-31 (V)
+
+
+### Titre IV : L'enseignement agricole et maritime.<a id=623></a>
+
+#### Chapitre Ier : L'enseignement agricole.<a id=624></a>
+
+##### Section 1 : L'orientation des élèves<a id=625></a>
+
+##### Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics.<a id=626></a>
 
 ###### Article D341-1
 
@@ -69976,7 +70194,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat.<a id=626></a>
+##### Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat.<a id=627></a>
 
 ###### Article D341-23
 
@@ -70374,7 +70592,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Les enseignements et les diplômes.<a id=627></a>
+##### Section 2 : Les enseignements et les diplômes.<a id=628></a>
 
 ###### Article D341-41
 
@@ -70540,9 +70758,9 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-#### Chapitre II : L'enseignement maritime.<a id=628></a>
+#### Chapitre II : L'enseignement maritime.<a id=629></a>
 
-##### Section 1 : La formation professionnelle maritime.<a id=629></a>
+##### Section 1 : La formation professionnelle maritime.<a id=630></a>
 
 ###### Article R342-1
 
@@ -70728,7 +70946,7 @@ _Abrogé par_:
   - Décret n°2019-640 du 25 juin 2019 - art. 14
 
 
-##### Section 2 : Les titres de formation professionnelle maritime.<a id=630></a>
+##### Section 2 : Les titres de formation professionnelle maritime.<a id=631></a>
 
 ###### Article R342-7
 
@@ -70783,11 +71001,11 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre V : Les enseignements pour les enfants et adolescents handicapés.<a id=631></a>
+### Titre V : Les enseignements pour les enfants et adolescents handicapés.<a id=632></a>
 
-#### Chapitre Ier : Scolarité.<a id=632></a>
+#### Chapitre Ier : Scolarité.<a id=633></a>
 
-##### Section 1 : Dispositions générales.<a id=633></a>
+##### Section 1 : Dispositions générales.<a id=634></a>
 
 ###### Article D351-1
 
@@ -70834,9 +71052,9 @@ _Cite_:
   - Code de l'action sociale et des familles L241-6, R241-24 à R241-34
 
 
-##### Section 2 : Le parcours de formation des élèves présentant un handicap<a id=634></a>
+##### Section 2 : Le parcours de formation des élèves présentant un handicap<a id=635></a>
 
-##### Sous-section 1 : Organisation de la scolarité.<a id=635></a>
+##### Sous-section 1 : Organisation de la scolarité.<a id=636></a>
 
 ###### Article D351-3
 
@@ -71080,7 +71298,7 @@ _Cite_:
   - Code de l'éducation - art. D351-5 (V)
 
 
-##### Sous-section 2 : Les équipes de suivi de la scolarisation.<a id=636></a>
+##### Sous-section 2 : Les équipes de suivi de la scolarisation.<a id=637></a>
 
 ###### Article D351-10
 
@@ -71305,7 +71523,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R241-34 (VT)
 
 
-##### Sous-section 3 : Les unités d'enseignement.<a id=637></a>
+##### Sous-section 3 : Les unités d'enseignement.<a id=638></a>
 
 ###### Article D351-17
 
@@ -71427,7 +71645,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-88 (V)
 
 
-##### Section 3 : Dispositions particulières en faveur des jeunes sourds.<a id=638></a>
+##### Section 3 : Dispositions particulières en faveur des jeunes sourds.<a id=639></a>
 
 ###### Article R351-21
 
@@ -71626,7 +71844,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-3 (M)
 
 
-##### Section 4 : Aménagement des examens et concours.<a id=639></a>
+##### Section 4 : Aménagement des examens et concours.<a id=640></a>
 
 ###### Article D351-27
 
@@ -71821,7 +72039,7 @@ _Cite_:
   - Code de l'éducation - art. D351-27
 
 
-##### Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur.<a id=640></a>
+##### Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur.<a id=641></a>
 
 ###### Article D351-33
 
@@ -71836,7 +72054,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-#### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.<a id=641></a>
+#### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.<a id=642></a>
 
 ###### Article R352-1
 
@@ -71850,11 +72068,11 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre VI : Les enseignements préparant aux professions artistiques et sportives.<a id=642></a>
+### Titre VI : Les enseignements préparant aux professions artistiques et sportives.<a id=643></a>
 
-#### Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.<a id=643></a>
+#### Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.<a id=644></a>
 
-##### Section 1 : Dispositions générales.<a id=644></a>
+##### Section 1 : Dispositions générales.<a id=645></a>
 
 ###### Article R361-1
 
@@ -71912,7 +72130,7 @@ _Cite_:
   - Code de l'éducation - art. R335-5 (V)
 
 
-##### Section 2 : L'enseignement du théâtre.<a id=645></a>
+##### Section 2 : L'enseignement du théâtre.<a id=646></a>
 
 ###### Article R361-3
 
@@ -72016,9 +72234,9 @@ _Abrogé par_:
   - Décret n°2015-1227 du 2 octobre 2015 - art. 1
 
 
-#### Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation.<a id=646></a>
+#### Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation.<a id=647></a>
 
-##### Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives.<a id=647></a>
+##### Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives.<a id=648></a>
 
 ###### Article R363-1
 
@@ -72048,7 +72266,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Les diplômes.<a id=648></a>
+##### Section 2 : Les diplômes.<a id=649></a>
 
 ###### Article D363-2
 
@@ -72110,9 +72328,9 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=649></a>
+### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=650></a>
 
-#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=650></a>
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=651></a>
 
 ###### Article D371-3
 
@@ -72274,6 +72492,25 @@ _Cité par_:
   - Code de l'éducation - art. D371-3 (V)
 
 
+###### Article D371-6
+
+Les articles D. 338-23 à D. 338-31 sont applicables dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 2 () JORF 20 décembre 2006
+
+_Cite_:
+
+  - Code de l'éducation - art. D338-23 (V)
+
+
 ###### Article R371-1
 
 Les articles R. 337-15, R. 337-31, R. 337-45, R. 337-75 et R. 337-112 sont applicables dans les îles Wallis et Futuna sous
@@ -72318,7 +72555,7 @@ _Cite_:
   - Code de l'éducation - art. L311-3 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=651></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=652></a>
 
 ###### Article D372-3
 
@@ -72482,6 +72719,25 @@ _Cité par_:
   - Code de l'éducation - art. D372-3 (V)
 
 
+###### Article D372-6
+
+Les articles D. 338-23 à D. 338-31 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 2 () JORF 20 décembre 2006
+
+_Cite_:
+
+  - Code de l'éducation - art. D338-23 (V)
+
+
 ###### Article R372-1
 
 Les articles R. 312-2, R. 337-15, R. 337-31, R. 337-45, R. 337-75 et R. 337-112 sont applicables à Mayotte sous réserve des
@@ -72526,9 +72782,9 @@ _Cite_:
   - Code de l'éducation - art. L311-3 (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=652></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=653></a>
 
-##### Section 1 : Dispositions générales.<a id=653></a>
+##### Section 1 : Dispositions générales.<a id=654></a>
 
 ###### Article D373-2
 
@@ -72575,6 +72831,25 @@ _Cite_:
   - Code de l'éducation D332-16 à D332-29, D334-1 à D334-22, D336-1 à D336-58, D337-1 à D337-14, D337-16 à D337-30, D337-32 à D337-44, D337-46 à D337-74, D337-76 à D337-111, D337-113 à D337-160, D334-21, D336-20, D336-38
 
 
+###### Article D373-2-1
+
+Les articles D. 338-23 à D. 338-31 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 2 () JORF 20 décembre 2006
+
+_Cite_:
+
+  - Code de l'éducation - art. D338-23 (V)
+
+
 ###### Article R373-1
 
 Les articles R. 337-15, R. 337-31, R. 337-45, R. 337-75 et R. 337-112 sont applicables en Polynésie française sous réserve
@@ -72599,7 +72874,7 @@ _Cite_:
   - Code de l'éducation - art. R337-75 (V)
 
 
-##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française.<a id=654></a>
+##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française.<a id=655></a>
 
 ###### Article R373-3
 
@@ -72791,9 +73066,9 @@ _Cite_:
   - Code de l'éducation - art. R335-16 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=655></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=656></a>
 
-##### Section 1 : Dispositions générales.<a id=656></a>
+##### Section 1 : Dispositions générales.<a id=657></a>
 
 ###### Article D374-3
 
@@ -72965,6 +73240,25 @@ _Cité par_:
   - Code de l'éducation - art. D374-3 (V)
 
 
+###### Article D374-5-1
+
+Les articles D. 338-23 à D. 338-31 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2006-1626 du 19 décembre 2006 - art. 2 () JORF 20 décembre 2006
+
+_Cite_:
+
+  - Code de l'éducation - art. D338-23 (V)
+
+
 ###### Article R374-1
 
 Sont applicables en Nouvelle-Calédonie les articles R. 337-15, 
@@ -73011,7 +73305,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie.<a id=657></a>
+##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie.<a id=658></a>
 
 ###### Article R374-6
 
@@ -73202,9 +73496,9 @@ _Cite_:
   - Code de l'éducation - art. R335-16 (V)
 
 
-##### Section 3 : Le centre de documentation pédagogique<a id=658></a>
+##### Section 3 : Le centre de documentation pédagogique<a id=659></a>
 
-##### Sous-section 1 : Organisation et fonctionnement.<a id=659></a>
+##### Sous-section 1 : Organisation et fonctionnement.<a id=660></a>
 
 ###### Article R374-13
 
@@ -73439,7 +73733,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 2 : Régime financier.<a id=660></a>
+##### Sous-section 2 : Régime financier.<a id=661></a>
 
 ###### Article R374-20
 
