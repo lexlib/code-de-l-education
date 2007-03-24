@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-03-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -47025,10 +47025,10 @@ _Cite_:
 
 En Polynésie française, les compétences de l'Etat en matière d'enseignement des premier et second degrés ainsi que
 d'enseignement postérieur au baccalauréat dispensé dans les lycées sont exercées, dans les conditions fixées à l'article R.
-263-2, sous l'autorité du haut-commissaire de la République, par un vice-recteur.
+263-2, sous l'autorité du haut-commissaire de la République, par un vice-recteur. 
 
-Les fonctions de vice-recteur sont assurées par un fonctionnaire de catégorie A, titulaire d'un doctorat ou d'une
-habilitation à diriger des recherches, nommé par décret.
+Peuvent être nommés vice-recteur, par décret, les fonctionnaires nommés dans un emploi ou appartenant à un corps ou cadre
+d'emplois dont le sommet de l'échelonnement indiciaire atteint au moins le groupe hors échelle A.
 
 **Liens relatifs à cet article**
 
@@ -47040,6 +47040,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Décret n°2007-422 du 23 mars 2007 - art. 45 () JORF 25 mars 2007
 
 _Cité par_:
 
@@ -47308,10 +47312,10 @@ _Cite_:
 
 En Nouvelle-Calédonie, les compétences de l'Etat en matière d'enseignement des premier et second degrés ainsi que
 d'enseignement postérieur au baccalauréat dispensé dans les lycées sont exercées, dans les conditions fixées à l'article R.
-264-2, sous l'autorité du représentant de l'Etat, par un vice-recteur.
+264-2, sous l'autorité du représentant de l'Etat, par un vice-recteur. 
 
-Les fonctions de vice-recteur sont assurées par un fonctionnaire de catégorie A, titulaire d'un doctorat ou d'une
-habilitation à diriger des recherches, nommé par décret.
+Peuvent être nommés vice-recteur, par décret, les fonctionnaires nommés dans un emploi ou appartenant à un corps ou cadre
+d'emplois dont le sommet de l'échelonnement indiciaire atteint au moins le groupe hors échelle A.
 
 **Liens relatifs à cet article**
 
@@ -47323,6 +47327,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Décret n°2007-423 du 23 mars 2007 - art. 44 () JORF 25 mars 2007
 
 _Cité par_:
 
