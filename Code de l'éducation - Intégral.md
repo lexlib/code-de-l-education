@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-03-25
+Version Consolidée au 2007-03-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -572,7 +572,7 @@ Version Consolidée au 2007-03-25
         - [Chapitre IV : Dispositions propres aux enseignements conduisant au baccalauréat général. (art. D334-1 à D334-22)](#569)
           - [Section 1 : Conditions de délivrance. (art. D334-2 à D334-14)](#570)
           - [Section 2 : Organisation de l'examen. (art. D334-15 à D334-22)](#571)
-        - [Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles. (art. D335-1 à D335-47)](#572)
+        - [Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles. (art. D335-1 à R335-50)](#572)
           - [Section 1 : Le label de " lycée des métiers ". (art. D335-1 à D335-4)](#573)
           - [Section 2 : Validation des acquis de l'expérience et certification professionnelle (art. R335-5 à R335-32)](#574)
             - [Sous-section 1 : Validation des acquis de l'expérience pour la délivrance d'une certification professionnelle. (art. R335-5 à R335-11)](#575)
@@ -580,88 +580,89 @@ Version Consolidée au 2007-03-25
             - [Sous-section 3 : La Commission nationale de certification professionnelle. (art. R335-24 à R335-32)](#577)
           - [Section 3 : Les commissions professionnelles consultatives. (art. D335-33 à D335-37)](#578)
           - [Section 4 : Les conseillers de l'enseignement technologique. (art. D335-38 à D335-47)](#579)
-        - [Chapitre VI : Dispositions propres aux formations technologiques. (art. D336-1 à D336-58)](#580)
-          - [Section 1 : Dispositions générales relatives au baccalauréat technologique. (art. D336-1 à D336-22)](#581)
-            - [Sous-section 1 : Conditions de délivrance. (art. D336-4 à D336-14)](#582)
-            - [Sous-section 2 : Organisation de l'examen. (art. D336-15 à D336-22)](#583)
-          - [Section 2 : Dispositions particulières au baccalauréat technologique série " hôtellerie " (art. D336-23 à D336-38)](#584)
-          - [Section 3 : Dispositions particulières au baccalauréat technologique série " techniques de la musique et de la danse ". (art. D336-39 à D336-48)](#585)
-          - [Section 4 : Le brevet de technicien. (art. D336-49 à D336-58)](#586)
-        - [Chapitre VII : Dispositions propres aux formations professionnelles. (art. D337-1 à D337-171)](#587)
-          - [Section 1 : Le certificat d'aptitude professionnelle (art. D337-1 à D337-25)](#588)
-            - [Sous-section 1 : Dispositions générales. (art. D337-1 à D337-4)](#589)
-            - [Sous-section 2 : Voies d'accès au diplôme et conditions de délivrance. (art. D337-5 à R337-15)](#590)
-            - [Sous-section 3 : Organisation des examens. (art. D337-21 à D337-25)](#591)
-          - [Section 2 : Le brevet d'études professionnelles (art. D337-26 à D337-50)](#592)
-            - [Sous-section 1 : Dispositions générales. (art. D337-26 à D337-28)](#593)
-            - [Sous-section 2 : Conditions de candidature. (art. D337-29)](#594)
-            - [Sous-section 3 : Conditions de délivrance. (art. D337-30 à R337-31)](#595)
-            - [Sous-section 4 : Unités capitalisables. (art. D337-38 à D337-41)](#596)
-            - [Sous-section 5 : Organisation des examens. (art. D337-42 à R337-45)](#597)
-            - [Sous-section 6 : Le jury. (art. D337-46 à D337-50)](#598)
-          - [Section 3 : Le baccalauréat professionnel (art. D337-51 à D337-94)](#599)
-            - [Sous-section 1 : Définition du diplôme. (art. D337-51 à D337-54)](#600)
-            - [Sous-section 2 : Modalités de préparation. (art. D337-55 à D337-66)](#601)
-            - [Sous-section 3 : Conditions de délivrance. (art. D337-67 à R337-75)](#602)
-            - [Sous-section 4 : Organisation des examens. (art. D337-89 à D337-94)](#603)
-          - [Section 4 : Le brevet professionnel (art. D337-95 à D337-124)](#604)
-            - [Sous-section 1 : Dispositions générales. (art. D337-95 à D337-98)](#605)
-            - [Sous-section 2 : Modalités de préparation. (art. D337-99 à D337-104)](#606)
-            - [Sous-section 3 : Conditions de délivrance. (art. D337-105 à R337-112)](#607)
-            - [Sous-section 4 : Organisation des examens. (art. D337-119 à D337-124)](#608)
-          - [Section 5 : Le diplôme national du brevet des métiers d'art. (art. D337-125 à D337-138)](#609)
-          - [Section 6 : La mention complémentaire (art. D337-139 à D337-160)](#610)
-            - [Sous-section 1 : Définition du diplôme. (art. D337-139 à D337-141)](#611)
-            - [Sous-section 2 : Modalités de préparation. (art. D337-142 à D337-146)](#612)
-            - [Sous-section 3 : Conditions de délivrance. (art. D337-147 à D337-153)](#613)
-            - [Sous-section 4 : Organisation des examens. (art. D337-154 à D337-160)](#614)
-          - [Section 7 : La formation d'apprenti junior (art. D337-161 à D337-171)](#615)
-        - [Chapitre VIII : Autres diplômes et titres. (art. R338-1 à D338-32)](#616)
-          - [Section 1 : Le titre professionnel. (art. R338-1 à R338-8)](#617)
-          - [Section 2 : Le diplôme " un des meilleurs ouvriers de France " (art. D338-9 à D338-22)](#618)
-            - [Sous-section 1 : Définition du diplôme. (art. D338-9 à R*338-10)](#619)
-            - [Sous-section 2 : Organisation. (art. D338-11 à D338-18)](#620)
-            - [Sous-section 3 : Les jurys. (art. D338-19 à D338-22)](#621)
-          - [Section 3 : Diplôme initial de langue française. (art. D338-23 à D338-32)](#622)
-      - [Titre IV : L'enseignement agricole et maritime. (art. D341-1 à R342-8)](#623)
-        - [Chapitre Ier : L'enseignement agricole. (art. D341-1 à R341-40)](#624)
-          - [Section 1 : L'orientation des élèves (art. D341-1 à D341-39)](#625)
-            - [Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics. (art. D341-1 à D341-22)](#626)
-            - [Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat. (art. D341-23 à D341-39)](#627)
-          - [Section 2 : Les enseignements et les diplômes. (art. D341-41 à R341-40)](#628)
-        - [Chapitre II : L'enseignement maritime. (art. R342-1 à R342-8)](#629)
-          - [Section 1 : La formation professionnelle maritime. (art. R342-1 à R342-6)](#630)
-          - [Section 2 : Les titres de formation professionnelle maritime. (art. R342-7 à R342-8)](#631)
-      - [Titre V : Les enseignements pour les enfants et adolescents handicapés. (art. D351-1 à R352-1)](#632)
-        - [Chapitre Ier : Scolarité. (art. D351-1 à D351-33)](#633)
-          - [Section 1 : Dispositions générales. (art. D351-1 à R351-2)](#634)
-          - [Section 2 : Le parcours de formation des élèves présentant un handicap (art. D351-3 à D351-20)](#635)
-            - [Sous-section 1 : Organisation de la scolarité. (art. D351-3 à D351-9)](#636)
-            - [Sous-section 2 : Les équipes de suivi de la scolarisation. (art. D351-10 à D351-16)](#637)
-            - [Sous-section 3 : Les unités d'enseignement. (art. D351-17 à D351-20)](#638)
-          - [Section 3 : Dispositions particulières en faveur des jeunes sourds. (art. R351-21 à R351-26)](#639)
-          - [Section 4 : Aménagement des examens et concours. (art. D351-27 à D351-32)](#640)
-          - [Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur. (art. D351-33)](#641)
-        - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés. (art. R352-1)](#642)
-      - [Titre VI : Les enseignements préparant aux professions artistiques et sportives. (art. R361-1 à R363-3)](#643)
-        - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique. (art. R361-1 à R361-6)](#644)
-          - [Section 1 : Dispositions générales. (art. R361-1 à R361-2)](#645)
-          - [Section 2 : L'enseignement du théâtre. (art. R361-3 à R361-6)](#646)
-        - [Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation. (art. R363-1 à R363-3)](#647)
-          - [Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives. (art. R363-1)](#648)
-          - [Section 2 : Les diplômes. (art. D363-2 à R363-3)](#649)
-      - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D371-3 à R374-26)](#650)
-        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D371-3 à R371-2)](#651)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. D372-3 à R372-2)](#652)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D373-2 à R373-9)](#653)
-          - [Section 1 : Dispositions générales. (art. D373-2 à R373-1)](#654)
-          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française. (art. R373-3 à R373-9)](#655)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D374-3 à R374-26)](#656)
-          - [Section 1 : Dispositions générales. (art. D374-3 à R374-2)](#657)
-          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie. (art. R374-6 à R374-12)](#658)
-          - [Section 3 : Le centre de documentation pédagogique (art. R374-13 à R374-26)](#659)
-            - [Sous-section 1 : Organisation et fonctionnement. (art. R374-13 à R374-19)](#660)
-            - [Sous-section 2 : Régime financier. (art. R374-20 à R374-26)](#661)
+          - [Section 5 : La formation à l'accessibilité du cadre bâti. (art. R335-48 à R335-50)](#580)
+        - [Chapitre VI : Dispositions propres aux formations technologiques. (art. D336-1 à D336-58)](#581)
+          - [Section 1 : Dispositions générales relatives au baccalauréat technologique. (art. D336-1 à D336-22)](#582)
+            - [Sous-section 1 : Conditions de délivrance. (art. D336-4 à D336-14)](#583)
+            - [Sous-section 2 : Organisation de l'examen. (art. D336-15 à D336-22)](#584)
+          - [Section 2 : Dispositions particulières au baccalauréat technologique série " hôtellerie " (art. D336-23 à D336-38)](#585)
+          - [Section 3 : Dispositions particulières au baccalauréat technologique série " techniques de la musique et de la danse ". (art. D336-39 à D336-48)](#586)
+          - [Section 4 : Le brevet de technicien. (art. D336-49 à D336-58)](#587)
+        - [Chapitre VII : Dispositions propres aux formations professionnelles. (art. D337-1 à D337-171)](#588)
+          - [Section 1 : Le certificat d'aptitude professionnelle (art. D337-1 à D337-25)](#589)
+            - [Sous-section 1 : Dispositions générales. (art. D337-1 à D337-4)](#590)
+            - [Sous-section 2 : Voies d'accès au diplôme et conditions de délivrance. (art. D337-5 à R337-15)](#591)
+            - [Sous-section 3 : Organisation des examens. (art. D337-21 à D337-25)](#592)
+          - [Section 2 : Le brevet d'études professionnelles (art. D337-26 à D337-50)](#593)
+            - [Sous-section 1 : Dispositions générales. (art. D337-26 à D337-28)](#594)
+            - [Sous-section 2 : Conditions de candidature. (art. D337-29)](#595)
+            - [Sous-section 3 : Conditions de délivrance. (art. D337-30 à R337-31)](#596)
+            - [Sous-section 4 : Unités capitalisables. (art. D337-38 à D337-41)](#597)
+            - [Sous-section 5 : Organisation des examens. (art. D337-42 à R337-45)](#598)
+            - [Sous-section 6 : Le jury. (art. D337-46 à D337-50)](#599)
+          - [Section 3 : Le baccalauréat professionnel (art. D337-51 à D337-94)](#600)
+            - [Sous-section 1 : Définition du diplôme. (art. D337-51 à D337-54)](#601)
+            - [Sous-section 2 : Modalités de préparation. (art. D337-55 à D337-66)](#602)
+            - [Sous-section 3 : Conditions de délivrance. (art. D337-67 à R337-75)](#603)
+            - [Sous-section 4 : Organisation des examens. (art. D337-89 à D337-94)](#604)
+          - [Section 4 : Le brevet professionnel (art. D337-95 à D337-124)](#605)
+            - [Sous-section 1 : Dispositions générales. (art. D337-95 à D337-98)](#606)
+            - [Sous-section 2 : Modalités de préparation. (art. D337-99 à D337-104)](#607)
+            - [Sous-section 3 : Conditions de délivrance. (art. D337-105 à R337-112)](#608)
+            - [Sous-section 4 : Organisation des examens. (art. D337-119 à D337-124)](#609)
+          - [Section 5 : Le diplôme national du brevet des métiers d'art. (art. D337-125 à D337-138)](#610)
+          - [Section 6 : La mention complémentaire (art. D337-139 à D337-160)](#611)
+            - [Sous-section 1 : Définition du diplôme. (art. D337-139 à D337-141)](#612)
+            - [Sous-section 2 : Modalités de préparation. (art. D337-142 à D337-146)](#613)
+            - [Sous-section 3 : Conditions de délivrance. (art. D337-147 à D337-153)](#614)
+            - [Sous-section 4 : Organisation des examens. (art. D337-154 à D337-160)](#615)
+          - [Section 7 : La formation d'apprenti junior (art. D337-161 à D337-171)](#616)
+        - [Chapitre VIII : Autres diplômes et titres. (art. R338-1 à D338-32)](#617)
+          - [Section 1 : Le titre professionnel. (art. R338-1 à R338-8)](#618)
+          - [Section 2 : Le diplôme " un des meilleurs ouvriers de France " (art. D338-9 à D338-22)](#619)
+            - [Sous-section 1 : Définition du diplôme. (art. D338-9 à R*338-10)](#620)
+            - [Sous-section 2 : Organisation. (art. D338-11 à D338-18)](#621)
+            - [Sous-section 3 : Les jurys. (art. D338-19 à D338-22)](#622)
+          - [Section 3 : Diplôme initial de langue française. (art. D338-23 à D338-32)](#623)
+      - [Titre IV : L'enseignement agricole et maritime. (art. D341-1 à R342-8)](#624)
+        - [Chapitre Ier : L'enseignement agricole. (art. D341-1 à R341-40)](#625)
+          - [Section 1 : L'orientation des élèves (art. D341-1 à D341-39)](#626)
+            - [Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics. (art. D341-1 à D341-22)](#627)
+            - [Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat. (art. D341-23 à D341-39)](#628)
+          - [Section 2 : Les enseignements et les diplômes. (art. D341-41 à R341-40)](#629)
+        - [Chapitre II : L'enseignement maritime. (art. R342-1 à R342-8)](#630)
+          - [Section 1 : La formation professionnelle maritime. (art. R342-1 à R342-6)](#631)
+          - [Section 2 : Les titres de formation professionnelle maritime. (art. R342-7 à R342-8)](#632)
+      - [Titre V : Les enseignements pour les enfants et adolescents handicapés. (art. D351-1 à R352-1)](#633)
+        - [Chapitre Ier : Scolarité. (art. D351-1 à D351-33)](#634)
+          - [Section 1 : Dispositions générales. (art. D351-1 à R351-2)](#635)
+          - [Section 2 : Le parcours de formation des élèves présentant un handicap (art. D351-3 à D351-20)](#636)
+            - [Sous-section 1 : Organisation de la scolarité. (art. D351-3 à D351-9)](#637)
+            - [Sous-section 2 : Les équipes de suivi de la scolarisation. (art. D351-10 à D351-16)](#638)
+            - [Sous-section 3 : Les unités d'enseignement. (art. D351-17 à D351-20)](#639)
+          - [Section 3 : Dispositions particulières en faveur des jeunes sourds. (art. R351-21 à R351-26)](#640)
+          - [Section 4 : Aménagement des examens et concours. (art. D351-27 à D351-32)](#641)
+          - [Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur. (art. D351-33)](#642)
+        - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés. (art. R352-1)](#643)
+      - [Titre VI : Les enseignements préparant aux professions artistiques et sportives. (art. R361-1 à R363-3)](#644)
+        - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique. (art. R361-1 à R361-6)](#645)
+          - [Section 1 : Dispositions générales. (art. R361-1 à R361-2)](#646)
+          - [Section 2 : L'enseignement du théâtre. (art. R361-3 à R361-6)](#647)
+        - [Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation. (art. R363-1 à R363-3)](#648)
+          - [Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives. (art. R363-1)](#649)
+          - [Section 2 : Les diplômes. (art. D363-2 à R363-3)](#650)
+      - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D371-3 à R374-26)](#651)
+        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D371-3 à R371-2)](#652)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. D372-3 à R372-2)](#653)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. D373-2 à R373-9)](#654)
+          - [Section 1 : Dispositions générales. (art. D373-2 à R373-1)](#655)
+          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française. (art. R373-3 à R373-9)](#656)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D374-3 à R374-26)](#657)
+          - [Section 1 : Dispositions générales. (art. D374-3 à R374-2)](#658)
+          - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie. (art. R374-6 à R374-12)](#659)
+          - [Section 3 : Le centre de documentation pédagogique (art. R374-13 à R374-26)](#660)
+            - [Sous-section 1 : Organisation et fonctionnement. (art. R374-13 à R374-19)](#661)
+            - [Sous-section 2 : Régime financier. (art. R374-20 à R374-26)](#662)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -49842,14 +49843,22 @@ _Codifié par_:
 
 ###### Article D312-43
 
-Afin de permettre aux élèves, usagers de la route, d'acquérir des comportements responsables, un enseignement des règles de
-sécurité routière est dispensé aux élèves des écoles primaires et des collèges ainsi qu'à ceux des classes de même niveau des
-établissements d'enseignement publics et privés.
+Afin de permettre aux élèves, usagers de l'espace routier, d'acquérir des comportements responsables, un enseignement des
+règles de sécurité routière est assuré par les établissements dispensant un enseignement du premier et du second degré. Cet
+enseignement s'intègre obligatoirement dans le cadre des horaires et des programmes en vigueur dans ces établissements. Il a
+un caractère transdisciplinaire. Les conditions de sa mise en oeuvre sont fixées par le ministre chargé de l'éducation en vue
+d'assurer, notamment, une continuité dans l'apprentissage des règles de sécurité routière. 
 
-Cet enseignement s'intègre obligatoirement dans le cadre des horaires et des programmes en vigueur dans les établissements
-d'enseignement publics et privés sous contrat. Il a un caractère transdisciplinaire. Les conditions de sa mise en oeuvre sont
-fixées par instructions du ministre chargé de l'éducation en vue d'assurer, notamment, une continuité dans l'apprentissage
-des règles de sécurité routière.
+Afin de permettre aux apprentis, usagers de l'espace routier, qui n'auraient pas obtenu les attestations scolaires de
+sécurité routière de premier et de second niveaux, prévues à l'article R. 211-1 du code de la route, d'acquérir des
+comportements responsables, un enseignement des règles de sécurité routière est dispensé par les centres de formation
+d'apprentis. 
+
+Afin de permettre aux personnes, usagers de l'espace routier, qui ne sont pas titulaires des attestations mentionnées à
+l'alinéa précédent et qui ne sont pas scolarisées, d'acquérir des comportements responsables, les groupements
+d'établissements dispensent un enseignement des règles de sécurité routière. Cet enseignement peut être dispensé par d'autres
+établissements ou organismes, notamment les établissements d'enseignement de la conduite mentionnés aux articles L. 213-1 et
+suivants du code de la route.
 
 **Liens relatifs à cet article**
 
@@ -49861,6 +49870,10 @@ _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+_Modifié par_:
+
+  - Décret n°2007-429 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
 _Cité par_:
 
   - Arrêté du 25 mars 2007 - art. 1 (V)
@@ -49869,10 +49882,15 @@ _Cité par_:
   - Arrêté du 23 mai 2016 - art. 4 (V)
   - Code de l'éducation - art. D312-44 (V)
 
+_Cite_:
+
+  - Code de la route. - art. L213-1 (V)
+  - Code de la route. - art. R211-1 (V)
+
 
 ###### Article D312-44
 
-Dans le cadre de la formation initiale et de la formation continue, les enseignants des établissements mentionnés au deuxième
+Dans le cadre de la formation initiale et de la formation continue, les enseignants des établissements mentionnés au premier
 alinéa de l'article D. 312-43 sont préparés à assurer l'acquisition par les élèves de la connaissance des règles de sécurité
 routière et des comportements adaptés qui en découlent.
 
@@ -49886,9 +49904,13 @@ _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+_Modifié par_:
+
+  - Décret n°2007-429 du 25 mars 2007 - art. 2 () JORF 27 mars 2007
+
 _Cite_:
 
-  - Code de l'éducation - art. D312-43 (M)
+  - Code de l'éducation - art. D312-43 (V)
 
 
 ###### Article D312-45
@@ -49931,6 +49953,28 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+
+###### Article D312-47-1
+
+Pour les personnes présentant une déficience visuelle ne leur permettant pas de se présenter aux épreuves des attestations
+scolaires de sécurité routière ou de l'attestation de sécurité routière, il est créé une attestation d'éducation à la route
+dont les modalités d'organisation et de délivrance sont fixées par arrêté des ministres intéressés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2007-429 du 25 mars 2007 - art. 3 () JORF 27 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 25 mars 2007 - art. 7 (V)
+  - Code de l'éducation - art. D372-3 (V)
 
 
 ###### Article R312-47
@@ -62198,9 +62242,176 @@ _Abrogé par_:
   - Décret n°2017-960 du 10 mai 2017 - art. 2
 
 
-#### Chapitre VI : Dispositions propres aux formations technologiques.<a id=580></a>
+##### Section 5 : La formation à l'accessibilité du cadre bâti.<a id=580></a>
 
-##### Section 1 : Dispositions générales relatives au baccalauréat technologique.<a id=581></a>
+###### Article R335-48
+
+Doivent, en application de l'article 41-V de la loi n° 2005-102 du 11 février 2005, comporter un enseignement à
+l'accessibilité aux personnes handicapées du cadre bâti, tel que défini à l'article L. 111-7 du code de la construction et de
+l'habitation, les formations qui conduisent aux diplômes, titres et certifications :
+
+- préparant à des professions dont l'objet est la conception ou la réalisation de bâtiments, de lieux spécialement aménagés
+pour être ouverts au public, ainsi que d'installations ou d'équipements susceptibles d'y être incorporés ;
+
+- et relevant de l'un des domaines énumérés ci-après : 
+
+1. Architecture. 
+
+2. Domaines inclus dans la nomenclature des spécialités de formation établie par le code de l'éducation : 
+
+Lettres et arts : 
+
+a) Arts plastiques ; 
+
+b) Arts et design, art et patrimoine ; art et communication ; 
+
+Agriculture, pêche, forêt et espaces verts : 
+
+c) Forêt, espaces naturels ; 
+
+d) Aménagement paysager (parcs, jardins, espaces verts, terrains de sport) ; 
+
+Transformations : 
+
+e) Agro-alimentaires, alimentation, cuisine ; 
+
+f) Matériaux de construction, verre, céramique ; 
+
+g) Energie, génie climatique ; 
+
+Génie civil, construction, bois : 
+
+h) Spécialités pluritechnologiques génie civil, construction, bois ; 
+
+i) Mines et carrières, génie civil, topographie ; 
+
+j) Bâtiment : construction et couverture ; 
+
+k) Bâtiment : finitions ; 
+
+l) Travail du bois et de l'ameublement ; 
+
+Mécanique, électricité, électronique : 
+
+m) Spécialités pluritechnologiques mécanique-électricité ; 
+
+n) Electricité, électronique ; 
+
+Echanges et gestion : 
+
+o) Transports, manutention, magasinage ; 
+
+Communication et information : 
+
+p) Spécialités plurivalentes de la communication et de l'information ; 
+
+q) Techniques de l'image et du son ; 
+
+Services à la collectivité : 
+
+r) Aménagement du territoire, développement, urbanisme ; 
+
+s) Développement et protection du patrimoine culturel ; 
+
+t) Assainissement, protection de l'environnement.
+
+**Nota:**
+
+Décret 2007-436 du 25 mars 2007 art. 3 : Le présent décret est applicable aux formations qui commencent à compter du 1er
+janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
+  - Code de la construction et de l'habitation. - art. L111-7 (V)
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2007-436 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-436 du 25 mars 2007 - art. 2 (V)
+  - Arrêté du 24 janvier 2008 (V)
+  - Arrêté du 22 janvier 2009 (V)
+  - Arrêté du 22 janvier 2009 - art. 1 (V)
+  - Arrêté du 16 juillet 2013 - art. 12 (VD)
+  - Code de l'éducation - art. R335-49 (V)
+
+
+###### Article R335-49
+
+Doivent comporter un enseignement à l'accessibilité aux personnes handicapées du cadre bâti, lorsqu'ils relèvent de l'article
+R. 335-48, les formations conduisant :
+
+- aux diplômes et titres délivrés par l'Etat ou en son nom, acquis conformément aux dispositions de l'article L. 335-5,
+mentionnés au I de l'article L. 335-6, et enregistrés de droit au répertoire national des certifications professionnelles en
+vertu du deuxième alinéa du II de l'article L. 335-6 ;
+
+- aux autres diplômes, titres et certifications enregistrés au répertoire national des certifications professionnelles selon
+les modalités définies au premier alinéa du II de l'article L. 335-6.
+
+**Nota:**
+
+Décret 2007-436 du 25 mars 2007 art. 3 : Le présent décret est applicable aux formations qui commencent à compter du 1er
+janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2007-436 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 22 janvier 2009 - art. 1 (V)
+  - Code de l'éducation - art. R335-50 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L335-5 (VT)
+  - Code de l'éducation - art. L335-6 (V)
+  - Code de l'éducation - art. R335-48 (V)
+
+
+###### Article R335-50
+
+Des arrêtés pris par les ministres intéressés déterminent les diplômes ou spécialités de diplômes, titres et certifications
+visés à l'article R. 335-49, en tenant compte des difficultés d'accessibilité propres à chaque type de handicap.
+
+**Nota:**
+
+Décret 2007-436 du 25 mars 2007 art. 3 : Le présent décret est applicable aux formations qui commencent à compter du 1er
+janvier 2009.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+_Créé par_:
+
+  - Décret n°2007-436 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
+_Cite_:
+
+  - Code de l'éducation - art. R335-49 (V)
+
+
+#### Chapitre VI : Dispositions propres aux formations technologiques.<a id=581></a>
+
+##### Section 1 : Dispositions générales relatives au baccalauréat technologique.<a id=582></a>
 
 ###### Article D336-1
 
@@ -62304,7 +62515,7 @@ _Modifié par_:
   - Décret n°2006-08-21 art. 1 JORF 22 août 2006
 
 
-##### Sous-section 1 : Conditions de délivrance.<a id=582></a>
+##### Sous-section 1 : Conditions de délivrance.<a id=583></a>
 
 ###### Article D336-4
 
@@ -62741,7 +62952,7 @@ _Modifié par_:
   - Décret n°2006-08-21 art. 7 JORF 22 août 2006
 
 
-##### Sous-section 2 : Organisation de l'examen.<a id=583></a>
+##### Sous-section 2 : Organisation de l'examen.<a id=584></a>
 
 ###### Article D336-15
 
@@ -62993,7 +63204,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Dispositions particulières au baccalauréat technologique série " hôtellerie "<a id=584></a>
+##### Section 2 : Dispositions particulières au baccalauréat technologique série " hôtellerie "<a id=585></a>
 
 ###### Article D336-23
 
@@ -63480,7 +63691,7 @@ _Cité par_:
   - Code de l'éducation - art. D374-5 (V)
 
 
-##### Section 3 : Dispositions particulières au baccalauréat technologique série " techniques de la musique et de la danse ".<a id=585></a>
+##### Section 3 : Dispositions particulières au baccalauréat technologique série " techniques de la musique et de la danse ".<a id=586></a>
 
 ###### Article D336-39
 
@@ -63827,7 +64038,7 @@ _Abrogé par_:
   - Décret n°2019-750 du 19 juillet 2019 - art. 1
 
 
-##### Section 4 : Le brevet de technicien.<a id=586></a>
+##### Section 4 : Le brevet de technicien.<a id=587></a>
 
 ###### Article D336-49
 
@@ -64104,11 +64315,11 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-#### Chapitre VII : Dispositions propres aux formations professionnelles.<a id=587></a>
+#### Chapitre VII : Dispositions propres aux formations professionnelles.<a id=588></a>
 
-##### Section 1 : Le certificat d'aptitude professionnelle<a id=588></a>
+##### Section 1 : Le certificat d'aptitude professionnelle<a id=589></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=589></a>
+##### Sous-section 1 : Dispositions générales.<a id=590></a>
 
 ###### Article D337-1
 
@@ -64232,7 +64443,7 @@ _Cité par_:
   - Code de l'éducation - art. D337-25-1 (M)
 
 
-##### Sous-section 2 : Voies d'accès au diplôme et conditions de délivrance.<a id=590></a>
+##### Sous-section 2 : Voies d'accès au diplôme et conditions de délivrance.<a id=591></a>
 
 ###### Article D337-5
 
@@ -64742,7 +64953,7 @@ _Cité par_:
   - Code de l'éducation - art. R374-1 (V)
 
 
-##### Sous-section 3 : Organisation des examens.<a id=591></a>
+##### Sous-section 3 : Organisation des examens.<a id=592></a>
 
 ###### Article D337-21
 
@@ -64885,9 +65096,9 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Le brevet d'études professionnelles<a id=592></a>
+##### Section 2 : Le brevet d'études professionnelles<a id=593></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=593></a>
+##### Sous-section 1 : Dispositions générales.<a id=594></a>
 
 ###### Article D337-26
 
@@ -64963,7 +65174,7 @@ _Cite_:
   - Code de l'éducation D335-33 à D335-37
 
 
-##### Sous-section 2 : Conditions de candidature.<a id=594></a>
+##### Sous-section 2 : Conditions de candidature.<a id=595></a>
 
 ###### Article D337-29
 
@@ -65001,7 +65212,7 @@ _Cite_:
   - Code de l'éducation L441-10 à L441-13, L443-2 à L443-4
 
 
-##### Sous-section 3 : Conditions de délivrance.<a id=595></a>
+##### Sous-section 3 : Conditions de délivrance.<a id=596></a>
 
 ###### Article D337-30
 
@@ -65280,7 +65491,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 4 : Unités capitalisables.<a id=596></a>
+##### Sous-section 4 : Unités capitalisables.<a id=597></a>
 
 ###### Article D337-38
 
@@ -65365,7 +65576,7 @@ _Abrogé par_:
   - Décret n°2009-146 du 10 février 2009 - art. 6
 
 
-##### Sous-section 5 : Organisation des examens.<a id=597></a>
+##### Sous-section 5 : Organisation des examens.<a id=598></a>
 
 ###### Article D337-42
 
@@ -65462,7 +65673,7 @@ _Cité par_:
   - Code de l'éducation - art. R374-1 (V)
 
 
-##### Sous-section 6 : Le jury.<a id=598></a>
+##### Sous-section 6 : Le jury.<a id=599></a>
 
 ###### Article D337-46
 
@@ -65576,9 +65787,9 @@ _Cité par_:
   - Code de l'éducation - art. D337-50-1 (M)
 
 
-##### Section 3 : Le baccalauréat professionnel<a id=599></a>
+##### Section 3 : Le baccalauréat professionnel<a id=600></a>
 
-##### Sous-section 1 : Définition du diplôme.<a id=600></a>
+##### Sous-section 1 : Définition du diplôme.<a id=601></a>
 
 ###### Article D337-51
 
@@ -65752,7 +65963,7 @@ _Cité par_:
   - Code de l'éducation - art. D337-94 (V)
 
 
-##### Sous-section 2 : Modalités de préparation.<a id=601></a>
+##### Sous-section 2 : Modalités de préparation.<a id=602></a>
 
 ###### Article D337-55
 
@@ -66192,7 +66403,7 @@ _Cite_:
   - Code de l'éducation - art. R335-9 (V)
 
 
-##### Sous-section 3 : Conditions de délivrance.<a id=602></a>
+##### Sous-section 3 : Conditions de délivrance.<a id=603></a>
 
 ###### Article D337-67
 
@@ -67112,7 +67323,7 @@ _Cité par_:
   - Code de l'éducation - art. R374-1 (V)
 
 
-##### Sous-section 4 : Organisation des examens.<a id=603></a>
+##### Sous-section 4 : Organisation des examens.<a id=604></a>
 
 ###### Article D337-89
 
@@ -67299,9 +67510,9 @@ _Cite_:
   - Code de l'éducation - art. D337-92 (V)
 
 
-##### Section 4 : Le brevet professionnel<a id=604></a>
+##### Section 4 : Le brevet professionnel<a id=605></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=605></a>
+##### Sous-section 1 : Dispositions générales.<a id=606></a>
 
 ###### Article D337-95
 
@@ -67386,7 +67597,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 2 : Modalités de préparation.<a id=606></a>
+##### Sous-section 2 : Modalités de préparation.<a id=607></a>
 
 ###### Article D337-99
 
@@ -67591,7 +67802,7 @@ _Abrogé par_:
   - Décret n°2017-790 du 5 mai 2017 - art. 3
 
 
-##### Sous-section 3 : Conditions de délivrance.<a id=607></a>
+##### Sous-section 3 : Conditions de délivrance.<a id=608></a>
 
 ###### Article D337-105
 
@@ -68111,7 +68322,7 @@ _Cite_:
   - Code de l'éducation - art. D337-111 (V)
 
 
-##### Sous-section 4 : Organisation des examens.<a id=608></a>
+##### Sous-section 4 : Organisation des examens.<a id=609></a>
 
 ###### Article D337-119
 
@@ -68226,7 +68437,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 5 : Le diplôme national du brevet des métiers d'art.<a id=609></a>
+##### Section 5 : Le diplôme national du brevet des métiers d'art.<a id=610></a>
 
 ###### Article D337-125
 
@@ -68593,9 +68804,9 @@ _Cité par_:
   - Arrêté du 11 mai 2015 - art. 7 (V)
 
 
-##### Section 6 : La mention complémentaire<a id=610></a>
+##### Section 6 : La mention complémentaire<a id=611></a>
 
-##### Sous-section 1 : Définition du diplôme.<a id=611></a>
+##### Sous-section 1 : Définition du diplôme.<a id=612></a>
 
 ###### Article D337-139
 
@@ -68670,7 +68881,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 2 : Modalités de préparation.<a id=612></a>
+##### Sous-section 2 : Modalités de préparation.<a id=613></a>
 
 ###### Article D337-142
 
@@ -68817,7 +69028,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 3 : Conditions de délivrance.<a id=613></a>
+##### Sous-section 3 : Conditions de délivrance.<a id=614></a>
 
 ###### Article D337-147
 
@@ -69016,7 +69227,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 4 : Organisation des examens.<a id=614></a>
+##### Sous-section 4 : Organisation des examens.<a id=615></a>
 
 ###### Article D337-154
 
@@ -69178,7 +69389,7 @@ _Cite_:
   - Code de l'éducation - art. D337-149 (V)
 
 
-##### Section 7 : La formation d'apprenti junior<a id=615></a>
+##### Section 7 : La formation d'apprenti junior<a id=616></a>
 
 ###### Article D337-161
 
@@ -69456,9 +69667,9 @@ _Cite_:
   - Code de l'éducation - art. L337-3
 
 
-#### Chapitre VIII : Autres diplômes et titres.<a id=616></a>
+#### Chapitre VIII : Autres diplômes et titres.<a id=617></a>
 
-##### Section 1 : Le titre professionnel.<a id=617></a>
+##### Section 1 : Le titre professionnel.<a id=618></a>
 
 ###### Article R338-1
 
@@ -70091,9 +70302,9 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Le diplôme " un des meilleurs ouvriers de France "<a id=618></a>
+##### Section 2 : Le diplôme " un des meilleurs ouvriers de France "<a id=619></a>
 
-##### Sous-section 1 : Définition du diplôme.<a id=619></a>
+##### Sous-section 1 : Définition du diplôme.<a id=620></a>
 
 ###### Article D338-9
 
@@ -70164,7 +70375,7 @@ _Créé par_:
   - Décret n°2006-582 du 23 mai 2006, v. init.
 
 
-##### Sous-section 2 : Organisation.<a id=620></a>
+##### Sous-section 2 : Organisation.<a id=621></a>
 
 ###### Article D338-11
 
@@ -70330,7 +70541,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 3 : Les jurys.<a id=621></a>
+##### Sous-section 3 : Les jurys.<a id=622></a>
 
 ###### Article D338-19
 
@@ -70407,7 +70618,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 3 : Diplôme initial de langue française.<a id=622></a>
+##### Section 3 : Diplôme initial de langue française.<a id=623></a>
 
 ###### Article D338-23
 
@@ -70624,13 +70835,13 @@ _Cite_:
   - Code de l'éducation - art. D351-31 (V)
 
 
-### Titre IV : L'enseignement agricole et maritime.<a id=623></a>
+### Titre IV : L'enseignement agricole et maritime.<a id=624></a>
 
-#### Chapitre Ier : L'enseignement agricole.<a id=624></a>
+#### Chapitre Ier : L'enseignement agricole.<a id=625></a>
 
-##### Section 1 : L'orientation des élèves<a id=625></a>
+##### Section 1 : L'orientation des élèves<a id=626></a>
 
-##### Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics.<a id=626></a>
+##### Sous-section 1 : L'orientation des élèves dans les établissements d'enseignement agricole publics.<a id=627></a>
 
 ###### Article D341-1
 
@@ -71155,7 +71366,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat.<a id=627></a>
+##### Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat.<a id=628></a>
 
 ###### Article D341-23
 
@@ -71553,7 +71764,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Les enseignements et les diplômes.<a id=628></a>
+##### Section 2 : Les enseignements et les diplômes.<a id=629></a>
 
 ###### Article D341-41
 
@@ -71720,9 +71931,9 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-#### Chapitre II : L'enseignement maritime.<a id=629></a>
+#### Chapitre II : L'enseignement maritime.<a id=630></a>
 
-##### Section 1 : La formation professionnelle maritime.<a id=630></a>
+##### Section 1 : La formation professionnelle maritime.<a id=631></a>
 
 ###### Article R342-1
 
@@ -71914,7 +72125,7 @@ _Abrogé par_:
   - Décret n°2019-640 du 25 juin 2019 - art. 14
 
 
-##### Section 2 : Les titres de formation professionnelle maritime.<a id=631></a>
+##### Section 2 : Les titres de formation professionnelle maritime.<a id=632></a>
 
 ###### Article R342-7
 
@@ -71969,11 +72180,11 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre V : Les enseignements pour les enfants et adolescents handicapés.<a id=632></a>
+### Titre V : Les enseignements pour les enfants et adolescents handicapés.<a id=633></a>
 
-#### Chapitre Ier : Scolarité.<a id=633></a>
+#### Chapitre Ier : Scolarité.<a id=634></a>
 
-##### Section 1 : Dispositions générales.<a id=634></a>
+##### Section 1 : Dispositions générales.<a id=635></a>
 
 ###### Article D351-1
 
@@ -72020,9 +72231,9 @@ _Cite_:
   - Code de l'action sociale et des familles L241-6, R241-24 à R241-34
 
 
-##### Section 2 : Le parcours de formation des élèves présentant un handicap<a id=635></a>
+##### Section 2 : Le parcours de formation des élèves présentant un handicap<a id=636></a>
 
-##### Sous-section 1 : Organisation de la scolarité.<a id=636></a>
+##### Sous-section 1 : Organisation de la scolarité.<a id=637></a>
 
 ###### Article D351-3
 
@@ -72266,7 +72477,7 @@ _Cite_:
   - Code de l'éducation - art. D351-5 (V)
 
 
-##### Sous-section 2 : Les équipes de suivi de la scolarisation.<a id=637></a>
+##### Sous-section 2 : Les équipes de suivi de la scolarisation.<a id=638></a>
 
 ###### Article D351-10
 
@@ -72491,7 +72702,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R241-34 (VT)
 
 
-##### Sous-section 3 : Les unités d'enseignement.<a id=638></a>
+##### Sous-section 3 : Les unités d'enseignement.<a id=639></a>
 
 ###### Article D351-17
 
@@ -72618,7 +72829,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. D312-88 (V)
 
 
-##### Section 3 : Dispositions particulières en faveur des jeunes sourds.<a id=639></a>
+##### Section 3 : Dispositions particulières en faveur des jeunes sourds.<a id=640></a>
 
 ###### Article R351-21
 
@@ -72817,7 +73028,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L313-3 (M)
 
 
-##### Section 4 : Aménagement des examens et concours.<a id=640></a>
+##### Section 4 : Aménagement des examens et concours.<a id=641></a>
 
 ###### Article D351-27
 
@@ -73017,7 +73228,7 @@ _Cite_:
   - Code de l'éducation - art. D351-27
 
 
-##### Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur.<a id=641></a>
+##### Section 5 : Formations conduisant à l'exercice des professions d'éducateur spécialisé, d'éducateur technique spécialisé et de moniteur-éducateur.<a id=642></a>
 
 ###### Article D351-33
 
@@ -73032,7 +73243,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-#### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.<a id=642></a>
+#### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.<a id=643></a>
 
 ###### Article R352-1
 
@@ -73046,11 +73257,11 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre VI : Les enseignements préparant aux professions artistiques et sportives.<a id=643></a>
+### Titre VI : Les enseignements préparant aux professions artistiques et sportives.<a id=644></a>
 
-#### Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.<a id=644></a>
+#### Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.<a id=645></a>
 
-##### Section 1 : Dispositions générales.<a id=645></a>
+##### Section 1 : Dispositions générales.<a id=646></a>
 
 ###### Article R361-1
 
@@ -73108,7 +73319,7 @@ _Cite_:
   - Code de l'éducation - art. R335-5 (V)
 
 
-##### Section 2 : L'enseignement du théâtre.<a id=646></a>
+##### Section 2 : L'enseignement du théâtre.<a id=647></a>
 
 ###### Article R361-3
 
@@ -73212,9 +73423,9 @@ _Abrogé par_:
   - Décret n°2015-1227 du 2 octobre 2015 - art. 1
 
 
-#### Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation.<a id=647></a>
+#### Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation.<a id=648></a>
 
-##### Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives.<a id=648></a>
+##### Section 1 : Conditions d'exercice des professions relatives aux activités physiques et sportives.<a id=649></a>
 
 ###### Article R363-1
 
@@ -73244,7 +73455,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Les diplômes.<a id=649></a>
+##### Section 2 : Les diplômes.<a id=650></a>
 
 ###### Article D363-2
 
@@ -73306,9 +73517,9 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=650></a>
+### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=651></a>
 
-#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=651></a>
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=652></a>
 
 ###### Article D371-3
 
@@ -73532,18 +73743,20 @@ _Cite_:
   - Code de l'éducation - art. L311-3 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=652></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=653></a>
 
 ###### Article D372-3
 
-Les articles D. 311-5, D. 312-1, D. 312-4 à D. 312-6, D. 312-40 à D. 312-42, D. 312-48, D. 321-1 à D. 321-16, D. 331-23 à D.
-331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D.  334-22, D. 336-1 à D. 336-58, D. 337-1 à D. 337-14, D.
-337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D.  337-111 et D. 337-113 à D. 337-160 sont
-applicables à Mayotte sous réserve des adaptations prévues aux 1° à 4° du présent article et aux articles D. 372-4 et D.
-372-5 :
+Les articles D. 311-5, D. 312-1, D. 312-4 à D. 312-6, D. 312-40 à D. 312-42, D. 312-43, D. 312-44, D. 312-47-1, D. 312-48, D.
+321-1 à D. 321-16, D. 331-23 à D. 331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D.  334-22, D. 336-1 à D.
+336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D.  337-111 et
+D. 337-113 à D. 337-160 sont applicables à Mayotte sous réserve des adaptations prévues aux 1° à 4° du présent article et aux
+articles D. 372-4 et D. 372-5 :
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des services départementaux de l'éducation nationale "
-sont remplacés par le mot : " vice-recteur " ;
+sont remplacés par le mot :
+
+" vice-recteur " ;
 
 2° Le mot : " département " est remplacé par les mots :
 
@@ -73561,14 +73774,19 @@ _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+_Modifié par_:
+
+  - Décret n°2007-429 du 25 mars 2007 - art. 4 (V) JORF 27 mars 2007
+
 _Cite_:
 
   - Code de l'éducation - art. D311-5 (V)
   - Code de l'éducation - art. D312-1 (V)
+  - Code de l'éducation - art. D312-47-1 (V)
   - Code de l'éducation - art. D312-48 (V)
   - Code de l'éducation - art. D372-4 (V)
   - Code de l'éducation - art. D372-5 (V)
-  - Code de l'éducation D311-5, D312-1, D312-4 à D312-6, D312-40 à D312-42, D312-48, D321-1 à D321-16, D331-23 à D331-43, D332-1 à D332-29, D333-1 à D333-18, D334-1 à D334-22, D336-1 à D336-58, D337-1 à D337-14, D337-16 à D337-30, D337-32 à D337-44, D337
+  - Code de l'éducation D311-5, D312-1, D312-4 à D312-6, D312-40 à D312-44, D312-47-1, D312-48, D321-1 à D321-16, D331-23 à D331-43, D332-1 à D332-29, D333-1 à D333-18, D334-1 à D334-22, D336-1 à D336-58, D337-1 à D337-14, D337-16 à D337-30, D337-32 à D3
 
 
 ###### Article D372-4
@@ -73764,9 +73982,9 @@ _Cite_:
   - Code de l'éducation - art. L311-3 (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=653></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=654></a>
 
-##### Section 1 : Dispositions générales.<a id=654></a>
+##### Section 1 : Dispositions générales.<a id=655></a>
 
 ###### Article D373-2
 
@@ -73861,7 +74079,7 @@ _Cite_:
   - Code de l'éducation - art. R337-75 (V)
 
 
-##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française.<a id=655></a>
+##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française.<a id=656></a>
 
 ###### Article R373-3
 
@@ -74053,9 +74271,9 @@ _Cite_:
   - Code de l'éducation - art. R335-16 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=656></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=657></a>
 
-##### Section 1 : Dispositions générales.<a id=657></a>
+##### Section 1 : Dispositions générales.<a id=658></a>
 
 ###### Article D374-3
 
@@ -74291,7 +74509,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie.<a id=658></a>
+##### Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Nouvelle-Calédonie.<a id=659></a>
 
 ###### Article R374-6
 
@@ -74482,9 +74700,9 @@ _Cite_:
   - Code de l'éducation - art. R335-16 (V)
 
 
-##### Section 3 : Le centre de documentation pédagogique<a id=659></a>
+##### Section 3 : Le centre de documentation pédagogique<a id=660></a>
 
-##### Sous-section 1 : Organisation et fonctionnement.<a id=660></a>
+##### Sous-section 1 : Organisation et fonctionnement.<a id=661></a>
 
 ###### Article R374-13
 
@@ -74719,7 +74937,7 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 2 : Régime financier.<a id=661></a>
+##### Sous-section 2 : Régime financier.<a id=662></a>
 
 ###### Article R374-20
 
