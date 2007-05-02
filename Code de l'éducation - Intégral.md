@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2007-05-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -30684,27 +30684,37 @@ _Codifié par_:
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les enseignants d'une unité de formation et de recherche de
 pharmacie exerçant conjointement des fonctions de pharmacien ou de biologiste des hôpitaux peuvent être autorisés à occuper
-ces deux emplois par dérogation aux dispositions du décret-loi du 29 octobre 1936 relatif aux cumuls des retraites, des
-rémunérations et des fonctions.
+ces deux emplois par dérogation aux dispositions de l'article 25 de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires.
 
 Il fixe aussi les conditions de régularisation des situations des personnels lésés par l'interdiction antérieure d'exercer
 conjointement les deux fonctions.
 
+**Nota:**
+
+Loi 2007-148 du 2 février 2007 art. 45 IV : Les articles 21 à 25 de la présente loi entrent en vigueur à compter de la
+publication du décret mentionné au I de l'article 25 de la loi 83-634 du 13 juillet 1983, dans sa rédaction issue de la
+présente loi. Il s'agit du décret n° 2007-658 du 2 mai 2007 publié au Journal officiel du 3 mai 2007.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret-loi 1936-10-29
 
 _Anciens textes_:
 
   - Loi n°79-4 du 2 janvier 1979 - art. 4, v. init.
   - Loi n°79-4 du 2 janvier 1979 - art. 4 (Ab)
 
+_Cite_:
+
+  - Loi n°83-634 du 13 juillet 1983 - art. 25 (M)
+
 _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Modifié par_:
+
+  - Loi n°2007-148 du 2 février 2007 - art. 23 (V)
 
 
 ##### Section 3 : Dispositions propres aux personnels enseignants et hospitaliers.<a id=319></a>
