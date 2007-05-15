@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-05-15
+Version Consolidée au 2007-05-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -58151,14 +58151,20 @@ _Cité par_:
 
 Pour les candidats scolaires issus des classes de troisième des établissements d'enseignement publics ou privés sous contrat
 et pour les candidats ayant préparé le brevet par la voie de la formation professionnelle continue dans un établissement
-public, le diplôme est attribué sur la base des notes obtenues à un examen et des résultats acquis en cours de formation dans
-des conditions fixées par un arrêté du ministre chargé de l'éducation.
+public, le diplôme est attribué, dans des conditions fixées par un arrêté du ministre chargé de l'éducation nationale, sur la
+base des notes obtenues à un examen, des résultats acquis en cours de formation et des évaluations spécifiques prévues pour
+certaines compétences du socle commun défini à l'article D. 122-1.
 
 Est également prise en compte une note de vie scolaire qui est la moyenne des notes obtenues chaque trimestre de la classe de
 troisième dans les conditions fixées par l'article D. 332-4-1.
 
 Les modalités d'attribution du brevet sont adaptées afin de tenir compte de la spécificité des formations dispensées à
 certains candidats, dans les conditions définies par un arrêté du ministre chargé de l'éducation.
+
+**Nota:**
+
+Décret n° 2007-921 du 15 mai 2007 art. 3 : Les dispositions du décret n° 2007-921 entrent en vigueur à compter de l'année
+scolaire 2007-2008.
 
 **Liens relatifs à cet article**
 
@@ -58171,19 +58177,30 @@ _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+_Modifié par_:
+
+  - Décret n°2007-921 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+_Cite_:
+
+  - Code de l'éducation - art. D122-1 (T)
+  - Code de l'éducation - art. D332-4-1 (V)
+
 _Cité par_:
 
   - Code de l'éducation - art. D332-18 (V)
 
-_Cite_:
-
-  - Code de l'éducation - art. D332-4-1 (V)
-
 
 ###### Article D332-18
 
-Pour les candidats non mentionnés à l'article D. 332-17, le brevet est attribué sur la base des notes obtenues à un examen
-dans des conditions fixées par un arrêté du ministre chargé de l'éducation.
+Pour les candidats non mentionnés à l'article D. 332-17, le brevet est attribué, dans des conditions fixées par un arrêté du
+ministre chargé de l'éducation, sur la base des notes obtenues à un examen et des évaluations spécifiques prévues pour
+certaines compétences du socle commun défini à l'article D. 122-1.
+
+**Nota:**
+
+Décret n° 2007-921 du 15 mai 2007 art. 3 : Les dispositions du décret n° 2007-921 entrent en vigueur à compter de l'année
+scolaire 2007-2008.
 
 **Liens relatifs à cet article**
 
@@ -58195,8 +58212,13 @@ _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+_Modifié par_:
+
+  - Décret n°2007-921 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
 _Cite_:
 
+  - Code de l'éducation - art. D122-1 (T)
   - Code de l'éducation - art. D332-17 (M)
 
 
