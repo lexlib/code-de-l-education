@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-05-16
+Version Consolidée au 2007-07-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -413,8 +413,8 @@ Version Consolidée au 2007-05-16
             - [Sous-section 2 : Dispositions propres aux académies de Paris, de Créteil et de Versailles. (art. D222-4 à R*222-3)](#410)
             - [Sous-section 3 : Dispositions propres aux académies d'outre-mer. (art. R222-8 à R222-10)](#411)
             - [Sous-section 4 : Dispositions communes. (art. D222-11 à R222-12)](#412)
-          - [Section 2 : Autorités administratives déconcentrées (art. D222-15 à R222-24)](#413)
-            - [Sous-section 1 : Le recteur. (art. D222-15 à R222-19)](#414)
+          - [Section 2 : Autorités administratives déconcentrées (art. D222-20 à R222-24)](#413)
+            - [Sous-section 1 : Le recteur. (art. D222-20 à R222-19)](#414)
             - [Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. (art. R222-24)](#415)
           - [Section 3 : Compétences (art. D222-27 à R222-36)](#416)
             - [Sous-section 1 : Dispositions générales. (art. D222-27 à R222-34)](#417)
@@ -37894,36 +37894,6 @@ _Modifié par_:
 
 ##### Sous-section 1 : Le recteur.<a id=414></a>
 
-###### Article D222-15
-
-Conformément aux dispositions de l'article L. 222-2, le recteur dirige la chancellerie, établissement public national à
-caractère administratif qui est régi par les dispositions du décret n° 71-1105 du 30 décembre 1971 relatif aux chancelleries.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°71-1105 1971-12-30
-  - Code de l'éducation - art. L222-2 (V)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Modifié par_:
-
-  - Décret n°2006-583 2006-05-23 art. 4 6° JORF 24 mai 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-1109 du 18 juillet 2007 - art. 1 () JORF 19 juillet 2007
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. R*222-15 (V)
-  - Code de l'éducation R222-15
-
-
 ###### Article D222-20
 
 Le recteur est autorisé à déléguer sa signature :
@@ -38089,6 +38059,28 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
+
+
+###### Article R*222-15
+
+Les recteurs d'académie qui bénéficient d'un recul de la limite d'âge en vertu des textes applicables à l'ensemble des
+fonctionnaires de l'Etat continuent d'exercer, jusqu'à ce qu'ils atteignent cette limite, les fonctions de directeur et de
+président du conseil d'administration des établissements publics qui leur sont conférées par les textes régissant ces
+établissements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Créé par_:
+
+  - Décret n°2007-1109 du 18 juillet 2007 - art. 1 () JORF 19 juillet 2007
+
+_Anciens textes_:
+
+  - Code de l'éducation - art. D222-15 (M)
 
 
 ###### Article R*222-16
