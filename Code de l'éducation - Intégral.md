@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-09-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -39131,7 +39131,7 @@ _Cité par_:
 Sont prises par le recteur d'académie :
 
 a) Les décisions de règlement amiable des demandes d'indemnité mettant en cause la responsabilité de l'Etat, pour les litiges
-relevant de la compétence des services déconcentrés et portant sur un montant inférieur à 8 000 Euros ;
+relevant de la compétence des services déconcentrés et portant sur un montant inférieur à 10 000 euros ;
 
 b) Les décisions à caractère financier prises pour l'exécution des décisions de justice portant sur les litiges mettant en
 cause la responsabilité des services déconcentrés.
@@ -39146,6 +39146,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Décret n°2007-1346 du 12 septembre 2007 - art. 1 () JORF 14 septembre 2007
 
 
 ##### Section 4 : Médiateurs.<a id=425></a>
@@ -40137,9 +40141,9 @@ _Abrogé par_:
 
 ###### Article R231-20
 
-Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire se réunit sur convocation du ministre
-chargé de l'éducation. La date de chaque session est fixée par arrêté publié au Journal officiel quinze jours au moins avant
-l'ouverture de la session.
+Le Conseil supérieur de l'éducation statuant en matière contentieuse et disciplinaire se réunit sur convocation de son
+président. La décision fixant la date de chaque séance est publiée au Bulletin officiel du ministère de l'éducation
+nationale.
 
 **Liens relatifs à cet article**
 
@@ -40151,6 +40155,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Décret n°2007-1346 du 12 septembre 2007 - art. 2 () JORF 14 septembre 2007
+
+_Abrogé par_:
+
+  - Décret n°2015-856 du 13 juillet 2015 - art. 1
 
 
 ###### Article R231-21
@@ -40282,10 +40294,9 @@ _Abrogé par_:
 
 Les décisions sont signées par le président et le secrétaire.
 
-Les décisions sont notifiées par le ministre par l'intermédiaire des recteurs d'académie, chanceliers des universités, ou,
-dans les cas prévus au 3° de l'article L. 231-6, des préfets. Une expédition destinée à la partie est jointe à la
-notification. Les décisions en matière contentieuse et en matière disciplinaire sont publiées au Bulletin officiel du
-ministère de l'éducation nationale.
+La décision est notifiée au ministre et aux parties à l'instance. Copie de la décision est adressée au recteur d'académie.
+Les décisions en matière contentieuse et en matière disciplinaire sont publiées au Bulletin officiel du ministère de
+l'éducation nationale.
 
 Toutefois, en matière disciplinaire, mention n'est faite au Bulletin du nom des parties que dans le cas où la peine prononcée
 est l'interdiction absolue d'enseigner ou de diriger.
@@ -40302,9 +40313,9 @@ _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'éducation - art. L231-6 (M)
+  - Décret n°2007-1346 du 12 septembre 2007 - art. 3 () JORF 14 septembre 2007
 
 
 ##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.<a id=432></a>
@@ -41676,8 +41687,9 @@ La décision est prononcée en séance publique.
 
 La décision doit être motivée. Elle est signée par le président de la séance et par le secrétaire.
 
-Elle est notifiée par le ministre chargé de l'enseignement supérieur à la personne contre qui les poursuites ont été
-intentées, à l'autorité qui a intenté les poursuites et au recteur d'académie, chancelier des universités.
+Elle est notifiée au ministre chargé de l'enseignement supérieur, à la personne contre qui les poursuites ont été intentées
+et à l'autorité qui a intenté les poursuites. Copie de la décision est adressée au recteur d'académie, chancelier des
+universités.
 
 La notification à l'intéressé a lieu par lettre recommandée avec demande d'avis de réception. S'il s'agit d'un mineur,
 notification est en outre adressée, dans la même forme, aux personnes qui exercent à son égard l'autorité parentale ou la
@@ -41693,6 +41705,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Décret n°2007-1346 du 12 septembre 2007 - art. 4 () JORF 14 septembre 2007
 
 _Cité par_:
 
@@ -41731,9 +41747,8 @@ _Codifié par_:
 
 ###### Article R232-43
 
-La personne déférée, le président ou directeur de l'établissement qui a engagé les poursuites en première instance, le
-recteur de l'académie où l'établissement a son siège et le ministre chargé de l'enseignement supérieur peuvent former un
-recours en cassation devant le Conseil d'Etat.
+La personne déférée, le président ou directeur de l'établissement qui a engagé les poursuites en première instance, et le
+ministre chargé de l'enseignement supérieur peuvent former un recours en cassation devant le Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -41745,6 +41760,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+_Modifié par_:
+
+  - Décret n°2007-1346 du 12 septembre 2007 - art. 5 () JORF 14 septembre 2007
 
 _Cité par_:
 
