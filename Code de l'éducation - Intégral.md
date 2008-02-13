@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-02-11
+Version Consolidée au 2008-02-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -59518,10 +59518,19 @@ _Cite_:
 
 ###### Article D332-19
 
-Le brevet est attribué par un jury départemental nommé et présidé par l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, ou son représentant.
+Le diplôme national du brevet est attribué par un jury dont le ressort territorial, fixé par le recteur d'académie, peut être
+académique, départemental ou commun à plusieurs départements. 
 
-Le diplôme du brevet est délivré par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+Le jury est présidé par le recteur d'académie ou par l'inspecteur d'académie, directeur des services départementaux de
+l'éducation nationale ou, lorsqu'il est commun à plusieurs départements, par un inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale, désigné par le recteur. 
+
+Le président nomme les autres membres du jury dans des conditions précisées par arrêté du ministre de l'éducation nationale.
+
+**Nota:**
+
+Décret n° 2008-124 du 11 février 2008, article 2 : Les dispositions du présent décret entrent en vigueur à compter de la
+session 2008.
 
 **Liens relatifs à cet article**
 
@@ -59535,9 +59544,9 @@ _Cité par_:
   - Arrêté du 31 décembre 2015 - art. 17 (V)
   - Code de l'éducation - art. D341-44 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2008-124 du 11 février 2008 - art. 1
 
 
 ###### Article D332-20
