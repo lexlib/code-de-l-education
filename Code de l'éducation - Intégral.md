@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-04-05
+Version Consolidée au 2008-05-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -129,13 +129,13 @@ Version Consolidée au 2008-04-05
           - [Chapitre Ier : Organisation et fonctionnement des écoles maternelles et élémentaires. (art. L411-1 à L411-3)](#126)
           - [Chapitre II : Les écoles régionales du premier degré. (art. L412-1)](#127)
         - [Titre II : Les collèges et les lycées (art. L421-1 à L424-4)](#128)
-          - [Chapitre Ier : Organisation et fonctionnement des établissements publics locaux d'enseignement. (art. L421-1 à L421-24)](#129)
+          - [Chapitre Ier : Organisation et fonctionnement des établissements publics locaux d'enseignement. (art. L421-1 à L421-25)](#129)
             - [Section 1 : Organisation administrative. (art. L421-2 à L421-10)](#130)
             - [Section 2 : Organisation financière. (art. L421-11 à L421-16)](#131)
             - [Section 3 : Dispositions applicables au patrimoine mobilier des établissements publics locaux d'enseignement. (art. L421-17 à L421-19)](#132)
             - [Section 4 : Dispositions applicables aux lycées professionnels maritimes. (art. L421-20 à L421-21)](#133)
             - [Section 5 : Dispositions applicables aux lycées d'enseignement général et technologique agricole et aux lycées professionnels agricoles. (art. L421-22)](#134)
-            - [Section 6 : Dispositions diverses. (art. L421-23 à L421-24)](#135)
+            - [Section 6 : Dispositions diverses. (art. L421-23 à L421-25)](#135)
           - [Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement (art. L422-1 à L422-3)](#136)
             - [Section 1 : Les établissements d'Etat. (art. L422-1)](#137)
             - [Section 2 : Les établissements municipaux ou départementaux. (art. L422-2 à L422-3)](#138)
@@ -261,8 +261,8 @@ Version Consolidée au 2008-04-05
           - [Chapitre Ier : Missions et organisation des instituts universitaires de formation des maîtres. (art. L721-1 à L721-2)](#258)
           - [Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres. (art. L722-1 à L722-17)](#259)
           - [Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaires (art. L723-1)](#260)
-        - [Titre III : Les établissements d'enseignement supérieur privés (art. L731-1 à L731-17)](#261)
-          - [Chapitre unique. (art. L731-1 à L731-17)](#262)
+        - [Titre III : Les établissements d'enseignement supérieur privés (art. L731-1 à L731-18)](#261)
+          - [Chapitre unique. (art. L731-1 à L731-18)](#262)
         - [Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur (art. L741-1)](#263)
           - [Chapitre unique. (art. L741-1)](#264)
         - [Titre V : Les établissements d'enseignement supérieur spécialisés (art. L751-1 à L75-10-1)](#265)
@@ -5546,7 +5546,7 @@ L. 814-2 du code rural.A défaut d'accord, les autorités de l'Etat prennent, po
 nécessaires à la continuité du service public de l'éducation.
 
 V.-L'Etat, une ou plusieurs régions, une ou plusieurs organisations représentatives des milieux socioprofessionnels et, le
-cas échéant, l'institution mentionnée à l'article L. 311-7 du code du travail peuvent conclure des contrats fixant des
+cas échéant, l'institution mentionnée à l'article L. 5312-1 du code du travail peuvent conclure des contrats fixant des
 objectifs de développement coordonné des différentes voies de formation professionnelle initiale et continue, notamment de
 formation professionnelle alternée et de financement des formations des demandeurs d'emploi. Ces contrats d'objectifs peuvent
 être annuels ou pluriannuels. 
@@ -5559,8 +5559,8 @@ contrats d'objectifs.
 
 L'Etat, la région ou la collectivité territoriale de Corse, les chambres consulaires, une ou plusieurs organisations
 représentatives d'employeurs et de salariés peuvent également conclure des contrats d'objectifs et de moyens visant au
-développement de l'apprentissage conformément à l'article L. 118-1 du code du travail. Ces contrats peuvent prendre la forme
-d'une annexe aux contrats visés à l'alinéa précédent. 
+développement de l'apprentissage conformément aux articles L. 6211-3, D6211-1 et D. 6211-2 du code du travail . Ces contrats
+peuvent prendre la forme d'une annexe aux contrats visés à l'alinéa précédent. 
 
 VI.-Dans le cadre de son plan régional de développement des formations professionnelles, chaque région arrête annuellement un
 programme régional d'apprentissage et de formation professionnelle continue, après avis du comité de coordination régional de
@@ -5581,7 +5581,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-126 du 13 février 2008 - art. 14
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cité par_:
 
@@ -14632,6 +14632,43 @@ _Codifié par_:
 
   - Ordonnance 2000-549 2000-06-15
   - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+
+###### Article L421-25
+
+Des commissions d'hygiène et de sécurité composées des représentants des personnels de l'établissement, des élèves, des
+parents d'élèves, de l'équipe de direction et d'un représentant de la collectivité de rattachement, présidées par le chef
+d'établissement, sont instituées dans chaque lycée d'enseignement technique et chaque lycée professionnel.
+
+Elles sont chargées de faire toutes propositions utiles au conseil d'administration en vue de promouvoir la formation à la
+sécurité et de contribuer à l'amélioration des conditions d'hygiène et de sécurité dans l'établissement et notamment dans les
+ateliers.
+
+Un décret d'application fixe les conditions de mise en oeuvre de ces dispositions, notamment en ce qui concerne la
+composition et les modalités de fonctionnement des commissions d'hygiène et de sécurité.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Ordonnance 2007-329 2007-03-12 art. 6 1° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+_Cité par_:
+
+  - Code de l'éducation - art. D421-151 (V)
 
 
 ##### Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement<a id=136></a>
@@ -27381,6 +27418,58 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 261 (V)
 
 
+###### Article L731-18
+
+Les établissements d'enseignement supérieur privés dont l'activité principale conduit à la délivrance, au nom de l'Etat, d'un
+diplôme sanctionnant cinq années d'études après le baccalauréat peuvent conclure des contrats de travail intermittent pour
+des missions d'enseignement, de formation et de recherche comportant une alternance de périodes travaillées et non
+travaillées.
+
+Le contrat de travail est à durée indéterminée. Il doit être écrit et mentionner notamment :
+
+1° La qualification du salarié ;
+
+2° Son objet ;
+
+3° Les éléments de la rémunération ;
+
+4° Les périodes à l'intérieur desquelles l'employeur peut faire appel au salarié moyennant un délai de prévenance de sept
+jours. Le salarié peut refuser les dates et horaires de travail proposés s'ils ne sont pas compatibles avec des obligations
+familiales impérieuses, avec le suivi d'un enseignement scolaire ou supérieur, avec une période d'activité fixée chez un
+autre employeur ou une activité professionnelle non salariée. Dans ce cas, le refus du salarié ne constitue pas une faute ou
+un motif de licenciement ;
+
+5° La durée minimale annuelle, semestrielle, trimestrielle ou mensuelle du travail du salarié.
+
+Le total des heures dépassant la durée minimale fixée au contrat ne peut excéder le tiers de cette durée, sauf accord du
+salarié.
+
+Le salarié employé en contrat de travail intermittent bénéficie des mêmes droits que ceux reconnus aux salariés à temps
+complet sous réserve, en ce qui concerne les droits conventionnels, de modalités spécifiques prévues par la convention
+collective, l'accord d'entreprise ou d'établissement.
+
+Pour la détermination des droits liés à l'ancienneté, les périodes non travaillées sont prises en compte en totalité.
+
+**Nota:**
+
+Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
+la partie réglementaire du code du travail et au plus tard le 1er mars 2008.
+
+La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
+du travail au 1er mai 2008.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-549 2000-06-15
+  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+_Créé par_:
+
+  - Ordonnance 2007-329 2007-03-12 art. 6 2° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+
+
 #### Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur<a id=263></a>
 
 ##### Chapitre unique.<a id=264></a>
@@ -32719,13 +32808,14 @@ public, ils ne sont pas, au titre des fonctions pour lesquelles ils sont employ�
 contrat de travail à l'établissement au sein duquel l'enseignement leur est confié. 
 
 Nonobstant l'absence de contrat de travail avec l'établissement, les personnels enseignants mentionnés à l'alinéa précédent
-sont, pour l'application des articles L. 236-1, L. 412-5, L. 421-2 et L. 431-2 du code du travail, pris en compte dans le
-calcul des effectifs de l'établissement, tel que prévu à l'article L. 620-10 du même code. Ils sont électeurs et éligibles
-pour les élections des délégués du personnel et les élections au comité d'hygiène, de sécurité et des conditions de travail
-et au comité d'entreprise. Ils bénéficient de ces institutions dans les conditions prévues par le code du travail. Les
-rémunérations versées par l'Etat à ces personnels sont prises en compte pour le calcul de la masse salariale brute, tel que
-prévu à l'article L. 434-8 du même code, et la détermination du rapport entre la contribution aux institutions sociales et le
-montant global des salaires, mentionné à l'article L. 432-9 du même code. 
+sont, pour l'application des articles L. 4611-1 à L. 4611-6, L. 4523-11, L. 4523-14à L. 4523-17, L. 4524-1, R. 4523-4, R.
+4613-9, L. 2141-11, L. 2312-8 et L. 2322-6 du code du travail, pris en compte dans le calcul des effectifs de
+l'établissement, tel que prévu à l'article L. 1111-2 du même code. Ils sont électeurs et éligibles pour les élections des
+délégués du personnel et les élections au comité d'hygiène, de sécurité et des conditions de travail et au comité
+d'entreprise. Ils bénéficient de ces institutions dans les conditions prévues par le code du travail. Les rémunérations
+versées par l'Etat à ces personnels sont prises en compte pour le calcul de la masse salariale brute, tel que prévu aux
+articles L. 2325-12 et L. 2325-13 du même code, et la détermination du rapport entre la contribution aux institutions
+sociales et le montant global des salaires, mentionné à l'article L. 2323-9 du même code. 
 
 Lorsqu'un emploi est à pourvoir, le chef d'établissement est tenu de donner priorité aux candidats qualifiés qui auraient
 perdu leur emploi par suite de la suppression totale ou partielle d'une filière dans l'établissement même ou dans un autre
@@ -32763,15 +32853,9 @@ de licenciement et l'exercice du droit syndical. "
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 _Modifié par_:
 
-  - Loi n°2005-5 du 5 janvier 2005 - art. 2 () JORF 6 janvier 2005 en vigueur le 1er septembre 2005
-  - Loi n°2005-5 du 5 janvier 2005 - art. 7 () JORF 6 janvier 2005 en vigueur le 1er septembre 2005
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 **Liens**:
 
@@ -38994,8 +39078,8 @@ _Codifié par_:
 ###### Article D214-7
 
 Les contrats d'objectifs tiennent compte des orientations définies dans le cadre de la négociation de branche telle que
-prévue à l'article L. 933-2 du code du travail et des conventions et accords nationaux conclus entre l'Etat et les
-organisations professionnelles.
+prévue aux articles L. 6323-6 à L. 6323-8 du code du travail et des conventions et accords nationaux conclus entre l'Etat et
+les organisations professionnelles.
 
 En l'absence de négociation de branche, la commission paritaire nationale de l'emploi est informée sur le contenu et la mise
 en oeuvre des contrats d'objectifs.
@@ -39016,13 +39100,9 @@ _Anciens textes_:
   - Décret n°93-51 1993-01-14 art. 3
   - Décret n°93-51 du 14 janvier 1993 - art. 3 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Cite_:
-
-  - Code du travail - art. L933-2 (M)
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 
 ###### Article D214-8
@@ -39115,14 +39195,14 @@ compétences atteintes par les personnes ayant suivi la formation, notamment au 
 compétences défini à l'article L. 122-1-1. 
 
 Cette attestation est prise en compte lors du positionnement prévu notamment aux articles D. 337-4, 
-D. 337-58, D. 337-59, D. 337-61 et D. 337-145 ou de l'évaluation des compétences définie à l'article L. 115-2 du code du
-travail.
+D. 337-58, D. 337-59, D. 337-61 et D. 337-145 ou de l'évaluation des compétences définie aux articles L. 6222-7 à L. 6222-10,
+L. 6222-14, L. 6222-15, L. 6222-19, R. 6211-6, R. 6222-10, R. 6222-12, R. 6222-23 et R. 6222-46 du code du travail.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1756 du 13 décembre 2007 - art. 1
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
@@ -39132,7 +39212,14 @@ _Cite_:
   - Code de l'éducation - art. D337-59
   - Code de l'éducation - art. D337-61
   - Code de l'éducation - art. L122-1-1
-  - Code du travail - art. L115-2
+  - Code du travail - art. L6222-14 (V)
+  - Code du travail - art. L6222-19 (V)
+  - Code du travail - art. L6222-7 (V)
+  - Code du travail - art. R6211-6 (V)
+  - Code du travail - art. R6222-10 (V)
+  - Code du travail - art. R6222-12 (V)
+  - Code du travail - art. R6222-23 (V)
+  - Code du travail - art. R6222-46 (V)
 
 
 #### Chapitre V : Les compétences de la collectivité territoriale de Corse.<a id=412></a>
@@ -45927,21 +46014,17 @@ _Abrogé par_:
 ###### Article D237-9
 
 Les dispositions relatives au Conseil national de la formation professionnelle tout au long de la vie sont fixées par les
-articles D. 913-1 à D. 913-8 du code du travail.
+articles D. 6123-7 à D. 6123-17 du code du travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Créé par_:
-
-  - Décret n°2006-583 2006-05-23 art. 4 11° JORF 24 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
-  - Code du travail D913-1 à D913-8
+  - Code du travail - art. D6123-7 (V)
 
 
 ##### Section 2 : Les instances régionales et départementales.<a id=467></a>
@@ -47984,28 +48067,26 @@ _Anciens textes_:
 L'inspection générale de l'éducation nationale, l'inspection générale de l'administration de l'éducation nationale et de la
 recherche et l'inspection de l'enseignement agricole procèdent à des évaluations du fonctionnement et des résultats de
 l'activité de formation continue des adultes relevant de leur champ de compétences respectif. A cet effet, elles établissent
-les relations nécessaires avec les services administratifs compétents et les partenaires extérieurs.
+les relations nécessaires avec les services administratifs compétents et les partenaires extérieurs. 
 
-Les rapports annuels des inspections générales comportent l'évaluation de l'activité de formation continue des adultes.
+Les rapports annuels des inspections générales comportent l'évaluation de l'activité de formation continue des adultes. 
 
-Ces évaluations s'effectuent sans préjudice des contrôles exercés dans les conditions prévues aux articles L. 991-1 et L.
-991-2 du code du travail.
+Ces évaluations s'effectuent sans préjudice des contrôles exercés dans les conditions prévues aux articles L. 6361-1 à L.
+6361-3 du code du travail.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°93-432 1993-03-24 art. 19
   - Décret n°93-432 du 24 mars 1993 - art. 19 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
-  - Code du travail - art. L991-1 (M)
-  - Code du travail - art. L991-2 (T)
+  - Code du travail - art. L6361-1 (V)
 
 
 ###### Article D241-2
@@ -48432,24 +48513,24 @@ _Modifié par_:
 Les inspecteurs d'académie-inspecteurs pédagogiques régionaux et les inspecteurs de l'éducation nationale veillent à la mise
 en oeuvre de la politique éducative arrêtée par le ministre chargé de l'éducation. A cet effet, dans le cadre du programme de
 travail académique arrêté conjointement par l'inspecteur général de l'éducation nationale correspondant académique et le
-recteur de l'académie, ils ont vocation à exercer sous l'autorité de ce dernier les missions ci-après :
+recteur de l'académie, ils ont vocation à exercer sous l'autorité de ce dernier les missions ci-après : 
 
 a) Ils évaluent dans l'exercice de leur compétence pédagogique le travail individuel et le travail en équipe des personnels
 enseignants, d'éducation et d'orientation des écoles, des collèges et des lycées et concourent à l'évaluation de
 l'enseignement des disciplines, des unités d'enseignement, des procédures et des résultats de la politique éducative. Ils
-procèdent, notamment, à l'observation directe des actes pédagogiques ;
+procèdent, notamment, à l'observation directe des actes pédagogiques ; 
 
 b) Ils inspectent, selon les spécialités qui sont les leurs, les personnels enseignants, d'éducation et d'orientation des
 écoles, des collèges et des lycées et s'assurent du respect des objectifs et des programmes nationaux de formation, dans le
-cadre des cycles d'enseignement ; ils sont chargés des missions d'inspection prévues par l'article L. 119-1 du code du
-travail ;
+cadre des cycles d'enseignement ; ils sont chargés des missions d'inspection prévues par les articles L. 6251-1 et R. 6251-2
+et R. 6251-3 du code du travail ; 
 
 c) Ils participent à l'animation pédagogique dans les formations initiales, continues et par alternance, prêtent leur
 concours à l'élaboration des projets d'établissement et collaborent avec l'inspection générale de l'éducation nationale pour
-l'évaluation des expériences pédagogiques et leur généralisation ;
+l'évaluation des expériences pédagogiques et leur généralisation ; 
 
 d) Ils ont vocation à participer au recrutement et à la formation des personnels de l'éducation nationale et à l'organisation
-des examens ;
+des examens ; 
 
 e) Ils assurent des missions d'expertise dans ces différents domaines ainsi que pour l'orientation des élèves, les examens,
 la gestion des personnels éducatifs et dans le choix des équipements pédagogiques.
@@ -48461,13 +48542,14 @@ _Anciens textes_:
   - Décret n°90-675 1990-07-18 art. 2, alinéas 2 à 7
   - Décret n°90-675 du 18 juillet 1990 - art. 2 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
-  - Code du travail - art. L119-1 (M)
+  - Code du travail - art. L6251-1 (V)
+  - Code du travail - art. R6251-2 (V)
 
 
 ###### Article R241-20
@@ -52415,9 +52497,10 @@ l'adaptation réciproque des débouchés professionnels et des enseignements uni
 2° L'Agence nationale pour l'emploi mentionnée aux articles L. 311-7 et L. 311-8 du code du travail.
 
 Il est également chargé d'apporter sa collaboration aux administrations et aux organismes intéressés par les questions qui
-relèvent de sa compétence, et notamment au Conseil national de la formation professionnelle tout au long de la vie institué à
-l'article L. 910-1 du code du travail en vue de l'élaboration et de la mise en oeuvre de la politique coordonnée de formation
-professionnelle et de promotion sociale.
+relèvent de sa compétence, et notamment au Conseil national de la formation professionnelle tout au long de la vie institué
+aux  articles L. 6123-1, L. 6123-2, R. 6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14, D. 6123-19 à D. 612-21, D.
+6123-25 à D. 6123-27 du code du travail en vue de l'élaboration et de la mise en oeuvre de la politique coordonnée de
+formation professionnelle et de promotion sociale.
 
 **Nota:**
 
@@ -52433,9 +52516,9 @@ _Anciens textes_:
   - Décret n°70-238 du 19 mars 1970 - art. 1 (Ab)
   - Décret n°70-239 du 19 mars 1970 - art. 1 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cité par_:
 
@@ -52754,9 +52837,10 @@ d'information nécessaires à leur action ;
 qualifications professionnelles.
 
 A ces fins, la délégation régionale collabore avec les divers services ou organismes régionaux compétents, et notamment avec
-le comité de coordination régional de l'emploi et de la formation professionnelle prévu à l'article L. 910-1 du code du
-travail. Elle passe également, au nom de l'office, avec les universités et les autres établissements à caractère
-scientifique, culturel et professionnel, les conventions de coopération nécessaires.
+le comité de coordination régional de l'emploi et de la formation professionnelle prévu aux articles L. 6123-1, L. 6123-2, R.
+6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14, D. 6123-19 à D. 612-21, D. 6123-25 à D. 6123-27  du code du travail.
+Elle passe également, au nom de l'office, avec les universités et les autres établissements à caractère scientifique,
+culturel et professionnel, les conventions de coopération nécessaires.
 
 Dans le cas où la circonscription académique ne coïncide pas avec celle de la région, les liaisons de la délégation avec les
 préfets de région, les directions régionales du travail et de l'emploi, les centres régionaux de l'Agence nationale pour
@@ -52774,17 +52858,11 @@ pôle emploi est effective depuis le 1er janvier 2009.
 
 _Anciens textes_:
 
-  - Décret n°70-239 du 19 mars 1970 - art. 9 (M)
   - Décret n°70-239 du 19 mars 1970 - art. 9 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-_Cite_:
-
-  - Code de l'éducation - art. R*222-2 (V)
-  - Code du travail - art. L910-1 (M)
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 
 ###### Article D313-25
@@ -58473,10 +58551,11 @@ _Cite_:
 
 ###### Article D331-1
 
-En application des dispositions de l'article L. 211-1 du code du travail, les établissements d'enseignement scolaire peuvent
-organiser, pour les élèves mineurs de moins de seize ans, des visites d'information, des séquences d'observation, des stages
-d'initiation, d'application ou des périodes de formation en milieu professionnel dans les établissements et professions
-mentionnés au premier alinéa de l'article L. 200-1 du code du travail et à l'article L. 331-4 du code de l'éducation.
+En application des dispositions des articles L. 4153-1 à L. 4153-3, L. 4153-5 et R. 4153-6 du code du travail, les
+établissements d'enseignement scolaire peuvent organiser, pour les élèves mineurs de moins de seize ans, des visites
+d'information, des séquences d'observation, des stages d'initiation, d'application ou des périodes de formation en milieu
+professionnel dans les établissements et professions mentionnés au premier alinéa de l'article L. 3111-1 du code du travail
+et à l'article L. 331-4 du code de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -58485,9 +58564,9 @@ _Anciens textes_:
   - Décret n°2003-812 du 26 août 2003 - art. 1, v. init.
   - Décret n°2003-812 du 26 août 2003 - art. 1 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cité par_:
 
@@ -58499,8 +58578,10 @@ _Cité par_:
 _Cite_:
 
   - Code de l'éducation - art. L331-4 (V)
-  - Code du travail - art. L200-1 (AbD)
-  - Code du travail - art. L211-1 (M)
+  - Code du travail - art. L3111-1 (V)
+  - Code du travail - art. L4153-1 (V)
+  - Code du travail - art. L4153-5 (V)
+  - Code du travail - art. R4153-6 (V)
 
 
 ###### Article D331-2
@@ -71368,9 +71449,9 @@ La certification professionnelle délivrée, au nom de l'Etat sur le plan nation
 appelée " titre professionnel ". Ce titre atteste que son titulaire maîtrise les compétences, aptitudes et connaissances
 permettant l'exercice d'activités professionnelles qualifiées. 
 
-Il est destiné aux travailleurs mentionnés à l'article L. 900-3 du code du travail. Les niveaux et domaines d'activité
-couverts par ce titre sont définis par le ministre chargé de l'emploi, après avis de la commission interprofessionnelle
-consultative placée auprès de lui.
+Il est destiné aux travailleurs mentionnés aux articles L. 6314-1 et D 6314-1 du code du travail. Les niveaux et domaines
+d'activité couverts par ce titre sont définis par le ministre chargé de l'emploi, après avis de la commission
+interprofessionnelle consultative placée auprès de lui.
 
 **Liens relatifs à cet article**
 
@@ -71741,13 +71822,14 @@ _Cité par_:
   - Arrêté du 24 février 2020 - art. (V)
   - Arrêté du 12 mars 2020 - art. (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
-  - Code du travail - art. L900-3 (Ab)
+  - Code du travail - art. D6314-1 (V)
+  - Code du travail - art. L6314-1 (V)
 
 
 ###### Article R338-2
@@ -71904,14 +71986,14 @@ _Codifié par_:
 ###### Article R338-6
 
 Le jury du titre professionnel et des certificats complémentaires est désigné par le directeur départemental du travail, de
-l'emploi et de la formation professionnelle. Il est composé de professionnels du secteur d'activité concerné par le titre.
+l'emploi et de la formation professionnelle. Il est composé de professionnels du secteur d'activité concerné par le titre. 
 
 Se prononcent sur l'obtention des certificats de compétences mentionnés à l'article R. 338-3 un des professionnels membres du
 jury ainsi qu'un formateur du secteur d'activité concerné, à l'exception de celui ayant assuré directement la préparation ou
-la formation du candidat.
+la formation du candidat. 
 
-Les membres salariés des jurys prévus au présent article bénéficient des dispositions prévues à l'article L. 992-8 du code du
-travail.
+Les membres salariés des jurys prévus au présent article bénéficient des dispositions prévues aux articles L. 3142-3 à L.
+3142-6 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -71925,14 +72007,14 @@ _Cité par_:
   - Arrêté du 9 mars 2006 - art. 6 (VT)
   - Arrêté du 22 décembre 2015 - art. 5 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
   - Code de l'éducation - art. R338-3 (V)
-  - Code du travail - art. L992-8 (M)
+  - Code du travail - art. L3142-3 (V)
 
 
 ###### Article R338-7
@@ -82343,26 +82425,19 @@ _Cité par_:
 ###### Article D421-144
 
 Le rôle de l'inspecteur du travail dans les ateliers des établissements publics dispensant un enseignement technique ou
-professionnel, mentionnés au quatrième alinéa de l'article L. 231-1 du code du travail, est défini par les articles D.
-421-145 à D. 421-150.
+professionnel, mentionnés au premier alinéa de l'article L. 4111-3 du code du travail, est défini par les articles D. 421-145
+à D. 421-150.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°91-1162 du 7 novembre 1991 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
   - Code de l'éducation - art. D421-145 (V)
+  - Code du travail - art. L4111-3 (V)
 
 
 ###### Article D421-145
@@ -82489,7 +82564,7 @@ _Créé par_:
 
 ###### Article D421-150
 
-Pour l'application de l'article L. 233-1 du code du travail, le chef d'établissement, en sa qualité de président de la
+Pour l'application de l'article L. 4221-1 du code du travail, le chef d'établissement, en sa qualité de président de la
 commission d'hygiène et de sécurité, propose, en tant que de besoin, à la collectivité territoriale de rattachement, un
 projet d'état des actions prioritaires de mise en sécurité des machines existantes. Il en informe préalablement le conseil
 des délégués pour la vie lycéenne. 
@@ -82501,21 +82576,13 @@ le communique au chef d'établissement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°91-1162 du 7 novembre 1991 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
-  - Code du travail - art. L233-1 (VT)
+  - Code du travail - art. L4221-1 (V)
 
 
 ##### Paragraphe 2 : La commission d'hygiène et de sécurité.<a id=718></a>
@@ -91004,26 +91071,28 @@ Les organismes privés mentionnés au premier alinéa de l'article L. 920-3 du c
 d'apprentis prévus par le chapitre VI du titre Ier du livre Ier du même code ne sont pas soumis, pour leurs actions utilisant
 l'enseignement à distance, aux dispositions des articles R. 444-1 à R. 444-28 du présent code. 
 
-Les centres assurant les actions de formation professionnelle et de promotion sociale mentionnées à l'article L. 900-1 du
-code du travail ne sont pas soumis, pour leurs actions utilisant l'enseignement à distance et faisant l'objet de conventions
-conclues avec l'Etat en application du chapitre Ier du titre II du livre IX du code du travail, aux dispositions des articles
-R. 444-10 à R. 444-17 du présent code.
+Les centres assurant les actions de formation professionnelle et de promotion sociale mentionnées aux articles L. 6111-1, 
+L. 6311-1, L. 6411-1, 
+L. 6422-1, L. 6422-10 et D. 6312-1 du code du travail ne sont pas soumis, pour leurs actions utilisant l'enseignement à
+distance et faisant l'objet de conventions conclues avec l'Etat en application du chapitre Ier du titre II du livre IX du
+code du travail, aux dispositions des articles R. 444-10 à R. 444-17 du présent code.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008, v. init.
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 _Cite_:
 
   - Code de l'éducation - art. R442-10 (V)
   - Code de l'éducation - art. R444-1 (V)
-  - Code du travail - art. L900-1 (Ab)
+  - Code du travail - art. L6111-1 (VT)
+  - Code du travail - art. L6311-1 (V)
+  - Code du travail - art. L6312-1 (V)
+  - Code du travail - art. L6411-1 (V)
+  - Code du travail - art. L6422-1 (V)
+  - Code du travail - art. L6422-10 (V)
   - Code du travail - art. L920-3 (Ab)
 
 
