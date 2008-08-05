@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-07-26
+Version Consolidée au 2008-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -5669,10 +5669,7 @@ l'accès à l'emploi ou à une certification inscrite au répertoire national de
 Un décret, pris après avis du Conseil national de la formation professionnelle tout au long de la vie, fixe les modalités
 d'application du présent article.
 
-Il définit les conditions dans lesquelles les Ecoles de la deuxième chance sont habilitées, après avis du comité de
-coordination régional de l'emploi et de la formation professionnelle, à percevoir les financements de la formation
-professionnelle ou les versements des entreprises pouvant donner lieu à exonération de la taxe d'apprentissage. L'Etat et les
-régions apportent leur concours aux formations dispensées dans les conditions déterminées par convention.
+L'Etat et les régions apportent leur concours aux formations dispensées dans les conditions déterminées par convention.
 
 **Liens relatifs à cet article**
 
@@ -5697,14 +5694,9 @@ _Anciens textes_:
   - Loi n°83-8 1983-01-07 art. 84
   - Loi n°83-8 du 7 janvier 1983 - art. 84 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Créé par_:
-
-  - Loi n°2007-297 2007-03-05 art. 12 6° JORF 7 mars 2007
+  - Loi n°2008-776 du 4 août 2008 - art. 162 (V)
 
 
 ###### Article L214-15
@@ -25876,11 +25868,11 @@ _Abrogé par_:
 
 ###### Article L719-12
 
-Les établissements publics à caractère scientifique, culturel et professionnel peuvent créer en leur sein une ou plusieurs
-fondations universitaires, non dotées de la personnalité morale, résultant de l'affectation irrévocable à l'établissement
-intéressé de biens, droits ou ressources apportés par un ou plusieurs fondateurs pour la réalisation d'une ou plusieurs
-oeuvres ou activités d'intérêt général et à but non lucratif conformes aux missions du service public de l'enseignement
-supérieur visées à l'article L. 123-3. 
+Les établissements publics à caractère scientifique, culturel et professionnel et les établissements publics de coopération
+scientifique peuvent créer en leur sein une ou plusieurs fondations universitaires, non dotées de la personnalité morale,
+résultant de l'affectation irrévocable à l'établissement intéressé de biens, droits ou ressources apportés par un ou
+plusieurs fondateurs pour la réalisation d'une ou plusieurs oeuvres ou activités d'intérêt général et à but non lucratif
+conformes aux missions du service public de l'enseignement supérieur visées à l'article L. 123-3. 
 
 Ces fondations disposent de l'autonomie financière. 
 
@@ -25900,6 +25892,11 @@ Les règles particulières de fonctionnement de chaque fondation sont fixées da
 d'administration de l'établissement.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°87-571 du 23 juillet 1987
+  - Code de l'éducation - art. L123-3
 
 _Cité par_:
 
@@ -25923,28 +25920,35 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 885-0 V bis A (Ab)
   - Code rural et de la pêche maritime - art. R812-5 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Créé par_:
-
-  - Loi n°2007-1199 du 10 août 2007 - art. 28 () JORF 11 août 2007
+  - Loi n°2008-776 du 4 août 2008 - art. 138
 
 
 ###### Article L719-13
 
-Les établissements publics à caractère scientifique, culturel et professionnel peuvent créer, en vue de la réalisation d'une
-ou plusieurs oeuvres ou activités d'intérêt général conformes aux missions de l'établissement, une personne morale à but non
-lucratif dénommée fondation partenariale. Ils peuvent créer cette fondation seuls ou avec les personnes morales visées à
-l'article 19 de la loi n° 87-571 du 23 juillet 1987 précitée. 
+Les établissements publics à caractère scientifique, culturel et professionnel, les établissements publics à caractère
+scientifique et technologique et les établissements publics de coopération scientifique peuvent créer, en vue de la
+réalisation d'une ou plusieurs œuvres ou activités d'intérêt général conformes aux missions du service public de
+l'enseignement supérieur visées à l'article L. 123-3, une ou plusieurs personnes morales à but non lucratif dénommée "
+fondation partenariale ". Ils peuvent créer cette fondation seuls ou avec toutes personnes morales et physiques, françaises
+ou étrangères. 
 
 Les règles relatives aux fondations d'entreprise, dans les conditions fixées notamment par la loi n° 87-571 du 23 juillet
-1987 précitée, s'appliquent aux fondations partenariales sous réserve des dispositions du présent article. 
+1987 précitée, s'appliquent aux fondations partenariales sous réserve des dispositions du présent article.L'autorisation
+administrative prévue à l'article 19-1 de cette même loi est délivrée par le recteur de l'académie dans laquelle chacune de
+ces fondations partenariales a fixé son siège. Le recteur assure également la publication de cette autorisation. Ces
+fondations partenariales bénéficient de plein droit de toutes les prérogatives reconnues aux fondations universitaires créées
+en application de l'article L. 719-12 du présent code. 
+
+En cas de dissolution de la fondation partenariale, les ressources non employées et la dotation, si celle-ci a été constituée
+et n'a pas fait l'objet de l'affectation prévue à l'article 19-6 de la loi n° 87-571 du 23 juillet 1987 précitée, sont
+attribuées par le liquidateur à l'une ou à plusieurs de la ou des fondations universitaires ou partenariales créées par
+l'établissement. Dans le cas où l'établissement ne dispose d'aucune fondation autre que celle en voie de dissolution, les
+ressources non employées et la dotation lui sont directement attribuées. 
 
 Outre les ressources visées à l'article 19-8 de la loi n° 87-571 du 23 juillet 1987 précitée, les ressources de ces
-fondations comprennent les legs, les donations et le mécénat. 
+fondations comprennent les legs, les donations, le mécénat et les produits de l'appel à la générosité publique. 
 
 Les établissements publics à caractère scientifique, culturel et professionnel disposent de la majorité des sièges au conseil
 d'administration. 
@@ -25954,14 +25958,14 @@ d'administration de l'établissement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Créé par_:
-
-  - Loi n°2007-1199 du 10 août 2007 - art. 28 () JORF 11 août 2007
+  - Loi n°87-571 du 23 juillet 1987
+  - Loi n°87-571 du 23 juillet 1987 - art. 19-1 (V)
+  - Loi n°87-571 du 23 juillet 1987 - art. 19-6 (V)
+  - Loi n°87-571 du 23 juillet 1987 - art. 19-8 (V)
+  - Code de l'éducation - art. L123-3
+  - Code de l'éducation - art. L719-12
 
 _Cité par_:
 
@@ -25982,6 +25986,10 @@ _Cité par_:
   - Code de l'éducation - art. R711-8 (V)
   - Code de la défense. - art. R3411-93 (VD)
   - Code du sport. - art. R211-1-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 139
 
 
 ###### Article L719-14
