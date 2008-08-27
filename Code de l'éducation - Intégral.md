@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-08-23
+Version Consolidée au 2008-08-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -41521,12 +41521,12 @@ _Cité par_:
 ###### Article D232-2
 
 Le Conseil national de l'enseignement supérieur et de la recherche, présidé par le ministre chargé de l'enseignement
-supérieur ou son représentant, comprend soixante et un membres répartis de la manière suivante :
+supérieur ou son représentant, comprend soixante-huit membres répartis de la manière suivante : 
 
-1° Quarante représentants des personnels et des étudiants des établissements publics à caractère scientifique, culturel et
-professionnel ;
+1° Quarante-cinq représentants des responsables, des personnels et des étudiants des établissements publics à caractère
+scientifique, culturel et professionnel ; 
 
-2° Vingt et une personnalités représentant les grands intérêts nationaux, notamment éducatifs, culturels, scientifiques,
+2°  Vingt-trois personnalités représentant les grands intérêts nationaux, notamment éducatifs, culturels, scientifiques,
 économiques et sociaux.
 
 **Liens relatifs à cet article**
@@ -41535,24 +41535,29 @@ _Anciens textes_:
 
   - Décret n°89-1 du 2 janvier 1989 - art. 2 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2008-846 du 25 août 2008 - art. 2
 
 
 ###### Article D232-3
 
-Les représentants des établissements publics à caractère scientifique, culturel et professionnel sont élus par catégorie à
-raison de :
+I.-Les responsables des établissements publics à caractère scientifique, culturel et professionnel sont représentés par les
+deux conférences composant la Conférence des chefs d'établissements de l'enseignement supérieur à raison de quatre
+représentants pour la conférence des présidents d'universités et d'un représentant pour la conférence des directeurs des
+écoles françaises d'ingénieurs. Chacune de ces conférences désigne ses représentants. 
 
-1° Onze représentants des professeurs et personnels de niveau équivalent au sens du décret prévu à l'article L. 719-2 ;
+II.-Les représentants des personnels et des étudiants des établissements publics à caractère scientifique, culturel et
+professionnel sont élus par catégorie à raison de : 
+
+1° Onze représentants des professeurs et personnels de niveau équivalent au sens du décret prévu à l'article L. 719-2 ; 
 
 2° Onze représentants des autres enseignants-chercheurs, enseignants et chercheurs au sens du décret prévu à l'article L.
-719-2 ;
+719-2 ; 
 
-3° Un représentant des personnels scientifiques des bibliothèques ;
+3° Un représentant des personnels scientifiques des bibliothèques ; 
 
-4° Six représentants des personnels administratifs, techniques, ouvriers et de service ;
+4° Six représentants des personnels administratifs, techniques, ouvriers et de service ; 
 
 5° Onze représentants des étudiants.
 
@@ -41560,13 +41565,11 @@ raison de :
 
 _Anciens textes_:
 
-  - Décret n°89-1 1989-01-02 art. 3, alinéas 1 à 6
-  - Décret n°89-1 du 2 janvier 1989 - art. 3 (M)
   - Décret n°89-1 du 2 janvier 1989 - art. 3 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2008-846 du 25 août 2008 - art. 3
 
 _Cité par_:
 
@@ -41581,6 +41584,10 @@ _Cité par_:
   - Code de l'éducation - art. D232-4 (V)
   - Code de l'éducation - art. D232-5 (M)
   - Code de l'éducation - art. D232-7 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L719-2
 
 
 ###### Article D232-4
@@ -41630,25 +41637,40 @@ _Cite_:
 ###### Article D232-5
 
 Les personnalités représentant les grands intérêts nationaux, notamment éducatifs, culturels, scientifiques, économiques et
-sociaux, sont nommés par arrêté du ministre chargé de l'enseignement supérieur.
-
-Trois de ces personnalités sont choisies respectivement parmi les membres de l'Assemblée nationale, du Sénat et du Conseil
-économique et social, à raison d'une pour chacune de ces assemblées et sur leur proposition exprimée conformément aux
-dispositions prévues par leur règlement. Pour chacune d'elles, un suppléant est désigné dans les mêmes conditions.
+sociaux, sont nommés par arrêté du ministre chargé de l'enseignement supérieur. 
 
 Ces personnalités comprennent notamment des représentants des employeurs et des salariés qui doivent être en nombre égal. En
-cas d'empêchement temporaire, elles peuvent se faire remplacer par un suppléant désigné dans les mêmes conditions.
+cas d'empêchement temporaire, elles peuvent se faire remplacer par un suppléant désigné dans les mêmes conditions. 
+
+Elles comprennent en outre : 
+
+1° Trois personnalités choisies respectivement parmi les membres de l'Assemblée nationale, du Sénat et du Conseil économique
+et social, à raison d'une pour chacune de ces assemblées et sur leur proposition exprimée conformément aux dispositions
+prévues par leur règlement. Pour chacune d'elles, un suppléant est désigné dans les mêmes conditions. 
+
+2° Deux personnalités choisies respectivement : 
+
+a) L'une parmi les membres d'une association représentant les établissements d'enseignement supérieur délivrant un diplôme
+conférant au moins le grade de master, autre que les conférences mentionnées au I de l'article D. 232-3 ; 
+
+b) L'autre parmi les chefs des établissements d'enseignement public du second degré dispensant des formations d'enseignement
+supérieur appartenant à l'organisation syndicale la plus représentative aux élections professionnelles. 
+
+Pour chacune d'elles, un suppléant est désigné dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°89-1 du 2 janvier 1989 - art. 4 (M)
   - Décret n°89-1 du 2 janvier 1989 - art. 4 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2008-846 du 25 août 2008 - art. 4
+
+_Cite_:
+
+  - Code de l'éducation - art. D232-3
 
 
 ###### Article D232-6
@@ -41930,22 +41952,28 @@ _Cite_:
 
 ###### Article D232-15
 
-Il est créé une section permanente du Conseil national de l'enseignement supérieur et de la recherche, composée de vingt
-membres, élus par l'ensemble des membres du conseil ainsi répartis :
+Il est créé, au sein du Conseil national de l'enseignement supérieur et de la recherche, une section permanente, composée de
+vingt-trois membres : 
 
-1° Quatorze représentants des personnels et des étudiants des établissements publics à caractère scientifique, culturel et
-professionnel, à savoir :
+1° Dix-sept représentants des responsables, des personnels et des étudiants des établissements publics à caractère
+scientifique, culturel et professionnel, à savoir : 
 
-a) Quatre représentants des professeurs, personnels de niveau équivalent et personnels assimilés ;
+a) Trois représentants des responsables des établissements publics à caractère scientifique, culturel et professionnel à
+raison de deux représentants pour la conférence des présidents d'universités et d'un représentant pour la conférence des
+directeurs des écoles françaises d'ingénieurs désignés par leurs conférences respectives ; 
 
-b) Quatre représentants des autres enseignants-chercheurs, enseignants et chercheurs ;
+b) Quatre représentants des professeurs, personnels de niveau équivalent et personnels assimilés ; 
 
-c) Deux représentants des personnels administratifs, techniques, ouvriers et de service et du corps scientifique des
-bibliothèques ;
+c) Quatre représentants des autres enseignants-chercheurs, enseignants et chercheurs ; 
 
-d) Quatre représentants des étudiants ;
+d) Deux représentants des personnels administratifs, techniques, ouvriers et de service et du corps scientifique des
+bibliothèques ; 
 
-2° Six représentants des grands intérêts nationaux.
+e) Quatre représentants des étudiants ; 
+
+2° Six représentants des grands intérêts nationaux. 
+
+Les représentants mentionnés aux b à e du 1° et au 2° sont élus par l'ensemble des membres du conseil. 
 
 En dehors des sessions plénières, la section permanente exerce l'ensemble des attributions dévolues au Conseil national de
 l'enseignement supérieur et de la recherche.
@@ -41956,9 +41984,9 @@ _Anciens textes_:
 
   - Décret n°89-1 du 2 janvier 1989 - art. 8 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2008-846 du 25 août 2008 - art. 5
 
 
 ###### Article D232-16
