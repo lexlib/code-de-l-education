@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-08-28
+Version Consolidée au 2008-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -12,12 +12,12 @@ Version Consolidée au 2008-08-28
           - [Chapitre Ier : Dispositions générales. (art. L121-1 à L121-7)](#9)
           - [Chapitre II : Objectifs et missions de l'enseignement scolaire. (art. L122-1-1 à L122-7)](#10)
           - [Chapitre III : Objectifs et missions de l'enseignement supérieur. (art. L123-1 à L123-9)](#11)
-        - [Titre III : L'obligation scolaire, la gratuité et l'accueil des élèves des écoles maternelles et élémentaires (art. L131-1 à L133-11)](#12)
+        - [Titre III : L'obligation scolaire, la gratuité et l'accueil des élèves des écoles maternelles et élémentaires (art. L131-1 à L133-12)](#12)
           - [Chapitre Ier : L'obligation scolaire. (art. L131-1 à L131-12)](#13)
           - [Chapitre II : La gratuité de l'enseignement scolaire public. (art. L132-1 à L132-2)](#14)
-          - [Chapitre III : L'accueil des élèves des écoles maternelles et élémentaires (art. L133-2 à L133-11)](#15)
-            - [Section 1 : L'accueil des élèves des écoles maternelles et élémentaires publiques (art. L133-2)](#16)
-            - [Section 2 : L'accueil des élèves des écoles maternelles et élémentaires privées sous contrat (art. L133-11)](#17)
+          - [Chapitre III : L'accueil des élèves des écoles maternelles et élémentaires (art. L133-1 à L133-12)](#15)
+            - [Section 1 : L'accueil des élèves des écoles maternelles et élémentaires publiques (art. L133-2 à L133-10)](#16)
+            - [Section 2 : L'accueil des élèves des écoles maternelles et élémentaires privées sous contrat (art. L133-11 à L133-12)](#17)
         - [Titre IV : La laïcité de l'enseignement public (art. L141-1 à L141-6)](#18)
           - [Chapitre unique. (art. L141-1 à L141-6)](#19)
         - [Titre V : La liberté de l'enseignement (art. L151-1 à L151-6)](#20)
@@ -2812,6 +2812,31 @@ _Cité par_:
 
 ##### Chapitre III : L'accueil des élèves des écoles maternelles et élémentaires<a id=15></a>
 
+###### Article L133-1
+
+Tout enfant scolarisé dans une école maternelle ou élémentaire publique ou privée sous contrat est accueilli pendant le temps
+scolaire pour y suivre les enseignements prévus par les programmes. Il bénéficie gratuitement d'un service d'accueil lorsque
+ces enseignements ne peuvent lui être délivrés en raison de l'absence imprévisible de son professeur et de l'impossibilité de
+le remplacer. Il en est de même en cas de grève, dans les conditions prévues aux articles L. 133-3 à L. 133-12.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 2
+
+_Cité par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 15 (V)
+  - Décret n°2008-1246 du 1er décembre 2008 (V)
+  - Code de l'éducation - art. L133-12 (V)
+  - Code de l'éducation - art. L421-19-7 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L133-3
+
+
 ##### Section 1 : L'accueil des élèves des écoles maternelles et élémentaires publiques<a id=16></a>
 
 ###### Article L133-2
@@ -2870,6 +2895,232 @@ _Cite_:
   - Code du travail - art. L2512-2 (V)
 
 
+###### Article L133-3
+
+En cas de grève des enseignants d'une école maternelle ou élémentaire publique, les enfants scolarisés dans cette école
+bénéficient gratuitement, pendant le temps scolaire, d'un service d'accueil qui est organisé par l'Etat, sauf lorsque la
+commune en est chargée en application du quatrième alinéa de l'article L. 133-4.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 4
+
+_Cité par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 15 (V)
+  - Code de l'éducation - art. L133-1 (VD)
+
+_Cite_:
+
+  - Code de l'éducation - art. L133-4
+
+
+###### Article L133-4
+
+Dans le cas où un préavis de grève a été déposé dans les conditions prévues par l'article L. 2512-2 du code du travail et en
+vue de la mise en place d'un service d'accueil, toute personne exerçant des fonctions d'enseignement dans une école
+maternelle ou élémentaire publique déclare à l'autorité administrative, au moins quarante-huit heures, comprenant au moins un
+jour ouvré, avant de participer à la grève, son intention d'y prendre part. 
+
+Dans le cadre de la négociation préalable prévue à l'article L. 133-2 du présent code, l'Etat et la ou les organisations
+syndicales représentatives qui ont procédé à la notification prévue au II de ce même article peuvent s'entendre sur les
+modalités selon lesquelles ces déclarations préalables sont portées à la connaissance de l'autorité administrative. En tout
+état de cause, cette dernière doit être informée, au plus tard quarante-huit heures avant le début de la grève, du nombre,
+par école, des personnes ayant déclaré leur intention d'y participer. 
+
+L'autorité administrative communique sans délai au maire, pour chaque école, le nombre de personnes ayant fait cette
+déclaration et exerçant dans la commune. 
+
+La commune met en place le service d'accueil à destination des élèves d'une école maternelle ou élémentaire publique située
+sur son territoire lorsque le nombre des personnes qui ont déclaré leur intention de participer à la grève en application du
+premier alinéa est égal ou supérieur à 25 % du nombre de personnes qui exercent des fonctions d'enseignement dans cette
+école. 
+
+Les familles sont informées des modalités d'organisation du service d'accueil par la commune et, le cas échéant, par les
+maires d'arrondissement. 
+
+Pour les communes de Paris, Lyon et Marseille, le maire de la commune informe sans délai le président de la caisse des écoles
+de ces modalités.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 5
+
+_Cité par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 14 (V)
+  - Décret n°2008-901 du 4 septembre 2008 - art. 1 (V)
+  - Décret n°2008-1246 du 1er décembre 2008 - art. 5 (V)
+  - Code de l'éducation - art. L133-10 (VD)
+  - Code de l'éducation - art. L133-3 (VD)
+  - Code de l'éducation - art. L133-5 (V)
+  - Code de l'éducation - art. L133-6 (VD)
+  - Code de l'éducation - art. L133-7 (V)
+  - Code de l'éducation - art. L133-8 (VD)
+
+_Cite_:
+
+  - Code de l'éducation - art. L133-2 (V)
+  - Code du travail - art. L2512-2 (V)
+
+
+###### Article L133-5
+
+Les informations issues des déclarations individuelles ne peuvent être utilisées que pour l'organisation, durant la grève, du
+service mentionné à l'article L. 133-4. Elles sont couvertes par le secret professionnel. Leur utilisation à d'autres fins ou
+leur communication à toute autre personne que celles qui doivent en connaître est passible des peines prévues à l'article
+226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 6
+
+_Cite_:
+
+  - Code pénal - art. 226-13 (V)
+  - Code de l'éducation - art. L133-4 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. L133-12 (V)
+
+
+###### Article L133-6
+
+Pour la mise en œuvre du service prévu au quatrième alinéa de l'article L. 133-4, la commune peut accueillir les élèves dans
+les locaux des écoles maternelles et élémentaires publiques, y compris lorsque ceux-ci continuent d'être utilisés en partie
+pour les besoins de l'enseignement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 7
+
+_Cité par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 14 (V)
+  - Arrêté du 19 avril 2012 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L133-4
+
+
+###### Article L133-7
+
+Le maire établit une liste des personnes susceptibles d'assurer le service d'accueil prévu à l'article L. 133-4 en veillant à
+ce qu'elles possèdent les qualités nécessaires pour accueillir et encadrer des enfants. 
+
+Cette liste est transmise à l'autorité académique qui s'assure, par une vérification opérée dans les conditions prévues au 3°
+de l'article 706-53-7 du code de procédure pénale, que ces personnes, préalablement informées de la vérification, ne figurent
+pas dans le fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes. 
+
+Lorsque l'autorité académique est conduite à écarter certaines personnes de la liste, elle en informe le maire sans en
+divulguer les motifs. 
+
+Cette liste est transmise pour information aux représentants des parents d'élèves élus au conseil d'école. Les personnes y
+figurant sont préalablement informées de cette transmission.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 8
+
+_Cite_:
+
+  - Code de procédure pénale - art. 706-53-7 (V)
+  - Code de l'éducation - art. L133-4 (V)
+
+
+###### Article L133-8
+
+L'Etat verse une compensation financière à chaque commune qui a mis en place le service d'accueil prévu au quatrième alinéa
+de l'article L. 133-4 au titre des dépenses exposées pour la rémunération des personnes chargées de cet accueil. 
+
+Cette compensation est fonction du nombre d'élèves accueillis. 
+
+Pour chaque journée de mise en œuvre du service d'accueil par la commune, la compensation ne peut être inférieure à un
+montant égal à neuf fois le salaire minimum de croissance horaire par enseignant ayant participé au mouvement de grève. 
+
+Le montant et les modalités de versement et de réévaluation régulière de la compensation sont fixés par décret. Ce décret
+fixe également le montant minimal de la compensation versée à toute commune ayant organisé le service d'accueil. 
+
+Le versement de cette compensation intervient au maximum trente-cinq jours après notification par le maire, à l'autorité
+académique ou à son représentant, des éléments nécessaires à son calcul.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 9
+
+_Cité par_:
+
+  - Décret n°2008-901 du 4 septembre 2008 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L133-4
+
+
+###### Article L133-9
+
+La responsabilité administrative de l'Etat est substituée à celle de la commune dans tous les cas où celle-ci se trouve
+engagée en raison d'un fait dommageable commis ou subi par un élève du fait de l'organisation ou du fonctionnement du service
+d'accueil.L'Etat est alors subrogé aux droits de la commune, notamment pour exercer les actions récursoires qui lui sont
+ouvertes. 
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 2123-34 du code général des collectivités territoriales,
+il appartient à l'Etat d'accorder sa protection au maire lorsque ce dernier fait l'objet de poursuites pénales à l'occasion
+de faits, n'ayant pas le caractère de faute détachable de l'exercice de ses fonctions, qui ont causé un dommage à un enfant
+dans le cadre de l'organisation ou du fonctionnement du service d'accueil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 10
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2123-34
+
+
+###### Article L133-10
+
+La commune peut confier par convention à une autre commune ou à un établissement public de coopération intercommunale
+l'organisation, pour son compte, du service d'accueil. 
+
+Elle peut également confier par convention cette organisation à une caisse des écoles, à la demande expresse du président de
+celle-ci. 
+
+Lorsque les compétences relatives au fonctionnement des écoles publiques ainsi qu'à l'accueil des enfants en dehors du temps
+scolaire ont été transférées à un établissement public de coopération intercommunale, celui-ci exerce de plein droit la
+compétence d'organisation du service d'accueil en application du quatrième alinéa de l'article L. 133-4.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 11
+
+_Cité par_:
+
+  - Décret n°2008-901 du 4 septembre 2008 - art. 2 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L133-4
+
+
 ##### Section 2 : L'accueil des élèves des écoles maternelles et élémentaires privées sous contrat<a id=17></a>
 
 ###### Article L133-11
@@ -2891,6 +3142,42 @@ _Créé par_:
 _Cite_:
 
   - Code de l'éducation - art. L133-2
+
+
+###### Article L133-12
+
+L'organisme de gestion des écoles maternelles et élémentaires privées sous contrat est chargé de la mise en place du service
+d'accueil prévu à l'article L. 133-1 pour les élèves de ces écoles. 
+
+Dans le cas où un préavis de grève a été déposé dans les conditions prévues par l'article L. 2512-2 du code du travail et en
+vue de la mise en place d'un service d'accueil, toute personne exerçant des fonctions d'enseignement dans une école
+maternelle ou élémentaire privée sous contrat déclare au chef d'établissement, au moins quarante-huit heures, comprenant au
+moins un jour ouvré, avant de participer à la grève, son intention d'y prendre part. Le chef d'établissement communique sans
+délai à l'organisme de gestion de l'école le nombre de personnes ayant fait cette déclaration. L'article L. 133-5 du présent
+code est applicable aux informations issues des déclarations individuelles. 
+
+L'Etat verse une contribution financière à chaque organisme de gestion qui a mis en place le service d'accueil au titre des
+dépenses exposées pour la rémunération des personnes chargées de cet accueil, lorsque le nombre de personnes exerçant des
+fonctions d'enseignement dans chaque école qu'il gère et qui ont participé à la grève est égal ou supérieur à 25 % du nombre
+d'enseignants de l'école. Cette contribution est fonction du nombre d'élèves accueillis et du nombre effectif de grévistes.
+Son montant et les modalités de son versement et de sa réévaluation régulière sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 13
+
+_Cité par_:
+
+  - Loi n°2008-790 du 20 août 2008 - art. 15 (V)
+  - Décret n°2008-901 du 4 septembre 2008 - art. 5 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L133-1 (V)
+  - Code de l'éducation - art. L133-5 (V)
+  - Code du travail - art. L2512-2 (V)
 
 
 #### Titre IV : La laïcité de l'enseignement public<a id=18></a>
@@ -76295,8 +76582,8 @@ Le conseil d'école, sur proposition du directeur de l'école :
 
 1° Vote le règlement intérieur de l'école ; 
 
-2° Etablit le projet d'organisation de la semaine scolaire, conformément à l'article 10 du décret n° 90-788 du 6 septembre
-1990 relatif à l'organisation et au fonctionnement des écoles maternelles et élémentaires ; 
+2° Etablit le projet d'organisation de la semaine scolaire conformément aux articles 10 et 10-1 du décret n° 90-788 du 6
+septembre 1990 relatif à l'organisation et au fonctionnement des écoles maternelles et élémentaires ; 
 
 3° Dans le cadre de l'élaboration du projet d'école à laquelle il est associé, donne tous avis et présente toutes suggestions
 sur le fonctionnement de l'école et sur toutes les questions intéressant la vie de l'école, et notamment sur : 
@@ -76338,22 +76625,15 @@ questions dont a eu à connaître le conseil d'école, notamment sur la réalisa
 Par ailleurs, le conseil d'école est informé des conditions dans lesquelles les maîtres organisent les rencontres avec les
 parents de leurs élèves, et notamment la réunion de rentrée. 
 
-Le conseil d'école établit son règlement intérieur, et notamment les modalités des délibérations. 
-
-Le conseil d'école peut établir un projet d'organisation du temps scolaire, conformément aux dispositions de l'article 10-1
-du décret du 6 septembre 1990 susmentionné.
+Le conseil d'école établit son règlement intérieur, et notamment les modalités des délibérations.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°90-788 du 6 septembre 1990 - art. 10 (VT)
-  - Code de l'éducation - art. L212-15 (V)
-  - Code de l'éducation - art. L216-1 (V)
-
-_Anciens textes_:
-
-  - Décret n°90-788 du 6 septembre 1990 - art. 18 (Ab)
+  - Décret n°90-788 du 6 septembre 1990 - art. 10
+  - Code de l'éducation - art. L212-15
+  - Code de l'éducation - art. L216-1
 
 _Cité par_:
 
@@ -76363,13 +76643,9 @@ _Cité par_:
   - Code de l'éducation - art. D492-3 (V)
   - Code de l'éducation - art. D521-11 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2008-463 du 15 mai 2008 - art. 4
 
 
 ###### Article D411-3
