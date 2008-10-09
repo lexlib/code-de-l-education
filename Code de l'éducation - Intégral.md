@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-10-04
+Version Consolidée au 2008-10-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -388,7 +388,7 @@ Version Consolidée au 2008-10-04
           - [Section 2 : Carte scolaire (art. D211-9 à D211-11)](#385)
             - [Sous-section 1 : Carte scolaire du premier degré. (art. D211-9)](#386)
             - [Sous-section 2 : Secteurs et districts du second degré. (art. D211-10 à D211-11)](#387)
-          - [Section 3 : Liste des établissements dont la responsabilité et la charge incombent entièrement à l'Etat. (art. D211-12 à D211-13)](#388)
+          - [Section 3 : Liste des établissements dont la responsabilité et la charge incombent entièrement à l'Etat. (art. D211-12 à D211-13-1)](#388)
           - [Section 4 : Liste des dépenses pédagogiques à la charge de l'Etat. (art. D211-14 à D211-16)](#389)
         - [Chapitre II : Les compétences des communes (art. D212-1 à D212-34)](#390)
           - [Section 1 : Ecoles et classes élémentaires et maternelles (art. D212-1 à R212-23)](#391)
@@ -37287,6 +37287,42 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'éducation - art. L216-2 (V)
+
+
+###### Article D211-13-1
+
+En application de l'article L. 216-3, les établissements d'enseignement public des arts plastiques dont la responsabilité et
+la charge incombent entièrement à l'Etat sont les suivants : 
+
+Ecole nationale supérieure des arts décoratifs ; 
+
+Ecole nationale supérieure des beaux-arts ; 
+
+Ecole nationale supérieure de création industrielle ; 
+
+Ecole nationale supérieure de la photographie (Arles) ; 
+
+Ecole nationale supérieure d'art de Bourges ; 
+
+Ecole nationale supérieure d'art de Cergy ; 
+
+Ecole nationale supérieure d'art de Dijon ; 
+
+Ecole nationale supérieure d'art de Limoges-Aubusson ; 
+
+Ecole nationale supérieure d'art de Nancy ; 
+
+Villa Arson (Nice).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1027 du 7 octobre 2008 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. L216-3
 
 
 ##### Section 4 : Liste des dépenses pédagogiques à la charge de l'Etat.<a id=389></a>
