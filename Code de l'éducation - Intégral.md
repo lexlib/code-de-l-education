@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-12-29
+Version Consolidée au 2009-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -4388,11 +4388,12 @@ les écoles publiques, qui sont logés par chaque commune ou qui reçoivent d'el
 Elle est diminuée chaque année par la loi de finances initiale du montant de la dotation versée au titre du logement des
 instituteurs dont les emplois sont transformés en emplois de professeurs des écoles. 
 
-Il est procédé, au plus tard le 31 juillet de l'année suivante, à la régularisation de la diminution réalisée, conformément
-aux dispositions du précédent alinéa, en fonction de l'effectif réel des personnels sortis du corps des instituteurs et de
-leurs droits au logement au regard de la dotation spéciale. 
-
-La diminution est calculée par référence au montant unitaire de la dotation spéciale. "
+Le comité des finances locales procède à un nouveau calcul de cette diminution du montant inscrit en loi de finances
+initiale, au plus tard le 31 juillet de l'année suivant la répartition, en fonction du taux de variation entre l'effectif
+réel du corps des instituteurs recensé au 1er octobre de l'année précédant celle au titre de laquelle la dotation a été
+répartie et celui de l'antépénultième année.L'écart éventuel entre la dotation inscrite en loi de finances et le montant
+ainsi calculé est prioritairement financé par mobilisation du reliquat comptable net global constaté au terme de la
+répartition de la dotation spéciale pour le logement des instituteurs au titre de l'année considérée "
 
 " Art.L. 2334-27.-La dotation spéciale pour le logement des instituteurs prévue à l'article L. 2334-26 est divisée en deux
 parts :
@@ -4437,8 +4438,7 @@ Aucune somme n'est reversée directement aux communes au titre des opérations v
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 42
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 43
+  - Loi n°2008-1443 du 30 décembre 2008 - art. 5
 
 _Cite_:
 
@@ -45688,43 +45688,44 @@ _Abrogé par_:
 ###### Article D237-3
 
 Le haut comité comprend quarante et un membres nommés par le ministre chargé de l'éducation pour une durée de trois ans
-renouvelable :
+renouvelable : 
 
 1° Dix-huit personnes représentatives des organisations professionnelles représentatives d'employeurs et des organisations
 syndicales de salariés ainsi que des associations de lycéens et des associations d'étudiants désignées sur proposition de
-leurs organisations respectives. Ces organisations peuvent désigner chacune un suppléant ;
+leurs organisations respectives. Ces organisations peuvent désigner chacune un suppléant ; 
 
-2° Le directeur général de l'administration et de la fonction publique ou son représentant ;
+2° Le directeur général de l'administration et de la fonction publique ou son représentant ; 
 
-3° Les directeurs des administrations centrales et organismes publics suivants ou leurs représentants :
+3° Les directeurs des administrations centrales et organismes publics suivants ou leurs représentants : 
 
-a) Le directeur de la prévision du ministère de l'économie, des finances et de l'industrie ou son représentant ;
+a) Le directeur de la prévision du ministère de l'économie, des finances et de l'industrie ou son représentant ; 
 
 b) Le directeur de l'animation de la recherche, des études et des statistiques du ministère de l'emploi et de la solidarité
-ou son représentant ;
+ou son représentant ; 
 
-c) Le directeur de l'évaluation et de la prospective du ministère de l'éducation nationale ou son représentant ;
+c) Le directeur de l'évaluation et de la prospective du ministère de l'éducation nationale ou son représentant ; 
 
 d) Le directeur général de l'enseignement et de la recherche du ministère de l'agriculture et de la pêche ou son
-représentant ;
+représentant ; 
 
-e) Le délégué général à l'emploi et à la formation professionnelle ou son représentant ;
+e) Le délégué général à l'emploi et à la formation professionnelle ou son représentant ; 
 
-f) Le directeur du Centre d'études et de recherches sur les qualifications ou son représentant ;
+f) Le directeur du Centre d'études et de recherches sur les qualifications ou son représentant ; 
 
-g) Le directeur général du Centre d'analyse stratégique ou son représentant ;
+g) Le directeur général du Centre d'analyse stratégique ou son représentant ; 
 
-h) Le directeur de l'Agence nationale pour l'emploi ou son représentant ;
+h) Le directeur de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou son représentant ; 
 
 4° Quatorze personnalités qualifiées choisies pour leur compétence en matière d'éducation, d'économie et d'emploi. Le
 président du haut comité est choisi par le ministre chargé de l'éducation parmi ces personnalités qualifiées.
 
 **Nota:**
 
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
-vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
-première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de
-pôle emploi est effective depuis le 1er janvier 2009.
+Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent
+en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de
+l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de
+l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier
+2009.
 
 **Liens relatifs à cet article**
 
@@ -45733,13 +45734,13 @@ _Anciens textes_:
   - Décret n°2000-216 2000-03-06 art. 3, alinéas 1 à 13
   - Décret n°2000-216 du 6 mars 2000 - art. 3 (M)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2006-672 du 8 juin 2006 - art. 17 (Ab), art. 18 (V)
 
 _Modifié par_:
 
-  - Décret n°2006-260 du 6 mars 2006 - art. 6 (Ab) JORF 7 mars 2006
+  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
 
 
 ###### Article D237-4
@@ -52019,42 +52020,43 @@ _Cite_:
 
 ###### Article D313-14
 
-I. - Conformément aux dispositions de l'article L. 313-6 et en liaison avec les établissements d'enseignement, les
+I.-Conformément aux dispositions de l'article L. 313-6 et en liaison avec les établissements d'enseignement, les
 administrations, les professions et organismes intéressés, l'Office national d'information sur les enseignements et les
-professions est chargé :
+professions est chargé : 
 
 1° D'élaborer et de mettre à la disposition des utilisateurs la documentation nécessaire à l'information et à l'orientation
-par une meilleure connaissance des moyens d'éducation et des activités professionnelles ;
+par une meilleure connaissance des moyens d'éducation et des activités professionnelles ; 
 
 2° De contribuer aux études et recherches relatives aux méthodes et aux moyens propres à développer cette documentation et à
-faciliter l'information et l'orientation ;
+faciliter l'information et l'orientation ; 
 
 3° De faire des études et de susciter des recherches tendant à améliorer la connaissance des activités professionnelles et de
-leur évolution ;
+leur évolution ; 
 
 4° De contribuer à la définition des orientations générales de la politique de formation du personnel chargé de l'information
-sur les enseignements et les professions et de participer à son perfectionnement.
+sur les enseignements et les professions et de participer à son perfectionnement. 
 
-II. - Dans ce cadre, l'office peut passer convention avec tous les organismes intéressés, notamment avec :
+II.-Dans ce cadre, l'office peut passer convention avec tous les organismes intéressés, notamment avec : 
 
 1° Les universités, pour leur permettre de remplir les missions définies aux articles L. 611-2 et L. 611-3 et de contribuer,
 dans le cadre de la planification établie par le Conseil national de l'enseignement supérieur et de la recherche, à
-l'adaptation réciproque des débouchés professionnels et des enseignements universitaires dispensés ;
+l'adaptation réciproque des débouchés professionnels et des enseignements universitaires dispensés ; 
 
-2° L'Agence nationale pour l'emploi mentionnée aux articles L. 311-7 et L. 311-8 du code du travail.
+2° L' institution mentionnée à l'article L. 5312-1 du code du travail. 
 
 Il est également chargé d'apporter sa collaboration aux administrations et aux organismes intéressés par les questions qui
 relèvent de sa compétence, et notamment au Conseil national de la formation professionnelle tout au long de la vie institué
-aux  articles L. 6123-1, L. 6123-2, R. 6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14, D. 6123-19 à D. 612-21, D.
-6123-25 à D. 6123-27 du code du travail en vue de l'élaboration et de la mise en oeuvre de la politique coordonnée de
-formation professionnelle et de promotion sociale.
+articles L. 6123-1, L. 6123-2, R. 6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14, D. 6123-19 à D. 612-21, D. 6123-25 à
+D. 6123-27 du code du travail en vue de l'élaboration et de la mise en oeuvre de la politique coordonnée de formation
+professionnelle et de promotion sociale.
 
 **Nota:**
 
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
-vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
-première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de
-pôle emploi est effective depuis le 1er janvier 2009.
+Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent
+en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de
+l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de
+l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier
+2009.
 
 **Liens relatifs à cet article**
 
@@ -52065,7 +52067,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
 
 _Cité par_:
 
@@ -52075,100 +52077,101 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. L313-6 (V)
-  - Code de l'éducation - art. L611-2 (V)
-  - Code de l'éducation - art. L611-3 (V)
-  - Code du travail - art. L311-7 (M)
-  - Code du travail - art. L311-8 (M)
-  - Code du travail - art. L910-1 (M)
+  - Code de l'éducation - art. L313-6
+  - Code de l'éducation - art. L611-2
+  - Code de l'éducation - art. L611-3
+  - Code du travail - art. L311-7
+  - Code du travail - art. L311-8
+  - Code du travail - art. L910-1
 
 
 ###### Article D313-15
 
 L'Office national d'information sur les enseignements et les professions est administré par un conseil d'administration et
-dirigé par un directeur.
+dirigé par un directeur. 
 
-Le conseil d'administration comprend :
+Le conseil d'administration comprend : 
 
-1° Dix-sept membres de droit :
+1° Dix-sept membres de droit : 
 
-a) Deux représentants du ministre chargé de l'éducation nommés par arrêté de celui-ci ;
+a) Deux représentants du ministre chargé de l'éducation nommés par arrêté de celui-ci ; 
 
-b) Un représentant du ministre chargé de l'enseignement supérieur nommé par arrêté de celui-ci ;
+b) Un représentant du ministre chargé de l'enseignement supérieur nommé par arrêté de celui-ci ; 
 
-c) Le directeur général du Centre d'analyse stratégique ;
+c) Le directeur général du Centre d'analyse stratégique ; 
 
-d) Le directeur général de l'administration et de la fonction publique ;
+d) Le directeur général de l'administration et de la fonction publique ; 
 
-e) Le directeur général de l'Institut national de la statistique et des études économiques ;
+e) Le directeur général de l'Institut national de la statistique et des études économiques ; 
 
-f) Le délégué général à l'emploi et à la formation professionnelle au ministère chargé de l'emploi ;
+f) Le délégué général à l'emploi et à la formation professionnelle au ministère chargé de l'emploi ; 
 
-g) Le directeur général de l'enseignement et de la recherche au ministère chargé de l'agriculture ;
+g) Le directeur général de l'enseignement et de la recherche au ministère chargé de l'agriculture ; 
 
-h) Le directeur du budget au ministère chargé du budget ;
+h) Le directeur du budget au ministère chargé du budget ; 
 
 i) Le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère chargé de
-l'économie ;
+l'économie ; 
 
-j) Le directeur de la jeunesse et de la vie associative au ministère chargé de la jeunesse ;
+j) Le directeur de la jeunesse et de la vie associative au ministère chargé de la jeunesse ; 
 
-k) Le directeur général de l'Agence nationale pour l'emploi ;
+k) Le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ; 
 
-l) Le directeur général de l'industrie, des technologies de l'information et des postes au ministère chargé de l'industrie ;
+l) Le directeur général de l'industrie, des technologies de l'information et des postes au ministère chargé de l'industrie ; 
 
-m) Le directeur du commerce, de l'artisanat, des services et des professions libérales au ministère chargé de l'artisanat ;
+m) Le directeur du commerce, de l'artisanat, des services et des professions libérales au ministère chargé de l'artisanat ; 
 
-n) Le délégué interministériel à l'aménagement et à la compétitivité des territoires ;
+n) Le délégué interministériel à l'aménagement et à la compétitivité des territoires ; 
 
-o) Le secrétaire général du comité interministériel prévu à l'article L. 910-1 du code du travail ;
+o) Le secrétaire général du comité interministériel prévu à l'article L. 910-1 du code du travail ; 
 
-p) La chef du service des droits des femmes et de l'égalité au ministère chargé des droits des femmes ;
+p) La chef du service des droits des femmes et de l'égalité au ministère chargé des droits des femmes ; 
 
-2° Quatre représentants des organisations professionnelles d'employeurs les plus représentatives ;
+2° Quatre représentants des organisations professionnelles d'employeurs les plus représentatives ; 
 
-3° Un représentant des chambres de commerce et d'industrie ;
+3° Un représentant des chambres de commerce et d'industrie ; 
 
-4° Un représentant des chambres de métiers et de l'artisanat ;
+4° Un représentant des chambres de métiers et de l'artisanat ; 
 
-5° Six représentants d'organisations syndicales de salariés représentatives ;
+5° Six représentants d'organisations syndicales de salariés représentatives ; 
 
-6° Un représentant des chambres d'agriculture et un représentant des organisations d'exploitants agricoles ;
+6° Un représentant des chambres d'agriculture et un représentant des organisations d'exploitants agricoles ; 
 
-7° Un représentant de l'Union nationale des associations familiales ;
+7° Un représentant de l'Union nationale des associations familiales ; 
 
-8° Cinq représentants des associations de parents d'élèves, dont un de l'enseignement privé sous contrat ;
+8° Cinq représentants des associations de parents d'élèves, dont un de l'enseignement privé sous contrat ; 
 
 9° Deux représentants des étudiants, désignés sur proposition du Conseil national de l'enseignement supérieur et de la
-recherche ;
+recherche ; 
 
 10° Sept représentants des enseignants, dont un de l'enseignement privé sous contrat, et un président d'établissement public
 à caractère scientifique, culturel et professionnel, sur proposition du Conseil national de l'enseignement supérieur et de la
-recherche ;
+recherche ; 
 
-11° Un directeur d'institut de formation du personnel des services d'information et d'orientation ;
+11° Un directeur d'institut de formation du personnel des services d'information et d'orientation ; 
 
-12° Un directeur de centre d'information et d'orientation ;
+12° Un directeur de centre d'information et d'orientation ; 
 
-13° Trois représentants du personnel de l'office ;
+13° Trois représentants du personnel de l'office ; 
 
-14° Trois membres choisis parmi les personnalités particulièrement compétentes dans les domaines qui intéressent l'office.
+14° Trois membres choisis parmi les personnalités particulièrement compétentes dans les domaines qui intéressent l'office. 
 
 Le directeur de l'office, le directeur du Centre d'études et de recherches sur les qualifications, le membre du corps du
-contrôle général économique et financier et l'agent comptable assistent aux séances du conseil avec voix consultative.
+contrôle général économique et financier et l'agent comptable assistent aux séances du conseil avec voix consultative. 
 
 En outre, le président du conseil d'administration peut, compte tenu des problèmes inscrits à l'ordre du jour, demander à
 chacun des ministres intéressés qui ne seraient pas représentés dans le conseil d'administration de désigner un haut
-fonctionnaire pour assister à la séance avec voix consultative.
+fonctionnaire pour assister à la séance avec voix consultative. 
 
 Les membres de droit peuvent se faire représenter par un fonctionnaire désigné par arrêté du ministre dont ils relèvent.
 
 **Nota:**
 
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
-vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
-première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de
-pôle emploi est effective depuis le 1er janvier 2009.
+Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent
+en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de
+l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de
+l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier
+2009.
 
 **Liens relatifs à cet article**
 
@@ -52176,9 +52179,9 @@ _Anciens textes_:
 
   - Décret n°70-239 du 19 mars 1970 - art. 2 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
 
 _Cité par_:
 
@@ -52187,7 +52190,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail - art. L910-1 (M)
+  - Code du travail - art. L910-1
 
 
 ###### Article D313-16
@@ -52363,43 +52366,37 @@ _Codifié par_:
 ###### Article D313-24
 
 Dans chaque académie, une délégation régionale de l'Office national d'information sur les enseignements et les professions,
-placée sous la tutelle du recteur, est dirigée par le chef du service académique d'information et d'orientation.
+placée sous la tutelle du recteur, est dirigée par le chef du service académique d'information et d'orientation. 
 
 Dans la région d'Ile-de-France, la délégation régionale est placée sous la tutelle des recteurs des académies de Créteil, de
 Paris et de Versailles, la coordination étant assurée par le comité des recteurs de la région d'Ile-de-France mentionné à
-l'article R.* 222-2. Cette délégation régionale est dirigée par un chef de service académique d'information et d'orientation
-nommé par le ministre chargé de l'éducation après avis des recteurs des académies intéressées.
+l'article R. * 222-2. Cette délégation régionale est dirigée par un chef de service académique d'information et d'orientation
+nommé par le ministre chargé de l'éducation après avis des recteurs des académies intéressées. 
 
-La délégation régionale est chargée notamment :
+La délégation régionale est chargée notamment : 
 
 1° De diffuser dans les conditions fixées par le ministre chargé de l'éducation l'information sur les enseignements et les
-professions ;
+professions ; 
 
-2° D'élaborer la documentation propre à l'académie ;
+2° D'élaborer la documentation propre à l'académie ; 
 
 3° De mettre à la disposition des centres chargés de l'information et de l'orientation les moyens de documentation et
-d'information nécessaires à leur action ;
+d'information nécessaires à leur action ; 
 
 4° De participer aux études suscitées par l'office national, en particulier pour l'analyse des fonctions et l'évolution des
-qualifications professionnelles.
+qualifications professionnelles. 
 
 A ces fins, la délégation régionale collabore avec les divers services ou organismes régionaux compétents, et notamment avec
 le comité de coordination régional de l'emploi et de la formation professionnelle prévu aux articles L. 6123-1, L. 6123-2, R.
-6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14, D. 6123-19 à D. 612-21, D. 6123-25 à D. 6123-27  du code du travail.
-Elle passe également, au nom de l'office, avec les universités et les autres établissements à caractère scientifique,
-culturel et professionnel, les conventions de coopération nécessaires.
+6123-2, R. 6521-1, R. 6521-16, 
+D. 6123-1, D. 6123-14, D. 6123-19 à D. 6123-21, D. 6123-25 à D. 6123-27 du code du travail. Elle passe également, au nom de
+l'office, avec les universités et les autres établissements à caractère scientifique, culturel et professionnel, les
+conventions de coopération nécessaires. 
 
 Dans le cas où la circonscription académique ne coïncide pas avec celle de la région, les liaisons de la délégation avec les
-préfets de région, les directions régionales du travail et de l'emploi, les centres régionaux de l'Agence nationale pour
-l'emploi et les comités de coordination régionaux de l'emploi et de la formation professionnelle sont définies par un arrêté
-des ministres intéressés.
-
-**Nota:**
-
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
-vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
-première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de
-pôle emploi est effective depuis le 1er janvier 2009.
+préfets de région, les directions régionales du travail et de l'emploi, les centres régionaux de l'institution mentionnée à
+l'article L. 5312-1 du code du travail et les comités de coordination régionaux de l'emploi et de la formation
+professionnelle sont définies par un arrêté des ministres intéressés.
 
 **Liens relatifs à cet article**
 
@@ -52409,98 +52406,112 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
+
+_Cite_:
+
+  - Code de l'éducation - art. R*222-2 (V)
+  - Code du travail - art. D6123-1 (T)
+  - Code du travail - art. D6123-14 (V)
+  - Code du travail - art. D6123-19 (V)
+  - Code du travail - art. D6123-25 (V)
+  - Code du travail - art. L5312-1 (V)
+  - Code du travail - art. L6123-1 (V)
+  - Code du travail - art. L6123-2 (V)
+  - Code du travail - art. R6521-1 (V)
+  - Code du travail - art. R6521-16 (V)
 
 
 ###### Article D313-25
 
 Auprès de chaque délégation régionale de l'Office national d'information sur les enseignements et les professions, un comité
-technique présidé par le recteur de l'académie comprend :
+technique présidé par le recteur de l'académie comprend : 
 
-1° Un membre du conseil régional désigné par cette assemblée ;
+1° Un membre du conseil régional désigné par cette assemblée ; 
 
-2° Un membre du comité économique et social désigné par cette assemblée ;
+2° Un membre du comité économique et social désigné par cette assemblée ; 
 
-3° Un inspecteur d'académie-inspecteur pédagogique régional désigné par le recteur ;
+3° Un inspecteur d'académie-inspecteur pédagogique régional désigné par le recteur ; 
 
-4° L'inspecteur d'académie-inspecteur pédagogique régional chargé de l'enseignement technique ;
+4° L'inspecteur d'académie-inspecteur pédagogique régional chargé de l'enseignement technique ; 
 
-5° Le délégué académique à la formation continue ;
+5° Le délégué académique à la formation continue ; 
 
-6° Le directeur du centre régional de documentation pédagogique ;
+6° Le directeur du centre régional de documentation pédagogique ; 
 
-7° Un inspecteur de l'information et de l'orientation désigné par le recteur ;
+7° Un inspecteur de l'information et de l'orientation désigné par le recteur ; 
 
-8° Le délégué régional à la formation professionnelle ;
+8° Le délégué régional à la formation professionnelle ; 
 
-9° Le directeur régional du travail et de l'emploi ;
+9° Le directeur régional du travail et de l'emploi ; 
 
-10° Le chef du centre régional de l'Agence nationale pour l'emploi ;
+10° Le chef du centre régional de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ; 
 
-11° Le directeur régional de la jeunesse et des sports ;
+11° Le directeur régional de la jeunesse et des sports ; 
 
-12° Le directeur régional de l'agriculture et de la forêt ;
+12° Le directeur régional de l'agriculture et de la forêt ; 
 
-13° Le directeur régional de France 3 ;
+13° Le directeur régional de France 3 ; 
 
-14° La déléguée régionale représentant le ministre chargé des droits de la femme ;
+14° La déléguée régionale représentant le ministre chargé des droits de la femme ; 
 
-15° Un président d'université, sur proposition des présidents d'université de l'académie ;
+15° Un président d'université, sur proposition des présidents d'université de l'académie ; 
 
 16° Deux chefs d'établissement du second degré, sur proposition des organisations syndicales les plus représentatives à
-l'échelon académique ;
+l'échelon académique ; 
 
 17° Quatre enseignants du second degré, dont l'un représentant les professeurs d'enseignement général des collèges, deux
 représentant les professeurs d'enseignement général à gestion nationale et un représentant les professeurs des enseignements
 technologiques et professionnels, sur proposition des organisations syndicales les plus représentatives d'après les résultats
-des élections aux commissions administratives paritaires académiques ;
+des élections aux commissions administratives paritaires académiques ; 
 
 18° Un enseignant du second degré exerçant dans un établissement privé sous contrat d'association sur proposition de
 l'organisation syndicale la plus représentative à l'échelon académique d'après les résultats à la commission consultative
-mixte académique ;
+mixte académique ; 
 
 19° Un directeur de centre d'information et d'orientation et un conseiller d'orientation-psychologue exerçant dans un centre
 d'information et d'orientation, sur proposition des organisations syndicales les plus représentatives à l'échelon
-académique ;
+académique ; 
 
 20° Un directeur d'un service commun universitaire d'information et d'orientation sur proposition des directeurs des services
-communs des différentes universités de l'académie ;
+communs des différentes universités de l'académie ; 
 
 21° Un documentaliste d'un centre de documentation et d'information d'un établissement du second degré, sur proposition des
-organisations syndicales les plus représentatives à l'échelon académique ;
+organisations syndicales les plus représentatives à l'échelon académique ; 
 
 22° Quatre représentants des associations de parents d'élèves sur proposition des associations représentatives à l'échelon
-académique ;
+académique ; 
 
 23° Trois représentants des chambres consulaires et trois représentants des organisations professionnelles les plus
-représentatives, sur proposition de ces organismes ;
+représentatives, sur proposition de ces organismes ; 
 
-24° Six représentants des organisations syndicales de salariés, sur proposition des organisations représentatives ;
+24° Six représentants des organisations syndicales de salariés, sur proposition des organisations représentatives ; 
 
-25° Un étudiant sur proposition de l'organisation la plus représentative à l'échelon académique ;
+25° Un étudiant sur proposition de l'organisation la plus représentative à l'échelon académique ; 
 
 26° Un représentant élu par le personnel de la délégation régionale.
 
 A l'exception des membres de droit ou des membres élus, les membres du comité technique régional sont nommés par le recteur
-d'académie. Le mandat des membres, autres que les membres de droit, est d'une durée de trois ans.
+d'académie. Le mandat des membres, autres que les membres de droit, est d'une durée de trois ans. 
 
 Le délégué régional de l'office et le directeur de centre d'information et d'orientation adjoint au délégué régional
-assistent au comité technique avec voix consultative.
+assistent au comité technique avec voix consultative. 
 
 Le comité technique régional donne obligatoirement, chaque année, son avis sur les projets de programmes à caractère régional
-de la délégation et sur les projets de budgets qui leur correspondent.
+de la délégation et sur les projets de budgets qui leur correspondent. 
 
-Le délégué régional rend compte au comité, l'année suivante, des conditions dans lesquelles ces programmes ont été exécutés.
+Le délégué régional rend compte au comité, l'année suivante, des conditions dans lesquelles ces programmes ont été exécutés. 
 
 Le comité peut constituer des groupes de travail spécialisés auxquels il peut convier des représentants d'administrations ou
 d'organisations qui ne sont pas membres de ce comité.
 
 **Nota:**
 
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
-vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
-première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de
-pôle emploi est effective depuis le 1er janvier 2009.
+Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent
+en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de
+l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de
+l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier
+2009.
 
 **Liens relatifs à cet article**
 
@@ -52508,9 +52519,9 @@ _Anciens textes_:
 
   - Décret n°70-239 du 19 mars 1970 - art. 10 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
 
 _Cité par_:
 
@@ -52873,77 +52884,79 @@ _Cite_:
 
 ###### Article R313-39
 
-Le conseil d'administration du Centre d'études et de recherches sur les qualifications comprend :
+Le conseil d'administration du Centre d'études et de recherches sur les qualifications comprend : 
 
-1° Sept représentants de l'Etat désignés comme suit :
+1° Sept représentants de l'Etat désignés comme suit : 
 
-a) Deux sur proposition du ministre chargé de l'éducation ;
+a) Deux sur proposition du ministre chargé de l'éducation ; 
 
-b) Un sur proposition du ministre chargé de l'enseignement supérieur ;
+b) Un sur proposition du ministre chargé de l'enseignement supérieur ; 
 
-c) Deux sur proposition du ministre chargé de l'emploi ;
+c) Deux sur proposition du ministre chargé de l'emploi ; 
 
-d) Un sur proposition du ministre chargé de la recherche ;
+d) Un sur proposition du ministre chargé de la recherche ; 
 
-e) Un sur proposition du ministre chargé de l'industrie.
+e) Un sur proposition du ministre chargé de l'industrie. 
 
-Pour chacun de ces membres, un suppléant est désigné dans les mêmes conditions ;
+Pour chacun de ces membres, un suppléant est désigné dans les mêmes conditions ; 
 
-2° Six membres de droit :
+2° Six membres de droit : 
 
-a) Le directeur général de l'Association nationale pour la formation professionnelle des adultes ou son représentant ;
+a) Le directeur général de l'Association nationale pour la formation professionnelle des adultes ou son représentant ; 
 
-b) Le directeur général de l'Agence nationale pour l'emploi ou son représentant ;
+b) Le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou son représentant ; 
 
-c) Le directeur général du Centre d'analyse stratégique ou son représentant ;
+c) Le directeur général du Centre d'analyse stratégique ou son représentant ; 
 
-d) Le directeur de l'Office national d'information sur les enseignements et les professions ou son représentant ;
+d) Le directeur de l'Office national d'information sur les enseignements et les professions ou son représentant ; 
 
 e) Le secrétaire général du comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle
-continue ou son représentant ;
+continue ou son représentant ; 
 
-f) L'administrateur général du Conservatoire national des arts et métiers ou son représentant ;
+f) L'administrateur général du Conservatoire national des arts et métiers ou son représentant ; 
 
-3° Treize membres désignés comme suit :
+3° Treize membres désignés comme suit : 
 
-a) Deux sur proposition des organisations professionnelles d'employeurs les plus représentatives ;
+a) Deux sur proposition des organisations professionnelles d'employeurs les plus représentatives ; 
 
-b) Un sur proposition de l'Assemblée des chambres françaises de commerce et d'industrie ;
+b) Un sur proposition de l'Assemblée des chambres françaises de commerce et d'industrie ; 
 
-c) Un sur proposition de l'Assemblée permanente des chambres de métiers et de l'artisanat ;
+c) Un sur proposition de l'Assemblée permanente des chambres de métiers et de l'artisanat ; 
 
-d) Cinq sur proposition des organisations syndicales de salariés représentatives ;
+d) Cinq sur proposition des organisations syndicales de salariés représentatives ; 
 
-e) Un par chacune des deux organisations les plus représentatives des personnels de l'éducation nationale ;
+e) Un par chacune des deux organisations les plus représentatives des personnels de l'éducation nationale ; 
 
-f) Un sur proposition de l'Assemblée permanente des chambres d'agriculture ;
+f) Un sur proposition de l'Assemblée permanente des chambres d'agriculture ; 
 
-g) Un sur proposition de l'organisation d'exploitants agricoles la plus représentative ;
+g) Un sur proposition de l'organisation d'exploitants agricoles la plus représentative ; 
 
-4° Cinq membres choisis parmi les personnalités particulièrement compétentes dans les domaines qui intéressent le centre ;
+4° Cinq membres choisis parmi les personnalités particulièrement compétentes dans les domaines qui intéressent le centre ; 
 
-5° Le président du conseil scientifique du centre ;
+5° Le président du conseil scientifique du centre ; 
 
 6° Six représentants du personnel du centre élus à la représentation proportionnelle selon des modalités fixées par arrêté
-des ministres de tutelle.
+des ministres de tutelle. 
 
-Le mandat des membres du conseil d'administration, à l'exclusion des membres de droit, est de trois ans. Il est renouvelable.
+Le mandat des membres du conseil d'administration, à l'exclusion des membres de droit, est de trois ans. Il est
+renouvelable. 
 
 Les membres du conseil d'administration mentionnés au 1° et au 3° ci-dessus sont nommés par arrêté du ministre chargé de
-l'éducation et du ministre chargé de l'emploi.
+l'éducation et du ministre chargé de l'emploi. 
 
 Les membres du conseil d'administration mentionnés au 4° ci-dessus sont nommés par arrêté des mêmes ministres, après avis du
-ministre chargé de la recherche.
+ministre chargé de la recherche. 
 
 En cas de vacance, pour quelque cause que ce soit, il est procédé à une nouvelle désignation, sauf si cette vacance
 intervient moins de six mois avant la date du renouvellement du conseil.
 
 **Nota:**
 
-Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
-vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
-première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de
-pôle emploi est effective depuis le 1er janvier 2009.
+Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent
+en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de
+l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de
+l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier
+2009.
 
 **Liens relatifs à cet article**
 
@@ -52951,9 +52964,9 @@ _Anciens textes_:
 
   - Décret n°85-634 du 25 juin 1985 - art. 3 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
 
 _Cité par_:
 
