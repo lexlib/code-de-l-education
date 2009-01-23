@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
@@ -79471,28 +79471,20 @@ _Créé par_:
 ###### Article R421-64
 
 L'agent comptable tient la comptabilité générale dans les conditions définies par le plan comptable applicable à
-l'établissement, approuvé par arrêté interministériel pris après avis du Conseil national de la comptabilité.
+l'établissement, approuvé par arrêté interministériel pris après avis de l'Autorité des normes comptables. 
 
 Lorsque l'agent comptable ne peut tenir lui-même la comptabilité matière, il en exerce le contrôle. Les instructions données
 à ce sujet au préposé doivent avoir recueilli l'accord de l'agent comptable, qui demande qu'il soit procédé à l'inventaire
-annuel des stocks.
+annuel des stocks. 
 
 En cas de perte, de destruction ou vol des justifications remises à l'agent comptable, le chef d'établissement pourvoit à
 leur remplacement en établissant un certificat visé par le comptable supérieur du Trésor territorialement compétent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 41 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 
 ###### Article R421-65
@@ -81061,28 +81053,20 @@ _Créé par_:
 ###### Article R421-114
 
 L'agent comptable tient la comptabilité générale dans les conditions définies par le plan comptable applicable à
-l'établissement, approuvé par arrêté interministériel pris après avis du Conseil national de la comptabilité.
+l'établissement, approuvé par arrêté interministériel pris après avis de l'Autorité des normes comptables. 
 
 Lorsque l'agent comptable ne peut tenir lui-même la comptabilité matière, il en exerce le contrôle. Les instructions données
 à ce sujet au préposé doivent avoir recueilli l'accord de l'agent comptable qui demande qu'il soit procédé à l'inventaire
-annuel des stocks.
+annuel des stocks. 
 
 En cas de perte, destruction ou vol des justifications remises à l'agent comptable, le chef d'établissement pourvoit à leur
 remplacement en établissant un certificat visé par le comptable supérieur du Trésor territorialement compétent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 32 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 
 ###### Article R421-115
@@ -84228,28 +84212,20 @@ _Créé par_:
 ###### Article D422-52
 
 L'agent comptable tient la comptabilité générale dans les conditions définies par le plan comptable applicable à
-l'établissement, approuvé par arrêté interministériel pris après avis du Conseil national de la comptabilité.
+l'établissement, approuvé par arrêté interministériel pris après avis de l'Autorité des normes comptables. 
 
 Lorsque l'agent comptable ne peut tenir lui-même la comptabilité matière, il en exerce le contrôle. Les instructions données
 à ce sujet au préposé doivent avoir recueilli l'accord de l'agent comptable qui demande qu'il soit procédé à l'inventaire
-annuel des stocks.
+annuel des stocks. 
 
 En cas de perte, destruction ou vol des justifications remises à l'agent comptable, le chef d'établissement pourvoit à leur
 remplacement en établissant un certificat visé par le comptable supérieur du Trésor territorialement compétent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°86-164 du 31 janvier 1986 - art. 41 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 _Cité par_:
 
