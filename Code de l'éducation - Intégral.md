@@ -1,8 +1,8 @@
 # Code de l'éducation  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
-    - [Première partie : Dispositions générales et communes (art. L111-1 à L264-3)](#2)
+    - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
       - [Livre Ier : Principes généraux de l'éducation (art. L111-1 à L164-3)](#3)
         - [Titre Ier : Le droit à l'éducation (art. L111-1 à L113-1)](#4)
           - [Chapitre Ier : Dispositions générales. (art. L111-1 à L111-5)](#5)
@@ -27,7 +27,7 @@ Version Consolidée au 2009-05-14
           - [Chapitre II : Dispositions applicables à Mayotte. (art. L162-2 à L162-4)](#24)
           - [Chapitre III : Dispositions applicables en Polynésie française. (art. L163-1 à L163-4)](#25)
           - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L164-1 à L164-3)](#26)
-      - [Livre II : L'administration de l'éducation (art. L211-1 à L264-3)](#27)
+      - [Livre II : L'administration de l'éducation (art. L211-1 à L264-4)](#27)
         - [Titre Ier : La répartition des compétences entre l'Etat et les collectivités territoriales (art. L211-1 à L216-11)](#28)
           - [Chapitre Ier : Les compétences de l'Etat. (art. L211-1 à L211-8)](#29)
           - [Chapitre II : Les compétences des communes (art. L212-1 à L212-15)](#30)
@@ -75,11 +75,11 @@ Version Consolidée au 2009-05-14
           - [Chapitre II : L'évaluation des établissements publics à caractère scientifique, culturel et professionnel (art. L242-1)](#72)
         - [Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. L251-1)](#73)
           - [Chapitre unique. (art. L251-1)](#74)
-        - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L261-1 à L264-3)](#75)
+        - [Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. L261-1 à L264-4)](#75)
           - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. L261-1 à L261-2)](#76)
           - [Chapitre II : Dispositions applicables à Mayotte. (art. L262-1 à L262-3)](#77)
           - [Chapitre III : Dispositions applicables en Polynésie française. (art. L263-1 à L263-2)](#78)
-          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L264-1 à L264-3)](#79)
+          - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L264-1 à L264-4)](#79)
     - [Deuxième partie : Les enseignements scolaires (art. L311-1 à L564-1)](#80)
       - [Livre III : L'organisation des enseignements scolaires (art. L311-1 à L374-4)](#81)
         - [Titre Ier : L'organisation générale des enseignements (art. L311-1 à L314-2)](#82)
@@ -8997,6 +8997,27 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'éducation - art. L241-4 (V)
+
+
+###### Article L264-4
+
+Les dépenses de fonctionnement des classes de l'enseignement du premier degré sous contrat d'association, prévues à l'article
+L. 442-5, s'appliquent notamment : 
+
+1° Aux fournitures scolaires ; 
+
+2° A l'entretien des bâtiments et à leurs dépendances ; 
+
+3° A l'ensemble des dépenses de fonctionnement de ces locaux, en particulier l'eau, l'électricité, et à la rémunération des
+personnels de service s'il y a lieu ; 
+
+4° A l'acquisition et à l'entretien du mobilier scolaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-537 du 14 mai 2009 - art. 11
 
 
 ## Deuxième partie : Les enseignements scolaires<a id=80></a>
@@ -17968,7 +17989,8 @@ _Cite_:
 ###### Article L494-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 421-6 à L. 421-7, L. 421-9, L. 421-10, L. 423-1 à L. 423-3, L. 442-1,
-le premier alinéa de l'article L. 442-2, les articles L. 442-4, L. 442-5, L. 442-12, L. 442-15, L. 442-18 et L. 442-20.
+le premier alinéa de l'article L. 442-2,             les articles L. 442-4, L. 442-5, L. 442-8, à l'exception de son 2°, L.
+442-12, L. 442-15, L. 442-18 et L. 442-20.
 
 L'article L. 401-1 n'est applicable en Nouvelle-Calédonie qu'en tant qu'il concerne les établissements d'enseignement publics
 du second degré.
@@ -17983,29 +18005,24 @@ _Anciens textes_:
   - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
   - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 _Modifié par_:
 
-  - Loi n°2005-380 du 23 avril 2005 - art. 80 () JORF 24 avril 2005
+  - Ordonnance n°2009-537 du 14 mai 2009 - art. 11
 
 _Cite_:
 
-  - Code de l'éducation - art. L401-1 (V)
-  - Code de l'éducation - art. L421-10 (M)
-  - Code de l'éducation - art. L421-9 (V)
-  - Code de l'éducation - art. L442-1 (V)
-  - Code de l'éducation - art. L442-12 (V)
-  - Code de l'éducation - art. L442-15 (V)
-  - Code de l'éducation - art. L442-18 (M)
-  - Code de l'éducation - art. L442-2 (M)
-  - Code de l'éducation - art. L442-20 (M)
-  - Code de l'éducation - art. L442-4 (V)
-  - Code de l'éducation - art. L442-5 (M)
-  - Code de l'éducation L421-6 à L421-7, L421-9, L421-10, L423-1 à L423-3, L442-1, L442-2, L442-4, L442-5, L442-12, L442-15, L442-18, L442-20, L401-1
+  - Code de l'éducation
+  - Code de l'éducation - art. L401-1
+  - Code de l'éducation - art. L421-10
+  - Code de l'éducation - art. L421-9
+  - Code de l'éducation - art. L442-1
+  - Code de l'éducation - art. L442-12
+  - Code de l'éducation - art. L442-15
+  - Code de l'éducation - art. L442-18
+  - Code de l'éducation - art. L442-2
+  - Code de l'éducation - art. L442-20
+  - Code de l'éducation - art. L442-4
+  - Code de l'éducation - art. L442-5
 
 
 ### Livre V : La vie scolaire<a id=183></a>
