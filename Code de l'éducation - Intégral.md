@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-05-16
+Version Consolidée au 2009-05-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -864,66 +864,136 @@ Version Consolidée au 2009-05-16
         - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D494-1 à R494-14)](#861)
           - [Section 1 : Les collèges et les lycées. (art. D494-1 à D494-9)](#862)
           - [Section 2 : Les établissements d'enseignement privés. (art. R494-10 à R494-14)](#863)
-    - [Livre IX : Les personnels de l'éducation. (art. R914-1 à R914-142)](#864)
-      - [Titre Ier : Dispositions générales. (art. R914-1 à R914-142)](#865)
-        - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. R914-1 à R914-142)](#866)
-          - [Section 1 : Dispositions générales. (art. R914-1 à R914-3)](#867)
-          - [Section 2 : Les organismes consultatifs. (art. R914-4 à R914-13)](#868)
-            - [Sous-section 1 : La commission consultative mixte départementale. (art. R914-4 à R914-6)](#869)
-            - [Sous-section 2 : La commission consultative mixte académique. (art. R914-7 à R914-9)](#870)
-            - [Sous-section 3 : Dispositions communes. (art. R914-10 à R914-13)](#871)
+    - [Livre V : La vie scolaire (art. D511-3 à R564-8)](#864)
+      - [Titre Ier : Les droits et obligations des élèves (art. D511-3 à R511-75)](#865)
+        - [Chapitre unique (art. D511-3 à R511-75)](#866)
+          - [Section 1 : Droits et obligations des élèves
+des établissements d’enseignement du second degré (art. D511-3 à R511-11)](#867)
+            - [Sous-section 1 : Liberté d’expression (art. R511-6 à R511-8)](#868)
+            - [Sous-section 2 : Libertés d’association et de réunion (art. R511-9 à R511-10)](#869)
+            - [Sous-section 3 : Obligation d’assiduité (art. R511-11)](#870)
+          - [Section 2 : Régime disciplinaire (art. R511-12 à R511-57)](#871)
+            - [Sous-section 1 : Sanctions applicables aux élèves
+des établissements d’enseignement du second degré (art. R511-12 à R511-19)](#872)
+            - [Sous-section 2 : Le conseil de discipline de l’établissement (art. D511-23 à D511-43)](#873)
+              - [Paragraphe 1 : Composition (art. D511-23 à R511-24)](#874)
+              - [Paragraphe 2 : Compétence (art. D511-25 à R511-29)](#875)
+              - [Paragraphe 3 : Procédure disciplinaire (art. D511-30 à D511-43)](#876)
+            - [Sous-section 3 : Le conseil de discipline départemental (art. D511-46 à R511-45)](#877)
+            - [Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental (art. D511-47 à D511-48)](#878)
+            - [Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental (art. D511-50 à R511-57)](#879)
+          - [Section 3 : Conseil national et conseil académique de la vie lycéenne (art. D511-59 à D511-73)](#880)
+            - [Sous-section 1 : Le Conseil national de la vie lycéenne (art. D511-59 à D511-62)](#881)
+            - [Sous-section 2 : Le conseil académique de la vie lycéenne (art. D511-63 à D511-73)](#882)
+          - [Section 4 : Information en matière de droit de la nationalité (art. R511-74 à R511-75)](#883)
+      - [Titre II : L'organisation du temps et de l'espace scolaires (art. D521-1 à D521-18)](#884)
+        - [Chapitre unique (art. D521-1 à D521-18)](#885)
+          - [Section 1 : Aménagement du temps scolaire (art. D521-1 à D521-15)](#886)
+            - [Sous-section 1 : Dispositions communes à l’ensemble des académies (art. D521-1 à D521-5)](#887)
+            - [Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon (art. D521-6 à D521-7)](#888)
+            - [Sous-section 3 : Dispositions particulières à l’enseignement et à la formation professionnelle agricoles (art. D521-8 à D521-9)](#889)
+            - [Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires (art. D521-10 à D521-15)](#890)
+          - [Section 2 : Aménagement de l’espace scolaire (art. D521-16)](#891)
+          - [Section 3 : Interdiction de fumer dans les lieux
+affectés à un usage scolaire (art. D521-17 à D521-18)](#892)
+      - [Titre III : Les aides à la scolarité (art. D531-3 à D532-1)](#893)
+        - [Chapitre Ier : L’aide à la scolarité et les bourses nationales (art. D531-3 à R531-53)](#894)
+          - [Section 1 : Bourses nationales d’enseignement du second degré (art. D531-3 à D531-43)](#895)
+            - [Sous-section 1 : Bourses nationales de collège (art. D531-3 à D531-12)](#896)
+              - [Paragraphe 1 : Etablissements habilités à recevoir
+des boursiers de collège (art. D531-3 à R531-2)](#897)
+              - [Paragraphe 2 : Critères d’attribution des bourses de collège (art. D531-4 à D531-6)](#898)
+              - [Paragraphe 3 : Montant et paiement des bourses de collège (art. D531-7 à D531-12)](#899)
+            - [Sous-section 2 : Bourses nationales d’études du second degré de lycée (art. D531-15 à R531-35)](#900)
+              - [Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée (art. D531-15 à R531-16)](#901)
+              - [Paragraphe 2 : Critères d’attribution (art. D531-21 à R531-20)](#902)
+              - [Paragraphe 3 : Modalités d’attribution (art. D531-23 à R531-25)](#903)
+              - [Paragraphe 4 : Montant et paiement (art. D531-29 à R531-35)](#904)
+            - [Sous-section 3 : Bourses au mérite (art. D531-37 à D531-41)](#905)
+            - [Sous-section 4 : Prime à l’internat (art. D531-42 à D531-43)](#906)
+          - [Section 2 : Bourses de l’enseignement agricole (art. D531-44)](#907)
+          - [Section 3 : Bourses scolaires à l’étranger (art. D531-45 à D531-51)](#908)
+          - [Section 4 : Tarifs de la restauration scolaire (art. R531-52 à R531-53)](#909)
+        - [Chapitre II : L’allocation de rentrée scolaire (art. D532-1)](#910)
+      - [Titre IV : La santé scolaire (art. D541-1 à D542-1)](#911)
+        - [Chapitre Ier : La protection de la santé (art. D541-1 à D541-10)](#912)
+          - [Section 1 : Organisation (art. D541-1 à R541-5)](#913)
+          - [Section 2 : Prévention dans les activités physiques et sportives (art. R541-6)](#914)
+          - [Section 3 : Prévention des risques professionnels (art. D541-7 à D541-9)](#915)
+          - [Section 4 : Contraception d’urgence (art. D541-10)](#916)
+        - [Chapitre II : La prévention des mauvais traitements (art. D542-1)](#917)
+      - [Titre V : Les activités périscolaires, sportives et culturelles (art. D551-1 à R552-2)](#918)
+        - [Chapitre Ier : Les activités périscolaires (art. D551-1 à D551-12)](#919)
+          - [Section 1 : Agrément des associations éducatives
+complémentaires de l’enseignement public (art. D551-1 à D551-6)](#920)
+          - [Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public (art. D551-7 à D551-12)](#921)
+        - [Chapitre II : Les activités physiques et sportives (art. R552-1 à R552-2)](#922)
+      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. D561-2 à R564-8)](#923)
+        - [Chapitre Ier : Dispositions applicables
+dans les îles Wallis et Futuna (art. D561-2 à R561-8)](#924)
+        - [Chapitre II : Dispositions applicables à Mayotte (art. D562-1 à R562-9)](#925)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. D563-2 à R563-1)](#926)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. D564-2 à R564-8)](#927)
+    - [Livre IX : Les personnels de l'éducation. (art. R914-1 à R914-142)](#928)
+      - [Titre Ier : Dispositions générales. (art. R914-1 à R914-142)](#929)
+        - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. R914-1 à R914-142)](#930)
+          - [Section 1 : Dispositions générales. (art. R914-1 à R914-3)](#931)
+          - [Section 2 : Les organismes consultatifs. (art. R914-4 à R914-13)](#932)
+            - [Sous-section 1 : La commission consultative mixte départementale. (art. R914-4 à R914-6)](#933)
+            - [Sous-section 2 : La commission consultative mixte académique. (art. R914-7 à R914-9)](#934)
+            - [Sous-section 3 : Dispositions communes. (art. R914-10 à R914-13)](#935)
           - [Section 3 : Recrutement et formation des enseignants 
-des classes sous contrat. (art. R914-14 à R914-42)](#872)
-            - [Sous-section 1 : Dispositions générales. (art. R914-14 à R914-19)](#873)
+des classes sous contrat. (art. R914-14 à R914-42)](#936)
+            - [Sous-section 1 : Dispositions générales. (art. R914-14 à R914-19)](#937)
             - [Sous-section 2 : Concours de recrutement de maîtres 
-de l'enseignement privé sous contrat. (art. R914-20 à R914-31)](#874)
-              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#875)
-              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#876)
-              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#877)
-            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#878)
+de l'enseignement privé sous contrat. (art. R914-20 à R914-31)](#938)
+              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#939)
+              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#940)
+              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#941)
+            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#942)
               - [Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association. (art. R914-44 à R914-52)](#879)
+des classes sous contrat d'association. (art. R914-44 à R914-52)](#943)
               - [Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple. (art. R914-53 à R914-56)](#880)
-              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#881)
-            - [Sous-section 3 : Formation initiale. (art. R914-32 à R914-41)](#882)
-            - [Sous-section 4 : Stage probatoire. (art. R914-42)](#883)
-          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#884)
-            - [Sous-section 1 : Notation. (art. R914-59)](#885)
-            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#886)
-              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#887)
-              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#888)
-              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#889)
-            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#890)
-            - [Sous-section 4 : Classement. (art. R914-79 à R914-82)](#891)
-              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-79)](#892)
-              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#893)
-          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#894)
-            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#895)
-            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#896)
-          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#897)
-            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#898)
-            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#899)
-            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#900)
-          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#901)
-            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#902)
-            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#903)
-            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#904)
-          - [Section 8 : Droits sociaux et congés. (art. R914-106 à R914-112)](#905)
-            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#906)
-          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#907)
-            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#908)
-            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#909)
-          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#910)
-            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#911)
+des classes sous contrat simple. (art. R914-53 à R914-56)](#944)
+              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#945)
+            - [Sous-section 3 : Formation initiale. (art. R914-32 à R914-41)](#946)
+            - [Sous-section 4 : Stage probatoire. (art. R914-42)](#947)
+          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#948)
+            - [Sous-section 1 : Notation. (art. R914-59)](#949)
+            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#950)
+              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#951)
+              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#952)
+              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#953)
+            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#954)
+            - [Sous-section 4 : Classement. (art. R914-79 à R914-82)](#955)
+              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-79)](#956)
+              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#957)
+          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#958)
+            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#959)
+            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#960)
+          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#961)
+            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#962)
+            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#963)
+            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#964)
+          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#965)
+            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#966)
+            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#967)
+            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#968)
+          - [Section 8 : Droits sociaux et congés. (art. R914-106 à R914-112)](#969)
+            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#970)
+          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#971)
+            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#972)
+            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#973)
+          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#974)
+            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#975)
               - [Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#912)
-              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#913)
-              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#914)
-              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#915)
-              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#916)
-              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#917)
-            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#918)
+du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#976)
+              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#977)
+              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#978)
+              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#979)
+              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#980)
+              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#981)
+            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#982)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -47757,7 +47827,7 @@ ba) Un représentant du Syndicat national des personnels de direction de l'éduc
 
 bb) Un représentant du Syndicat national des chefs d'établissement de l'enseignement libre (SNCEEL) ;
 
-bc) Quatre personnalités qualifiées désignées en fonction de leurs compétences.
+c) Quatre personnalités qualifiées désignées en fonction de leurs compétences.
 
 **Liens relatifs à cet article**
 
@@ -47768,8 +47838,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
-  - Décret n°2007-1722 du 6 décembre 2007 - art. 4
+  - Décret n°2009-553 du 15 mai 2009 - art. 4
 
 _Nouveaux textes_:
 
@@ -59722,8 +59791,6 @@ _Cité par_:
 
 ###### Article D331-45
 
-L'article D. 331-44 n'est pas applicable à Saint-Pierre-et-Miquelon.
-
 Pour leur application à Saint-Pierre-et-Miquelon, les articles suivants sont ainsi modifiés :
 
 1° Les troisième et quatrième alinéas de l'article D. 331-35 sont remplacés par les alinéas suivants :
@@ -59760,10 +59827,13 @@ préparatoire à l'affectation des élèves dont la composition est fixée comme
 
 " - le chef des travaux du lycée professionnel ;
 
-" - trois enseignants.
+" - trois enseignants ;
+
+" - deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives. 
 
 " Les membres de la commission sont nommés par le chef du service de l'éducation nationale pour une durée d'un an
-renouvelable, sur proposition des associations pour les représentants des parents d'élèves.
+renouvelable, sur proposition des associations pour les représentants des parents d'élèves. Dans les mêmes conditions, le
+chef du service de l'éducation nationale désigne un nombre égal de suppléants des représentants des parents d'élèves. 
 
 " La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du chef du service de
 l'éducation nationale.
@@ -59780,16 +59850,21 @@ l'éducation nationale ".
 ainsi que les résultats de l'orientation figurent dans un rapport annuel adressé au chef du service de l'éducation nationale.
 "
 
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+préparatoire à l'affectation : Saint-Pierre-et-Miquelon).
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°90-484 1990-06-14 art. 23-1, alinéas 1, 2, 10 à 18, 20, 21, 28 à 38, en ce qui concerne Saint-Pierre-et-Miquelon
   - Décret n°90-484 du 14 juin 1990 - art. 23-1 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2009-553 du 15 mai 2009 - art. 5
 
 _Cité par_:
 
@@ -59797,11 +59872,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. D331-35 (V)
-  - Code de l'éducation - art. D331-38 (V)
-  - Code de l'éducation - art. D331-42 (V)
-  - Code de l'éducation - art. D331-43 (V)
-  - Code de l'éducation - art. D331-44 (V)
+  - Code de l'éducation - art. D331-35
+  - Code de l'éducation - art. D331-38
+  - Code de l'éducation - art. D331-42
+  - Code de l'éducation - art. D331-43
+  - Code de l'éducation - art. D331-44
 
 
 ##### Sous-section 2 : La procédure d'orientation et d'affectation des élèves dans les établissements d'enseignement privés sous contrat.<a id=578></a>
@@ -64281,8 +64356,8 @@ territoires ;
 
 7° Série " techniques de la musique et de la danse ".
 
-Chacune de ces séries peut comprendre différentes spécialités et options. Celles relatives aux séries SMS, STI, STL, STG et "
-hôtellerie " sont fixées par arrêté du ministre chargé de l'éducation.
+Chacune de ces séries peut comprendre différentes spécialités et options. Celles relatives aux séries ST2S, STI, STL, STG et
+" hôtellerie " sont fixées par arrêté du ministre chargé de l'éducation.
 
 Les dispositions des cinquième et neuvième alinéas du présent article, relatives à la série STG, entrent en application à
 compter de la session 2007 de l'examen et prennent effet pour les épreuves anticipées de cette session, organisées en 2006.
@@ -64305,7 +64380,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. 4
+  - Décret n°2009-553 du 15 mai 2009 - art. 5
 
 _Cité par_:
 
@@ -73831,20 +73906,23 @@ _Cite_:
 
 ###### Article R342-3
 
-L'organisation des examens et concours et les programmes d'enseignement sont déterminés par arrêté du ministre chargé de la
-mer pris, le cas échéant, avec le ministre chargé de l'éducation.
+L'organisation des examens et concours ainsi que les programmes d'enseignement sont déterminés par arrêté du ministre chargé
+de la mer. Cet arrêté est pris conjointement avec le ministre chargé de l'éducation lorsque le diplôme en cause est l'un des
+diplômes nationaux sanctionnant une formation professionnelle du second degré mentionnée à l'article L. 337-1.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°85-378 1985-03-27 art. 4, en partie, uniquement en ce qui concerne l'organisation des examens et concours et les programmes d'enseignement
-  - Décret n°85-378 du 27 mars 1985 - art. 4 (V)
   - Décret n°85-378 du 27 mars 1985 - art. 4 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2009-553 du 15 mai 2009 - art. 5
+
+_Cite_:
+
+  - Code de l'éducation - art. L337-1
 
 
 ###### Article R342-4
@@ -73956,20 +74034,22 @@ _Anciens textes_:
 
 Les titres de formation professionnelle maritime sont définis dans les décrets n° 93-1342 du 28 décembre 1993 relatif aux
 conditions d'exercice des fonctions de capitaine et d'officier à bord des navires de commerce, de pêche et de plaisance, n°
-99-439 du 25 mai 1999 précité et n° 2003-169 du 28 février 2003 portant création du brevet d'officier électronicien et
-systèmes de la marine marchande.
+99-439 du 25 mai 1999 précité, n° 2003-169 du 28 février 2003 portant création du brevet d'officier électronicien et systèmes
+de la marine marchande et n° 2007-1377 du 21 septembre 2007 portant diverses dispositions relatives aux titres de formation
+professionnelle maritime.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°93-1342 1993-12-28
-  - Décret n°99-439 1999-05-25
-  - Décret n°2003-169 2003-02-28
+  - Décret n°93-1342 du 28 décembre 1993 (V)
+  - Décret n°99-439 du 25 mai 1999 (V)
+  - Décret n°2003-169 du 28 février 2003 (V)
+  - Décret n°2007-1377 du 21 septembre 2007
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2009-553 du 15 mai 2009 - art. 5
 
 
 ### Titre V : Les enseignements pour les enfants et adolescents handicapés.<a id=653></a>
@@ -77139,8 +77219,8 @@ Le conseil d'école, sur proposition du directeur de l'école :
 
 1° Vote le règlement intérieur de l'école ; 
 
-2° Etablit le projet d'organisation de la semaine scolaire conformément aux articles 10 et 10-1 du décret n° 90-788 du 6
-septembre 1990 relatif à l'organisation et au fonctionnement des écoles maternelles et élémentaires ; 
+2° Etablit le projet d'organisation de la semaine scolaire conformément aux articles D. 521-10 à D. 521-13 du code de
+l'éducation ; 
 
 3° Dans le cadre de l'élaboration du projet d'école à laquelle il est associé, donne tous avis et présente toutes suggestions
 sur le fonctionnement de l'école et sur toutes les questions intéressant la vie de l'école, et notamment sur : 
@@ -77186,12 +77266,6 @@ Le conseil d'école établit son règlement intérieur, et notamment les modalit
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°90-788 du 6 septembre 1990 - art. 10
-  - Code de l'éducation - art. L212-15
-  - Code de l'éducation - art. L216-1
-
 _Anciens textes_:
 
   - Décret n°90-788 du 6 septembre 1990 - art. 18 (Ab)
@@ -77207,7 +77281,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-463 du 15 mai 2008 - art. 4
+  - Décret n°2009-553 du 15 mai 2009 - art. 2 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-10 (V)
+  - Code de l'éducation - art. L212-15
+  - Code de l'éducation - art. L216-1
 
 
 ###### Article D411-3
@@ -77758,7 +77838,7 @@ _Créé par_:
 ###### Article R421-5
 
 Le règlement intérieur, adopté par le conseil d'administration, définit les droits et les devoirs de chacun des membres de la
-communauté éducative. 
+communauté éducative. Il rappelle les règles de civilité et de comportement. 
 
 Il détermine notamment les modalités selon lesquelles sont mis en application : 
 
@@ -77781,17 +77861,12 @@ Il détermine également les modalités :
 7° D'application de l'obligation d'assiduité mentionnée à l'article L. 511-1. 
 
 Le règlement intérieur comporte un chapitre consacré à la discipline des élèves qui reproduit l'échelle des sanctions prévues
-à l'article 3 du décret n° 85-924 du 30 août 1985 relatif aux établissements publics locaux d'enseignement. 
+à l'article R511-13. 
 
 Le règlement intérieur est porté à la connaissance des membres de la communauté éducative. Tout manquement au règlement
 intérieur justifie la mise en œuvre d'une procédure disciplinaire ou de poursuites appropriées.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°85-924 du 30 août 1985 - art. 3 (V)
-  - Code de l'éducation - art. L511-1 (V)
 
 _Anciens textes_:
 
@@ -77799,18 +77874,19 @@ _Anciens textes_:
   - Décret n°85-924 du 30 août 1985 - art. 3-3 al 4 (2ème phrase en partie) (V)
   - Décret n°85-924 du 30 août 1985 - art. 3-5 al 4 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2009-553 du 15 mai 2009 - art. 2 (V)
 
 _Cité par_:
 
   - Décret n°2019-906 du 30 août 2019 - art. 1
   - Code de l'éducation - art. D422-19 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L511-1
+  - Code de l'éducation - art. R511-13 (V)
 
 
 ###### Article R421-6
@@ -79012,23 +79088,15 @@ d'adjoints ;
 5° Quatre représentants élus des personnels, dont trois au titre des personnels d'enseignement et d'éducation et un au titre
 des personnels administratifs, techniques, ouvriers, de service, sociaux et de santé ;
 
-6° Trois représentants élus des parents d'élèves dans les collèges et les lycées ;
+6° Trois représentants élus des parents d'élèves dans les collèges et deux dans les lycées ;
 
 7° Un représentant élu des élèves dans les collèges et deux dans les lycées.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 26 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2009-553 du 15 mai 2009 - art. 6
 
 _Cité par_:
 
@@ -80134,22 +80202,14 @@ l'ordonnateur.
 Les états exécutoires peuvent être notifiés aux débiteurs par lettre recommandée avec demande d'avis de réception. Leur
 recouvrement est poursuivi jusqu'à opposition devant la juridiction compétente.
 
-L'agence comptable procède aux poursuites. Celles-ci peuvent à tout moment être suspendues sur un ordre écrit de
-l'ordonnateur si la créance est l'objet d'un litige.
+L'agent comptable procède aux poursuites. Celles-ci peuvent à tout moment être suspendues sur un ordre écrit de l'ordonnateur
+si la créance est l'objet d'un litige.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 46 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2009-553 du 15 mai 2009 - art. 6
 
 
 ###### Article R421-69
@@ -80389,22 +80449,11 @@ L'agent comptable adresse le compte financier et les pièces annexes nécessaire
 la clôture de l'exercice, au comptable supérieur du Trésor territorialement compétent qui, après l'avoir mis en état
 d'examen, le transmet à la chambre régionale des comptes avant l'expiration du dixième mois suivant la clôture de l'exercice.
 
-Faute de présentation dans le délai prescrit, le préfet peut, après avis du comptable supérieur du Trésor territorialement
-compétent, et sur proposition de l'autorité académique, désigner d'office un agent chargé de la reddition des comptes.
-
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 55 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2009-553 du 15 mai 2009 - art. 6
 
 _Cité par_:
 
@@ -80450,16 +80499,11 @@ Les dispositions des articles R. 421-80 à R. 421-129 s'appliquent aux lycées p
 chargé de la mer qui ont été érigés en établissements publics locaux d'enseignement dans les conditions prévues à l'article
 L. 421-20. 
 
-Les conditions d'admission dans ces lycées sont déterminées par arrêtés du ministre chargé de la mer pris, le cas échéant,
-avec le ministre chargé de l'éducation.
+Les conditions d'admission dans ces lycées sont définies par arrêtés du ministre chargé de la mer. Ces arrêtés sont pris
+conjointement avec le ministre chargé de l'éducation lorsque ces conditions d'admission concernent l'un des diplômes
+nationaux sanctionnant une formation professionnelle du second degré mentionnée à l'article L. 337-1.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-378 du 27 mars 1985 - art. 3 sauf ecqc les écoles nationales de la marine marchande (VT)
-  - Décret n°85-1242 du 25 novembre 1985 - art. 1 (Ab)
-  - Décret n°85-378 du 27 mars 1985 - art. 4, uniquement ecqc les conditions d'admission (Ab)
 
 _Cité par_:
 
@@ -80477,18 +80521,15 @@ _Cité par_:
   - Arrêté du 13 juillet 2016 - art. (V)
   - Arrêté du 10 novembre 2017 - art. 2
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2009-553 du 15 mai 2009 - art. 6
 
 _Cite_:
 
-  - Code de l'éducation - art. L421-20 (V)
-  - Code de l'éducation - art. R421-80 (V)
+  - Code de l'éducation - art. L337-1
+  - Code de l'éducation - art. L421-20
+  - Code de l'éducation - art. R421-80
 
 
 ###### Article R421-80
@@ -98006,13 +98047,6078 @@ _Cite_:
   - Code de l'éducation - art. R442-59 (V)
 
 
-## Livre IX : Les personnels de l'éducation.<a id=864></a>
+## Livre V : La vie scolaire<a id=864></a>
 
-### Titre Ier : Dispositions générales.<a id=865></a>
+### Titre Ier : Les droits et obligations des élèves<a id=865></a>
 
-#### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=866></a>
+#### Chapitre unique<a id=866></a>
 
-##### Section 1 : Dispositions générales.<a id=867></a>
+##### Section 1 : Droits et obligations des élèves
+des établissements d’enseignement du second degré<a id=867></a>
+
+###### Article D511-3
+
+Les règles relatives aux droits et obligations des élèves des établissements publics locaux d'enseignement relevant du
+ministre chargé de la mer sont fixées par le règlement intérieur de l'établissement conformément aux dispositions de
+l'article R. 421-93.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R421-93 (V)
+
+
+###### Article D511-4
+
+Les règles relatives aux droits et obligations des élèves des lycées de la défense sont fixées par le règlement intérieur de
+l'établissement conformément aux dispositions de l'article R. 425-15.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. R425-15 (V)
+
+
+###### Article D511-5
+
+Les règles relatives aux droits et obligations des élèves des établissements publics locaux d'enseignement et de formation
+professionnelle agricoles sont fixées par les articles R. 811-77 à R. 811-83 du code rural.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code rural - art. R811-77 (V)
+
+
+###### Article R511-1
+
+Les modalités d'exercice des libertés d'information, d'expression et de réunion dont disposent les élèves des établissements
+publics locaux d'enseignement, des établissements d'Etat d'enseignement du second degré relevant du ministre chargé de
+l'éducation et des établissements d'enseignement du second degré relevant des communes ou des départements, ainsi que les
+obligations qui leur sont applicables, sont déterminées par le règlement intérieur de l'établissement.
+
+Le règlement intérieur détermine également les modalités de la prise en charge progressive par les élèves de la
+responsabilité de certaines de leurs activités et les modalités de l'obligation d'assiduité à laquelle ils sont soumis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article R511-2
+
+Dans les lycées relevant du ministre chargé de l'éducation, des communes ou des départements, le conseil des délégués pour la
+vie lycéenne est consulté sur les modalités d'exercice du droit de réunion avant leur insertion au règlement intérieur et
+formule des avis et propositions sur les questions relatives au travail et à la vie scolaire dans les conditions prévues par
+les articles R. 421-43, R. 421-44, D. 422-38 et D. 422-61.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 3-3 alinéa 4 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 4-3 alinéa 4 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 48 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D422-38 (V)
+  - Code de l'éducation - art. R421-43 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D422-61 (V)
+
+
+##### Sous-section 1 : Liberté d’expression<a id=868></a>
+
+###### Article R511-6
+
+Le chef d'établissement et le conseil d'administration veillent, en collaboration avec le conseil des délégués pour la vie
+lycéenne, à ce que la liberté d'expression dont les élèves disposent individuellement et collectivement s'exerce dans les
+conditions définies par l'article L. 511-2.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 3-1 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 4-1 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 48 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. L511-2 (V)
+
+
+###### Article R511-7
+
+Afin de permettre l'exercice de la liberté d'expression dans les lycées, le chef d'établissement veille à ce que des panneaux
+d'affichage et, si possible, un local soient mis à la disposition des délégués des élèves, du conseil des délégués pour la
+vie lycéenne et, le cas échéant, des associations d'élèves.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 8-1 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 48 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 8-1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D422-38 (V)
+  - Code de l'éducation - art. R421-44 (V)
+
+
+###### Article R511-8
+
+Les publications rédigées par des lycéens peuvent être librement diffusées dans l'établissement.
+
+Toutefois, au cas où certains écrits présenteraient un caractère injurieux ou diffamatoire, ou en cas d'atteinte grave aux
+droits d'autrui ou à l'ordre public, le chef d'établissement peut suspendre ou interdire la diffusion de la publication dans
+l'établissement ; il en informe le conseil d'administration. Cette décision est notifiée aux élèves intéressés ou, à défaut,
+fait l'objet d'un affichage.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 3-4 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 4-4 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 48 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+##### Sous-section 2 : Libertés d’association et de réunion<a id=869></a>
+
+###### Article R511-9
+
+Le fonctionnement, à l'intérieur des lycées, d'associations déclarées qui sont composées d'élèves et, le cas échéant,
+d'autres membres de la communauté éducative de l'établissement est autorisé par le conseil d'administration, après dépôt
+auprès du chef d'établissement d'une copie des statuts de l'association, sous réserve que leur objet et leur activité soient
+compatibles avec les principes du service public de l'enseignement ; en particulier, elles ne peuvent avoir un objet ou une
+activité de caractère politique ou religieux. 
+
+Ces associations peuvent contribuer à l'exercice du droit d'expression collective des élèves. 
+
+Si les activités d'une telle association portent atteinte aux principes mentionnés au premier alinéa, le chef d'établissement
+invite le président de l'association à s'y conformer. 
+
+En cas de manquement persistant, le chef d'établissement saisit le conseil d'administration qui peut retirer l'autorisation
+après avis du conseil des délégués pour la vie lycéenne. 
+
+Les dispositions du présent article ne sont pas applicables aux associations créées en application de l'article L. 552-2.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 3-2 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 4-2 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 48 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. L552-2 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. R511-10 (V)
+
+
+###### Article R511-10
+
+Dans les lycées et collèges, la liberté de réunion s'exerce à l'initiative des délégués des élèves pour l'exercice de leurs
+fonctions. 
+
+Dans les lycées, elle s'exerce également à l'initiative des associations mentionnées à l'article R. 511-9 ou d'un groupe
+d'élèves de l'établissement pour des réunions qui contribuent à l'information des élèves. 
+
+Le droit de réunion s'exerce en dehors des heures de cours prévues à l'emploi du temps des participants. 
+
+Le chef d'établissement autorise, sur demande motivée des organisateurs, la tenue des réunions en admettant, le cas échéant,
+l'intervention de personnalités extérieures.A cette occasion, il peut solliciter l'avis du conseil d'administration. 
+
+Il peut opposer un refus à la tenue d'une réunion ou à la participation de personnalités extérieures lorsque celles-ci sont
+de nature à porter atteinte au fonctionnement normal de l'établissement ou à contrevenir aux principes du service public de
+l'enseignement.
+
+L'autorisation peut être assortie de conditions tendant à garantir la sécurité des personnes et des biens.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 3-3 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 4-3 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 48 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-9 (V)
+
+
+##### Sous-section 3 : Obligation d’assiduité<a id=870></a>
+
+###### Article R511-11
+
+L'obligation d'assiduité mentionnée à l'article L. 511-1 consiste, pour les élèves, à se soumettre aux horaires
+d'enseignement définis par l'emploi du temps de l'établissement. Elle s'impose pour les enseignements obligatoires et pour
+les enseignements facultatifs dès lors que les élèves se sont inscrits à ces derniers. 
+
+Les élèves doivent accomplir les travaux écrits et oraux qui leur sont demandés par les enseignants, respecter le contenu des
+programmes et se soumettre aux modalités de contrôle des connaissances qui leur sont imposées. 
+
+Les élèves ne peuvent se soustraire aux contrôles et examens de santé organisés à leur intention.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 3-5 alinéas 1 à 3 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 4-5 alinéas 1 à 3 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 48 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. L511-1 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. R421-5 (V)
+
+
+##### Section 2 : Régime disciplinaire<a id=871></a>
+
+##### Sous-section 1 : Sanctions applicables aux élèves
+des établissements d’enseignement du second degré<a id=872></a>
+
+###### Article R511-12
+
+Préalablement à la mise en œuvre d'une procédure disciplinaire, le chef d'établissement et l'équipe éducative recherchent,
+dans la mesure du possible, toute mesure utile de nature éducative.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 8, 2ème phrase (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 8, 2ème phrase (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D422-19 (V)
+  - Code de l'éducation - art. R511-15 (V)
+
+
+###### Article R511-13
+
+Dans les lycées et collèges relevant du ministre chargé de l'éducation, les sanctions qui peuvent être prononcées à
+l'encontre des élèves sont les suivantes :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° L'exclusion temporaire, qui ne peut excéder un mois, de l'établissement ou de l'un de ses services annexes ;
+
+4° L'exclusion définitive de l'établissement ou de l'un de ses services annexes.
+
+Les sanctions peuvent être assorties d'un sursis total ou partiel.
+
+Toute sanction, hormis l'exclusion définitive, est effacée du dossier administratif de l'élève au bout d'un an.
+
+Le règlement intérieur reproduit l'échelle des sanctions. En outre, il peut prévoir des mesures de prévention,
+d'accompagnement et de réparation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 3 (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 1 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 30 novembre 2011 - art. (V)
+  - Arrêté du 30 novembre 2011 - art. 1 (V)
+  - Code de l'éducation - art. D422-19 (V)
+  - Code de l'éducation - art. D511-30 (VD)
+  - Code de l'éducation - art. R421-5 (V)
+  - Code de l'éducation - art. R511-13-1 (V)
+  - Code de l'éducation - art. R511-14 (VD)
+  - Code de l'éducation - art. R511-15 (V)
+  - Code de l'éducation - art. R511-16 (Ab)
+  - Code de l'éducation - art. R511-27 (V)
+  - Code de l'éducation - art. R561-1 (V)
+
+
+###### Article R511-14
+
+Dans les lycées et collèges relevant du ministre chargé de l'éducation, le chef d'établissement peut prononcer seul les
+sanctions mentionnées du deuxième (1°) au quatrième (3°) alinéa de l'article R. 511-13, sous réserve que la durée de
+l'exclusion n'excède pas huit jours.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 8, 1ère phrase (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 1 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 8, 1ère phrase (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D422-7 (VD)
+  - Code de l'éducation - art. R421-10 (VD)
+  - Code de l'éducation - art. R421-85 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-13 (V)
+
+
+###### Article R511-15
+
+Dans les établissements d'enseignement français en Principauté d'Andorre, l'échelle des sanctions est celle fixée à l'article
+R. 511-13. 
+
+Le chef d'établissement peut prononcer seul les sanctions mentionnées du deuxième (1°) au quatrième (3°) alinéa du même
+article, sous réserve que la durée de l'exclusion n'excède pas huit jours.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°95-592 du 6 mai 1995 - art. 12 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D454-12 (VD)
+  - Code de l'éducation - art. D511-58 (V)
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-13 (V)
+
+
+###### Article R511-16
+
+Dans les établissements publics locaux d'enseignement relevant du ministre chargé de la mer, l'échelle des sanctions est
+celle fixée à l'article R. 511-13. 
+
+Le chef d'établissement peut prononcer seul les sanctions mentionnées du deuxième (1°) au quatrième (3°) alinéa du même
+article, sous réserve que la durée de l'exclusion n'excède pas huit jours.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1242 du 25 novembre 1985 - art. 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R421-85 (VD)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-13 (V)
+
+
+###### Article R511-17
+
+Dans les lycées de la défense, les sanctions applicables aux élèves sont les suivantes :
+
+1° L'avertissement ;
+
+2° La réprimande ;
+
+3° La retenue ;
+
+4° L'exclusion temporaire de huit jours au plus, assortie ou non d'un sursis ;
+
+5° L'exclusion temporaire d'une durée supérieure à huit jours et inférieure à quinze jours, assortie ou non d'un sursis ;
+
+6° L'exclusion définitive.
+
+Des mesures de prévention, de réparation et d'accompagnement peuvent également être prévues par le règlement intérieur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-246 du 1 mars 2006 - art. 15 alinéas 1 à 8 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R421-107 (V)
+  - Code de l'éducation - art. R425-16 (V)
+  - Code de l'éducation - art. R511-18 (V)
+  - Code de l'éducation - art. R511-19 (V)
+  - Code de l'éducation - art. R511-29 (V)
+
+
+###### Article R511-18
+
+Dans les lycées de la défense, le commandant du lycée prononce les sanctions relevant des deuxième à sixième alinéas de
+l'article R. 511-17.
+
+L'autorité de tutelle dont dépend le lycée prononce les sanctions relevant du septième alinéa du même article. 
+
+Toute décision d'exclusion définitive est susceptible d'appel à l'initiative de l'intéressé ou de son représentant légal, si
+l'élève est mineur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-246 du 1 mars 2006 - art. 15 alinéas 10 à 12 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-17 (V)
+
+
+###### Article R511-19
+
+Les conditions d'application des articles R. 511-17 et R. 511-18 sont fixées par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-246 du 1 mars 2006 - art. 15 alinéa 13 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-17 (V)
+
+
+##### Sous-section 2 : Le conseil de discipline de l’établissement<a id=873></a>
+
+##### Paragraphe 1 : Composition<a id=874></a>
+
+###### Article D511-23
+
+Dans les établissements d'enseignement français en Principauté d'Andorre, la commission permanente siégeant en conseil de
+discipline s'adjoint un représentant supplémentaire des élèves élus au scrutin uninominal à un tour par les représentants des
+élèves au conseil d'administration et parmi ceux-ci.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°95-592 du 6 mai 1995 - art. 30 alinéa 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-58 (V)
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+  - Code de l'éducation - art. R421-107 (V)
+  - Code de l'éducation - art. R421-48 (V)
+
+
+###### Article R511-20
+
+Le conseil de discipline de l'établissement comprend quatorze membres :
+
+1° Le chef d'établissement ;
+
+2° L'adjoint au chef d'établissement ou, dans les établissements publics locaux d'enseignement, le cas échéant, l'adjoint
+désigné par le chef d'établissement en cas de pluralité d'adjoints ;
+
+3° Un conseiller principal d'éducation désigné par le conseil d'administration, sur proposition du chef d'établissement ;
+
+4° Le gestionnaire de l'établissement ;
+
+5° Cinq représentants des personnels dont quatre représentants des personnels d'enseignement et d'éducation et un
+représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+
+6° Trois représentants des parents d'élèves dans les collèges et deux dans les lycées ;
+
+7° Deux représentants des élèves dans les collèges et trois dans les lycées.
+
+Le conseil de discipline est présidé par le chef d'établissement ou, en cas d'absence de celui-ci, par son adjoint.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 31 alinéas 1 à 9 (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 1 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 31 alinéas 1 à 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D422-61 (V)
+  - Code de l'éducation - art. R421-107 (V)
+  - Code de l'éducation - art. R561-4 (V)
+  - Code de l'éducation - art. R562-3 (V)
+  - Code de l'éducation - art. R564-4 (V)
+
+
+###### Article R511-21
+
+Les représentants des personnels sont élus chaque année en leur sein par les membres titulaires et suppléants du conseil
+d'administration appartenant à leurs catégories respectives. Cette élection a lieu, pour les représentants des personnels
+d'enseignement et d'éducation, au scrutin proportionnel au plus fort reste, pour le représentant des personnels
+administratifs, sociaux et de santé, techniques, ouvriers et de service, au scrutin uninominal à un tour.
+
+Les représentants des parents d'élèves et des élèves sont élus chaque année en leur sein par les membres titulaires et
+suppléants du conseil d'administration appartenant respectivement à chacune de ces catégories au scrutin proportionnel au
+plus fort reste.
+
+Pour chaque membre élu du conseil de discipline, un suppléant est désigné dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 31 alinéas 10 à 12 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 31 alinéas 10 à 12 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article R511-22
+
+Les élections des représentants au conseil de discipline sont organisées à l'occasion de la première réunion du conseil
+d'administration qui suit les élections à ce conseil.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 31 alinéa 13 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D422-40 (V)
+
+
+###### Article R511-24
+
+Dans les établissements publics locaux d'enseignement relevant du ministre chargé de la mer, le conseil de discipline
+comprend, sous la présidence du chef d'établissement, les huit membres du conseil d'administration suivants :
+
+1° Le représentant de la région ;
+
+2° Un représentant de la commune siège ;
+
+3° Deux représentants des personnels élus par les membres du conseil d'administration appartenant à cette catégorie ;
+
+4° Deux représentants des parents d'élèves élus par les membres du conseil d'administration appartenant à cette catégorie ;
+
+5° Les deux représentants des élèves au conseil d'administration.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1242 du 25 novembre 1985, article 25 alinéas 1 à 6 v. init.
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-58 (V)
+  - Code de l'éducation - art. R421-107 (M)
+  - Code de l'éducation - art. R421-48 (V)
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+##### Paragraphe 2 : Compétence<a id=875></a>
+
+###### Article D511-25
+
+Le conseil de discipline compétent à l'égard d'un élève est celui de l'établissement dans lequel cet élève est inscrit, quel
+que soit le lieu où la faute susceptible de justifier une action disciplinaire a été commise.
+
+Le conseil de discipline peut, sur décision de son président, être réuni dans un autre établissement scolaire ou dans les
+locaux de l'inspection académique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 10 (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéa 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-55 (VD)
+  - Code de l'éducation - art. D561-3 (VD)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-3 (VD)
+
+
+###### Article R511-26
+
+Les modalités de fonctionnement du conseil de discipline de l'établissement et du conseil de discipline départemental, les
+modalités de la procédure disciplinaire, ainsi que la composition et les modalités de fonctionnement de la commission
+académique d'appel sont fixées par les articles R. 511-27, D. 511-30 à R. 511-44, D. 511-46 à D. 511-52.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 31-2 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 31-2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-30 (V)
+  - Code de l'éducation - art. D511-46 (V)
+  - Code de l'éducation - art. R511-27 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-55 (VD)
+
+
+###### Article R511-27
+
+Dans les lycées et collèges relevant du ministre chargé de l'éducation, le conseil de discipline est saisi par le chef
+d'établissement. Il a compétence pour prononcer à l'encontre des élèves l'ensemble des sanctions et des mesures mentionnées à
+l'article R. 511-13 dans les conditions fixées par ce même article. 
+
+En cas de partage égal des voix, le président a voix prépondérante.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 31 alinéas 14 et 15 (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 1 (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéa 1 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 31 alinéas 13 et 14 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-13 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. R511-26 (V)
+
+
+###### Article R511-28
+
+Dans les établissements publics locaux d'enseignement relevant du ministre chargé de la mer, le conseil de discipline décide
+sur proposition motivée du chef d'établissement toute exclusion supérieure à huit jours.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1242 du 25 novembre 1985, article 25 alinéa 7  v. init.
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Abrogé par_:
+
+  - Décret n°2011-728 du 24 juin 2011 - art. 10
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-58 (V)
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+###### Article R511-29
+
+Dans les lycées de la défense, le conseil de discipline est saisi par le commandant du lycée et donne son avis sur toute
+demande de sanction relevant des sixième et septième alinéas de l'article R. 511-17, dans les conditions définies par arrêté
+du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-246 du 1 mars 2006 - art. 15 alinéa 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D422-40 (V)
+  - Code de l'éducation - art. R421-107 (V)
+  - Code de l'éducation - art. R421-48 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-17 (V)
+
+
+##### Paragraphe 3 : Procédure disciplinaire<a id=876></a>
+
+###### Article D511-30
+
+Lorsque le chef d'établissement, saisi par écrit d'une demande de saisine du conseil de discipline émanant d'un membre de la
+communauté éducative, décide de ne pas engager de procédure disciplinaire, il lui notifie sa décision motivée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéa 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-55 (VD)
+  - Code de l'éducation - art. R511-26 (V)
+
+
+###### Article D511-31
+
+Le chef d'établissement convoque par pli recommandé les membres du conseil de discipline au moins huit jours avant la séance,
+dont il fixe la date.
+
+Il convoque également, dans la même forme :
+
+1° L'élève en cause ;
+
+2° S'il est mineur, son représentant légal ;
+
+3° La personne éventuellement chargée d'assister l'élève pour présenter sa défense ;
+
+4° La personne ayant demandé au chef d'établissement la comparution de l'élève ;
+
+5° Les témoins ou les personnes susceptibles d'éclairer le conseil sur les faits motivant la comparution de l'élève.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéas 4 à 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-39 (V)
+  - Code de l'éducation - art. D511-46 (VD)
+  - Code de l'éducation - art. D511-52 (V)
+  - Code de l'éducation - art. D561-2 (M)
+
+
+###### Article D511-32
+
+Le chef d'établissement précise à l'élève cité à comparaître les faits qui lui sont reprochés et lui fait savoir qu'il peut
+présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix. Si l'élève est mineur,
+cette communication est également faite à son représentant légal afin qu'il puisse produire ses observations.
+
+Les membres du conseil de discipline, l'élève cité à comparaître, son représentant légal et la personne éventuellement
+chargée de l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+Le représentant légal de l'élève et, le cas échéant, la personne chargée de l'assister sont informés de leur droit d'être
+entendus, sur leur demande, par le chef d'établissement et par le conseil de discipline.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéas 11 et 12 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-46 (VD)
+
+
+###### Article D511-33
+
+En cas de nécessité, le chef d'établissement peut, à titre conservatoire, interdire l'accès de l'établissement à un élève en
+attendant la comparution de celui-ci devant le conseil de discipline. S'il est mineur, l'élève est remis à son représentant
+légal. Cette mesure ne présente pas le caractère de sanction.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéa 13 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-48 (VD)
+  - Code de l'éducation - art. D511-50 (V)
+  - Code de l'éducation - art. D561-6 (V)
+  - Code de l'éducation - art. D562-5 (V)
+  - Code de l'éducation - art. D564-6 (V)
+
+
+###### Article D511-34
+
+Un parent d'élève, membre du conseil de discipline, dont l'enfant est traduit devant celui-ci, est remplacé par un suppléant
+pour la réunion au cours de laquelle l'élève doit comparaître.
+
+Un élève faisant l'objet d'une procédure disciplinaire en cours ne peut siéger dans un conseil de discipline, ni en qualité
+de membre de celui-ci, ni en qualité de délégué de classe, jusqu'à l'intervention de la décision définitive.
+
+Un élève ayant fait l'objet d'une sanction disciplinaire d'exclusion temporaire ne peut plus siéger à un conseil de
+discipline, ni en qualité de membre de celui-ci, ni en qualité de délégué de classe, jusqu'à la fin de l'année scolaire.
+
+Dans les cas mentionnés aux deuxième et troisième alinéas, l'élève est remplacé, le cas échéant, par son suppléant.
+
+Lorsqu'un membre du conseil de discipline a demandé au chef d'établissement la comparution d'un élève devant ce conseil, il
+est remplacé par un suppléant pour la réunion au cours de laquelle l'élève doit comparaître.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-35
+
+Au jour fixé pour la séance, le chef d'établissement vérifie que le conseil de discipline peut siéger valablement. Le nombre
+des membres présents doit être égal à la majorité des membres composant le conseil. Si ce quorum n'est pas atteint, le
+conseil de discipline est convoqué en vue d'une nouvelle réunion, qui se tient dans un délai minimum de huit jours et maximum
+de quinze jours ; il délibère alors valablement, quel que soit le nombre des membres présents. En cas d'urgence, ce délai
+peut être réduit.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7 alinéa 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-46 (VD)
+  - Code de l'éducation - art. D561-2 (M)
+
+
+###### Article D511-36
+
+Le président ouvre la séance et désigne un secrétaire de séance parmi les membres du conseil de discipline.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7 alinéa 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (M)
+
+
+###### Article D511-37
+
+Avant l'examen d'une affaire déterminée, si la nature des accusations le justifie et que les deux tiers au moins des membres
+du conseil le demandent, les délégués de classe qui ne sont pas majeurs se retirent du conseil.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-38
+
+L'élève, son représentant légal, le cas échéant, la personne chargée d'assister l'élève sont introduits.
+
+Le président donne lecture du rapport motivant la proposition de sanction.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7 alinéas 3 et 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-46 (VD)
+  - Code de l'éducation - art. D511-52 (V)
+
+
+###### Article D511-39
+
+Le conseil de discipline entend l'élève et, sur leur demande, son représentant légal et la personne chargée d'assister
+l'élève. Il entend également : 
+
+1° Deux professeurs de la classe de l'élève en cause, désignés par le chef d'établissement qui peut à cet effet consulter
+l'équipe pédagogique ; 
+
+2° Les deux délégués d'élèves de la classe de l'élève en cause ; 
+
+3° Toute personne de l'établissement susceptible de fournir des éléments d'information sur l'élève de nature à éclairer les
+débats ; 
+
+4° Les autres personnes convoquées par le chef d'établissement, mentionnées à l'article D. 511-31.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 2 (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7 alinéa 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-31 (V)
+
+
+###### Article D511-40
+
+Le président conduit la procédure et les débats dans le respect du contradictoire, avec le souci de donner à l'intervention
+du conseil de discipline une portée éducative.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7 alinéa 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-46 (VD)
+
+
+###### Article D511-41
+
+La décision du conseil de discipline est prise en présence des seuls membres du conseil ayant voix délibérative.
+
+Tous les votes interviennent à bulletins secrets, à la majorité des suffrages exprimés. Les abstentions, les bulletins blancs
+et nuls ne sont pas comptés.
+
+Les membres du conseil de discipline et les personnes ayant pris part aux délibérations de celui-ci sont soumis à
+l'obligation du secret en ce qui concerne tous les faits et documents dont ils ont eu connaissance.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7 alinéas 7 à 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-42
+
+Le président notifie aussitôt à l'élève et à son représentant légal la décision du conseil de discipline. Cette décision est
+confirmée par pli recommandé le jour même. La notification mentionne les voies et délais d'appel fixés à l'article R. 511-49.
+
+Le procès-verbal du conseil de discipline mentionne les noms du président, du secrétaire de séance, des membres du conseil et
+des autres personnes qui ont assisté à la réunion. Il rappelle succinctement les griefs invoqués à l'encontre de l'élève en
+cause, les réponses qu'il a fournies aux questions posées au cours de la séance, les observations présentées par la personne
+chargée de l'assister et la décision prise par les membres du conseil après délibération. Le procès-verbal, signé du
+président et du secrétaire de séance, demeure aux archives de l'établissement. Une copie en est adressée au recteur dans les
+cinq jours suivant la séance.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéa 11 (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7 alinéas 10 et 11 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-46 (VD)
+  - Code de l'éducation - art. D511-52 (V)
+  - Code de l'éducation - art. D511-55 (VD)
+  - Code de l'éducation - art. D511-56 (VD)
+  - Code de l'éducation - art. D561-3 (VD)
+  - Code de l'éducation - art. D561-5 (V)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D562-4 (V)
+  - Code de l'éducation - art. D564-3 (VD)
+  - Code de l'éducation - art. D564-5 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-49 (V)
+
+
+###### Article D511-43
+
+Lorsqu'une sanction d'exclusion définitive est prononcée par le conseil de discipline à l'encontre d'un élève soumis à
+l'obligation scolaire, le recteur ou l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale,
+selon le cas, en est immédiatement informé et pourvoit aussitôt à son inscription dans un autre établissement ou centre
+public d'enseignement par correspondance.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-55 (VD)
+  - Code de l'éducation - art. D562-2 (VD)
+
+
+##### Sous-section 3 : Le conseil de discipline départemental<a id=877></a>
+
+###### Article D511-46
+
+Sont applicables au conseil de discipline départemental les dispositions des articles D. 511-31 à D. 511-43. Pour
+l'application des articles D. 511-31, D. 511-32, D. 511-35, D. 511-36, D. 511-38, D. 511-40 et D. 511-42, l'inspecteur
+d'académie, directeur des services départementaux de l'éducation nationale, exerce les compétences du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7-1 alinéa 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-31 (V)
+  - Code de l'éducation - art. D511-32 (V)
+  - Code de l'éducation - art. D511-35 (V)
+  - Code de l'éducation - art. D511-38 (V)
+  - Code de l'éducation - art. D511-40 (V)
+  - Code de l'éducation - art. D511-42 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-2 (V)
+  - Code de l'éducation - art. R511-26 (V)
+
+
+###### Article R511-44
+
+Lorsque, pour des faits d'atteinte grave aux personnes ou aux biens, un chef d'établissement public local d'enseignement
+engage une action disciplinaire à l'encontre d'un élève qui a déjà fait l'objet d'une sanction d'exclusion définitive de son
+précédent établissement ou est l'objet de poursuites pénales, il peut, s'il estime que la sérénité du conseil de discipline
+n'est pas assurée ou que l'ordre et la sécurité dans l'établissement seraient compromis, saisir le conseil de discipline
+départemental.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 31 alinéa 16 (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7-1 alinéa 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+###### Article R511-45
+
+Le conseil de discipline départemental est présidé par l'inspecteur d'académie, directeur des services départementaux de
+l'éducation nationale, ou son représentant.
+
+Ce conseil comprend en outre dix membres :
+
+1° Deux représentants des personnels de direction ;
+
+2° Deux représentants des personnels d'enseignement ;
+
+3° Un représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+
+4° Un conseiller principal d'éducation ;
+
+5° Deux représentants des parents d'élèves ;
+
+6° Deux représentants des élèves.
+
+Les membres autres que le président ont la qualité de membre d'un conseil de discipline d'établissement. Ils sont nommés pour
+un an par le recteur d'académie.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 31 alinéa 17 (Ab)
+  - Décret n°85-1348 du 18 décembre 1985 - art. 7-1 alinéa 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-56 (VD)
+
+
+##### Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental<a id=878></a>
+
+###### Article D511-47
+
+Lorsqu'un élève est traduit devant le conseil de discipline de l'établissement ou le conseil de discipline départemental et
+fait l'objet de poursuites pénales en raison des mêmes faits, l'action disciplinaire peut, en cas de contestation sérieuse
+sur la matérialité de ces faits ou sur leur imputation à l'élève en cause, être suspendue jusqu'à ce que la juridiction
+saisie se soit prononcée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-55 (VD)
+
+
+###### Article D511-48
+
+Lorsqu'un élève ayant fait l'objet de la mesure prévue à l'article D. 511-33 commet une infraction à l'égard de cette mesure,
+l'action disciplinaire afférente à cette faute est jointe à l'action en cours et le conseil de discipline de l'établissement
+ou le conseil de discipline départemental est appelé à statuer par une seule décision. 
+
+Lorsqu'un élève fait l'objet de poursuites disciplinaires pour des faits distincts, les deux procédures peuvent être jointes
+et le conseil de discipline de l'établissement ou le conseil de discipline départemental peut statuer par une seule décision,
+à l'initiative du chef d'établissement ou de l'inspecteur d'académie, directeur des services départementaux de l'éducation
+nationale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-33 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-55 (VD)
+  - Code de l'éducation - art. D511-56 (VD)
+  - Code de l'éducation - art. D561-3 (VD)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-3 (VD)
+
+
+##### Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental<a id=879></a>
+
+###### Article D511-50
+
+Lorsque la décision du conseil de discipline ou du conseil de discipline départemental est déférée au recteur d'académie en
+application de l'article R. 511-49, elle est néanmoins immédiatement exécutoire. 
+
+Le chef d'établissement peut faire application des dispositions de l'article D. 511-33 jusqu'à l'expiration du délai
+mentionné à l'article R. 511-49 ou jusqu'à décision du recteur si celui-ci a été saisi.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 8 alinéa 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-33 (V)
+  - Code de l'éducation - art. R511-49 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-55 (VD)
+  - Code de l'éducation - art. D561-6 (V)
+  - Code de l'éducation - art. D564-6 (V)
+
+
+###### Article D511-51
+
+La commission académique est présidée par le recteur ou son représentant.
+
+Elle comprend en outre cinq membres :
+
+1° Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+
+2° Un chef d'établissement ;
+
+3° Un professeur ;
+
+4° Deux représentants des parents d'élèves.
+
+Les membres autres que le président sont nommés pour deux ans par le recteur ou son représentant.
+
+Un suppléant est nommé dans les mêmes conditions pour chacun des membres de la commission, à l'exception de son président.
+
+Pour la désignation des représentants des parents d'élèves, le recteur recueille les propositions des associations
+représentées au conseil académique de l'éducation nationale.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+académique d'appel).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 8 alinéa 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D562-1 (V)
+
+
+###### Article D511-52
+
+Les modalités prévues pour le conseil de discipline de l'établissement ou le conseil de discipline départemental en matière
+d'exercice des droits de la défense par les articles D. 511-31, D. 511-32 et D. 511-38 à D. 511-40 sont applicables à la
+commission ainsi que les dispositions du deuxième alinéa de l'article D. 511-42, à l'exception de sa dernière phrase. 
+
+La commission émet son avis à la majorité de ses membres. 
+
+La décision du recteur intervient dans un délai d'un mois à compter de la date de réception de l'appel.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 8 alinéas 3 à 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-31 (V)
+  - Code de l'éducation - art. D511-38 (V)
+  - Code de l'éducation - art. D511-42 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-55 (VD)
+  - Code de l'éducation - art. D561-3 (VD)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-3 (VD)
+
+
+###### Article D511-54
+
+Dans les établissements d'enseignement français en Principauté d'Andorre, toute décision prise par le conseil de discipline
+peut être déférée, dans un délai de huit jours, au délégué à l'enseignement, qui la transmet au recteur de l'académie de
+Montpellier, soit par la famille ou l'élève s'il est majeur, soit par le chef d'établissement. Le recteur arrête sa décision
+après avis de la commission académique réunie sous sa présidence.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°95-592 du 6 mai 1995 - art. 30 alinéa 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-55 (VD)
+  - Code de l'éducation - art. D511-58 (V)
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+  - Code de l'éducation - art. R421-48 (V)
+
+
+###### Article D511-55
+
+I. ― Sont applicables aux établissements d'enseignement français en Principauté d'Andorre le premier alinéa de l'article D.
+511-25, les articles R. 511-26, R. 511-27, D. 511-30 à D. 511-43, D. 511-47, D. 511-48 et D. 511-50 à D. 511-52, sous réserve
+des dispositions des II, III et IV du présent article. 
+
+II.-Pour l'application des articles R. 511-26, D. 511-47, D. 511-48, D. 511-50 et D. 511-52, les mots : « conseil de
+discipline départemental » sont supprimés. 
+
+III.-Pour l'application de la troisième phrase du premier alinéa de l'article D. 511-42, la notification de la décision du
+conseil de discipline mentionne les voies et délais d'appel fixés à l'article D. 511-54. Pour l'application des articles D.
+511-42 et D. 511-50 à D. 511-52, les mots : « recteur de l'académie » sont remplacés par les mots : « recteur de l'académie
+de Montpellier ». Pour l'application de l'article D. 511-48, les mots : « ou de l'inspecteur d'académie, directeur des
+services départementaux de l'éducation nationale » sont supprimés. 
+
+IV.-Pour l'application de l'article D. 511-43, les mots : « le recteur ou l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale, selon le cas, en est immédiatement informé et pourvoit aussitôt à son inscription
+dans un autre établissement ou centre public d'enseignement par correspondance » sont remplacés par les mots : « le délégué à
+l'enseignement et le recteur de l'académie de Montpellier en sont immédiatement informés. Le recteur pourvoit sans délai à
+l'inscription de l'élève dans un autre établissement ou centre public d'enseignement par correspondance ».
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°95-592 du 6 mai 1995 - art. 30 alinéa 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-25 (V)
+  - Code de l'éducation - art. D511-30 (V)
+  - Code de l'éducation - art. D511-42 (V)
+  - Code de l'éducation - art. D511-43 (V)
+  - Code de l'éducation - art. D511-47 (V)
+  - Code de l'éducation - art. D511-48 (V)
+  - Code de l'éducation - art. D511-50 (V)
+  - Code de l'éducation - art. D511-52 (V)
+  - Code de l'éducation - art. D511-54 (V)
+  - Code de l'éducation - art. R511-26 (V)
+
+
+###### Article D511-56
+
+Pour leur application à Saint-Pierre-et-Miquelon, les dispositions des articles D. 511-42, D. 511-43, R. 511-45 et D. 511-48
+à D. 511-52 sont ainsi adaptées : 
+
+1° Les mots : « recteur d'académie » sont remplacés par les mots : « recteur de l'académie de Caen » ; 
+
+2° Les mots : « inspecteur d'académie, directeur des services départementaux de l'éducation nationale » sont remplacés par
+les mots : « chef du service de l'éducation nationale » et les mots : « inspection académique » par les mots : « service de
+l'éducation » ; 
+
+3° Les mots : « commission académique d'appel » sont remplacés par les mots : « commission d'appel de l'académie de Caen ».
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+académique d'appel).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2009-627 du 6 juin 2009 - art. (V)
+  - Décret n°2014-590 du 6 juin 2014 - art. (V)
+  - Décret n°2015-623 du 5 juin 2015 - art. (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-42 (V)
+  - Code de l'éducation - art. D511-48 (V)
+  - Code de l'éducation - art. R511-45 (V)
+
+
+###### Article D511-58
+
+Les dispositions de la présente section, à l'exception des articles R. 511-15 à R. 511-19, D. 511-23, R. 511-24, R. 511-28,
+R. 511-29 et D. 511-54 à R. 511-57 sont applicables aux collèges et aux lycées municipaux ou départementaux.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-164 du 31 janvier 1986 - art. 48 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-23 (V)
+  - Code de l'éducation - art. D511-54 (V)
+  - Code de l'éducation - art. R511-15 (V)
+  - Code de l'éducation - art. R511-24 (V)
+  - Code de l'éducation - art. R511-28 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article R511-49
+
+Toute décision du conseil de discipline de l'établissement ou du conseil de discipline départemental peut être déférée au
+recteur de l'académie, dans un délai de huit jours à compter de sa notification écrite, soit par le représentant légal de
+l'élève, ou par ce dernier s'il est majeur, soit par le chef d'établissement.
+
+Le recteur d'académie décide après avis d'une commission académique.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+académique d'appel).
+
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission académique d'appel procédure disciplinaire).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, les Commissions académiques d'appel (procédure disciplinaire)
+sont renouvelées pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 31-1 alinéa 1 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 31-1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2014-590 du 6 juin 2014 - art. (V)
+  - Décret n°2015-623 du 5 juin 2015 - art. (V)
+  - Code de l'éducation - art. D422-61 (V)
+  - Code de l'éducation - art. D511-42 (V)
+  - Code de l'éducation - art. D511-50 (V)
+  - Code de l'éducation - art. D561-5 (V)
+  - Code de l'éducation - art. D561-6 (V)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D562-4 (V)
+  - Code de l'éducation - art. D562-5 (V)
+  - Code de l'éducation - art. D564-3 (VD)
+  - Code de l'éducation - art. D564-5 (V)
+  - Code de l'éducation - art. D564-6 (V)
+  - Code de l'éducation - art. R511-53 (V)
+
+
+###### Article R511-53
+
+La juridiction administrative ne peut être saisie qu'après mise en œuvre des dispositions de l'article R. 511-49.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 31-1 alinéa 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D422-40 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-49 (V)
+
+
+###### Article R511-57
+
+Dans les établissements publics locaux d'enseignement relevant du ministre chargé de la mer, toute décision prise par le
+conseil de discipline peut être déférée, dans un délai de huit jours, au directeur régional des affaires maritimes soit par
+la famille ou l'élève s'il est majeur, soit par le chef d'établissement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1242 du 25 novembre 1985, article 25 alinéa 8 v. init.
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R421-107 (M)
+  - Code de l'éducation - art. R421-48 (V)
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+##### Section 3 : Conseil national et conseil académique de la vie lycéenne<a id=880></a>
+
+##### Sous-section 1 : Le Conseil national de la vie lycéenne<a id=881></a>
+
+###### Article D511-59
+
+Le Conseil national de la vie lycéenne peut être consulté par le ministre chargé de l'éducation sur les questions relatives à
+la vie matérielle, sociale, culturelle et sportive et au travail scolaire dans les lycées publics et dans les établissements
+régionaux d'enseignement adapté.
+
+Il est tenu informé des grandes orientations de la politique éducative dans les lycées.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la vie lycéenne).
+
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil national de la vie lycéenne).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, le Conseil national de la vie lycéenne est renouvelé pour une
+durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°95-1293 du 18 décembre 1995 - art. 1 (Ab)
+  - Décret n°95-1293 du 18 décembre 1995 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2015-623 du 5 juin 2015 - art. Annexe 1 (V)
+
+
+###### Article D511-60
+
+Le Conseil national de la vie lycéenne est présidé par le ministre chargé de l'éducation ou son représentant, nommé par
+arrêté du ministre.
+
+Il se compose de trente-trois membres répartis de la manière suivante :
+
+1° Trente membres élus, en leur sein, pour deux ans, par les représentants lycéens aux conseils académiques de la vie
+lycéenne, à raison d'un titulaire et d'un suppléant ;
+
+2° Les trois représentants des lycéens au sein du Conseil supérieur de l'éducation ou leurs suppléants, pour la durée de leur
+mandat au titre de ce conseil.
+
+Pour l'application du 1°, lorsque le titulaire est en dernière année de cycle d'études, le suppléant doit être inscrit dans
+une classe de niveau inférieur.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°95-1293 du 18 décembre 1995 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-61
+
+Un membre suppléant ne peut siéger qu'en l'absence du titulaire.
+
+Le titulaire est remplacé jusqu'à l'expiration de son mandat par son suppléant lorsqu'il perd la qualité de lycéen,
+démissionne de son mandat, change de collège électoral ou quitte l'académie.
+
+Dans l'hypothèse où le suppléant perd la qualité au titre de laquelle il a été élu ou démissionne, il est procédé à son
+remplacement dans les mêmes conditions.
+
+Lorsqu'il n'est pas possible de pourvoir dans les conditions requises aux alinéas précédents aux sièges des membres
+titulaires, il est procédé à un renouvellement partiel du Conseil national de la vie lycéenne pour la durée du mandat restant
+à courir.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°95-1293 du 18 décembre 1995 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-62
+
+Le Conseil national de la vie lycéenne se réunit au moins deux fois par an. Ses séances ne sont pas publiques.
+
+Le Conseil national de la vie lycéenne peut entendre, en fonction des thèmes inscrits à l'ordre du jour et avec l'accord de
+son président, toute personne dont le concours est jugé utile à ses travaux.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°95-1293 du 18 décembre 1995 - art. 5 (Ab)
+  - Décret n°95-1293 du 18 décembre 1995 - art. 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+##### Sous-section 2 : Le conseil académique de la vie lycéenne<a id=882></a>
+
+###### Article D511-63
+
+Dans chaque académie, un conseil académique de la vie lycéenne, présidé par le recteur, formule des avis sur les questions
+relatives à la vie scolaire et au travail scolaire dans les lycées et les établissements régionaux d'enseignement adapté.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseils académiques de la vie lycéenne). 
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, les Conseils académiques de la vie lycéenne sont renouvelés
+pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 1 (Ab)
+  - Décret n°91-916 du 16 septembre 1991 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2015-623 du 5 juin 2015 - art. Annexe 1 (V)
+  - Code de l'éducation - art. D562-2 (VD)
+
+
+###### Article D511-64
+
+Le recteur fixe la composition du conseil académique de la vie lycéenne. Ce conseil se compose au maximum de quarante
+membres. La moitié au moins sont des lycéens ou des élèves des établissements régionaux d'enseignement adapté, membres des
+conseils des délégués des élèves des établissements de l'académie.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-65
+
+Le conseil académique de la vie lycéenne comprend des représentants de l'éducation nationale nommés par le recteur et des
+conseillers régionaux nommés par le recteur sur proposition du président du conseil régional.
+
+Il peut comprendre également :
+
+a) Des représentants des autres administrations de l'Etat ;
+
+b) Des représentants des départements et des communes ;
+
+c) Des représentants des parents d'élèves ;
+
+d) Des représentants du monde associatif, périscolaire, culturel ou économique.
+
+Ces membres sont désignés par le recteur respectivement après consultation des collectivités territoriales, des associations
+ou des organisations représentatives concernées.
+
+Dans le cas où le conseil comprend des personnalités représentant le monde économique, il est fait appel, à parité, à des
+représentants des organisations d'employeurs et de salariés.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D562-7 (V)
+
+
+###### Article D511-66
+
+Les membres du conseil académique de la vie lycéenne sont désignés pour trois ans. Toutefois, les membres lycéens sont élus
+pour deux ans.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-67
+
+Les représentants des lycéens au conseil académique de la vie lycéenne sont élus au scrutin plurinominal majoritaire à un
+tour.
+
+Le vote est personnel et secret.
+
+Le vote par correspondance est autorisé.
+
+Les électeurs sont répartis en trois collèges :
+
+a) Le premier collège comprend les représentants des lycéens, titulaires et suppléants, aux conseils des délégués pour la vie
+lycéenne des lycées d'enseignement général et technologique ;
+
+b) Le deuxième collège comprend les représentants des lycéens, titulaires et suppléants, aux conseils des délégués pour la
+vie lycéenne des lycées professionnels ;
+
+c) Le troisième collège comprend les représentants des élèves, titulaires et suppléants, aux conseils des délégués pour la
+vie lycéenne des établissements régionaux d'enseignement adapté.
+
+Le collège mentionné au c n'est créé que lorsqu'un ou plusieurs établissements régionaux d'enseignement adapté accueillant
+des élèves de niveau lycée sont implantés dans la circonscription électorale.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-68 (V)
+
+
+###### Article D511-68
+
+L'élection des représentants des lycéens aux conseils académiques de la vie lycéenne se déroule suivant les dispositions ci-
+après. 
+
+Le recteur répartit le nombre de sièges à pourvoir à l'intérieur de son académie entre les représentants des trois collèges
+mentionnés à l'article D. 511-67. Pour chacun des collèges, les sièges sont répartis sur une base qui peut être
+infradépartementale, départementale, interdépartementale ou académique. 
+
+Le recteur d'académie assure l'organisation des élections. Il dresse la liste électorale par collège et par circonscription. 
+
+Tout électeur est éligible. Toutefois, la perte ultérieure de la qualité de membre d'un conseil de la vie lycéenne ne remet
+pas en cause le mandat d'élu au conseil académique de la vie lycéenne, sous réserve des dispositions de l'article D. 511-71. 
+
+Les déclarations de candidature comportent les noms du candidat titulaire et de ses deux suppléants. Une déclaration
+incomplète n'est toutefois pas irrecevable dès lors qu'elle comprend, outre le nom d'un candidat, le nom d'un suppléant au
+moins. 
+
+Les suppléants sont désignés selon l'ordre de présentation sur la déclaration de candidature. Lorsque le titulaire est en
+dernière année de cycle d'études, les suppléants sont inscrits dans une classe de niveau inférieur. 
+
+Les modalités d'organisation du scrutin sont fixées par arrêté ministériel.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 26 avril 2017 - art. 3 (V)
+  - Code de l'éducation - art. D562-2 (VD)
+
+
+###### Article D511-69
+
+Les contestations sur la validité des opérations électorales sont portées, dans un délai de cinq jours ouvrables à compter de
+l'affichage des résultats, devant le recteur d'académie. Celui-ci statue dans un délai de huit jours.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 7-1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-70
+
+Le conseil académique de la vie lycéenne se réunit à l'initiative du recteur au moins trois fois par année scolaire. Des
+séances supplémentaires peuvent également être organisées lorsque plus de la moitié des membres du conseil en font la
+demande.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 8 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-71
+
+Un membre suppléant ne peut siéger au conseil académique de la vie lycéenne qu'en l'absence du titulaire.
+
+Le titulaire est remplacé jusqu'à l'expiration de son mandat par le premier suppléant lorsqu'il perd la qualité de lycéen,
+démissionne de son mandat, change de collège électoral ou quitte l'académie.
+
+Dans l'hypothèse où le premier suppléant se trouve dans l'un des cas prévus à l'alinéa précédent, il est remplacé par le
+second suppléant jusqu'à l'expiration du mandat.
+
+Lorsqu'il n'est pas possible de pourvoir dans les conditions requises aux alinéas précédents aux sièges des membres
+titulaires, il est procédé à un renouvellement partiel du conseil académique de la vie lycéenne pour la durée du mandat
+restant à courir.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 8-1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D511-68 (V)
+
+
+###### Article D511-72
+
+Le conseil académique de la vie lycéenne adopte un règlement intérieur.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D511-73
+
+Le compte rendu des réunions du conseil académique de la vie lycéenne est adressé à chacun des membres ainsi qu'à tous les
+lycées et les établissements régionaux d'enseignement adapté de l'académie.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques de la vie lycéenne).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-916 du 16 septembre 1991 - art. 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+##### Section 4 : Information en matière de droit de la nationalité<a id=883></a>
+
+###### Article R511-74
+
+L'enseignement de l'éducation civique dans les établissements du second degré publics et privés sous contrat inclut l'exposé
+des principes fondamentaux qui régissent la nationalité française. Les règles concernant la situation des enfants nés en
+France de parents étrangers y sont mentionnées et expliquées.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-719 du 20 août 1998 - art. 8 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R563-1 (V)
+
+
+###### Article R511-75
+
+Les établissements du second degré publics et privés sous contrat assurent, pour les élèves âgés de onze à seize ans et pour
+leurs parents, une information personnalisée sur l'acquisition anticipée de la nationalité française, sur la faculté de
+décliner celle-ci et sur les démarches et formalités nécessaires.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-719 du 20 août 1998 - art. 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+### Titre II : L'organisation du temps et de l'espace scolaires<a id=884></a>
+
+#### Chapitre unique<a id=885></a>
+
+##### Section 1 : Aménagement du temps scolaire<a id=886></a>
+
+##### Sous-section 1 : Dispositions communes à l’ensemble des académies<a id=887></a>
+
+###### Article D521-1
+
+Les recteurs d'académie ont compétence pour procéder, par arrêté, à des adaptations du calendrier scolaire national rendues
+nécessaires soit par la situation géographique particulière d'un établissement scolaire ou la nature des formations qu'il
+dispense, soit par des circonstances susceptibles de mettre en difficulté, dans un établissement, dans un département ou dans
+l'académie, le fonctionnement du service public d'enseignement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-236 du 14 mars 1990 - art. 1 alinéa 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 20 juillet 2009 - art. 4 (V)
+  - Arrêté du 5 juillet 2012 - art. 1 (V)
+  - Arrêté du 28 novembre 2012 - art. 4 (V)
+  - Arrêté du 21 janvier 2014 (V)
+  - Arrêté du 21 janvier 2014 - art. 4 (V)
+  - Arrêté du 1er juillet 2014 (V)
+  - Arrêté du 16 avril 2015 - art. 4 (V)
+  - Code de l'éducation - art. D521-2 (V)
+  - Code de l'éducation - art. D521-5 (V)
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D562-1 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D521-2
+
+Les adaptations du calendrier scolaire national prévues à l'article D. 521-1 ne peuvent avoir pour effet de modifier le
+nombre ou la durée effective totale des périodes de travail et de vacance des classes de l'année scolaire ni l'équilibre
+entre ces périodes. 
+
+Elles ne peuvent entraîner une modification de la répartition des académies en zones de vacances fixée par le ministre chargé
+de l'éducation. Toutefois, les dates de vacances des écoles maternelles et élémentaires peuvent être alignées sur celles du
+collège du secteur auquel elles sont rattachées lorsque ce collège est implanté sur le territoire d'une académie appartenant
+à une zone de vacances différente. 
+
+Peuvent être modifiées soit la durée, soit seulement les dates d'une période de vacances incluse dans l'année scolaire. La
+date de la rentrée scolaire peut également être retardée. Ces modifications ne peuvent excéder trois jours consécutifs, ni
+réduire à moins de huit jours la durée d'une période de vacances.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-236 du 14 mars 1990 - art. 1 alinéas 2 à 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-1 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D521-12 (V)
+  - Code de l'éducation - art. D521-3 (V)
+
+
+###### Article D521-3
+
+Lorsque des établissements scolaires sont appelés à participer à une expérimentation pédagogique s'inscrivant dans le cadre
+d'une recherche nationale ou académique, les dispositions de l'arrêté fixant le calendrier scolaire national peuvent être
+adaptées par le recteur d'académie, dans la mesure nécessaire à la conduite de cette expérimentation et pour la durée de
+celle-ci. 
+
+Lorsqu'une expérimentation, conduite à l'initiative ou avec l'approbation du ministre chargé de l'éducation et sous son
+contrôle, porte sur de nouveaux modes d'organisation des rythmes scolaires annuels, les adaptations arrêtées par le recteur
+d'académie peuvent déroger aux dispositions du premier alinéa de l'article D. 521-2.
+
+Le Conseil supérieur de l'éducation est tenu informé de la mise en place de ces expérimentations et des résultats de leur
+évaluation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-236 du 14 mars 1990 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-2 (V)
+
+
+###### Article D521-4
+
+Le recteur d'académie arrête sa décision dans les conditions suivantes :
+
+1° Lorsque la mesure d'adaptation envisagée intéresse l'ensemble de l'académie, après consultation du conseil académique de
+l'éducation nationale ;
+
+2° Lorsque la mesure d'adaptation envisagée intéresse l'ensemble d'un département, après consultation du conseil
+départemental de l'éducation nationale ;
+
+3° Lorsque la mesure d'adaptation envisagée intéresse un seul ou un nombre limité d'établissements scolaires, après
+consultation du conseil de l'école ou des écoles, du conseil d'administration du ou des établissements d'enseignement du
+second degré concernés.
+
+Pour les décisions prises en application des 2° et 3°, le recteur d'académie peut déléguer sa signature à l'inspecteur
+d'académie, directeur des services départementaux de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-236 du 14 mars 1990 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D521-5
+
+Sauf dans les cas où elles sont motivées par des circonstances non prévisibles, les décisions résultant de l'application des
+articles D. 521-1 à D. 521-4 sont arrêtées et rendues publiques un an au moins avant la date d'effet prévue quand elles
+concernent l'ensemble d'un département ou de l'académie. 
+
+Les dates des vacances scolaires, résultant le cas échéant de ces décisions, sont affichées dans les établissements
+scolaires.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-236 du 14 mars 1990 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-1 (V)
+
+
+##### Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon<a id=888></a>
+
+###### Article D521-6
+
+Les recteurs des académies de Corse, de la Guadeloupe, de la Guyane, de la Martinique et de La Réunion peuvent adapter le
+calendrier national en fixant, par arrêté, pour une période de trois années, des calendriers scolaires tenant compte des
+caractères particuliers de chacune des régions concernées.
+
+Ces calendriers sont établis sur la base d'une année scolaire comportant trente-six semaines réparties en cinq périodes de
+travail, de durée comparable, séparées par quatre périodes de vacance des classes.
+
+Les conseils de l'éducation nationale des cinq académies, ainsi que l'Assemblée de Corse et les conseils régionaux de la
+Guadeloupe, de la Guyane, de la Martinique et de La Réunion, sont consultés, chacun en ce qui le concerne, pour
+l'établissement de ces calendriers triennaux.
+
+Ceux-ci peuvent faire l'objet d'adaptations localisées et circonstancielles dans les conditions prévues à la sous-section 1
+de la présente section.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-236 du 14 mars 1990 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 20 juillet 2009 - art. 5 (V)
+  - Arrêté du 28 novembre 2012 - art. 5 (V)
+  - Arrêté du 21 janvier 2014 - art. 5 (V)
+  - Arrêté du 16 avril 2015 - art. 5 (V)
+  - Code de l'éducation - art. D521-7 (VD)
+  - Code de l'éducation - art. D521-9 (V)
+
+
+###### Article D521-7
+
+Les compétences conférées aux recteurs d'académie par l'article D. 521-6 sont exercées, après consultation des assemblées
+locales, à Saint-Pierre-et-Miquelon par le recteur de l'académie de Caen, et à Saint-Barthélemy et Saint-Martin par le
+recteur de l'académie de la Guadeloupe.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-236 du 14 mars 1990 - art. 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 21 janvier 2014 - art. 5 (V)
+  - Arrêté du 16 avril 2015 - art. 5 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-6 (V)
+
+
+##### Sous-section 3 : Dispositions particulières à l’enseignement et à la formation professionnelle agricoles<a id=889></a>
+
+###### Article D521-8
+
+Les compétences conférées aux recteurs d'académie par la sous-section 1 de la présente section pour l'adaptation du
+calendrier scolaire mentionné à l'article L. 521-1 sont exercées par les directeurs régionaux de l'alimentation, de
+l'agriculture et de la forêt lorsque la mesure d'adaptation envisagée intéresse un seul ou un nombre limité d'établissements
+d'enseignement et de formation professionnelle agricoles. 
+
+Lorsque la mesure d'adaptation envisagée intéresse l'ensemble de l'académie, les dispositions prises par le recteur
+d'académie sont rendues applicables aux établissements d'enseignement et de formation professionnelle agricoles par décision
+du directeur régional de l'alimentation, de l'agriculture et de la forêt.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-236 du 14 mars 1990 - art. 8 (Ab)
+  - Décret n°90-236 du 14 mars 1990 - art. 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. L521-1 (V)
+
+
+###### Article D521-9
+
+Les dispositions de l'article D. 521-6 sont applicables aux établissements d'enseignement et de formation professionnelle
+agricoles de la Corse, de la Guadeloupe, de la Guyane, de la Martinique et de La Réunion. 
+
+Les mesures d'adaptation envisagées en application de ces mêmes dispositions sont décidées par les directeurs de
+l'alimentation, de l'agriculture et de la forêt.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-236 du 14 mars 1990 - art. 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-6 (V)
+
+
+##### Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires<a id=890></a>
+
+###### Article D521-10
+
+La durée de la semaine scolaire est fixée à vingt-quatre heures d'enseignement scolaire pour tous les élèves. 
+
+Sauf décision contraire prise dans les conditions prévues aux articles D. 521-11 à D. 521-13, les vingt-quatre heures
+d'enseignement sont organisées à raison de six heures par jour les lundis, mardis, jeudis et vendredis. 
+
+Les élèves rencontrant des difficultés d'apprentissage peuvent bénéficier en outre de deux heures d'aide personnalisée dans
+les conditions fixées par l'article D. 521-15.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-788 du 6 septembre 1990 - art. 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2014-457 du 7 mai 2014 (VT)
+  - Décret n°2014-457 du 7 mai 2014 - art. 1 (VT)
+  - Décret n°2014-1206 du 20 octobre 2014 - art. 1 (VT)
+  - Décret n°2015-996 du 17 août 2015 - art. 2 (VD)
+  - Décret n°2015-997 du 17 août 2015 - art. 1 (Ab)
+  - Décret n°2016-1049 du 1er août 2016 (V)
+  - Code de l'éducation - art. D411-2 (V)
+  - Code de l'éducation - art. D521-11 (VD)
+  - Code de l'éducation - art. D521-12 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-15 (V)
+
+
+###### Article D521-11
+
+Lorsque, pour l'établissement du règlement intérieur prévu par les articles D. 411-2 et D. 411-6, le conseil d'école souhaite
+adopter une organisation de la semaine scolaire qui déroge aux règles fixées par l'article D. 521-10, il transmet son projet
+à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après avis de l'inspecteur de
+l'éducation nationale chargé de la circonscription d'enseignement du premier degré et de la commune dans laquelle est située
+l'école.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-788 du 6 septembre 1990 - art. 10-1 alinéa 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D411-2 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D521-10 (VD)
+  - Code de l'éducation - art. D521-12 (V)
+  - Code de l'éducation - art. D521-13 (VD)
+  - Code de l'éducation - art. D561-3 (VD)
+  - Code de l'éducation - art. D561-9 (V)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-3 (VD)
+
+
+###### Article D521-12
+
+Les aménagements du temps scolaire prévus ne peuvent avoir pour effet :
+
+1° De modifier le calendrier scolaire national ;
+
+2° De réduire ou d'augmenter sur une année scolaire le nombre d'heures d'enseignement ainsi que leur répartition ;
+
+3° D'organiser des journées scolaires dont les horaires d'enseignement dépassent six heures ;
+
+4° De porter la durée de la semaine scolaire à plus de neuf demi-journées ;
+
+5° D'organiser des heures d'enseignement le samedi.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-788 du 6 septembre 1990 - art. 10-1 alinéas 2 à 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2016-1049 du 1er août 2016 (V)
+  - Décret n°2016-1049 du 1er août 2016 - art. 2 (V)
+  - Décret n°2018-647 du 23 juillet 2018 (V)
+
+
+###### Article D521-13
+
+L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, statue sur chaque projet
+d'aménagement après s'être assuré que les conditions mentionnées aux articles D. 521-11 et D. 521-12 sont respectées. Il ne
+l'adopte que s'il ne porte pas atteinte à l'exercice de la liberté de l'instruction religieuse mentionnée au deuxième alinéa
+de l'article L. 141-2.
+
+La décision de l'inspecteur d'académie ne peut porter sur une durée supérieure à trois ans.A l'issue de cette période, cette
+décision peut être renouvelée tous les trois ans après un nouvel examen, en respectant la même procédure.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-788 du 6 septembre 1990 - art. 10-1 alinéas 8 et 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D521-10 (VD)
+  - Code de l'éducation - art. D561-3 (VD)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-3 (VD)
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-11 (V)
+  - Code de l'éducation - art. L141-2 (V)
+
+
+###### Article D521-14
+
+L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, fixe les heures d'entrée et de
+sortie des écoles, dans le cadre du règlement type départemental mentionné à l'article R. 411-5, après consultation du
+conseil départemental de l'éducation nationale et de la ou des communes intéressées, sans préjudice du pouvoir de
+modification conféré au maire de la commune par les dispositions de l'article L. 521-3.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-788 du 6 septembre 1990 - art. 10-2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-9 (V)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-9 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L521-3 (V)
+  - Code de l'éducation - art. R411-5 (V)
+
+
+###### Article D521-15
+
+L'organisation générale de l'aide personnalisée prévue pour répondre aux besoins des élèves qui rencontrent des difficultés
+dans leurs apprentissages est arrêtée par l'inspecteur de l'éducation nationale de la circonscription sur proposition du
+conseil des maîtres.
+
+L'ensemble des dispositions retenues est inscrit dans le projet d'école.
+
+Le maître de chaque classe dresse, après avoir recueilli l'accord des parents ou du représentant légal, la liste des élèves
+qui bénéficient de l'aide personnalisée, dans la limite de deux heures par semaine.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°90-788 du 6 septembre 1990 - art. 10-3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Abrogé par_:
+
+  - Décret n°2013-77 du 24 janvier 2013 - art. 3
+
+_Cité par_:
+
+  - Code de l'éducation - art. D521-10 (V)
+
+
+##### Section 2 : Aménagement de l’espace scolaire<a id=891></a>
+
+###### Article D521-16
+
+Les dispositions du décret n° 2002-677 du 29 avril 2002 relatif à l'obligation de décoration des constructions publiques et
+précisant les conditions de passation des marchés ayant pour objet de satisfaire à cette obligation s'appliquent aux
+constructions scolaires relevant du ministère de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2002-677 du 29 avril 2002 (V)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D564-2 (V)
+
+
+##### Section 3 : Interdiction de fumer dans les lieux
+affectés à un usage scolaire<a id=892></a>
+
+###### Article D521-17
+
+L'interdiction de fumer dans les écoles, collèges, lycées publics et privés, ainsi que dans les établissements destinés à
+l'accueil, à la formation ou à l'hébergement des mineurs, édictée par l'article L. 3511-7 du code de la santé publique, est
+régie par les dispositions du chapitre Ier du titre Ier du livre V de la troisième partie du même code (dispositions
+réglementaires).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D521-18 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L3511-7 (V)
+
+
+###### Article D521-18
+
+Les sanctions pénales des infractions à l'interdiction de fumer dans les écoles et établissements mentionnés à l'article D.
+521-17 du présent code sont fixées par les dispositions du chapitre II du titre Ier du livre V de la troisième partie du code
+de la santé publique (dispositions réglementaires).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-17 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+### Titre III : Les aides à la scolarité<a id=893></a>
+
+#### Chapitre Ier : L’aide à la scolarité et les bourses nationales<a id=894></a>
+
+##### Section 1 : Bourses nationales d’enseignement du second degré<a id=895></a>
+
+##### Sous-section 1 : Bourses nationales de collège<a id=896></a>
+
+##### Paragraphe 1 : Etablissements habilités à recevoir
+des boursiers de collège<a id=897></a>
+
+###### Article D531-3
+
+Les élèves inscrits dans une classe de niveau collège du Centre national d'enseignement à distance peuvent également
+bénéficier de bourses de collège selon des conditions et modalités fixées par arrêté du ministre chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article R531-1
+
+Les bourses nationales de collège sont destinées à favoriser la scolarité des élèves inscrits dans les établissements
+suivants :
+
+1° Collèges d'enseignement public ;
+
+2° Collèges d'enseignement privés ayant passé un contrat avec l'Etat ;
+
+3° Etablissements privés hors contrat habilités par le recteur d'académie, après avis du conseil académique de l'éducation
+nationale siégeant en formation contentieuse et disciplinaire.
+
+Les établissements mentionnés au 3° doivent remplir les conditions exigées des établissements d'enseignement public du second
+degré relatives à l'installation matérielle, au respect des programmes d'enseignement et à la qualification des personnels.
+Ces établissements sont soumis à l'inspection de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°60-746 du 28 juillet 1960 - art. 10 (Ab)
+  - Décret n°98-762 du 28 août 1998 - art. 1 (Ab)
+  - Décret n°60-389 du 22 avril 1960 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2014-1274 du 23 octobre 2014 - art. (V)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+###### Article R531-2
+
+Les élèves des classes sous contrat simple des établissements ou services sociaux ou médico-sociaux privés mentionnés au 2°
+et au 12° du I de l'article L. 312-1 du code de l'action sociale et des familles peuvent recevoir des bourses de collège,
+dans les mêmes conditions que les élèves des établissements publics, si le statut de l'établissement ou du service qui les
+accueille ne leur permet pas de bénéficier de la prise en charge prévue à l'article L. 242-10 du même code.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°78-254 du 8 mars 1978 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L242-10 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+
+
+##### Paragraphe 2 : Critères d’attribution des bourses de collège<a id=898></a>
+
+###### Article D531-4
+
+Les bourses de collège sont attribuées pour une année scolaire sous conditions de ressources en fonction des charges de la
+famille ou de la personne qui, au sens de la législation sur les prestations familiales, assume la charge effective et
+permanente de l'élève, appréciées selon les modalités ci-après.
+
+Les ressources et le nombre d'enfants à charge sont justifiés par l'avis d'imposition à l'impôt sur le revenu.
+
+Le revenu fiscal de référence, tel qu'il figure sur l'avis d'imposition, est retenu pour apprécier les ressources de la
+famille ou de la personne mentionnée au premier alinéa.
+
+Les enfants à charge considérés pour l'étude du droit à bourse sont les enfants mineurs ou infirmes et les enfants majeurs
+célibataires tels qu'ils figurent sur l'avis d'imposition.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 3 (Ab)
+  - Décret n°98-762 du 28 août 1998 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D531-10 (VD)
+  - Code de l'éducation - art. D531-11 (VD)
+  - Code de l'éducation - art. D531-5 (VD)
+  - Code de l'éducation - art. D531-6 (VD)
+  - Code de l'éducation - art. D531-8 (VD)
+  - Code de l'éducation - art. D531-9 (VD)
+  - Code de l'éducation - art. D562-8-1 (VT)
+
+
+###### Article D531-5
+
+La famille ou la personne assumant la charge effective de l'élève ne peut bénéficier de la bourse de collège au titre d'une
+année scolaire que si le montant des ressources dont elle a disposé au cours de l'avant-dernière année civile par rapport à
+celle du dépôt de la demande de bourse n'excède pas pour l'année scolaire 2008-2009 les plafonds de référence annuels
+suivants :
+
+1° 9 899 € pour une bourse du premier taux ;
+
+2° 5 351 € pour une bourse du deuxième taux ;
+
+3° 1 888 € pour une bourse du troisième taux.
+
+Ces plafonds sont revalorisés chaque année conformément au pourcentage d'évolution du salaire minimum de croissance horaire
+au 1er juillet de l'année de référence par rapport au salaire minimum de croissance horaire au 1er juillet de l'année
+précédant l'année de référence.
+
+A titre exceptionnel, les ressources de la dernière année civile peuvent être retenues en cas de modification substantielle
+de la situation familiale entraînant une diminution des ressources depuis l'année de référence.
+
+Le plafond de référence annuel est majoré de 30 % par enfant à charge.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 8 (Ab)
+  - Décret n°98-762 du 28 août 1998 - art. 9 alinéas 1 à 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D562-8-1 (VT)
+
+
+###### Article D531-6
+
+Le dossier de demande de bourse de collège comprend une fiche de renseignements concernant l'élève et la personne assumant sa
+charge effective ainsi que l'avis d'imposition à l'impôt sur le revenu du foyer fiscal dont dépend l'élève.
+
+Le dossier de demande de bourse est remis, dûment complété par la famille ou la personne assumant la charge effective de
+l'élève, au chef de l'établissement où est inscrit l'élève.
+
+Lorsque l'élève boursier poursuit sa scolarité dans un établissement autre que celui dont il relevait précédemment, le
+dossier de bourse est transféré avec le dossier de l'élève.
+
+Il ne peut être déposé qu'une seule demande de bourse par élève.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 5 (Ab)
+  - Décret n°98-762 du 28 août 1998 - art. 6 (Ab)
+  - Décret n°98-762 du 28 août 1998 - art. 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D531-4 (V)
+
+
+##### Paragraphe 3 : Montant et paiement des bourses de collège<a id=899></a>
+
+###### Article D531-7
+
+Le montant de la bourse de collège est fixé forfaitairement selon trois taux déterminés en pourcentage de la base mensuelle
+de calcul des prestations familiales en vigueur au 1er janvier de l'année de la rentrée scolaire. Le montant annuel de la
+bourse est, s'il y a lieu, arrondi au multiple entier de trois le plus proche, en vue de chaque versement trimestriel.
+
+Ces taux sont les suivants :
+
+1° 20,48 % (premier taux) ;
+
+2° 56,73 % (deuxième taux) ;
+
+3° 88,60 % (troisième taux).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 9 alinéas 1 à 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2017-792 du 5 mai 2017 - art. 2 (V)
+
+
+###### Article D531-8
+
+Pour les élèves inscrits dans un établissement d'enseignement public, le chef d'établissement arrête la liste des boursiers
+ainsi que le montant attribué à chacun et notifie les décisions aux familles. Il adresse, trimestriellement, un récapitulatif
+certifié des montants dus aux élèves boursiers de son établissement à l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale.
+
+L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, délègue trimestriellement à chaque
+établissement le montant des crédits nécessaires au paiement des bourses de collège.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 10 alinéas 1 et 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D562-2 (VD)
+
+
+###### Article D531-9
+
+Dans les établissements d'enseignement public, la bourse de collège est versée à la famille ou à la personne assumant la
+charge effective de l'élève par l'intermédiaire du comptable de l'établissement où est scolarisé l'élève, après déduction
+éventuelle des frais de pension ou de demi-pension pour les élèves ayant la qualité d'interne ou de demi-pensionnaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 10 alinéa 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D531-10
+
+Pour les élèves inscrits dans un établissement d'enseignement privé, le chef d'établissement adresse, au cours du premier
+trimestre de l'année scolaire, à l'inspection académique dont il dépend la liste des demandeurs de bourse de collège, le
+montant proposé pour chacun ainsi que les pièces justificatives afférentes. Sur la base de ces éléments, l'inspecteur
+d'académie, directeur des services départementaux de l'éducation nationale, arrête la liste des boursiers ainsi que le
+montant attribué à chacun et notifie les décisions aux familles.
+
+L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, est tenu informé par le chef
+d'établissement des modifications intervenues pour la mise à jour trimestrielle de la liste nominative des élèves boursiers.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 11 alinéas 1 et 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D562-2 (VD)
+
+
+###### Article D531-11
+
+Dans l'enseignement privé, la bourse de collège est versée par l'inspecteur d'académie, directeur des services départementaux
+de l'éducation nationale, à la famille ou à la personne assumant la charge effective de l'élève.
+
+Dans le cas où les familles auraient donné procuration sous seing privé au chef d'établissement, la bourse est versée aux
+familles par l'intermédiaire de celui-ci après déduction éventuelle des frais de pension ou de demi-pension.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 11 alinéas 3 et 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D531-12
+
+En cas d'absences injustifiées et répétées d'un élève, la bourse peut donner lieu à retenue.
+
+Cette retenue est opérée lorsque la durée cumulée de ces absences excède quinze jours, dans la proportion d'un deux cent
+soixante-dixième par jour d'absence.
+
+La décision, motivée, est prise par le chef d'établissement s'agissant des élèves des établissements d'enseignement public.
+Elle est de la compétence de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur
+proposition du chef d'établissement, s'agissant des élèves des établissements d'enseignement privés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°98-762 du 28 août 1998 - art. 12 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 27 juillet 2009 - art. 4 (V)
+
+
+##### Sous-section 2 : Bourses nationales d’études du second degré de lycée<a id=900></a>
+
+##### Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée<a id=901></a>
+
+###### Article D531-15
+
+Les établissements mentionnés au 2° de l'article R. 531-14 doivent remplir les conditions exigées des établissements
+d'enseignement public du second degré relatives à l'installation matérielle, au respect des programmes d'enseignement et à la
+qualification des personnels. Ces établissements sont soumis à l'inspection de l'Etat. 
+
+Les demandes d'habilitation à recevoir des boursiers nationaux du second degré de lycée sont déposées avant le 31 décembre au
+rectorat d'académie. Les décisions du recteur d'octroi ou de rejet de l'habilitation sont motivées et interviennent avant le
+1er juin pour prendre effet à la rentrée scolaire suivante. 
+
+Les retraits d'habilitation sont soumis à l'avis du conseil académique de l'éducation nationale siégeant en formation
+contentieuse et disciplinaire. Ils font l'objet d'une décision du recteur motivée qui peut intervenir à toute époque. Cette
+décision n'est opposable aux boursiers, avec effet à compter de la rentrée scolaire suivante, que si cette décision est
+intervenue avant le 1er juin.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 5 alinéa 4, 2ème phrase v. init.
+  - Décret n°59-39 du 2 janvier 1959 - art. 6 alinéas 1, 2 et 4 (Ab)
+  - Décret n°59-38 du 2 janvier 1959 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2014-1274 du 23 octobre 2014 - art. (V)
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-2 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R531-14 (V)
+
+
+###### Article D531-17
+
+Les élèves inscrits dans une classe de niveau second degré de lycée du Centre national d'enseignement à distance peuvent
+également bénéficier de bourses de lycée selon des conditions et modalités fixées par arrêté du ministre chargé de
+l'éducation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article R531-13
+
+Les bourses nationales d'études du second degré de lycée sont destinées à favoriser la scolarité des élèves qui suivent des
+enseignements généraux, technologiques ou professionnels dans les classes ou établissements mentionnés aux articles L. 531-4
+et L. 531-5 ainsi que dans les écoles de métiers.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret du 12 juillet 1921, art 52 v. init.
+  - Décret du 8 avril 1931, art 4 v. init.
+  - Décret n°59-38 du 2 janvier 1959, art 1 alinéa 1 v. init.
+  - Décret n°59-38 du 2 janvier 1959 - art. 1 (Ab)
+  - Décret n°59-38 du 2 janvier 1959 - art. 5 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 1 alinéa 1 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 2 alinéas 1 à 6 (Ab)
+  - Décret n°60-746 du 28 juillet 1960 - art. 10 (Ab)
+  - Décret n°60-389 du 22 avril 1960 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. L531-4 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+###### Article R531-14
+
+Pour recevoir des élèves boursiers nationaux, les établissements d'enseignement privés hors contrat doivent remplir l'une des
+deux conditions suivantes :
+
+1° Avoir été habilités avant le 1er juillet 1951 ;
+
+2° Etre habilités par le recteur d'académie, après avis du conseil académique de l'éducation nationale siégeant en formation
+contentieuse et disciplinaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 5 alinéas 3 et 4, 1ere phrase v. init.
+  - Décret n°59-38 du 2 janvier 1959 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2014-1274 du 23 octobre 2014 - art. (V)
+  - Code de l'éducation - art. D531-15 (V)
+  - Code de l'éducation - art. D562-2 (VD)
+
+
+###### Article R531-16
+
+Les élèves des classes sous contrat simple des établissements ou services sociaux ou médico-sociaux privés mentionnés au 2°
+et au 12° du I de l'article L. 312-1 du code de l'action sociale et des familles peuvent recevoir des bourses de second degré
+de lycée, dans les mêmes conditions que les élèves des établissements publics, si le statut de l'établissement ou du service
+qui les accueille ne leur permet pas de bénéficier de la prise en charge prévue à l'article L. 242-10 du même code.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°78-254 du 8 mars 1978 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L242-10 (V)
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+
+
+##### Paragraphe 2 : Critères d’attribution<a id=902></a>
+
+###### Article D531-21
+
+Les bourses nationales d'études du second degré de lycée sont attribuées selon un barème national.
+
+Ce barème prend en considération les charges et les ressources de la famille ou de la personne assumant la charge effective
+de l'élève ou les charges et ressources personnelles de l'élève au cours de l'avant-dernière année civile par rapport à celle
+du dépôt de la demande de bourse ou d'une année plus récente en cas de modification substantielle de la situation familiale
+entraînant une diminution des ressources depuis l'année de référence.
+
+La vérification des ressources et charges familiales est effectuée lors de la première demande de bourse et en cas de
+redoublement ou de changement d'orientation. Elle intervient également lors de la campagne de bourse de l'année scolaire
+suivante en cas de modification de la situation familiale depuis l'année de référence.
+
+Un arrêté du ministre chargé du budget et du ministre chargé de l'éducation fixe les plafonds de ressources ouvrant droit à
+l'attribution de ces bourses.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 14 octobre 2011 - art. 1 (V)
+  - Arrêté du 24 juillet 2015 - art. 2 (VT)
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D531-22
+
+Des promotions de bourses peuvent être accordées à des élèves déjà boursiers lorsque, par suite d'une modification
+substantielle de la situation familiale entraînant une diminution des ressources, la bourse dont l'élève est titulaire
+devient insuffisante.
+
+Lorsque la situation de famille d'un boursier se trouve améliorée, la famille ou la personne assumant la charge effective de
+l'élève en informe le recteur et la diminution ou, éventuellement, la suppression de la bourse peut être prononcée par
+décision motivée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-39 du 2 janvier 1959 - art. 11 alinéas 1 et 2 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D562-2 (VD)
+
+
+###### Article R531-18
+
+Les bourses nationales d'études du second degré de lycée sont attribuées sans condition de nationalité de l'élève dès lors
+que la famille réside en France.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, art 1 alinéas 1 et 2 v. init.
+  - Décret n°59-38 du 2 janvier 1959 - art. 1 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 1 alinéas 1 et 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 24 juillet 2015 - art. 2 (VT)
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-328 du 16 mars 2016 - art. 12
+
+
+###### Article R531-19
+
+Les bourses nationales d'études du second degré de lycée sont attribuées, dans la limite des crédits budgétaires, sous
+condition de ressources en fonction des charges de la famille ou de la personne qui, au sens de la législation sur les
+prestations familiales, assume la charge effective et permanente de l'élève.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 3 alinéa 1 v. init.
+  - Décret n°59-38 du 2 janvier 1959 - art. 3 (Ab)
+  - Décret n°59-38 du 2 janvier 1959 - art. 4 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 19 avril 2016 - art. 2 (VD)
+  - Code de l'éducation - art. D531-20 (VD)
+  - Code de l'éducation - art. D531-21 (VD)
+  - Code de l'éducation - art. D531-24 (VD)
+  - Code de l'éducation - art. D531-28 (VD)
+  - Code de l'éducation - art. R531-33 (VD)
+  - Code de l'éducation - art. R531-34 (VD)
+
+
+###### Article R531-20
+
+A titre exceptionnel, des bourses provisoires d'études peuvent être accordées en cours d'année par le recteur d'académie,
+dans la limite des crédits budgétaires, à des élèves déjà présents dans un établissement habilité à recevoir des boursiers
+nationaux du second degré de lycée lorsque, par suite d'événements graves et imprévisibles, la famille se trouve dans
+l'incapacité d'assumer tout ou partie des frais de scolarité.
+
+Les bénéficiaires de bourses provisoires d'études constituent un dossier de demande de bourse nationale d'études de second
+degré de lycée pour l'année scolaire suivante au plus tard à la date limite de dépôt des dossiers de candidature.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 6 v. init.
+  - Décret n°59-38 du 2 janvier 1959 - art. 6 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Abrogé par_:
+
+  - Décret n°2016-328 du 16 mars 2016 - art. 12
+
+_Cité par_:
+
+  - Code de l'éducation - art. D562-2 (VD)
+
+
+##### Paragraphe 3 : Modalités d’attribution<a id=903></a>
+
+###### Article D531-23
+
+Les bourses nationales d'études du second degré de lycée sont accordées pour la durée de la scolarité au niveau du lycée ou
+de la période de scolarité restant à accomplir à ce niveau d'études.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-39 du 2 janvier 1959 - art. 12 alinéa 1 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 6 alinéa 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D531-24
+
+Les demandes de bourses nationales d'études du second degré de lycée sont retirées au secrétariat de l'établissement
+fréquenté par l'élève à compter de la rentrée de janvier.
+
+Le dossier de candidature comporte le formulaire ainsi que l'avis d'imposition à l'impôt sur le revenu du foyer fiscal dont
+dépend l'élève.
+
+Le dossier est remis, dûment complété par la famille, la personne assumant la charge effective de l'élève, ou l'élève majeur,
+au chef de l'établissement mentionné au premier alinéa au plus tard à la date limite fixée par le ministre chargé de
+l'éducation.
+
+Un accusé de réception de la demande de bourse est délivré aux familles.
+
+Il ne peut être déposé qu'une seule demande de bourse par élève.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-39 du 2 janvier 1959 - art. 11 alinéa 3 (Ab)
+  - Décret n°59-39 du 2 janvier 1959 - art. 2 (Ab)
+  - Décret n°59-39 du 2 janvier 1959 - article 3 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D562-8-1 (VT)
+
+
+###### Article D531-26
+
+Le recteur d'académie statue sur les recours qui lui sont présentés à la suite de refus d'attribution de bourses nationales
+d'études de second degré de lycée.
+
+Les décisions sont notifiées dans un délai de trois jours aux représentants légaux des demandeurs.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-1423 du 18 décembre 1959, article 7 v. init.
+  - Décret n°59-1423 du 18 décembre 1959 - art. 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 19 avril 2016 - art. 2 (VD)
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D531-27
+
+Les familles des élèves dont la demande de bourse nationale d'études de second degré de lycée est retenue par le recteur
+d'académie en sont immédiatement avisées et invitées à préciser à l'inspection académique l'établissement public ou privé
+fréquenté par le candidat à la rentrée scolaire suivante.
+
+A défaut de réponse, le candidat est considéré comme ayant renoncé à sa demande de bourse.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-39 du 2 janvier 1959 - art. 5 alinéa 2 (Ab)
+  - Décret n°59-39 du 2 janvier 1959 - art. 7 alinéas 2, 3 et 4 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 5 alinéas 3 à 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D531-28
+
+Des transferts de bourses entre établissements habilités à recevoir des boursiers nationaux du second degré de lycée peuvent
+être accordés par le recteur d'académie. Ces transferts sont de droit quand la famille de l'élève change de résidence.
+
+La bourse est retirée si le boursier qui change d'établissement n'a pas obtenu d'autorisation préalable.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-39 du 2 janvier 1959 - art. 9 alinéas 1 et 3 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 19 avril 2016 - art. 2 (VD)
+
+
+###### Article R531-25
+
+Les décisions d'attribution ou de refus de bourses nationales d'études du second degré de lycée sont prises par le recteur
+d'académie sur le rapport de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+
+Ces décisions sont notifiées dans un délai de trois jours aux représentants légaux des demandeurs. Elles mentionnent les
+voies de recours.
+
+En cas de rejet, ceux-ci peuvent, dans le délai de huit jours qui suit la notification, former un recours sous couvert de
+l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, auprès du recteur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 4, 2ème et 3ème phrases v. init.
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+  - Décret n°59-1423 du 18 décembre 1959, article 4 v. init.
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 19 avril 2016 - art. 2 (VD)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R562-9 (VT)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+##### Paragraphe 4 : Montant et paiement<a id=904></a>
+
+###### Article D531-29
+
+Les bourses nationales d'études du second degré de lycée sont constituées de parts unitaires dont le montant est fixé, pour
+chaque année scolaire, par le ministre chargé du budget et le ministre chargé de l'éducation.
+
+Le recteur d'académie arrête le nombre de parts attribuées au boursier.
+
+Des parts supplémentaires sont accordées aux boursiers de l'enseignement technologique du second degré et aux boursiers
+enfants d'agriculteurs.
+
+Des primes sont par ailleurs allouées à certains boursiers pour tenir compte de la spécificité de leur scolarité.
+
+Les filières de formation ouvrant droit à ces avantages complémentaires ainsi que les montants des primes mentionnées au
+quatrième alinéa sont déterminés par le ministre chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-39 du 2 janvier 1959 - art. 8 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 19 octobre 2009 - art. 1 (V)
+  - Arrêté du 19 avril 2016 - art. 7 (VD)
+  - Décret n°2016-1136 du 19 août 2016 - art. 1
+  - Arrêté du 17 octobre 2016 - art. 1 (V)
+  - Arrêté du 21 mars 2018 - art. 5 (VD)
+  - Code de l'éducation - art. D531-40 (VD)
+
+
+###### Article D531-32
+
+Des congés, notamment pour raisons de santé ou de séjour à l'étranger, peuvent être accordés par le recteur d'académie aux
+boursiers qui en font la demande motivée. Le congé comporte la suspension du paiement de la bourse mais le versement peut
+être exceptionnellement maintenu pendant la période du congé.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-39 du 2 janvier 1959 - art. 14 alinéa 3 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Abrogé par_:
+
+  - Décret n°2016-328 du 16 mars 2016 - art. 16
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (M)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D531-36
+
+Les bourses nationales d'études du second degré de lycée peuvent être cumulées avec les bourses fondées et entretenues par
+les collectivités territoriales, établissements publics ou organismes soumis au contrôle financier ou bénéficiant d'une
+subvention de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-39 du 2 janvier 1959 - art. 10 alinéa 1 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 4 alinéa 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 24 juillet 2015 - art. 2 (VT)
+  - Arrêté du 19 avril 2016 - art. 2 (VD)
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article R531-30
+
+Les bourses nationales d'études du second degré de lycée sont payables sur présentation d'états justificatifs au début de
+chaque trimestre de scolarité.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 11 alinéas 1 à 4 v. init.
+  - Décret n°59-38 du 2 janvier 1959 - art. 11 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+###### Article R531-31
+
+Le paiement des bourses nationales d'études de second degré de lycée est subordonné à l'assiduité aux enseignements.
+
+L'assiduité du boursier est certifiée par le chef d'établissement lors de l'envoi de l'état trimestriel des bourses
+attribuées.
+
+En cas d'absences injustifiées et répétées d'un élève, la bourse peut donner lieu à retenue.
+
+Cette retenue est opérée lorsque la durée cumulée de ces absences excède quinze jours, dans la proportion d'un deux cent
+soixante-dixième par jour d'absence.
+
+Les absences constatées au cours des deux premiers trimestres sont imputées sur le trimestre suivant ; celles constatées
+pendant le troisième trimestre donnent lieu à l'établissement d'ordre de reversement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 11 alinéa 5 v. init.
+  - Décret n°59-39 du 2 janvier 1959 - art. 14 alinéas 1 et 2 (Ab)
+  - Décret n°59-38 du 2 janvier 1959 - art. 11 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 27 juillet 2009 - art. 4 (V)
+  - Arrêté du 19 avril 2016 - art. 2 (VD)
+
+
+###### Article R531-33
+
+Dans les établissements d'enseignement publics, la bourse est versée à la famille ou à la personne assumant la charge
+effective de l'élève par l'intermédiaire du comptable de l'établissement où est scolarisé l'élève, après déduction éventuelle
+des frais de pension ou de demi-pension pour les élèves ayant la qualité d'interne ou de demi-pensionnaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 11 alinéas 6 et 7 v. init.
+  - Décret n°59-38 du 2 janvier 1959 - art. 11 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 19 avril 2016 - art. 2 (VD)
+  - Arrêté du 19 avril 2016 - art. 8 (VD)
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+###### Article R531-34
+
+Dans les établissements d'enseignement privés habilités à recevoir des boursiers nationaux du second degré de lycée, les
+bourses sont payables à la famille ou à la personne assumant la charge effective de l'élève.
+
+Dans le cas où les familles auraient donné procuration sous seing privé au chef d'établissement, la bourse est versée aux
+familles par l'intermédiaire de celui-ci après déduction éventuelle des frais de pension ou de demi-pension.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 11 alinéa 8 v. init.
+  - Décret n°59-38 du 2 janvier 1959 - art. 11 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article R531-35
+
+La bourse peut être payée au boursier majeur ou émancipé qui n'est à la charge d'aucune personne.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°59-38 du 2 janvier 1959, article 11 alinéa 9 v. init.
+  - Décret n°59-38 du 2 janvier 1959 - art. 11 (Ab)
+  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 24 juillet 2015 - art. 6 (VT)
+  - Arrêté du 19 avril 2016 - art. 2 (VD)
+
+
+##### Sous-section 3 : Bourses au mérite<a id=905></a>
+
+###### Article D531-37
+
+Des bourses au mérite peuvent être attribuées aux élèves boursiers qui s'engagent, à l'issue de la classe de troisième, dans
+un cycle d'enseignement conduisant au baccalauréat général, technologique ou professionnel dans un établissement ou une
+classe habilité à recevoir des boursiers nationaux du second degré.
+
+Ces bourses au mérite sont attribuées de plein droit à tous les boursiers ayant obtenu une mention bien ou très bien au
+diplôme national du brevet.
+
+Elles peuvent, en outre, être attribuées à des élèves boursiers qui se sont distingués par leurs efforts dans le travail au
+cours de la classe de troisième.
+
+Le dispositif des bourses au mérite contribue en particulier à la promotion des élèves scolarisés dans les établissements de
+l'éducation prioritaire.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-730 du 22 juin 2006 - art. 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 19 octobre 2009 - art. 8 (VT)
+  - Arrêté du 21 mars 2018 - art. 1 (VD)
+  - Code de l'éducation - art. D531-38 (VT)
+  - Code de l'éducation - art. D563-2 (V)
+
+
+###### Article D531-38
+
+Pour les élèves mentionnés au troisième alinéa de l'article D. 531-37, la décision d'attribution de la bourse au mérite
+relève de la compétence de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après
+avis d'une commission départementale qu'il préside et dont il désigne les membres pour une durée de trois ans. 
+
+Cette commission est composée de dix-sept membres : 
+
+1° Quatre chefs d'établissement ; 
+
+2° Un gestionnaire ; 
+
+3° Un assistant de service social ; 
+
+4° Un conseiller principal d'éducation ; 
+
+5° Un conseiller d'orientation-psychologue ; 
+
+6° Deux représentants des parents d'élèves ; 
+
+7° Deux représentants des élèves issus du conseil académique de la vie lycéenne ; 
+
+8° Deux enseignants ; 
+
+9° Une personne qualifiée représentant l'enseignement privé ; 
+
+10° Deux représentants des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-730 du 22 juin 2006 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D531-37 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-10 (V)
+  - Code de l'éducation - art. D561-3 (VD)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D563-3 (VD)
+  - Code de l'éducation - art. D564-3 (VD)
+  - Code de l'éducation - art. D564-9 (V)
+
+
+###### Article D531-39
+
+Les chefs d'établissement intéressés transmettent à l'inspecteur d'académie, directeur des services départementaux de
+l'éducation nationale, le dossier des élèves proposés par les conseils de classe pour l'obtention d'une bourse au mérite.
+
+La commission départementale examine ces dossiers et formule ses avis en veillant à ce que les parcours des élèves méritants
+soient pris en considération quelle que soit l'orientation vers les trois voies de formation du lycée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-730 du 22 juin 2006 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-10 (V)
+  - Code de l'éducation - art. D564-9 (V)
+
+
+###### Article D531-40
+
+Le montant annuel de la bourse au mérite est fixé par arrêté du ministre chargé de l'éducation et du ministre chargé du
+budget.
+
+Le paiement de ce complément de bourse est subordonné à l'engagement écrit de l'élève et de la personne assumant sa charge
+effective à poursuivre sa scolarité avec assiduité jusqu'au baccalauréat général, technologique ou professionnel.
+
+Les élèves qui ne satisfont pas à l'obligation d'assiduité ou dont les efforts fournis et les résultats scolaires sont jugés
+très insuffisants par le conseil de classe peuvent se voir suspendre le bénéfice de ce complément de bourse par l'inspecteur
+d'académie, directeur des services départementaux de l'éducation nationale, au vu des éléments fournis par l'établissement
+d'accueil.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-730 du 22 juin 2006 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 21 mars 2018 - art. 1 (VD)
+
+
+###### Article D531-41
+
+Les élèves attributaires d'une bourse au mérite scolarisés dans un établissement d'enseignement relevant du ministre chargé
+de l'agriculture qui poursuivent leur scolarité dans un lycée relevant du ministre chargé de l'éducation conservent le
+bénéfice de cette bourse.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-730 du 22 juin 2006 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+##### Sous-section 4 : Prime à l’internat<a id=906></a>
+
+###### Article D531-42
+
+Les élèves internes attributaires d'une bourse nationale de collège ou d'une bourse de second degré de lycée bénéficient
+d'une prime à l'internat.
+
+Cette prime est soumise aux mêmes règles de gestion que la bourse. Son versement est effectué trimestriellement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2001-1137 du 28 novembre 2001 - art. 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Arrêté du 19 avril 2016 - art. 2 (VD)
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D531-43
+
+Le montant annuel de la prime à l'internat est fixé par arrêté des ministres chargés de l'éducation et du budget.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2001-1137 du 28 novembre 2001 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+##### Section 2 : Bourses de l’enseignement agricole<a id=907></a>
+
+###### Article D531-44
+
+Les règles relatives aux décisions d'attribution des bourses nationales mentionnées au 3° de l'article L. 531-4 du présent
+code aux élèves inscrits dans les établissements d'enseignement agricole sont fixées par l'article R. 810-4 du code rural.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. L531-4 (V)
+  - Code rural - art. R810-4 (V)
+
+
+##### Section 3 : Bourses scolaires à l’étranger<a id=908></a>
+
+###### Article D531-45
+
+Les bourses accordées par l'Agence pour l'enseignement français à l'étranger en application des dispositions du 5° de
+l'article L. 452-2 sont proposées par des commissions locales instituées auprès des postes diplomatiques ou consulaires et
+attribuées après avis d'une commission nationale instituée auprès du directeur de l'agence.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+nationale instituée auprès du directeur de l'Agence pour l'enseignement français à l'étranger).
+
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission nationale des bourses instituée auprès du directeur de l'Agence pour l'enseignement français à
+l'étranger).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, la Commission nationale des bourses instituée auprès du
+directeur de l'Agence pour l'enseignement français à l'étranger est renouvelée pour une durée de cinq ans à compter du 8 juin
+2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-833 du 30 août 1991 - art. 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2014-144 du 18 février 2014 - art. 4 (VD)
+  - Décret n°2015-623 du 5 juin 2015 - art. Annexe 1 (V)
+  - Décret n°2015-1407 du 5 novembre 2015 - art. (V)
+  - Code de l'éducation - art. D531-48 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L452-2 (V)
+
+
+###### Article D531-46
+
+Pour bénéficier des bourses scolaires à l'étranger, les élèves doivent : 
+
+1° Etre de nationalité française et inscrits ou en cours d'inscription au registre des Français établis hors de France de la
+circonscription consulaire dans laquelle ils ont leur résidence ; 
+
+2° Fréquenter un des établissements figurant sur la liste arrêtée chaque année par le ministre chargé de l'éducation, le
+ministre des affaires étrangères et le ministre chargé de la coopération en application du 5° de l'article L. 452-2 ; 
+
+3° Résider avec leur famille dans le pays où est situé l'établissement scolaire fréquenté.
+
+A titre dérogatoire, sur proposition des commissions locales et après avis conforme de la commission nationale, des bourses
+peuvent être accordées à des enfants scolarisés dans d'autres établissements dispensant au moins la moitié de leur
+enseignement en français ou inscrits au Centre national d'enseignement à distance. Les seuls motifs de dérogation concernent
+l'absence, l'éloignement, la capacité d'accueil insuffisante ou l'impossibilité de fréquentation d'un établissement répondant
+aux conditions du 2° du présent article.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-833 du 30 août 1991 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2011-506 du 9 mai 2011 - art. 1 (Ab)
+
+_Cite_:
+
+  - Code de l'éducation - art. L452-2 (V)
+
+
+###### Article D531-47
+
+La commission locale est présidée par le chef de poste diplomatique ou consulaire, ou son représentant. Elle comprend :
+
+1° Des membres de droit :
+
+a) Le conseiller culturel ou son représentant ;
+
+b) Le ou les délégués représentant le pays ou la circonscription à l'Assemblée des Français de l'étranger ;
+
+2° Des membres désignés par le chef de la mission diplomatique ou consulaire, représentant :
+
+a) Les établissements d'enseignement concernés ;
+
+b) Les organisations syndicales représentatives des personnels enseignants ;
+
+c) Les associations de parents d'élèves ;
+
+d) Les associations de Français établis hors de France.
+
+Le président de la commission locale peut convier, à titre consultatif, toute personne qualifiée dont l'audition lui semble
+susceptible d'éclairer les travaux de la commission.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-833 du 30 août 1991 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2014-671 du 24 juin 2014 (V)
+
+
+###### Article D531-48
+
+Les commissions locales examinent et présentent à la commission nationale les demandes de bourses scolaires dont peuvent
+bénéficier les élèves français établis hors de France dans les conditions définies aux articles D. 531-45 et D. 531-46. Elles
+répartissent entre les bénéficiaires les crédits délégués par l'agence, dans le respect des critères généraux définis par des
+instructions spécifiques.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-833 du 30 août 1991 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D531-45 (V)
+
+
+###### Article D531-49
+
+La commission locale peut demander à l'agence d'écarter un dossier de demande ou de suspendre le bénéfice d'une bourse en
+présence d'une déclaration inexacte de ressources des parents ou d'une fréquentation scolaire irrégulière injustifiée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-833 du 30 août 1991 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D531-50
+
+La commission nationale est présidée par le directeur de l'agence. Elle comprend en outre vingt et un membres :
+
+1° Le directeur des relations européennes et internationales et de la coopération au ministère de l'éducation nationale ou
+son représentant ;
+
+2° Le directeur général de la coopération internationale et du développement au ministère des affaires étrangères ou son
+représentant ;
+
+3° Le directeur général de l'administration au ministère des affaires étrangères ou son représentant ;
+
+4° Un inspecteur général de l'éducation nationale, désigné par le ministre chargé de l'éducation ;
+
+5° L'inspecteur général des affaires étrangères ou son représentant ;
+
+6° Le directeur des Français à l'étranger et des étrangers en France au ministère des affaires étrangères ou son
+représentant ;
+
+7° Deux sénateurs représentant les Français établis hors de France ;
+
+8° Deux membres de l'Assemblée des Français de l'étranger ;
+
+9° Trois représentants des organisations syndicales représentatives des personnels enseignants français ;
+
+10° Quatre représentants des associations de parents d'élèves ;
+
+11° Deux représentants des organismes gestionnaires d'établissements scolaires français à l'étranger ;
+
+12° Deux représentants des associations de Français établis hors de France.
+
+Le service des bourses de l'Agence pour l'enseignement français à l'étranger assure l'organisation et le secrétariat de la
+commission nationale.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+nationale instituée auprès du directeur de l'Agence pour l'enseignement français à l'étranger).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-833 du 30 août 1991 - art. 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D531-51
+
+La commission nationale est réunie deux fois par an. Elle est consultée sur toutes les questions relatives aux bourses
+scolaires ; elle examine les critères d'attribution et donne son avis sur les propositions de bourses des commissions
+locales. Elle propose à l'agence la répartition entre ces dernières de l'enveloppe annuelle des crédits alloués.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-833 du 30 août 1991 - art. 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+##### Section 4 : Tarifs de la restauration scolaire<a id=909></a>
+
+###### Article R531-52
+
+Les tarifs de la restauration scolaire fournie aux élèves des écoles maternelles, des écoles élémentaires, des collèges et
+des lycées de l'enseignement public sont fixés par la collectivité territoriale qui en a la charge.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-753 du 29 juin 2006 - art. 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R531-53 (V)
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+###### Article R531-53
+
+Les tarifs mentionnés à l'article R. 531-52 ne peuvent, y compris lorsqu'une modulation est appliquée, être supérieurs au
+coût par usager résultant des charges supportées au titre du service de restauration, après déduction des subventions de
+toute nature bénéficiant à ce service.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2006-753 du 29 juin 2006 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. R531-52 (V)
+
+
+#### Chapitre II : L’allocation de rentrée scolaire<a id=910></a>
+
+###### Article D532-1
+
+Les règles relatives aux conditions d'attribution de l'allocation de rentrée scolaire prévue à l'article L. 543-1 du code de
+la sécurité sociale sont fixées au chapitre III du titre IV du livre V (partie réglementaire) et à l'article R. 755-14 du
+même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L543-1 (V)
+  - Code de la sécurité sociale. - art. R755-14 (V)
+
+
+### Titre IV : La santé scolaire<a id=911></a>
+
+#### Chapitre Ier : La protection de la santé<a id=912></a>
+
+##### Section 1 : Organisation<a id=913></a>
+
+###### Article D541-1
+
+En cas de changement d'établissement scolaire, les informations concernant la santé de l'élève suivent ce dernier. 
+
+Tout au long de la scolarité, l'intéressé ou ses représentants légaux ont accès à ces informations, dans les conditions
+prévues par l'article R. 4127-45 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°46-2698 du 26 novembre 1946, art 7  v. init.
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R4127-45 (V)
+
+
+###### Article D541-2
+
+Les missions des médecins de l'éducation nationale sont fixées à l'article 2 du décret n° 91-1195 du 27 novembre 1991 portant
+dispositions statutaires applicables au corps des médecins de l'éducation nationale et à l'emploi de médecin de l'éducation
+nationale-conseiller technique. 
+
+Les missions des infirmiers et infirmières de l'éducation nationale sont fixées à l'article L. 4311-1 du code de la santé
+publique et au chapitre Ier du titre Ier du livre III de la quatrième partie réglementaire de ce code.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°91-1195 du 27 novembre 1991 (V)
+  - Code de la santé publique - art. L4311-1 (V)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D541-3
+
+Le centre médico-social scolaire constitue un ensemble de locaux aménagés et équipés pour permettre d'effectuer :
+
+1° Les visites et examens médicaux des élèves ;
+
+2° Les examens médicaux du personnel des écoles et établissements d'enseignement publics et privés et des personnes se
+trouvant en contact habituel avec les élèves dans l'enceinte de ces écoles et établissements ;
+
+3° Toutes autres visites et tous examens utiles ainsi que le dépistage des affections bucco-dentaires.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°46-2698 du 26 novembre 1946,  art 18 v. init.
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D541-4
+
+Les communes mentionnées à l'article L. 541-3 organisent les centres médico-sociaux scolaires. Elles mettent les locaux
+nécessaires à la disposition des services de l'éducation nationale chargés du suivi de la santé des élèves.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°46-2698 du 26 novembre 1946,  art 19 alinéa 1 v. init.
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. L541-3 (V)
+
+
+###### Article R541-5
+
+Les modalités d'organisation des soins et des urgences dans les établissements publics d'enseignement du second degré
+relevant du ministre chargé de l'éducation, des communes et des départements relèvent de la compétence et de la
+responsabilité de ces établissements.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-924 du 30 août 1985 - art. 57 (Ab)
+  - Décret n°86-164 du 31 janvier 1986 - art. 55 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+##### Section 2 : Prévention dans les activités physiques et sportives<a id=914></a>
+
+###### Article R541-6
+
+Une surveillance médicale particulière est organisée au bénéfice des élèves inscrits dans des unités pédagogiques scolaires
+spécialement aménagées en vue de la pratique des sports. La surveillance médicale particulière de ces élèves comprend au
+moins un examen médico-sportif par trimestre. Elle est assurée sous la responsabilité du médecin inspecteur régional de la
+jeunesse et des sports. Le médecin de la fédération intéressée et le service de santé de l'établissement scolaire sont
+associés à cette surveillance médicale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°87-473 du 1 juillet 1987 - art. 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+##### Section 3 : Prévention des risques professionnels<a id=915></a>
+
+###### Article D541-7
+
+Les règles relatives à la santé et à la sécurité au travail pendant la scolarité des élèves préparant un diplôme de
+l'enseignement technologique ou professionnel sont fixées par les dispositions du chapitre III du titre V du livre Ier de la
+quatrième partie réglementaire du code du travail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D562-10 (Ab)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D541-8
+
+Les règles relatives à la protection contre les accidents du travail des élèves des établissements d'enseignement du second
+degré mentionnés au a et au b du 2° de l'article L. 412-8 du code de la sécurité sociale sont fixées par les dispositions des
+articles R. 412-4 et R. 444-7 du même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L412-8 (V)
+  - Code de la sécurité sociale. - art. R412-4 (V)
+  - Code de la sécurité sociale. - art. R444-7 (V)
+
+
+###### Article D541-9
+
+Les règles relatives à la protection contre les accidents du travail des élèves des établissements d'enseignement technique
+et de formation professionnelle agricoles mentionnés au 1° du II de l'article L. 751-1 du code rural sont fixées par les
+dispositions des articles D. 751-2 à D. 751-4 du même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code rural - art. D751-2 (V)
+  - Code rural - art. L751-1 (V)
+
+
+##### Section 4 : Contraception d’urgence<a id=916></a>
+
+###### Article D541-10
+
+Les règles relatives au protocole d'administration d'une contraception d'urgence dans les établissements d'enseignement du
+second degré sont fixées par les dispositions des articles D. 5134-5 à D. 5134-10 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de la santé publique - art. D5134-5 (V)
+
+
+#### Chapitre II : La prévention des mauvais traitements<a id=917></a>
+
+###### Article D542-1
+
+La formation des personnes mentionnées à l'article L. 542-1 est mise en œuvre dans le cadre de programmes qui doivent traiter
+au minimum les thèmes suivants :
+
+1° La définition et les causes des mauvais traitements à l'égard des enfants ;
+
+2° Les moyens de repérer les cas d'enfants maltraités ;
+
+3° Le cadre juridique et institutionnel de la protection de l'enfance en France ;
+
+4° Les modalités d'intervention des services chargés de la prise en charge des enfants maltraités et de leurs familles ;
+
+5° La prévention des mauvais traitements à l'égard des enfants ;
+
+6° Les techniques d'évaluation des actions de prévention des mauvais traitements et de protection des enfants maltraités.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2016-1503 du 7 novembre 2016 - art. 1
+  - Code de l'action sociale et des familles - art. D221-26 (V)
+  - Code de l'éducation - art. D561-11 (V)
+  - Code de l'éducation - art. D562-11 (V)
+  - Code de l'éducation - art. D563-2 (V)
+  - Code de l'éducation - art. D563-4 (V)
+  - Code de l'éducation - art. D564-10 (V)
+
+
+### Titre V : Les activités périscolaires, sportives et culturelles<a id=918></a>
+
+#### Chapitre Ier : Les activités périscolaires<a id=919></a>
+
+##### Section 1 : Agrément des associations éducatives
+complémentaires de l’enseignement public<a id=920></a>
+
+###### Article D551-1
+
+Les associations qui apportent leur concours à l'enseignement public peuvent faire l'objet d'un agrément lorsque ce concours
+prend l'une des formes suivantes :
+
+1° Interventions pendant le temps scolaire, en appui aux activités d'enseignement conduites par les établissements ;
+
+2° Organisation d'activités éducatives complémentaires en dehors du temps scolaire ;
+
+3° Contribution au développement de la recherche pédagogique, à la formation des équipes pédagogiques et des autres membres
+de la communauté éducative.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 1 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D551-3 (V)
+
+
+###### Article D551-2
+
+L'agrément est accordé après vérification du caractère d'intérêt général, du caractère non lucratif et de la qualité des
+services proposés par ces associations, de leur compatibilité avec les activités du service public de l'éducation, de leur
+complémentarité avec les instructions et programmes d'enseignement ainsi que de leur respect des principes de laïcité et
+d'ouverture à tous sans discrimination.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D551-3
+
+L'agrément est accordé pour une durée de cinq ans. Il est renouvelable pour la même durée suivant la même procédure.
+
+L'agrément accordé à une association nationale ou à une fédération d'associations peut être étendu, sur sa demande, à ses
+structures régionales, départementales et locales qui remplissent les conditions fixées aux articles D. 551-1 et D. 551-2.
+
+La liste des associations agréées fait l'objet d'une publication au Bulletin officiel de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D551-1 (V)
+
+
+###### Article D551-4
+
+Les demandes d'agrément présentées par les associations dont l'action revêt une dimension nationale sont adressées au
+ministre chargé de l'éducation.
+
+Les demandes d'agrément des associations dont les activités s'exercent au niveau local, départemental ou académique sont
+adressées au recteur d'académie.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2014-1275 du 23 octobre 2014 - art. (VD)
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D562-1 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D551-5
+
+Les demandes d'agrément sont accompagnées d'un dossier dont la composition est fixée par arrêté.
+
+Ce dossier est soumis pour avis, selon le cas, au Conseil national des associations éducatives complémentaires de
+l'enseignement public ou au conseil académique des associations éducatives complémentaires de l'enseignement public
+mentionnés à la section 2 du présent chapitre.
+
+La décision accordant l'agrément est prise, selon le niveau d'intervention de l'association, par arrêté du ministre chargé de
+l'éducation ou du recteur d'académie et notifiée à l'association concernée.
+
+L'agrément peut être retiré dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-12 (V)
+  - Code de l'éducation - art. D562-12 (V)
+  - Code de l'éducation - art. D564-11 (V)
+
+
+###### Article D551-6
+
+Les associations agréées peuvent intervenir pendant le temps scolaire en appui aux activités d'enseignement, sans toutefois
+se substituer à elles.
+
+L'autorisation est délivrée par le directeur d'école ou le chef d'établissement, dans le cadre des principes et des
+orientations définis par le conseil d'école ou le conseil d'administration, à la demande ou avec l'accord des équipes
+pédagogiques concernées et dans le respect de la responsabilité pédagogique des enseignants.
+
+Le directeur d'école ou le chef d'établissement peut, pour une intervention exceptionnelle, autoriser dans les mêmes
+conditions l'intervention d'une association non agréée s'il a auparavant informé du projet d'intervention le recteur ou
+l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, dans le cas où celui-ci a reçu
+délégation de signature.
+
+Après avoir pris connaissance de ce projet, l'autorité académique peut notifier au directeur d'école ou au chef
+d'établissement son opposition à l'action projetée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-3 (VD)
+  - Code de l'éducation - art. D562-2 (VD)
+  - Code de l'éducation - art. D564-3 (VD)
+
+
+##### Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public<a id=921></a>
+
+###### Article D551-7
+
+Le Conseil national des associations éducatives complémentaires de l'enseignement public et les conseils académiques des
+associations éducatives complémentaires de l'enseignement public sont chargés de favoriser la concertation entre
+l'administration de l'éducation nationale et ses partenaires.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+des associations éducatives complémentaires de l'enseignement public et conseils académiques des associations éducatives
+complémentaires de l'enseignement public).
+
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil national des associations éducatives complémentaires de l'enseignement public et conseil académique
+des associations éducatives complémentaires de l'enseignement public).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, le Conseil national des associations éducatives
+complémentaires de l'enseignement public et les conseils académiques des associations éducatives complémentaires de
+l'enseignement public sont renouvelés pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2015-623 du 5 juin 2015 - art. Annexe 1 (V)
+
+
+###### Article D551-8
+
+Le Conseil national des associations éducatives complémentaires de l'enseignement public est présidé par le ministre chargé
+de l'éducation ou son représentant. Il est, en outre, composé de vingt-quatre membres :
+
+1° Huit représentants des associations agréées ;
+
+2° Six représentants des organisations représentatives des personnels de direction, d'éducation et d'enseignement ;
+
+3° Cinq représentants des organisations représentatives de parents d'élèves ;
+
+4° Quatre représentants du ministre chargé de l'éducation ;
+
+5° Un représentant des ministres chargés de la jeunesse et des sports.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+des associations éducatives complémentaires de l'enseignement public).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 8 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D551-9
+
+Le Conseil national des associations éducatives complémentaires de l'enseignement public :
+
+1° Donne son avis sur les demandes d'agrément et sur les propositions de retrait d'agrément des associations dont l'action
+revêt une dimension nationale ;
+
+2° Examine les résultats de l'évaluation des activités complémentaires de l'enseignement public ;
+
+3° Est consulté sur les critères de répartition de l'aide du ministère de l'éducation nationale réservée aux activités
+complémentaires de l'enseignement public.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
+des associations éducatives complémentaires de l'enseignement public).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 9 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D551-10
+
+Le conseil académique des associations éducatives complémentaires de l'enseignement public est présidé par le recteur
+d'académie ou son représentant. Il est, en outre, composé de quatorze membres :
+
+1° Cinq représentants des associations agréées ;
+
+2° Trois représentants des organisations représentatives des personnels de direction, d'éducation et d'enseignement ;
+
+3° Trois représentants des organisations représentatives de parents d'élèves ;
+
+4° Deux représentants du ministre chargé de l'éducation ;
+
+5° Un représentant des ministres chargés de la jeunesse et des sports.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques des associations éducatives complémentaires de l'enseignement public).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. D562-1 (V)
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D551-11
+
+Le conseil académique des associations éducatives complémentaires de l'enseignement public :
+
+1° Donne son avis sur les demandes d'agrément et sur les propositions de retrait concernant les associations dont les
+activités s'exercent au niveau local, départemental ou académique ;
+
+2° Examine les résultats de l'évaluation des activités complémentaires de l'enseignement public conduites dans l'académie.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques des associations éducatives complémentaires de l'enseignement public).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 11 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+
+
+###### Article D551-12
+
+Les membres du conseil national et des conseils académiques des associations éducatives complémentaires de l'enseignement
+public sont désignés pour trois ans par arrêté, respectivement, du ministre chargé de l'éducation et des recteurs d'académie,
+chacun en ce qui le concerne.
+
+Le conseil national et les conseils académiques des associations éducatives complémentaires de l'enseignement public se
+réunissent au moins une fois par an. Ils peuvent, en outre, être réunis sur convocation de leur président ou à la demande du
+tiers au moins de leurs membres.
+
+Ils fixent leurs règles internes de fonctionnement.
+
+Des représentants suppléants sont désignés en nombre égal à celui des membres titulaires du conseil national et des conseils
+académiques des associations éducatives complémentaires de l'enseignement public représentant les associations, les
+personnels de direction, d'éducation et d'enseignement et les parents d'élèves. Un représentant suppléant siège au conseil
+national ou au conseil académique des associations éducatives complémentaires de l'enseignement public en cas d'empêchement
+d'un membre titulaire.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseils
+académiques des associations éducatives complémentaires de l'enseignement public).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°92-1200 du 6 novembre 1992 - art. 12 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-12 (V)
+  - Code de l'éducation - art. D562-12 (V)
+  - Code de l'éducation - art. D564-11 (V)
+
+
+#### Chapitre II : Les activités physiques et sportives<a id=922></a>
+
+###### Article R552-1
+
+Les statuts des associations sportives scolaires des établissements d'enseignement du premier degré comportent les
+dispositions ci-après.
+
+1° Les associations sont affiliées à des fédérations sportives scolaires de l'enseignement du premier degré dont les statuts
+sont approuvés par décret en Conseil d'Etat.
+
+Elles participent aux rencontres, épreuves et manifestations organisées ou contrôlées par ces fédérations.
+
+2° Chaque association comprend :
+
+a) Le directeur de l'école, membre de droit ;
+
+b) Des membres actifs volontaires : enseignants et membres de l'équipe éducative, parents des élèves de l'école, professeurs
+des écoles stagiaires, élèves des différentes classes ainsi que les personnels et animateurs de l'école agréés par le bureau
+de l'association.
+
+3° L'association est administrée par un comité directeur élu chaque année par une assemblée générale. Il comprend deux tiers
+d'adultes, dont au moins un parent d'élèves, et un tiers d'élèves élus respectivement par le collège des adultes et le
+collège des élèves.
+
+4° Le comité directeur désigne, parmi ses membres adultes, un bureau composé d'un président, d'un secrétaire et d'un
+trésorier. Dans le cas où le directeur de l'école n'est pas membre du bureau, il assiste de plein droit aux réunions de
+celui-ci avec voix consultative.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-495 du 14 mars 1986, article 1 v. init.
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. R561-1 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+###### Article R552-2
+
+Les statuts des associations sportives des établissements d'enseignement du second degré comportent les dispositions ci-
+après.
+
+1° L'association est affiliée à l'Union nationale du sport scolaire (UNSS).
+
+2° L'association se compose :
+
+a) Du chef d'établissement ;
+
+b) Des enseignants d'éducation physique et sportive participant à l'animation de l'association dans le cadre du forfait
+horaire réservé à cet effet dans leurs obligations de service ;
+
+c) Des présidents des associations de parents d'élèves de l'établissement ou de leur représentant ;
+
+d) Des élèves inscrits dans l'établissement et titulaires de la licence délivrée par l'Union nationale du sport scolaire ;
+
+e) De tous les autres partenaires de la communauté éducative à jour de leur cotisation.
+
+3° L'association est administrée par un comité directeur présidé par le chef d'établissement, président de l'association.
+
+Le comité directeur élit parmi ses membres un trésorier, un secrétaire et un secrétaire adjoint. Le secrétaire est élu parmi
+les enseignants d'éducation physique et sportive, le secrétaire adjoint parmi les autres catégories de membres du comité
+directeur. Le trésorier doit être majeur.
+
+Le nombre de membres du comité directeur est fixé par l'assemblée générale. Il se répartit de la façon suivante :
+
+a) Dans les collèges et lycées professionnels, le comité directeur se compose pour un tiers du chef d'établissement et des
+enseignants d'éducation physique et sportive animateurs de l'association, pour un tiers de parents d'élèves et autres membres
+de la communauté éducative, dont au moins un parent, pour un tiers d'élèves ;
+
+b) Dans les lycées, le comité directeur se compose pour un quart du chef d'établissement et des enseignants d'éducation
+physique et sportive animateurs de l'association, pour un quart de parents d'élèves et autres membres de la communauté
+éducative, dont au moins un parent d'élève, pour la moitié d'élèves.
+
+4° L'animation de l'association est assurée par les enseignants d'éducation physique et sportive de l'établissement. Un
+personnel qualifié peut assister l'équipe pédagogique, à la demande et sous la responsabilité de cette dernière. Il doit
+recevoir l'agrément du comité directeur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-495 du 14 mars 1986, article 2 v. init.
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2015-784 du 29 juin 2015 - art. (V)
+
+
+### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=923></a>
+
+#### Chapitre Ier : Dispositions applicables
+dans les îles Wallis et Futuna<a id=924></a>
+
+###### Article D561-2
+
+Les dispositions du présent livre sont applicables dans les îles Wallis et Futuna, à l'exception des articles D. 511-3 à D.
+511-5, 
+D. 511-23, D. 511-46, D. 511-54 à D. 511-56, D. 511-58 à D. 511-73, D. 521-1 à D. 521-9, D. 521-18, D. 531-3 à D. 531-12, D.
+531-15, D. 531-17, D. 531-21 à D. 531-24, D. 531-26 à D. 531-29, D. 531-32, D. 531-36, D. 531-42 à D. 531-51, D. 532-1, D.
+541-1, D. 541-3, D. 541-4, D. 541-7 à D. 541-9, du deuxième alinéa de l'article D. 551-4 et des articles D. 551-10 et D.
+551-11, sous réserve des adaptations et des dispositions particulières figurant aux articles D. 561-3 à D. 561-7 et D. 561-9
+à D. 561-12.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-23 (V)
+  - Code de l'éducation - art. D511-3 (V)
+  - Code de l'éducation - art. D511-46 (V)
+  - Code de l'éducation - art. D511-54 (V)
+  - Code de l'éducation - art. D511-58 (V)
+  - Code de l'éducation - art. D521-1 (V)
+  - Code de l'éducation - art. D521-18 (V)
+  - Code de l'éducation - art. D531-15 (V)
+  - Code de l'éducation - art. D531-17 (V)
+  - Code de l'éducation - art. D531-21 (V)
+  - Code de l'éducation - art. D531-26 (V)
+  - Code de l'éducation - art. D531-3 (V)
+  - Code de l'éducation - art. D531-32 (V)
+  - Code de l'éducation - art. D531-36 (V)
+  - Code de l'éducation - art. D531-42 (V)
+  - Code de l'éducation - art. D532-1 (V)
+  - Code de l'éducation - art. D541-1 (V)
+  - Code de l'éducation - art. D541-3 (V)
+  - Code de l'éducation - art. D541-7 (V)
+  - Code de l'éducation - art. D551-10 (V)
+  - Code de l'éducation - art. D551-4 (V)
+  - Code de l'éducation - art. D561-3 (V)
+  - Code de l'éducation - art. D561-9 (V)
+
+
+###### Article D561-3
+
+Pour l'application des articles D. 511-25, 
+D. 511-42, D. 511-43, D. 511-48, R. 511-49, D. 511-52, D. 521-11, D. 521-13, D. 521-14, 
+D. 531-38 à D. 531-40 et D. 551-6 dans les îles Wallis et Futuna, les mots : « recteur d'académie », « recteur »,
+« inspecteur d'académie, directeur des services départementaux de l'éducation nationale » et « autorité académique » sont
+remplacés par les mots : « vice-recteur » ; les mots : « inspection académique » par les mots : « vice-rectorat », et les
+mots : « commission académique d'appel » par les mots : « commission d'appel constituée auprès du vice-recteur ».
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 1 et 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-25 (V)
+  - Code de l'éducation - art. D511-42 (V)
+  - Code de l'éducation - art. D511-48 (V)
+  - Code de l'éducation - art. D511-52 (V)
+  - Code de l'éducation - art. D521-11 (V)
+  - Code de l'éducation - art. D521-13 (V)
+  - Code de l'éducation - art. D531-38 (V)
+  - Code de l'éducation - art. D551-6 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+  - Code de l'éducation - art. R561-1 (V)
+
+
+###### Article D561-5
+
+Pour l'application de l'article D. 511-42 dans les établissements d'enseignement du second degré des îles Wallis et Futuna,
+la troisième phrase du premier alinéa de cet article est remplacée par la phrase suivante : 
+
+"La notification de la décision du conseil de discipline mentionne les voies et délais d'appel auprès du vice-recteur selon
+les modalités fixées à l'article R. 511-49".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéa 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-42 (V)
+  - Code de l'éducation - art. R511-49 (V)
+
+
+###### Article D561-6
+
+Dans les îles Wallis et Futuna, l' article D. 511-50  est remplacé par les dispositions suivantes : 
+
+"Lorsque la décision du conseil de discipline est déférée au vice-recteur, elle est néanmoins immédiatement exécutoire. Par
+ailleurs, le chef d'établissement peut faire application des dispositions de l'article D. 511-33 jusqu'à l'expiration du
+délai de huit jours prévu à l'article R. 511-49 ou jusqu'à décision du vice-recteur si celui-ci a été saisi. 
+
+Le vice-recteur décide après avis de la commission d'appel constituée auprès de lui, réunie sous sa présidence ou celle de
+son représentant".
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+académique d'appel).
+
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission académique d'appel procédure disciplinaire).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, les Commissions académiques d'appel (procédure disciplinaire)
+sont renouvelées pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 5 à 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2009-627 du 6 juin 2009 - art. (V)
+  - Décret n°2014-590 du 6 juin 2014 - art. (V)
+  - Décret n°2015-623 du 5 juin 2015 - art. (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-33 (V)
+  - Code de l'éducation - art. D511-50 (V)
+  - Code de l'éducation - art. R511-49 (V)
+
+
+###### Article D561-7
+
+La commission d'appel constituée auprès du vice-recteur de Wallis et Futuna comprend, outre le vice-recteur ou son
+représentant, deux chefs d'établissement, un professeur et deux représentants des parents d'élèves, nommés pour deux ans par
+le vice-recteur.
+
+Un suppléant est nommé dans les mêmes conditions pour chacun des membres de la commission, à l'exclusion de son président.
+Pour la désignation des représentants des parents d'élèves, le vice-recteur recueille les propositions des associations
+représentatives.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 8 et 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D561-9
+
+Pour l'application de l'article D. 521-11 dans les îles Wallis et Futuna, les mots : "et de la commune dans laquelle est
+située l'école" sont supprimés. Il en est de même des mots : "après consultation du conseil départemental de l'éducation
+nationale et de la ou des communes intéressées, sous réserve de la compétence du maire de la commune en application des
+dispositions de  l'article L. 521-3" pour l'application de l'article D. 521-14.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-11 (V)
+  - Code de l'éducation - art. D521-14 (V)
+  - Code de l'éducation - art. L521-3 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D561-2 (V)
+
+
+###### Article D561-10
+
+I. ― Pour l'application de l'article D. 531-38 dans les îles Wallis et Futuna, les mots : "commission départementale" sont
+remplacés par les mots : "commission des bourses au mérite à Wallis et Futuna". 
+
+II. ― Le neuvième alinéa (7°) du même article est remplacé par les dispositions suivantes : 
+
+"7° Deux représentants des lycéens". Le onzième alinéa (9°) est supprimé et au douzième alinéa (10°), les mots : "des
+collectivités territoriales" sont remplacés par les mots : "de la collectivité territoriale". 
+
+III. ― Pour l'application de l'article D. 531-39 à Wallis et Futuna, les mots : "commission départementale" sont remplacés
+par les mots : "commission mentionnée à l'article D. 531-38".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D531-38 (V)
+  - Code de l'éducation - art. D531-39 (V)
+
+
+###### Article D561-11
+
+Pour l'application de l'article D. 542-1 dans les îles Wallis et Futuna, les mots : "en France" sont remplacés par les mots :
+"à Wallis et Futuna".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D542-1 (V)
+
+
+###### Article D561-12
+
+Pour l'application de l'article D. 551-5 dans les îles Wallis et Futuna, le dossier de demande d'agrément est soumis au
+Conseil national des associations éducatives complémentaires de l'enseignement public. La décision d'agrément ou de retrait
+d'agrément est prise par arrêté du ministre chargé de l'éducation. 
+
+Pour l'application de l'article D. 551-12, les mots : "conseils académiques" et "recteurs d'académie" sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D551-12 (V)
+  - Code de l'éducation - art. D551-5 (V)
+
+
+###### Article R561-1
+
+Les dispositions du présent livre sont applicables dans les îles Wallis et Futuna, à l'exception des articles R. 511-15 à R.
+511-19, R. 511-24, R. 511-28, R. 511-29, R. 511-44, R. 511-45, R. 511-57, R. 531-1, R. 531-2, R. 531-13, R. 531-14, R.
+531-16, R. 531-18 à R. 531-20, R. 531-25, R. 531-30, R. 531-31, R. 531-33 à R. 531-35, R. 531-44, R. 531-52, R. 531-53, R.
+541-6, R. 552-1 et R. 552-2, sous réserve des adaptations et des dispositions particulières figurant aux articles D. 561-3 et
+R. 561-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D561-3 (V)
+  - Code de l'éducation - art. R511-15 (V)
+  - Code de l'éducation - art. R511-24 (V)
+  - Code de l'éducation - art. R511-28 (V)
+  - Code de l'éducation - art. R511-44 (V)
+  - Code de l'éducation - art. R511-57 (V)
+  - Code de l'éducation - art. R531-1 (V)
+  - Code de l'éducation - art. R531-13 (V)
+  - Code de l'éducation - art. R531-16 (V)
+  - Code de l'éducation - art. R531-18 (V)
+  - Code de l'éducation - art. R531-25 (V)
+  - Code de l'éducation - art. R531-30 (V)
+  - Code de l'éducation - art. R531-33 (V)
+  - Code de l'éducation - art. R531-52 (V)
+  - Code de l'éducation - art. R541-6 (V)
+  - Code de l'éducation - art. R552-1 (V)
+  - Code de l'éducation - art. R561-8 (V)
+
+
+###### Article R561-4
+
+Pour l'application de l'article R. 511-20 dans les collèges et lycées de Wallis et Futuna, les mots : "ou, dans les
+établissements publics locaux d'enseignement, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de
+pluralité d'adjoints" mentionnés au troisième alinéa (2°) sont supprimés. 
+
+Le quatrième alinéa du même article (3°) est remplacé par les dispositions suivantes : 
+
+"3° Un conseiller principal d'éducation ou un conseiller d'éducation désigné par le conseil d'administration, sur proposition
+du chef d'établissement ou, à défaut, pour les collèges, un représentant des surveillants désignés dans les mêmes
+conditions ;". 
+
+Le cinquième alinéa (4°) est complété par les mots : "ou, à défaut, pour les collèges, l'agent comptable".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-164 du 31 janvier 1986 - art. 55-19 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D491-14 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-20 (V)
+
+
+###### Article R561-8
+
+L'organisation de l'année scolaire définie à l'article L. 521-1 peut comporter, dans les îles Wallis et Futuna, six périodes
+de travail de durée comparable, séparées par cinq périodes de vacance des classes. 
+
+Le calendrier scolaire est établi dans les îles Wallis et Futuna par le préfet, administrateur supérieur du territoire, sur
+proposition du vice-recteur. 
+
+Pour tenir compte de circonstances particulières locales susceptibles de mettre en difficulté le bon fonctionnement du
+service public de l'enseignement dans un établissement, une circonscription ou un secteur de la collectivité, des adaptations
+peuvent être apportées à ce calendrier par le vice-recteur. 
+
+Ces adaptations ne peuvent porter sur le nombre et la durée effective totale des périodes de travail et des périodes de
+vacance des classes, ni sur l'équilibre entre ces périodes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-116 du 28 janvier 1991 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. L521-1 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. R561-1 (V)
+
+
+#### Chapitre II : Dispositions applicables à Mayotte<a id=925></a>
+
+###### Article D562-1
+
+Les articles D. 511-51, D. 521-1 à D. 521-5, le deuxième alinéa de l'article D. 551-4 et les articles D. 551-10 et D. 551-11
+ne sont pas applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-51 (V)
+  - Code de l'éducation - art. D521-1 (V)
+  - Code de l'éducation - art. D551-10 (V)
+  - Code de l'éducation - art. D551-4 (V)
+
+
+###### Article D562-2
+
+I. ― Pour l'application des articles D. 511-25, D. 511-42, D. 511-43, D. 511-46, D. 511-48, R. 511-49, D. 511-52, D. 511-63 à
+D. 511-65, D. 511-68 à D. 511-70, D. 521-11, D. 521-13, D. 521-14, R. 531-1, D. 531-8, D. 531-10 à D. 531-12, R. 531-14, D.
+531-15, R. 531-20, D. 531-22, R. 531-25 à D. 531-29, D. 531-32, D. 531-38 à D. 531-40 et D. 551-6 à Mayotte, les mots :
+recteur d'académie, recteur, inspecteur d'académie, directeur des services départementaux de l'éducation nationale et
+autorité académique sont remplacés par les mots : vice-recteur ; les mots : rectorat d'académie et inspection académique par
+les mots : vice-rectorat, et les mots : commission académique d'appel par les mots : commission d'appel constituée auprès du
+vice-recteur. 
+
+II.-Pour l'application des articles D. 511-63 à D. 511-73, les mots : conseil académique de la vie lycéenne sont remplacés
+par les mots : conseil de la vie lycéenne de Mayotte et les mots : conseillers régionaux nommés par le recteur sur
+proposition du président du conseil régional sont remplacés par les mots : conseillers généraux nommés par le vice-recteur
+sur proposition du président du conseil général. 
+
+III.-Pour l'application des articles D. 521-14, R. 531-1 et R. 531-14, les mots : conseil départemental de l'éducation
+nationale et conseil académique de l'éducation nationale siégeant en formation contentieuse et disciplinaire sont remplacés
+par les mots : conseil de l'éducation nationale de Mayotte.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 1 et 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-25 (V)
+  - Code de l'éducation - art. D511-42 (V)
+  - Code de l'éducation - art. D511-43 (V)
+  - Code de l'éducation - art. D511-46 (V)
+  - Code de l'éducation - art. D511-48 (V)
+  - Code de l'éducation - art. D511-52 (V)
+  - Code de l'éducation - art. D511-63 (V)
+  - Code de l'éducation - art. D511-68 (V)
+  - Code de l'éducation - art. D521-11 (V)
+  - Code de l'éducation - art. D521-13 (V)
+  - Code de l'éducation - art. D521-14 (V)
+  - Code de l'éducation - art. D531-10 (V)
+  - Code de l'éducation - art. D531-15 (V)
+  - Code de l'éducation - art. D531-22 (V)
+  - Code de l'éducation - art. D531-32 (V)
+  - Code de l'éducation - art. D531-38 (V)
+  - Code de l'éducation - art. D531-8 (V)
+  - Code de l'éducation - art. D551-6 (V)
+  - Code de l'éducation - art. R511-49 (V)
+  - Code de l'éducation - art. R531-1 (V)
+  - Code de l'éducation - art. R531-14 (V)
+  - Code de l'éducation - art. R531-20 (V)
+  - Code de l'éducation - art. R531-25 (V)
+
+
+###### Article D562-4
+
+Pour l'application de l'article D. 511-42 dans les établissements d'enseignement du second degré de Mayotte, la troisième
+phrase du premier alinéa de cet article est remplacée par la phrase suivante : 
+
+"La notification de la décision du conseil de discipline mentionne les voies et délais d'appel auprès du vice-recteur selon
+les modalités fixées à l'article R. 511-49. "
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéa 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-42 (V)
+  - Code de l'éducation - art. R511-49 (V)
+
+
+###### Article D562-5
+
+Lorsque la décision du conseil de discipline est déférée au vice-recteur, elle est néanmoins immédiatement exécutoire. Par
+ailleurs, le chef d'établissement peut faire application des dispositions de l'article D. 511-33 jusqu'à l'expiration du
+délai de huit jours prévu à l'article R. 511-49 ou jusqu'à décision du vice-recteur si celui-ci a été saisi. 
+
+Le vice-recteur décide après avis de la commission d'appel constituée auprès de lui, réunie sous sa présidence ou celle de
+son représentant.
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+académique d'appel).
+
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014  (Commission académique d'appel procédure disciplinaire).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, les Commissions académiques d'appel (procédure disciplinaire)
+sont renouvelées pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 5 à 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2009-627 du 6 juin 2009 - art. (V)
+  - Décret n°2014-590 du 6 juin 2014 - art. (V)
+  - Décret n°2015-623 du 5 juin 2015 - art. (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-33 (V)
+  - Code de l'éducation - art. R511-49 (V)
+
+
+###### Article D562-6
+
+La commission d'appel constituée auprès du vice-recteur de Mayotte comprend, outre le vice-recteur ou son représentant, deux
+chefs d'établissement, un professeur et deux représentants des parents d'élèves, nommés pour deux ans par le vice-recteur.
+
+Un suppléant est nommé dans les mêmes conditions pour chacun des membres de la commission, à l'exclusion de son président.
+Pour la désignation des représentants des parents d'élèves, le vice-recteur recueille les propositions des associations
+représentatives.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 8 et 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D562-7
+
+Pour l'application du quatrième alinéa (b) de l'article D. 511-65 à Mayotte, les mots : « des départements » sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-65 (V)
+
+
+###### Article D562-10
+
+Pour l'application de l'article D. 541-7 à Mayotte, la référence à la partie réglementaire du code du travail est remplacée
+par celle des chapitres II à IV du titre III du livre II de la partie réglementaire du code du travail applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Abrogé par_:
+
+  - Décret n°2018-1337 du 28 décembre 2018 - art. 3
+
+_Cite_:
+
+  - Code de l'éducation - art. D541-7
+
+
+###### Article D562-11
+
+Pour l'application de l'article D. 542-1 à Mayotte, les mots : "en France" sont remplacés par les mots : "à Mayotte".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D542-1 (V)
+
+
+###### Article D562-12
+
+Pour l'application de l'article D. 551-5 à Mayotte, le dossier de demande d'agrément est soumis au Conseil national des
+associations éducatives complémentaires de l'enseignement public. La décision d'agrément ou de retrait d'agrément est prise
+par arrêté du ministre chargé de l'éducation. 
+
+Pour l'application de l'article D. 551-12, les mots : "conseils académiques" et "recteurs d'académie" sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D551-12 (V)
+  - Code de l'éducation - art. D551-5 (V)
+
+
+###### Article R562-3
+
+Pour l'application de l'article R. 511-20 dans les collèges et lycées de Mayotte, les mots : "ou, dans les établissements
+publics locaux d'enseignement, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité d'adjoints"
+mentionnés au troisième alinéa (2°) sont supprimés. 
+
+Le quatrième alinéa du même article (3°) est remplacé par les dispositions suivantes : 
+
+"3° un conseiller principal d'éducation ou un conseiller d'éducation désigné par le conseil d'administration, sur proposition
+du chef d'établissement ;".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-164 du 31 janvier 1986 - art. 55-6 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D492-13 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-20 (V)
+
+
+###### Article R562-8
+
+L'organisation de l'année scolaire définie à l'article L. 521-1 peut comporter, à Mayotte, six périodes de travail de durée
+comparable, séparées par cinq périodes de vacance des classes. 
+
+Le calendrier scolaire est établi dans la collectivité départementale de Mayotte par le préfet, sur proposition du vice-
+recteur. 
+
+Pour tenir compte de circonstances particulières locales susceptibles de mettre en difficulté le bon fonctionnement du
+service public de l'enseignement dans un établissement, une commune ou un secteur de la collectivité, des adaptations peuvent
+être apportées à ce calendrier par le vice-recteur. 
+
+Ces adaptations ne peuvent porter sur le nombre et la durée effective totale des périodes de travail et des périodes de
+vacance des classes, ni sur l'équilibre entre ces périodes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-116 du 28 janvier 1991 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. L521-1 (V)
+
+
+###### Article R562-9
+
+Pour l'application de l'article R. 531-25 à Mayotte, les mots : « sur le rapport de l'inspecteur d'académie, directeur des
+services départementaux de l'éducation nationale » et « sous couvert de l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale » sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. R531-25 (V)
+
+
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=926></a>
+
+###### Article D563-2
+
+Les articles D. 531-37 à D. 531-41 et D. 542-1 sont applicables en Polynésie française, sous réserve des adaptations figurant
+aux articles D. 563-3 et D. 563-4.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D531-37 (V)
+  - Code de l'éducation - art. D542-1 (V)
+  - Code de l'éducation - art. D563-3 (V)
+
+
+###### Article D563-3
+
+Pour l'application des articles D. 531-38 à D. 531-40 en Polynésie française, les mots : « inspecteur d'académie, directeur
+des services départementaux de l'éducation nationale » et « commission départementale » sont respectivement remplacés par les
+mots : « vice-recteur » et « commission des bourses au mérite en Polynésie française ». 
+
+Pour l'application de l'article D. 531-38, le neuvième alinéa (7°) est remplacé par les dispositions suivantes : 
+
+« 7° Deux représentants des lycéens » et les mots : « représentants des collectivités territoriales » sont remplacés par les
+mots : « représentants de l'assemblée de la Polynésie française ».
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D531-38 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D563-2 (V)
+
+
+###### Article D563-4
+
+Pour l'application de l'article D. 542-1 en Polynésie française, les mots : "en France" sont remplacés par les mots : "en
+Polynésie française".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D542-1 (V)
+
+
+###### Article R563-1
+
+Les articles R. 511-74 et R. 511-75 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-74 (V)
+
+
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=927></a>
+
+###### Article D564-2
+
+Les dispositions du présent livre sont applicables en Nouvelle-Calédonie, à l'exception des articles D. 511-3 à D. 511-5, D.
+511-23, D. 511-46, D. 511-54 à D. 511-56, D. 511-58 à D. 511-73, D. 521-1 à D. 521-9, D. 521-16 sauf en ce qui concerne les
+lycées, D. 521-18, D. 531-3 à D. 531-12, D. 531-15, D. 531-17, D. 531-21 à D. 531-24, D. 531-26 à D. 531-29, D. 531-32, D.
+531-36, D. 531-42 à D. 531-51, D. 532-1, D. 541-1, D. 541-3, D. 541-4, D. 541-7 à D. 541-9 du deuxième alinéa de l'article D.
+551-4 et des articles D. 551-10 et D. 551-11, sous réserve des adaptations et des dispositions particulières figurant aux
+articles D. 564-3 à D. 564-7 et D. 564-9 à D. 564-11. 
+
+Toutefois, les articles D. 521-10 à D. 521-15 ne sont applicables qu'aux établissements d'enseignement privés du premier
+degré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-23 (V)
+  - Code de l'éducation - art. D511-3 (V)
+  - Code de l'éducation - art. D511-46 (V)
+  - Code de l'éducation - art. D511-54 (V)
+  - Code de l'éducation - art. D511-58 (V)
+  - Code de l'éducation - art. D521-1 (V)
+  - Code de l'éducation - art. D521-10 (V)
+  - Code de l'éducation - art. D521-16 (V)
+  - Code de l'éducation - art. D521-18 (V)
+  - Code de l'éducation - art. D531-15 (V)
+  - Code de l'éducation - art. D531-17 (V)
+  - Code de l'éducation - art. D531-21 (V)
+  - Code de l'éducation - art. D531-26 (V)
+  - Code de l'éducation - art. D531-3 (V)
+  - Code de l'éducation - art. D531-32 (V)
+  - Code de l'éducation - art. D531-36 (V)
+  - Code de l'éducation - art. D531-42 (V)
+  - Code de l'éducation - art. D532-1 (V)
+  - Code de l'éducation - art. D541-1 (V)
+  - Code de l'éducation - art. D541-3 (V)
+  - Code de l'éducation - art. D541-7 (V)
+  - Code de l'éducation - art. D551-10 (V)
+  - Code de l'éducation - art. D551-4 (V)
+  - Code de l'éducation - art. D564-3 (V)
+  - Code de l'éducation - art. D564-9 (V)
+
+
+###### Article D564-3
+
+Pour l'application des articles D. 511-25, D. 511-42, D. 511-43, D. 511-48, R. 511-49, D. 511-52, D. 521-11, D. 521-13, D.
+521-14, D. 531-38 à D. 531-40 et D. 551-6 en Nouvelle-Calédonie, les mots : « recteur d'académie », « recteur », « inspecteur
+d'académie, directeur des services départementaux de l'éducation nationale » et « autorité académique » sont remplacés par
+les mots : « vice-recteur », les mots : « inspection académique » par les mots : « vice-rectorat », et les mots :
+« commission académique d'appel » par les mots : « commission d'appel constituée auprès du vice-recteur ».
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 1 et 2 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-25 (V)
+  - Code de l'éducation - art. D511-42 (V)
+  - Code de l'éducation - art. D511-48 (V)
+  - Code de l'éducation - art. D511-52 (V)
+  - Code de l'éducation - art. D521-11 (V)
+  - Code de l'éducation - art. D521-13 (V)
+  - Code de l'éducation - art. D531-38 (V)
+  - Code de l'éducation - art. D551-6 (V)
+  - Code de l'éducation - art. R511-49 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D564-2 (V)
+  - Code de l'éducation - art. R564-1 (V)
+
+
+###### Article D564-5
+
+Pour l'application de l'article D. 511-42 dans les établissements d'enseignement du second degré de Nouvelle-Calédonie, la
+troisième phrase du premier alinéa de cet article est remplacée par la phrase suivante : " La notification de la décision du
+conseil de discipline mentionne les voies et délais d'appel auprès du vice-recteur selon les modalités fixées à l'article R.
+511-49 ".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéa 4 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-42 (V)
+  - Code de l'éducation - art. R511-49 (V)
+
+
+###### Article D564-6
+
+En Nouvelle-Calédonie, l'article D. 511-50 est remplacé par les dispositions suivantes : 
+
+" Lorsque la décision du conseil de discipline est déférée au vice-recteur, elle est néanmoins immédiatement exécutoire. Par
+ailleurs, le chef d'établissement peut faire application des dispositions de l'article D. 511-33 jusqu'à l'expiration du
+délai de huit jours prévu à l'article R. 511-49 ou jusqu'à décision du vice-recteur si celui-ci a été saisi. 
+
+Le vice-recteur décide après avis de la commission d'appel constituée auprès de lui, réunie sous sa présidence ou celle de
+son représentant. "
+
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
+académique d'appel).
+
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission académique d'appel procédure disciplinaire).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, les Commissions académiques d'appel (procédure disciplinaire)
+sont renouvelées pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 5 à 7 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2009-627 du 6 juin 2009 - art. (V)
+  - Décret n°2014-590 du 6 juin 2014 - art. (V)
+  - Décret n°2015-623 du 5 juin 2015 - art. (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. D511-33 (V)
+  - Code de l'éducation - art. D511-50 (V)
+  - Code de l'éducation - art. R511-49 (V)
+
+
+###### Article D564-7
+
+La commission d'appel constituée auprès du vice-recteur de Nouvelle-Calédonie comprend, outre le vice-recteur ou son
+représentant, deux chefs d'établissement, un professeur et deux représentants des parents d'élèves, nommés pour deux ans par
+le vice-recteur.
+
+Un suppléant est nommé dans les mêmes conditions pour chacun des membres de la commission, à l'exclusion de son président.
+Pour la désignation des représentants des parents d'élèves, le vice-recteur recueille les propositions des associations
+représentatives.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 8 et 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+
+###### Article D564-9
+
+Pour l'application de l'article D. 521-14 en Nouvelle-Calédonie, les mots : "après consultation du conseil départemental de
+l'éducation nationale" sont supprimés. 
+
+Pour l'application de l'article D. 531-38, les mots : "commission départementale" sont remplacés par les mots : "commission
+des bourses au mérite en Nouvelle Calédonie" et pour l'application de l'article D. 531-39, les mots : "commission
+départementale" sont remplacés par les mots : "commission mentionnée à l'article D. 531-38".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D521-14 (V)
+  - Code de l'éducation - art. D531-38 (V)
+  - Code de l'éducation - art. D531-39 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. D564-2 (V)
+
+
+###### Article D564-10
+
+Pour l'application de l'article D. 542-1 en Nouvelle-Calédonie, les mots : "en France" sont remplacés par les mots : "en
+Nouvelle-Calédonie".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D542-1 (V)
+
+
+###### Article D564-11
+
+Pour l'application de l'article D. 551-5 en Nouvelle-Calédonie, le dossier de demande d'agrément est soumis au Conseil
+national des associations éducatives complémentaires de l'enseignement public. La décision d'agrément ou de retrait
+d'agrément est prise par arrêté du ministre chargé de l'éducation. 
+
+Pour l'application de l'article D. 551-12, les mots :"conseils académiques" et "recteurs d'académie" sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D551-12 (V)
+  - Code de l'éducation - art. D551-5 (V)
+
+
+###### Article R564-1
+
+Les dispositions du présent livre sont applicables en Nouvelle-Calédonie, à l'exception des articles R. 511-15 à R. 511-19,
+R. 511-24, R. 511-28, R. 511-29, R. 511-44, R. 511-45, R. 511-57, R. 531-1, R. 531-2, R. 531-13, R. 531-14, R. 531-16, R.
+531-18 à R. 531-20, R. 531-25, R. 531-30, R. 531-31, R. 531-33 à R. 531-35, R. 531-52, R. 531-53, R. 541-6, 
+R. 552-1 et R. 552-2, sous réserve des adaptations et des dispositions particulières figurant aux articles D. 564-3 et R.
+564-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. D564-3 (V)
+  - Code de l'éducation - art. R511-15 (V)
+  - Code de l'éducation - art. R511-24 (V)
+  - Code de l'éducation - art. R511-28 (V)
+  - Code de l'éducation - art. R511-44 (V)
+  - Code de l'éducation - art. R511-57 (V)
+  - Code de l'éducation - art. R531-1 (V)
+  - Code de l'éducation - art. R531-13 (V)
+  - Code de l'éducation - art. R531-16 (V)
+  - Code de l'éducation - art. R531-18 (V)
+  - Code de l'éducation - art. R531-25 (V)
+  - Code de l'éducation - art. R531-30 (V)
+  - Code de l'éducation - art. R531-33 (V)
+  - Code de l'éducation - art. R531-52 (V)
+  - Code de l'éducation - art. R541-6 (V)
+  - Code de l'éducation - art. R552-1 (V)
+  - Code de l'éducation - art. R564-8 (V)
+
+
+###### Article R564-4
+
+Pour l'application de l'article R. 511-20 dans les collèges et lycées de Nouvelle-Calédonie, les mots : "ou, dans les
+établissements publics locaux d'enseignement, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de
+pluralité d'adjoints" mentionnés au troisième alinéa (2°) sont supprimés. 
+
+Le quatrième alinéa du même article (3°) est remplacé par les dispositions suivantes : 
+
+"3° Un conseiller principal d'éducation ou un conseiller d'éducation désigné par le conseil d'administration, sur proposition
+du chef d'établissement ou, à défaut, pour les collèges, un représentant des surveillants désignés dans les mêmes
+conditions ;". 
+
+Le cinquième alinéa (4°) est complété par les mots : "ou, à défaut, pour les collèges, l'agent comptable".
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°86-164 du 31 janvier 1986 - art. 55-13 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cité par_:
+
+  - Code de l'éducation - art. D494-8 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-20 (V)
+
+
+###### Article R564-8
+
+L'organisation de l'année scolaire définie à l'article L. 521-1 peut comporter, en Nouvelle-Calédonie, six périodes de
+travail de durée comparable, séparées par cinq périodes de vacance des classes. 
+
+Le calendrier scolaire est établi par le vice-recteur. 
+
+Pour tenir compte de circonstances particulières locales susceptibles de mettre en difficulté le bon fonctionnement du
+service public de l'enseignement dans un établissement, une commune ou une province, le vice-recteur peut apporter des
+adaptations à ce calendrier. 
+
+Ces adaptations ne peuvent porter sur le nombre et la durée effective totale des périodes de travail et des périodes de
+vacance des classes, ni sur l'équilibre entre ces périodes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°91-116 du 28 janvier 1991 - art. 3 (Ab)
+
+_Créé par_:
+
+  - Décret n°2009-553 du 15 mai 2009 - art.
+
+_Cite_:
+
+  - Code de l'éducation - art. L521-1 (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. R564-1 (V)
+
+
+## Livre IX : Les personnels de l'éducation.<a id=928></a>
+
+### Titre Ier : Dispositions générales.<a id=929></a>
+
+#### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=930></a>
+
+##### Section 1 : Dispositions générales.<a id=931></a>
 
 ###### Article R914-1
 
@@ -98051,9 +104157,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 2 : Les organismes consultatifs.<a id=868></a>
+##### Section 2 : Les organismes consultatifs.<a id=932></a>
 
-##### Sous-section 1 : La commission consultative mixte départementale.<a id=869></a>
+##### Sous-section 1 : La commission consultative mixte départementale.<a id=933></a>
 
 ###### Article R914-4
 
@@ -98181,7 +104287,7 @@ _Cite_:
   - Code de l'éducation - art. R914-77 (V)
 
 
-##### Sous-section 2 : La commission consultative mixte académique.<a id=870></a>
+##### Sous-section 2 : La commission consultative mixte académique.<a id=934></a>
 
 ###### Article R914-7
 
@@ -98284,7 +104390,7 @@ _Cite_:
   - Code de l'éducation - art. R914-8
 
 
-##### Sous-section 3 : Dispositions communes.<a id=871></a>
+##### Sous-section 3 : Dispositions communes.<a id=935></a>
 
 ###### Article R914-10
 
@@ -98405,9 +104511,9 @@ _Créé par_:
 
 
 ##### Section 3 : Recrutement et formation des enseignants 
-des classes sous contrat.<a id=872></a>
+des classes sous contrat.<a id=936></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=873></a>
+##### Sous-section 1 : Dispositions générales.<a id=937></a>
 
 ###### Article R914-14
 
@@ -98525,9 +104631,9 @@ _Cite_:
 
 
 ##### Sous-section 2 : Concours de recrutement de maîtres 
-de l'enseignement privé sous contrat.<a id=874></a>
+de l'enseignement privé sous contrat.<a id=938></a>
 
-##### Paragraphe 1 : Concours externes.<a id=875></a>
+##### Paragraphe 1 : Concours externes.<a id=939></a>
 
 ###### Article R914-20
 
@@ -98638,7 +104744,7 @@ _Cite_:
   - Code de l'éducation - art. R914-24 (V)
 
 
-##### Paragraphe 2 : Concours internes.<a id=876></a>
+##### Paragraphe 2 : Concours internes.<a id=940></a>
 
 ###### Article R914-24
 
@@ -98723,7 +104829,7 @@ _Cite_:
   - Code de l'éducation - art. R914-24 (V)
 
 
-##### Paragraphe 3 : Troisième concours.<a id=877></a>
+##### Paragraphe 3 : Troisième concours.<a id=941></a>
 
 ###### Article R914-28
 
@@ -98822,10 +104928,10 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=878></a>
+##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=942></a>
 
 ##### Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association.<a id=879></a>
+des classes sous contrat d'association.<a id=943></a>
 
 ###### Article R914-44
 
@@ -99035,7 +105141,7 @@ _Cite_:
 
 
 ##### Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple.<a id=880></a>
+des classes sous contrat simple.<a id=944></a>
 
 ###### Article R914-53
 
@@ -99102,7 +105208,7 @@ _Cite_:
   - agrément avant le 31 janvier.
 
 
-##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=881></a>
+##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=945></a>
 
 ###### Article R914-57
 
@@ -99149,7 +105255,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 3 : Formation initiale.<a id=882></a>
+##### Sous-section 3 : Formation initiale.<a id=946></a>
 
 ###### Article R914-32
 
@@ -99397,7 +105503,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 4 : Stage probatoire.<a id=883></a>
+##### Sous-section 4 : Stage probatoire.<a id=947></a>
 
 ###### Article R914-42
 
@@ -99429,9 +105535,9 @@ _Cite_:
   - Code de l'éducation - art. R914-24
 
 
-##### Section 4 : Notation, avancement, mouvement, classement.<a id=884></a>
+##### Section 4 : Notation, avancement, mouvement, classement.<a id=948></a>
 
-##### Sous-section 1 : Notation.<a id=885></a>
+##### Sous-section 1 : Notation.<a id=949></a>
 
 ###### Article R914-59
 
@@ -99452,9 +105558,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Avancement.<a id=886></a>
+##### Sous-section 2 : Avancement.<a id=950></a>
 
-##### Paragraphe 1 : Dispositions communes.<a id=887></a>
+##### Paragraphe 1 : Dispositions communes.<a id=951></a>
 
 ###### Article R914-60
 
@@ -99481,7 +105587,7 @@ _Cite_:
   - Code de l'éducation - art. R914-7 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=888></a>
+##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=952></a>
 
 ###### Article R914-61
 
@@ -99555,7 +105661,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=889></a>
+##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=953></a>
 
 ###### Article R914-64
 
@@ -99807,7 +105913,7 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (VD)
 
 
-##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=890></a>
+##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=954></a>
 
 ###### Article R914-75
 
@@ -99911,9 +106017,9 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (VD)
 
 
-##### Sous-section 4 : Classement.<a id=891></a>
+##### Sous-section 4 : Classement.<a id=955></a>
 
-##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=892></a>
+##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=956></a>
 
 ###### Article R914-79
 
@@ -99930,7 +106036,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Paragraphe 2 : Reclassement pour motif médical.<a id=893></a>
+##### Paragraphe 2 : Reclassement pour motif médical.<a id=957></a>
 
 ###### Article R914-81
 
@@ -100003,9 +106109,9 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (VD)
 
 
-##### Section 5 : Rémunération.<a id=894></a>
+##### Section 5 : Rémunération.<a id=958></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=895></a>
+##### Sous-section 1 : Dispositions générales.<a id=959></a>
 
 ###### Article R914-83
 
@@ -100131,7 +106237,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (VD)
 
 
-##### Sous-section 2 : Dispositions particulières.<a id=896></a>
+##### Sous-section 2 : Dispositions particulières.<a id=960></a>
 
 ###### Article R914-89
 
@@ -100151,9 +106257,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 6 : Charges sociales.<a id=897></a>
+##### Section 6 : Charges sociales.<a id=961></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=898></a>
+##### Sous-section 1 : Dispositions générales.<a id=962></a>
 
 ###### Article D914-91
 
@@ -100212,7 +106318,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-95 (V)
 
 
-##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=899></a>
+##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=963></a>
 
 ###### Article R914-92
 
@@ -100294,7 +106400,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (VD)
 
 
-##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=900></a>
+##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=964></a>
 
 ###### Article R914-96
 
@@ -100371,9 +106477,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 
 
-##### Section 7 : Discipline.<a id=901></a>
+##### Section 7 : Discipline.<a id=965></a>
 
-##### Sous-section 1 : Sanctions disciplinaires.<a id=902></a>
+##### Sous-section 1 : Sanctions disciplinaires.<a id=966></a>
 
 ###### Article R914-100
 
@@ -100491,7 +106597,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-103 (V)
 
 
-##### Sous-section 2 : Insuffisance professionnelle.<a id=903></a>
+##### Sous-section 2 : Insuffisance professionnelle.<a id=967></a>
 
 ###### Article R914-103
 
@@ -100510,7 +106616,7 @@ _Cite_:
   - Code de l'éducation - art. R914-102 (V)
 
 
-##### Sous-section 3 : Suspension à titre conservatoire.<a id=904></a>
+##### Sous-section 3 : Suspension à titre conservatoire.<a id=968></a>
 
 ###### Article R914-104
 
@@ -100540,9 +106646,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 8 : Droits sociaux et congés.<a id=905></a>
+##### Section 8 : Droits sociaux et congés.<a id=969></a>
 
-##### Sous-section 2 : Cessation progressive d'activité.<a id=906></a>
+##### Sous-section 2 : Cessation progressive d'activité.<a id=970></a>
 
 ###### Article R914-106
 
@@ -100762,9 +106868,9 @@ _Cite_:
   - Code de la sécurité sociale. - art. L241-3-1
 
 
-##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=907></a>
+##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=971></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=908></a>
+##### Sous-section 1 : Dispositions générales.<a id=972></a>
 
 ###### Article R914-113
 
@@ -100799,7 +106905,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Incapacité permanente.<a id=909></a>
+##### Sous-section 2 : Incapacité permanente.<a id=973></a>
 
 ###### Article R914-114
 
@@ -100958,9 +107064,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 10 : Admission à la retraite.<a id=910></a>
+##### Section 10 : Admission à la retraite.<a id=974></a>
 
-##### Sous-section 1 : Avantages temporaires de retraite.<a id=911></a>
+##### Sous-section 1 : Avantages temporaires de retraite.<a id=975></a>
 
 ###### Article R914-120
 
@@ -100989,7 +107095,7 @@ _Cité par_:
 
 
 ##### Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite.<a id=912></a>
+du droit aux avantages temporaires de retraite.<a id=976></a>
 
 ###### Article R914-121
 
@@ -101100,7 +107206,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=913></a>
+##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=977></a>
 
 ###### Article R914-124
 
@@ -101213,7 +107319,7 @@ _Cite_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=914></a>
+##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=978></a>
 
 ###### Article R914-127
 
@@ -101242,7 +107348,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R351-27
 
 
-##### Paragraphe 4 : Limites d'âge et cumul.<a id=915></a>
+##### Paragraphe 4 : Limites d'âge et cumul.<a id=979></a>
 
 ###### Article R914-128
 
@@ -101337,7 +107443,7 @@ _Cite_:
   - Code de l'éducation - art. R914-121 (V)
 
 
-##### Paragraphe 5 : Couverture sociale.<a id=916></a>
+##### Paragraphe 5 : Couverture sociale.<a id=980></a>
 
 ###### Article R914-132
 
@@ -101356,7 +107462,7 @@ _Cite_:
   - Code de l'éducation - art. L914-1 (V)
 
 
-##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=917></a>
+##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=981></a>
 
 ###### Article R914-133
 
@@ -101507,7 +107613,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Régime additionnel de retraite.<a id=918></a>
+##### Sous-section 2 : Régime additionnel de retraite.<a id=982></a>
 
 ###### Article R914-138
 
