@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-09-01
+Version Consolidée au 2009-09-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -366,11 +366,11 @@ Version Consolidée au 2009-09-01
             - [Sous-section 2 : Accueil des étudiants étrangers. (art. D123-22)](#363)
       - [Titre III : L'obligation et la gratuité scolaires. (art. R131-1 à R131-19)](#364)
         - [Chapitre Ier : L'obligation scolaire (art. R131-1 à R131-19)](#365)
-          - [Section 1 : Contrôle de l'obligation scolaire (art. R131-1 à D131-16)](#366)
+          - [Section 1 : Contrôle de l'obligation scolaire (art. R131-1 à D131-12)](#366)
             - [Sous-section 1 : Contrôle de l'inscription. (art. R131-1 à R131-4)](#367)
             - [Sous-section 2 : Contrôle de l'assiduité. (art. R131-5 à R131-10)](#368)
             - [Sous-section 3 : Traitement automatisé relatif au recensement des enfants soumis à l'obligation scolaire et à l'amélioration du suivi de l'assiduité. (art. R131-10-1 à R131-10-6)](#369)
-            - [Sous-section 4 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat. (art. D131-11 à D131-16)](#370)
+            - [Sous-section 4 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat. (art. D131-11 à D131-12)](#370)
           - [Section 2 : Sanctions aux manquements relatifs à l'obligation scolaire (art. R131-17 à R131-19)](#371)
             - [Sous-section 1 : Sanctions disciplinaires. (art. R131-17)](#372)
             - [Sous-section 2 : Sanctions pénales. (art. R131-18 à R131-19)](#373)
@@ -35861,9 +35861,8 @@ _Créé par_:
 ###### Article D131-11
 
 Le contenu des connaissances requis des enfants relevant de l'obligation scolaire qui reçoivent une instruction dans leur
-famille ou dans les classes des établissements d'enseignement privés hors contrat concerne les instruments fondamentaux du
-savoir, les connaissances de base, les éléments de la culture générale, l'épanouissement de la personnalité et l'exercice de
-la citoyenneté.
+famille ou dans les classes des établissements d'enseignement privés hors contrat est défini par l'annexe mentionnée à
+l'article D. 122-1.
 
 **Liens relatifs à cet article**
 
@@ -35871,9 +35870,13 @@ _Anciens textes_:
 
   - Décret n°99-224 du 23 mars 1999 - art. 1 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2009-259 du 5 mars 2009 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. D122-1
 
 _Cité par_:
 
@@ -35882,17 +35885,10 @@ _Cité par_:
 
 ###### Article D131-12
 
-L'enfant doit acquérir :
-
-a) La maîtrise de la langue française, incluant l'expression orale, la lecture autonome de textes variés, l'écriture et
-l'expression écrite dans des domaines et des genres diversifiés, ainsi que la connaissance des outils grammaticaux et
-lexicaux indispensables à son usage correct ;
-
-b) La maîtrise des principaux éléments de mathématiques, incluant la connaissance de la numération et des objets
-géométriques, la maîtrise des techniques opératoires et du calcul mental, ainsi que le développement des capacités à déduire,
-abstraire, raisonner, prouver ;
-
-c) La pratique d'au moins une langue vivante étrangère.
+La progression retenue pour l'acquisition de ces connaissances et compétences doit être compatible avec l'âge de l'enfant et
+son état de santé, tout en tenant compte des aménagements justifiés par les choix éducatifs effectués. Elle doit avoir pour
+objet d'amener l'enfant, à l'issue de la période de l'instruction obligatoire, à la maîtrise de l'ensemble des exigences du
+socle commun.
 
 **Liens relatifs à cet article**
 
@@ -35900,126 +35896,13 @@ _Anciens textes_:
 
   - Décret n°99-224 du 23 mars 1999 - art. 2 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2009-259 du 5 mars 2009 - art. 2
 
 _Cité par_:
 
   - Code de l'éducation - art. D131-16 (VT)
-
-
-###### Article D131-13
-
-L'enfant doit acquérir :
-
-a) Une culture générale constituée par des éléments d'une culture littéraire fondée sur la fréquentation de textes
-littéraires accessibles ;
-
-b) Des repères chronologiques et spatiaux au travers de l'histoire et de la géographie de la France, de l'Europe et du monde
-jusque et y compris l'époque contemporaine ;
-
-c) Des éléments d'une culture scientifique et technologique relative aux sciences de la vie et de la matière ;
-
-d) Des éléments d'une culture artistique fondée notamment sur la sensibilisation aux oeuvres d'art ;
-
-e) Une culture physique et sportive.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°99-224 1999-03-23 art. 3, alinéas 1 à 6
-  - Décret n°99-224 du 23 mars 1999 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2009-259 du 5 mars 2009 - art. 4
-
-
-###### Article D131-14
-
-Pour accéder à la connaissance du monde dans sa diversité et son évolution, l'enfant doit développer des capacités à :
-
-a) Formuler des questions ;
-
-b) Proposer des solutions raisonnées à partir d'observations, de mesures, de mise en relation de données et d'exploitation de
-documents ;
-
-c) Concevoir, fabriquer et transformer, selon une progression raisonnée ;
-
-d) Inventer, réaliser, produire des oeuvres ;
-
-e) Maîtriser progressivement les techniques de l'information et de la communication ;
-
-f) Se maîtriser, utiliser ses ressources et gérer ses efforts, contrôler les risques pris.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°99-224 1999-03-23 art. 3, alinéas 7 à 14
-  - Décret n°99-224 du 23 mars 1999 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2009-259 du 5 mars 2009 - art. 4
-
-
-###### Article D131-15
-
-L'enfant doit acquérir les principes, notions et connaissances qu'exige l'exercice de la citoyenneté, dans le respect des
-droits de la personne humaine définis dans le Préambule de la Constitution de la République française, la Déclaration
-universelle des droits de l'homme et la Convention internationale des droits de l'enfant, ce qui implique la formation du
-jugement par l'exercice de l'esprit critique et la pratique de l'argumentation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°99-224 du 23 mars 1999 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2009-259 du 5 mars 2009 - art. 4
-
-
-###### Article D131-16
-
-La progression retenue, dans la mesure compatible avec l'âge de l'enfant et son état de santé et sous réserve des
-aménagements justifiés par les choix éducatifs effectués, doit avoir pour objet de l'amener, à l'issue de la période
-d'instruction obligatoire, à un niveau comparable dans chacun des domaines énumérés aux articles D. 131-12 à D. 131-15 à
-celui des élèves scolarisés dans les établissements publics ou privés sous contrat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°99-224 du 23 mars 1999 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2009-259 du 5 mars 2009 - art. 4
-
-_Cite_:
-
-  - Code de l'éducation - art. D131-12
 
 
 ##### Section 2 : Sanctions aux manquements relatifs à l'obligation scolaire<a id=371></a>
@@ -87849,17 +87732,17 @@ _Créé par_:
 ###### Article D442-22
 
 Le contenu des connaissances requis des élèves des établissements d'enseignement privés hors contrat est fixé par les
-articles D. 131-11 à D. 131-16.
+articles D. 131-11 et D. 131-12.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008, v. init.
+  - Décret n°2009-259 du 5 mars 2009 - art. 3
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Code de l'éducation - art. D131-11
 
 _Cité par_:
 
