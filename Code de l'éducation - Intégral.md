@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-10-01
+Version Consolidée au 2009-10-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -939,68 +939,58 @@ dans les îles Wallis et Futuna (art. D561-2 à R561-8)](#921)
             - [Sous-section 1 : La commission consultative mixte départementale. (art. R914-4 à R914-6)](#930)
             - [Sous-section 2 : La commission consultative mixte académique. (art. R914-7 à R914-9)](#931)
             - [Sous-section 3 : Dispositions communes. (art. R914-10 à R914-13)](#932)
-          - [Section 3 : Recrutement et formation des enseignants 
-des classes sous contrat. (art.  à R914-58)](#933)
-            - [Sous-section 1 : Dispositions générales. (art.  à R914-13)](#934)
-            - [Sous-section 2 : Concours de recrutement de maîtres 
-de l'enseignement privé sous contrat. (art. R914-20 à R914-31)](#935)
-              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#936)
-              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#937)
-              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#938)
-            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#939)
+          - [Section 3 : Recrutement des enseignants  des classes sous contrat. (art. R914-14 à R914-58)](#933)
+            - [Sous-section préliminaire : Dispositions générales (art. R914-14 à R914-19)](#934)
+            - [Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré (art. R914-19-1 à R914-19-7)](#935)
+            - [Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré. (art. R914-20 à R914-41)](#936)
+              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#937)
+              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#938)
+              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#939)
+              - [Paragraphe 4 : Stage (art. R914-32 à R914-37)](#940)
+              - [Paragraphe 5 : Cycle préparatoire (art. R914-38 à R914-41)](#941)
+            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#942)
               - [Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association. (art. R914-44 à R914-52)](#940)
+des classes sous contrat d'association. (art. R914-44 à R914-52)](#943)
               - [Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple. (art. R914-53 à R914-56)](#941)
-              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#942)
-            - [Sous-section 3 : Formation initiale. (art.  à R914-58)](#943)
-          - [Section 3 : Recrutement des enseignants  des classes sous contrat. (art. R914-14 à R914-41)](#944)
-            - [Sous-section préliminaire : Dispositions générales (art. R914-14 à R914-19)](#945)
-            - [Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré (art. R914-19-1 à R914-19-7)](#946)
-            - [Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré. (art.  à R914-41)](#947)
-              - [Paragraphe 1 : Concours externes. (art.  à R914-19-7)](#948)
-              - [Paragraphe 2 : Concours internes. (art.  à R914-19-7)](#949)
-              - [Paragraphe 3 : Troisième concours. (art.  à R914-19-7)](#950)
-              - [Paragraphe 4 : Stage (art. R914-32 à R914-37)](#951)
-              - [Paragraphe 5 : Cycle préparatoire (art. R914-38 à R914-41)](#952)
-            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art.  à R914-41)](#953)
-          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#954)
-            - [Sous-section 1 : Notation. (art. R914-59)](#955)
-            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#956)
-              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#957)
-              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#958)
-              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#959)
-            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#960)
-            - [Sous-section 4 : Classement. (art. R914-78 à R914-82)](#961)
-              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-78 à R914-80)](#962)
-              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#963)
-          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#964)
-            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#965)
-            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#966)
-          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#967)
-            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#968)
-            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#969)
-            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#970)
-          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#971)
-            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#972)
-            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#973)
-            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#974)
-          - [Section 8 : Droits sociaux et congés. (art. R914-105 à R914-112)](#975)
-            - [Sous-section 1 : Dispositions générales. (art. R914-105)](#976)
-            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#977)
-          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#978)
-            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#979)
-            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#980)
-          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#981)
-            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#982)
+des classes sous contrat simple. (art. R914-53 à R914-56)](#944)
+              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#945)
+          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#946)
+            - [Sous-section 1 : Notation. (art. R914-59)](#947)
+            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#948)
+              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#949)
+              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#950)
+              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#951)
+            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#952)
+            - [Sous-section 4 : Classement. (art. R914-78 à R914-82)](#953)
+              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-78 à R914-80)](#954)
+              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#955)
+          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#956)
+            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#957)
+            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#958)
+          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#959)
+            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#960)
+            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#961)
+            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#962)
+          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#963)
+            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#964)
+            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#965)
+            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#966)
+          - [Section 8 : Droits sociaux et congés. (art. R914-105 à R914-112)](#967)
+            - [Sous-section 1 : Dispositions générales. (art. R914-105)](#968)
+            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#969)
+          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#970)
+            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#971)
+            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#972)
+          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#973)
+            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#974)
               - [Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#983)
-              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#984)
-              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#985)
-              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#986)
-              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#987)
-              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#988)
-            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#989)
+du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#975)
+              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#976)
+              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#977)
+              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#978)
+              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#979)
+              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#980)
+            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#981)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -15969,6 +15959,61 @@ _Cite_:
   - Code du travail - art. L4611-6 (V)
 
 
+###### Article L442-5-1
+
+La contribution de la commune de résidence pour un élève scolarisé dans une autre commune dans une classe élémentaire d'un
+établissement privé du premier degré sous contrat d'association constitue une dépense obligatoire lorsque cette contribution
+aurait également été due si cet élève avait été scolarisé dans une des écoles publiques de la commune d'accueil.
+
+En conséquence, cette contribution revêt le caractère d'une dépense obligatoire lorsque la commune de résidence ou, dans des
+conditions fixées par décret, le regroupement pédagogique intercommunal auquel elle participe ne dispose pas des capacités
+d'accueil nécessaires à la scolarisation de l'élève concerné dans son école publique ou lorsque la fréquentation par celui-ci
+d'une école située sur le territoire d'une autre commune que celle où il est réputé résider trouve son origine dans des
+contraintes liées :
+
+1° Aux obligations professionnelles des parents, lorsqu'ils résident dans une commune qui n'assure pas directement ou
+indirectement la restauration et la garde des enfants ;
+
+2° A l'inscription d'un frère ou d'une sœur dans un établissement scolaire de la même commune ;
+
+3° A des raisons médicales.
+
+Lorsque la contribution n'est pas obligatoire, la commune de résidence peut participer aux frais de fonctionnement de
+l'établissement sans que cette participation puisse excéder par élève le montant de la contribution tel que fixé au dernier
+alinéa.
+
+Pour le calcul de la contribution de la commune de résidence, il est tenu compte des ressources de cette commune, du nombre
+d'élèves de cette commune scolarisés dans la commune d'accueil et du coût moyen par élève calculé sur la base des dépenses de
+fonctionnement de l'ensemble des écoles publiques de la commune d'accueil, sans que le montant de la contribution par élève
+puisse être supérieur au coût qu'aurait représenté pour la commune de résidence l'élève s'il avait été scolarisé dans une de
+ses écoles publiques. En l'absence d'école publique, la contribution par élève mise à la charge de chaque commune est égale
+au coût moyen des classes élémentaires publiques du département.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1312 du 28 octobre 2009 - art. 1
+
+_Cité par_:
+
+  - Code de l'éducation - art. D442-44-1 (V)
+
+
+###### Article L442-5-2
+
+Lorsqu'elle est obligatoire, la contribution aux dépenses de fonctionnement des classes élémentaires sous contrat
+d'association des établissements privés du premier degré est, en cas de litige, fixée par le représentant de l'Etat dans le
+département qui statue dans un délai de trois mois à compter de la date à laquelle il a été saisi par la plus diligente des
+parties.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1312 du 28 octobre 2009 - art. 2
+
+
 ###### Article L442-6
 
 Les formations offertes par les établissements d'enseignement privés du second degré sous contrat d'association qui
@@ -16054,18 +16099,15 @@ _Cité par_:
 
 ###### Article L442-9
 
-L'article L. 212-8 du présent code, à l'exception de son premier alinéa, et l'article L. 216-8 du présent code ne sont pas
-applicables aux classes sous contrat d'association des établissements d'enseignement privés.
-
 Les dépenses de fonctionnement des classes sous contrat d'association des établissements d'enseignement privés du second
 degré sont prises en charge sous la forme de contributions forfaitaires versées par élève et par an et calculées selon les
-mêmes critères que pour les classes correspondantes de l'enseignement public.
+mêmes critères que pour les classes correspondantes de l'enseignement public. 
 
 La contribution de l'Etat est calculée par rapport aux dépenses correspondantes de rémunération des personnels non
 enseignants afférentes à l'externat, qui sont à la charge de l'Etat en application des 3° et 4° de l'article L. 211-8. Elle
 est majorée d'un pourcentage permettant de couvrir les charges sociales et fiscales afférentes à la rémunération de ces
 personnels, qui demeurent de droit privé, et les charges diverses dont les établissements publics sont dégrevés. Le montant
-global de cette contribution est déterminé annuellement dans la loi de finances.
+global de cette contribution est déterminé annuellement dans la loi de finances. 
 
 Les départements pour les classes des collèges, les régions pour les classes des lycées et, en Corse, la collectivité
 territoriale pour les classes des collèges et des lycées versent chacun deux contributions. La première contribution est
@@ -16079,7 +16121,7 @@ l'enseignement public ; elle est égale au coût moyen correspondant d'un élèv
 dans les lycées de l'enseignement public du département ou de la région ; elle est majorée d'un pourcentage permettant de
 couvrir les charges diverses dont les établissements d'enseignement public sont dégrevés. Elles font l'objet d'une
 compensation dans les conditions prévues par les articles L. 1614-1, L. 1614-3 et L. 1614-4 du code général des collectivités
-territoriales.
+territoriales. 
 
 Le montant des dépenses pédagogiques à la charge de l'Etat pour les classes sous contrat d'association des établissements
 d'enseignement privés du second degré est déterminé annuellement dans la loi de finances.
@@ -16088,18 +16130,7 @@ d'enseignement privés du second degré est déterminé annuellement dans la loi
 
 _Anciens textes_:
 
-  - Loi n°83-663 du 22 juillet 1983 - art. 27-5 (M)
   - Loi n°83-663 du 22 juillet 1983 - art. 27-5 (Ab)
-  - Loi n°84-1208 du 29 décembre 1984 - art. 119, v. init.
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Modifié par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 _Cité par_:
 
@@ -16110,16 +16141,17 @@ _Cité par_:
   - Code de l'éducation - art. R442-45 (V)
   - Décret n°60-389 du 22 avril 1960 - art. 7-1 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2009-1312 du 28 octobre 2009 - art. 3
+
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L1614-1 (M)
-  - Code général des collectivités territoriales - art. L1614-3 (M)
-  - Code général des collectivités territoriales - art. L1614-4 (M)
-  - Code de l'éducation - art. L211-8 (M)
-  - Code de l'éducation - art. L212-8 (M)
-  - Code de l'éducation - art. L213-2-1 (V)
-  - Code de l'éducation - art. L214-6-1 (V)
-  - Code de l'éducation - art. L216-8 (V)
+  - Code général des collectivités territoriales - art. L1614-1 (V)
+  - Code général des collectivités territoriales - art. L1614-3 (V)
+  - Code de l'éducation - art. L211-8
+  - Code de l'éducation - art. L213-2-1
+  - Code de l'éducation - art. L214-6-1
 
 
 ###### Article L442-10
@@ -102921,707 +102953,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 3 : Recrutement et formation des enseignants 
-des classes sous contrat.<a id=933></a>
+##### Section 3 : Recrutement des enseignants  des classes sous contrat.<a id=933></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=934></a>
-
-##### Sous-section 2 : Concours de recrutement de maîtres 
-de l'enseignement privé sous contrat.<a id=935></a>
-
-##### Paragraphe 1 : Concours externes.<a id=936></a>
-
-###### Article R914-20
-
-Les concours organisés pour l'accès à des listes d'aptitude aux fonctions de  maître dans les classes du second degré sous
-contrat correspondent aux concours  externes suivants :
-
-1° Certificat d'aptitude au professorat de  l'enseignement du second degré ;
-
-2° Certificat d'aptitude au  professorat de l'enseignement technique ;
-
-3° Certificat  d'aptitude au professorat d'éducation physique et sportive ;
-
-4° Certificat d'aptitude au professorat de lycée  professionnel.
-
-Ces concours sont organisés par sections, qui  peuvent comprendre des options. Les sections et options sont les mêmes que
-celles des concours correspondants de l'enseignement public.
-
-Sous réserve des dispositions du présent paragraphe, les modalités  d'organisation des concours externes correspondants de
-l'enseignement public  s'appliquent à ces concours.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-_Cité par_:
-
-  - Arrêté du 11 juillet 2014 - art. 3 (V)
-  - Code de l'éducation - art. R914-16 (V)
-  - Code de l'éducation - art. R914-19 (V)
-  - Code de l'éducation - art. R914-21 (V)
-  - Code de l'éducation - art. R914-22 (V)
-
-
-###### Article R914-21
-
-Les concours mentionnés à l'article R. 914-20 sont ouverts aux candidats remplissant les conditions de titres et de diplômes
-pour se présenter aux concours externes correspondants de l'enseignement public. 
-
-Au titre d'une même session, un candidat ne peut s'inscrire dans une même section au concours pour l'accès à une liste
-d'aptitude et au concours externe correspondant de l'enseignement public. 
-
-Les candidats aux concours pour l'accès à une liste d'aptitude subissent les mêmes épreuves que les candidats des concours
-correspondants de l'enseignement public. Ils subissent ces épreuves devant le jury des concours correspondants de
-l'enseignement public, auquel il est adjoint, pour ces candidats, des représentants des établissements privés associés à
-l'Etat par contrat et ayant les titres requis pour enseigner (1).
-
-**Nota:**
-
-(1) Décret n° 2009-920 du 28 juillet 2009 article 14 : Le présent décret entre en vigueur au 1er octobre 2009, à
-l'exclusion :
-
-1° Du 6° de l'article 4, ainsi que de l'article 10 ;
-
-2° De l'article 13 ;
-
-3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
-du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
-R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
-les concours organisés à partir de la session 2011.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-920 du 28 juillet 2009 - art. 4
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-20
-
-
-###### Article R914-22
-
-Le nombre de contrats offerts pour chaque concours, répartis par sections et, éventuellement, par options, est fixé par
-arrêté du ministre chargé de l'éducation. 
-
-Les candidats admis à ces concours sont inscrits, dans la limite du nombre de contrats offerts pour chacun de ces concours,
-sur une liste d'aptitude, par ordre alphabétique. 
-
-Le jury peut établir, pour les concours correspondant aux concours externes visés aux 1°, 2°, 3° et 4° de l'article R. 914-20
-une liste d'aptitude complémentaire, par ordre de mérite, qui ne peut excéder 100 % des contrats offerts pour chaque section
-et éventuellement chaque option. 
-
-La validité de ces listes expire le 1er novembre suivant la date de proclamation des résultats, sous réserve des dispositions
-du troisième alinéa de l'article R. 914-32.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-920 du 28 juillet 2009 - art. 4
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-20
-  - Code de l'éducation - art. R914-32
-
-
-###### Article R914-23
-
-Les maîtres contractuels ou agréés qui remplissent les conditions de titres et de diplômes exigés dans l'enseignement public
-peuvent se présenter aux concours externes de l'enseignement public du second degré. 
-
-Les intéressés, lauréats du concours externe de l'agrégation, peuvent, s'ils en font la demande dans un délai fixé par arrêté
-du ministre chargé de l'éducation, être nommés dans un établissement sous contrat d'association. 
-
-Toutefois les candidats qui s'inscrivent au titre de la même session à l'un des concours externes de l'agrégation et au
-concours d'accès à l'échelle de rémunération correspondante mentionné à l'article R. 914-24 ne peuvent prétendre au bénéfice
-des dispositions du deuxième alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-_Cité par_:
-
-  - Code de l'éducation - art. R914-16 (M)
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-24 (V)
-
-
-##### Paragraphe 2 : Concours internes.<a id=937></a>
-
-###### Article R914-24
-
-Des concours d'accès aux échelles de rémunération d'enseignants correspondant aux différents concours internes de recrutement
-de l'enseignement public sont organisés pour les maîtres des établissements d'enseignement privés sous contrat. 
-
-Les conditions de candidature sont les mêmes que celles qui sont requises des candidats aux concours internes correspondants
-de l'enseignement public. Pour l'appréciation de la durée de service exigée pour faire acte de candidature, sont pris en
-compte les services publics dans les mêmes conditions que pour les concours de recrutement de l'enseignement public et les
-services d'enseignement et de documentation effectués dans les établissements d'enseignement privés sous contrat. Il en va de
-même pour la formation prévue à l'article R. 914-38. 
-
-Au titre d'une même session, un candidat ne peut s'inscrire dans une même section au concours d'accès aux échelles de
-rémunération d'enseignants et au concours interne correspondant de l'enseignement public. 
-
-Les candidats à ces concours subissent les mêmes épreuves que les candidats des concours correspondants de l'enseignement
-public. Ils subissent ces épreuves devant le jury des concours correspondants de l'enseignement public, auquel il est
-adjoint, pour ces candidats, des représentants des établissements privés associés à l'Etat par contrat et ayant les titres
-requis pour enseigner (1).
-
-**Nota:**
-
-Le présent décret entre en vigueur au 1er octobre 2009, à l'exclusion :
-
-1° Du 6° de l'article 4, ainsi que de l'article 10 ;
-
-2° De l'article 13 ;
-
-3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
-du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
-R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
-les concours organisés à partir de la session 2011.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-920 du 28 juillet 2009 - art. 4
-
-_Cité par_:
-
-  - Code de l'éducation - art. R914-23 (V)
-  - Code de l'éducation - art. R914-25 (V)
-  - Code de l'éducation - art. R914-27 (V)
-  - Code de l'éducation - art. R914-42 (VT)
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-38
-
-
-###### Article R914-25
-
-Le nombre de promotions offertes aux concours prévus à l'article R. 914-24, réparti par sections et, éventuellement, par
-options, est fixé par arrêté du ministre chargé de l'éducation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-24 (V)
-
-
-###### Article R914-26
-
-Pour chaque section de concours, le jury établit la liste des candidats admis et  la liste complémentaire selon les mêmes
-modalités que dans l'enseignement  public.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-
-###### Article R914-27
-
-Les candidats déclarés admissibles à l'issue du concours d'accès à l'échelle de rémunération des professeurs agrégés organisé
-en application de l'article R. 914-24 peuvent, s'ils font l'objet d'une proposition du jury, dans la limite du nombre de
-promotions disponibles et après épuisement de la liste complémentaire éventuelle, être promus, par décision ministérielle, à
-l'échelle de rémunération des professeurs certifiés dans la discipline correspondante, sans passer les épreuves du concours
-d'accès à l'échelle de rémunération des professeurs certifiés. La proposition du jury comporte un classement par ordre de
-mérite.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-24 (V)
-
-
-##### Paragraphe 3 : Troisième concours.<a id=938></a>
-
-###### Article R914-28
-
-Les concours organisés pour l'accès à des listes d'aptitude aux fonctions de maître dans les classes du second degré sous
-contrat correspondent aux troisièmes concours des certificats d'aptitude suivants : 
-
-1° Certificat d'aptitude au professorat de l'enseignement du second degré ; 
-
-2° Certificat d'aptitude au professorat de l'enseignement technique ; 
-
-3° Certificat d'aptitude au professorat d'éducation physique et sportive ; 
-
-4° Certificat d'aptitude au professorat de lycée professionnel. 
-
-Ces concours sont organisés par sections, qui peuvent comprendre des options. Les sections et options sont les mêmes que
-celles des concours correspondants de l'enseignement public. 
-
-Sous réserve des dispositions des articles R. 914-30 et R. 914-31, les modalités d'organisation des troisièmes concours
-correspondants de l'enseignement public s'appliquent à ces concours.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-_Cité par_:
-
-  - Arrêté du 11 juillet 2014 - art. 3 (V)
-  - Code de l'éducation - art. R914-16 (V)
-  - Code de l'éducation - art. R914-19 (V)
-  - Code de l'éducation - art. R914-30 (V)
-  - Code de l'éducation - art. R914-37 (V)
-
-
-###### Article R914-29
-
-Les troisièmes concours sont ouverts aux candidats justifiant de l'exercice pendant une durée de cinq ans d'au moins une ou
-plusieurs des activités professionnelles mentionnées au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant
-dispositions statutaires relatives à la fonction publique de l'Etat. La durée de ces activités ne peut être prise en compte
-que si les intéressés n'avaient pas, lorsqu'ils les exerçaient, la qualité de fonctionnaire, de magistrat, de militaire,
-d'agent public ou de maître agréé.
-
-Au titre d'une même session, un candidat ne peut s'inscrire dans une même section au troisième concours pour l'accès à une
-liste d'aptitude et au troisième concours correspondant de l'enseignement public.
-
-Les conditions fixées s'apprécient à la date de clôture des registres d'inscription aux concours.
-
-Les candidats aux troisièmes concours pour l'accès à une liste d'aptitude subissent les mêmes épreuves que les candidats des
-concours correspondants de l'enseignement public. Ils subissent ces épreuves devant le jury des concours correspondants de
-l'enseignement public, auquel il est adjoint, pour ces candidats, des représentants des établissements privés associés à
-l'Etat par contrat et ayant les titres requis pour enseigner (1).
-
-**Nota:**
-
-(1) Le présent décret entre en vigueur au 1er octobre 2009, à l'exclusion :
-
-1° Du 6° de l'article 4, ainsi que de l'article 10 ;
-
-2° De l'article 13 ;
-
-3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
-du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
-R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
-les concours organisés à partir de la session 2011.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°84-16 du 11 janvier 1984 - art. 19
-
-_Modifié par_:
-
-  - Décret n°2009-920 du 28 juillet 2009 - art. 4
-
-
-###### Article R914-30
-
-Le nombre de contrats offerts pour chaque concours, répartis par sections et éventuellement par options, est fixé par un
-arrêté du ministre chargé de l'éducation (1).  
-
-Le nombre de contrats offerts à chacun des concours mentionnés à l'article R. 914-28 ne peut être supérieur à 10 % du nombre
-total de contrats offerts pour ce concours et pour les concours externe et interne correspondants. Toutefois, les contrats
-offerts à ce concours, au concours externe et au concours interne et qui ne sont pas pourvus peuvent être attribués aux
-candidats d'un autre de ces trois concours dans la limite de 20 % du nombre total de contrats offerts.
-
-**Nota:**
-
-(1) Décret n° 2009-920 du 28 juillet 2009 article 14 : Le présent décret entre en vigueur au 1er octobre 2009, à
-l'exclusion :
-
-1° Du 6° de l'article 4, ainsi que de l'article 10 ;
-
-2° De l'article 13 ;
-
-3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
-du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
-R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
-les concours organisés à partir de la session 2011.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-920 du 28 juillet 2009 - art. 4
-
-_Cité par_:
-
-  - Code de l'éducation - art. R914-28 (V)
-
-
-###### Article R914-31
-
-Les candidats admis au concours par le jury sont inscrits, par section ou, éventuellement, par option, sur une liste
-d'aptitude établie par ordre alphabétique.
-
-Le jury peut établir une liste d'aptitude complémentaire, par ordre de mérite. Cette liste ne peut excéder 100 % du nombre de
-contrats offerts pour chaque section et éventuellement chaque option. 
-
-La validité de ces listes expire le 1er novembre suivant la date de proclamation des résultats.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-920 du 28 juillet 2009 - art. 4
-
-
-##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=939></a>
-
-##### Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association.<a id=940></a>
-
-###### Article R914-44
-
-Des contrats peuvent être souscrits dans les classes sous contrat d'association  :
-
-1° Par des maîtres qui assurent au minimum un demi-service.  Cette possibilité est ouverte à concurrence de la moitié des
-effectifs des  maîtres contractuels ou auxiliaires qui assurent des postes à service complet.  Toutefois, des dérogations à
-cette dernière disposition peuvent être accordées  par l'autorité académique en raison de circonstances particulières ;
-
-2° Par des maîtres qui assurent un service d'enseignement inférieur à  un demi-service et qui complètent celui-ci en exerçant
-en outre des  responsabilités et des fonctions analogues à celles qui, dans les domaines de la  formation des maîtres et de
-la direction d'établissement, sont reconnues comme  fonctions d'enseignement dans l'enseignement public.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Cité par_:
-
-  - Code de l'éducation - art. R914-52 (V)
-
-
-###### Article R914-45
-
-Il est pourvu aux services vacants des classes sous contrat d'association, dans les conditions définies aux articles R.
-914-75 à R. 914-77, par la nomination de maîtres titulaires, de maîtres contractuels ou, pour suivre l'année de stage, de
-lauréats de concours externe ou interne de l'enseignement privé ou bénéficiaires d'une mesure de résorption de l'emploi
-précaire ou, à défaut, de délégués nommés par le recteur. 
-
-Il ne peut être pourvu aux services qui cessent provisoirement d'être assurés que par la nomination d'un lauréat d'un
-concours externe ou interne de l'enseignement privé ou bénéficiaire d'une mesure de résorption de l'emploi précaire, pour
-effectuer l'année de stage, ou, à défaut, d'un délégué nommé par le recteur.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Modifié par_:
-
-  - Décret n°2009-920 du 28 juillet 2009 - art. 8
-
-_Cité par_:
-
-  - Code de l'éducation - art. R914-58 (VD)
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-75 (V)
-
-
-###### Article R914-46
-
-Lors de la passation d'un contrat d'association, tous les maîtres en exercice dans les classes intéressées peuvent, sous
-réserve de justifier des conditions exigées à l'article R. 914-15 et R. 914-16 pour exercer dans les classes des premier et
-second degrés des établissements sous contrat avec l'Etat, demander à être maintenus en fonctions en qualité de contractuels
-et à être soumis aux mêmes obligations de service que leurs collègues fonctionnaires titulaires.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-15
-
-
-###### Article R914-47
-
-La durée du contrat souscrit par le personnel enseignant ne peut excéder celle  du contrat d'association passé entre
-l'établissement qui l'emploie et  l'Etat.
-
-Le contrat du maître est renouvelable de plein droit  et par tacite reconduction au même titre que le contrat de
-l'établissement.
-
-La résiliation totale ou partielle du contrat  d'association passé entre l'établissement et l'Etat entraîne la résiliation
-des  contrats souscrits par le personnel enseignant correspondant ; celui-ci a la  possibilité de demander soit son
-intégration dans les cadres de l'enseignement  public, soit la conclusion d'un nouveau contrat avec l'Etat en vue d'exercer
-des  fonctions dans un autre établissement placé sous le régime de  l'association.
-
-Dans le cas où l'établissement précédemment  titulaire d'un contrat d'association serait autorisé à souscrire un contrat
-simple ou dans le cas de mutation dans une classe sous contrat simple, les  maîtres obtiennent de plein droit leur agrément.
-
-En tout état  de cause, les maîtres conservent dans leur nouvelle situation pour l'application  des dispositions relatives à
-leur classement indiciaire le bénéfice des années  d'enseignement accomplies depuis la conclusion du premier contrat.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-
-###### Article R914-48
-
-Les maîtres en fonctions dans un établissement d'enseignement privé dont la demande de contrat d'association a été acceptée
-et qui satisfont aux conditions posées aux articles R. 914-15 et R. 914-16 déposent leur demande de contrat avant le 31
-janvier.L'acceptation de leur demande par l'Etat prend effet à la date d'entrée en vigueur du contrat de l'établissement.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-15
-
-
-###### Article R914-49
-
-Après avis de la commission consultative mixte académique et avec l'accord du  chef d'établissement auquel il propose la
-candidature, le recteur procède à  l'affectation du maître du second degré qui a été admis au concours externe ou  interne de
-l'enseignement privé ou qui a bénéficié d'une mesure de résorption de  l'emploi précaire, et qui a satisfait aux obligations
-de son année de formation  ou de stage. Un contrat définitif est accordé par le recteur à l'intéressé.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Cité par_:
-
-  - Code de l'éducation - art. R914-50 (V)
-
-
-###### Article R914-50
-
-Une commission nationale d'affectation est chargée de proposer au ministre chargé de l'éducation la désignation d'une
-académie : 
-
-1° Pour la nomination des maîtres auxquels un contrat définitif n'a pu être offert selon la procédure définie à l'article R.
-914-49.
-
-Les maîtres qui refusent, sans motif légitime, le service qui leur est proposé dans l'académie d'affectation perdent le
-bénéfice de leur admission définitive à l'échelle de rémunération à laquelle ils avaient été admis. 
-
-La nomination de maîtres délégués dans la discipline concernée ne peut intervenir qu'après affectation de l'ensemble des
-maîtres mentionnés à l'article R. 914-49 ; 
-
-2° Pour la nomination des maîtres dont le service a été supprimé ou réduit à la suite de la résiliation totale ou partielle
-d'un contrat d'association ou qui ont été autorisés définitivement, pour un motif médical, à exercer dans une échelle de
-rémunération ou dans une discipline autre que celle au titre de laquelle ils étaient titulaires d'un contrat définitif et
-auxquels l'autorité académique n'a pu proposer un contrat définitif. 
-
-La situation des maîtres mentionnés à l'alinéa précédent qui refusent, sans motif légitime, le service qui leur est proposé
-dans l'académie d'affectation ne peut faire l'objet d'un nouvel examen par la commission nationale d'affectation. 
-
-Celle-ci donne également son avis sur les demandes de changement présentées par des maîtres, pour un motif médical, de
-l'échelle de rémunération ou de la discipline au titre de laquelle ils sont titulaires d'un contrat définitif.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-49
-
-_Cité par_:
-
-  - Code de l'éducation - art. R914-51 (V)
-  - Code de l'éducation - art. R914-81 (V)
-
-
-###### Article R914-51
-
-La commission nationale d'affectation est composée en nombre égal de représentants de l'Etat, de représentants des chefs des
-établissements d'enseignement privés et des représentants des organisations syndicales les plus représentatives des
-personnels enseignants de ces établissements. 
-
-Les modalités d'application de l'article R. 914-50 et du présent article sont fixées par un arrêté du ministre chargé de
-l'éducation.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-50
-
-
-###### Article R914-52
-
-Les contrats visés à l'article R. 914-44 sont exclusifs de tout autre contrat conclu en application des articles L. 442-5 et
-L. 442-12.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Cite_:
-
-  - Code de l'éducation - art. L442-12
-  - Code de l'éducation - art. L442-5
-  - Code de l'éducation - art. R914-44
-
-
-##### Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple.<a id=941></a>
-
-###### Article R914-53
-
-Il est pourvu aux emplois vacants des services d'enseignement des classes sous  contrat simple par les soins de l'autorité
-privée, après agrément par les  autorités académiques des maîtres qu'elle propose. Les candidats peuvent être  soit des
-maîtres déjà en exercice dans une école ou un établissement lié à  l'Etat par contrat, soit toute autre personne présentant
-les titres  réglementaires.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-
-###### Article R914-54
-
-L'agrément peut être accordé dans les classes sous contrat simple :
-
-1° Aux maîtres qui assurent au minimum, dans les disciplines  comprises dans les programmes de l'enseignement public, un
-demi-service. Cette  possibilité est ouverte à concurrence de la moitié des effectifs des maîtres  agréés ou auxiliaires
-assurant des postes à service complet. Toutefois, des  dérogations à cette dernière disposition peuvent être accordées par
-l'autorité  académique en raison des circonstances particulières ;
-
-2° Aux  maîtres qui assurent un service d'enseignement inférieur à un demi-service et  qui complètent celui-ci en exerçant en
-outre des responsabilités et des  fonctions analogues à celles qui, dans les domaines de la formation des maîtres  et de la
-direction d'établissement, sont reconnues comme fonctions  d'enseignement dans l'enseignement public.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-
-###### Article R914-55
-
-Les maîtres agréés peuvent demander à être affectés à un autre établissement lié  à l'Etat soit par contrat d'association,
-soit par contrat simple. Dans le cas où  ils sont affectés dans un autre établissement sous contrat simple, ils  conservent
-de plein droit le bénéfice de l'agrément antérieurement obtenu.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-
-###### Article R914-56
-
-Les maîtres en fonctions dans un établissement d'enseignement privé dont la demande de contrat simple a été acceptée et qui
-satisfont aux conditions posées aux articles R. 914-15 et R. 914-16 déposent leurs demandes d'agrément avant le 31
-janvier.L'acceptation de leur demande par l'Etat prend effet à la date d'entrée en vigueur du contrat de l'établissement.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Cite_:
-
-  - Code de l'éducation - art. R914-15
-
-
-##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=942></a>
-
-###### Article R914-57
-
-Lorsque ni le chef d'établissement ni l'autorité académique ne disposent d'un  candidat remplissant les conditions requises
-pour obtenir un contrat ou un  agrément, il peut être fait appel momentanément à un maître délégué, agent  temporaire
-possédant les titres requis des auxiliaires de l'enseignement  public.
-
-S'il exerce dans le premier degré, ce maître délégué  est classé en fonction de ses titres ou diplômes selon les mêmes
-modalités que  les suppléants de l'enseignement public.
-
-S'il exerce dans le  second degré, ce maître délégué est classé en fonction de ses titres ou diplômes  dans l'une des
-échelles de rémunération des maîtres auxiliaires.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-_Cité par_:
-
-  - Décret n°2016-974 du 18 juillet 2016 - art. 1 (V)
-  - Code de l'éducation - art. R973-1 (V)
-
-
-###### Article R914-58
-
-Les maîtres délégués exerçant dans les établissements d'enseignement privés sous  contrat d'association sont soumis, pour la
-détermination de leurs conditions  d'exercice et de cessation de fonctions, aux règles applicables aux personnels
-enseignants non titulaires de l'enseignement public des premier et second  degrés. Ils bénéficient, dans les mêmes conditions
-que ces derniers, du régime  de travail à temps partiel, du régime des congés de toute nature ainsi que  d'autorisations
-d'absence.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 23 décembre 2003 - art. 6 (V)
-  - Décret n°2015-963 du  (V)
-  - Arrêté du 6 mars 2018 - art. 6
-
-**Liens**:
-
-  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
-
-
-##### Sous-section 3 : Formation initiale.<a id=943></a>
-
-##### Section 3 : Recrutement des enseignants  des classes sous contrat.<a id=944></a>
-
-##### Sous-section préliminaire : Dispositions générales<a id=945></a>
+##### Sous-section préliminaire : Dispositions générales<a id=934></a>
 
 ###### Article R914-14
 
@@ -103767,7 +103101,7 @@ _Cite_:
   - Code de l'éducation - art. R914-28 (V)
 
 
-##### Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré<a id=946></a>
+##### Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré<a id=935></a>
 
 ###### Article R914-19-1
 
@@ -104037,15 +103371,367 @@ _Cité par_:
   - Arrêté du 3 mai 2010 - art. 6 (VD)
 
 
-##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.<a id=947></a>
+##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.<a id=936></a>
 
-##### Paragraphe 1 : Concours externes.<a id=948></a>
+##### Paragraphe 1 : Concours externes.<a id=937></a>
 
-##### Paragraphe 2 : Concours internes.<a id=949></a>
+###### Article R914-20
 
-##### Paragraphe 3 : Troisième concours.<a id=950></a>
+Les concours organisés pour l'accès à des listes d'aptitude aux fonctions de  maître dans les classes du second degré sous
+contrat correspondent aux concours  externes suivants :
 
-##### Paragraphe 4 : Stage<a id=951></a>
+1° Certificat d'aptitude au professorat de  l'enseignement du second degré ;
+
+2° Certificat d'aptitude au  professorat de l'enseignement technique ;
+
+3° Certificat  d'aptitude au professorat d'éducation physique et sportive ;
+
+4° Certificat d'aptitude au professorat de lycée  professionnel.
+
+Ces concours sont organisés par sections, qui  peuvent comprendre des options. Les sections et options sont les mêmes que
+celles des concours correspondants de l'enseignement public.
+
+Sous réserve des dispositions du présent paragraphe, les modalités  d'organisation des concours externes correspondants de
+l'enseignement public  s'appliquent à ces concours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+_Cité par_:
+
+  - Arrêté du 11 juillet 2014 - art. 3 (V)
+  - Code de l'éducation - art. R914-16 (V)
+  - Code de l'éducation - art. R914-19 (V)
+  - Code de l'éducation - art. R914-21 (V)
+  - Code de l'éducation - art. R914-22 (V)
+
+
+###### Article R914-21
+
+Les concours mentionnés à l'article R. 914-20 sont ouverts aux candidats remplissant les conditions de titres et de diplômes
+pour se présenter aux concours externes correspondants de l'enseignement public. 
+
+Au titre d'une même session, un candidat ne peut s'inscrire dans une même section au concours pour l'accès à une liste
+d'aptitude et au concours externe correspondant de l'enseignement public. 
+
+Les candidats aux concours pour l'accès à une liste d'aptitude subissent les mêmes épreuves que les candidats des concours
+correspondants de l'enseignement public. Ils subissent ces épreuves devant le jury des concours correspondants de
+l'enseignement public, auquel il est adjoint, pour ces candidats, des représentants des établissements privés associés à
+l'Etat par contrat et ayant les titres requis pour enseigner (1).
+
+**Nota:**
+
+(1) Décret n° 2009-920 du 28 juillet 2009 article 14 : Le présent décret entre en vigueur au 1er octobre 2009, à
+l'exclusion :
+
+1° Du 6° de l'article 4, ainsi que de l'article 10 ;
+
+2° De l'article 13 ;
+
+3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
+du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
+R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
+les concours organisés à partir de la session 2011.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-920 du 28 juillet 2009 - art. 4
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-20
+
+
+###### Article R914-22
+
+Le nombre de contrats offerts pour chaque concours, répartis par sections et, éventuellement, par options, est fixé par
+arrêté du ministre chargé de l'éducation. 
+
+Les candidats admis à ces concours sont inscrits, dans la limite du nombre de contrats offerts pour chacun de ces concours,
+sur une liste d'aptitude, par ordre alphabétique. 
+
+Le jury peut établir, pour les concours correspondant aux concours externes visés aux 1°, 2°, 3° et 4° de l'article R. 914-20
+une liste d'aptitude complémentaire, par ordre de mérite, qui ne peut excéder 100 % des contrats offerts pour chaque section
+et éventuellement chaque option. 
+
+La validité de ces listes expire le 1er novembre suivant la date de proclamation des résultats, sous réserve des dispositions
+du troisième alinéa de l'article R. 914-32.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-920 du 28 juillet 2009 - art. 4
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-20
+  - Code de l'éducation - art. R914-32
+
+
+###### Article R914-23
+
+Les maîtres contractuels ou agréés qui remplissent les conditions de titres et de diplômes exigés dans l'enseignement public
+peuvent se présenter aux concours externes de l'enseignement public du second degré. 
+
+Les intéressés, lauréats du concours externe de l'agrégation, peuvent, s'ils en font la demande dans un délai fixé par arrêté
+du ministre chargé de l'éducation, être nommés dans un établissement sous contrat d'association. 
+
+Toutefois les candidats qui s'inscrivent au titre de la même session à l'un des concours externes de l'agrégation et au
+concours d'accès à l'échelle de rémunération correspondante mentionné à l'article R. 914-24 ne peuvent prétendre au bénéfice
+des dispositions du deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+_Cité par_:
+
+  - Code de l'éducation - art. R914-16 (M)
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-24 (V)
+
+
+##### Paragraphe 2 : Concours internes.<a id=938></a>
+
+###### Article R914-24
+
+Des concours d'accès aux échelles de rémunération d'enseignants correspondant aux différents concours internes de recrutement
+de l'enseignement public sont organisés pour les maîtres des établissements d'enseignement privés sous contrat. 
+
+Les conditions de candidature sont les mêmes que celles qui sont requises des candidats aux concours internes correspondants
+de l'enseignement public. Pour l'appréciation de la durée de service exigée pour faire acte de candidature, sont pris en
+compte les services publics dans les mêmes conditions que pour les concours de recrutement de l'enseignement public et les
+services d'enseignement et de documentation effectués dans les établissements d'enseignement privés sous contrat. Il en va de
+même pour la formation prévue à l'article R. 914-38. 
+
+Au titre d'une même session, un candidat ne peut s'inscrire dans une même section au concours d'accès aux échelles de
+rémunération d'enseignants et au concours interne correspondant de l'enseignement public. 
+
+Les candidats à ces concours subissent les mêmes épreuves que les candidats des concours correspondants de l'enseignement
+public. Ils subissent ces épreuves devant le jury des concours correspondants de l'enseignement public, auquel il est
+adjoint, pour ces candidats, des représentants des établissements privés associés à l'Etat par contrat et ayant les titres
+requis pour enseigner (1).
+
+**Nota:**
+
+Le présent décret entre en vigueur au 1er octobre 2009, à l'exclusion :
+
+1° Du 6° de l'article 4, ainsi que de l'article 10 ;
+
+2° De l'article 13 ;
+
+3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
+du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
+R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
+les concours organisés à partir de la session 2011.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-920 du 28 juillet 2009 - art. 4
+
+_Cité par_:
+
+  - Code de l'éducation - art. R914-23 (V)
+  - Code de l'éducation - art. R914-25 (V)
+  - Code de l'éducation - art. R914-27 (V)
+  - Code de l'éducation - art. R914-42 (VT)
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-38
+
+
+###### Article R914-25
+
+Le nombre de promotions offertes aux concours prévus à l'article R. 914-24, réparti par sections et, éventuellement, par
+options, est fixé par arrêté du ministre chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-24 (V)
+
+
+###### Article R914-26
+
+Pour chaque section de concours, le jury établit la liste des candidats admis et  la liste complémentaire selon les mêmes
+modalités que dans l'enseignement  public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+
+###### Article R914-27
+
+Les candidats déclarés admissibles à l'issue du concours d'accès à l'échelle de rémunération des professeurs agrégés organisé
+en application de l'article R. 914-24 peuvent, s'ils font l'objet d'une proposition du jury, dans la limite du nombre de
+promotions disponibles et après épuisement de la liste complémentaire éventuelle, être promus, par décision ministérielle, à
+l'échelle de rémunération des professeurs certifiés dans la discipline correspondante, sans passer les épreuves du concours
+d'accès à l'échelle de rémunération des professeurs certifiés. La proposition du jury comporte un classement par ordre de
+mérite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-24 (V)
+
+
+##### Paragraphe 3 : Troisième concours.<a id=939></a>
+
+###### Article R914-28
+
+Les concours organisés pour l'accès à des listes d'aptitude aux fonctions de maître dans les classes du second degré sous
+contrat correspondent aux troisièmes concours des certificats d'aptitude suivants : 
+
+1° Certificat d'aptitude au professorat de l'enseignement du second degré ; 
+
+2° Certificat d'aptitude au professorat de l'enseignement technique ; 
+
+3° Certificat d'aptitude au professorat d'éducation physique et sportive ; 
+
+4° Certificat d'aptitude au professorat de lycée professionnel. 
+
+Ces concours sont organisés par sections, qui peuvent comprendre des options. Les sections et options sont les mêmes que
+celles des concours correspondants de l'enseignement public. 
+
+Sous réserve des dispositions des articles R. 914-30 et R. 914-31, les modalités d'organisation des troisièmes concours
+correspondants de l'enseignement public s'appliquent à ces concours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+_Cité par_:
+
+  - Arrêté du 11 juillet 2014 - art. 3 (V)
+  - Code de l'éducation - art. R914-16 (V)
+  - Code de l'éducation - art. R914-19 (V)
+  - Code de l'éducation - art. R914-30 (V)
+  - Code de l'éducation - art. R914-37 (V)
+
+
+###### Article R914-29
+
+Les troisièmes concours sont ouverts aux candidats justifiant de l'exercice pendant une durée de cinq ans d'au moins une ou
+plusieurs des activités professionnelles mentionnées au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant
+dispositions statutaires relatives à la fonction publique de l'Etat. La durée de ces activités ne peut être prise en compte
+que si les intéressés n'avaient pas, lorsqu'ils les exerçaient, la qualité de fonctionnaire, de magistrat, de militaire,
+d'agent public ou de maître agréé.
+
+Au titre d'une même session, un candidat ne peut s'inscrire dans une même section au troisième concours pour l'accès à une
+liste d'aptitude et au troisième concours correspondant de l'enseignement public.
+
+Les conditions fixées s'apprécient à la date de clôture des registres d'inscription aux concours.
+
+Les candidats aux troisièmes concours pour l'accès à une liste d'aptitude subissent les mêmes épreuves que les candidats des
+concours correspondants de l'enseignement public. Ils subissent ces épreuves devant le jury des concours correspondants de
+l'enseignement public, auquel il est adjoint, pour ces candidats, des représentants des établissements privés associés à
+l'Etat par contrat et ayant les titres requis pour enseigner (1).
+
+**Nota:**
+
+(1) Le présent décret entre en vigueur au 1er octobre 2009, à l'exclusion :
+
+1° Du 6° de l'article 4, ainsi que de l'article 10 ;
+
+2° De l'article 13 ;
+
+3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
+du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
+R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
+les concours organisés à partir de la session 2011.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°84-16 du 11 janvier 1984 - art. 19
+
+_Modifié par_:
+
+  - Décret n°2009-920 du 28 juillet 2009 - art. 4
+
+
+###### Article R914-30
+
+Le nombre de contrats offerts pour chaque concours, répartis par sections et éventuellement par options, est fixé par un
+arrêté du ministre chargé de l'éducation (1).  
+
+Le nombre de contrats offerts à chacun des concours mentionnés à l'article R. 914-28 ne peut être supérieur à 10 % du nombre
+total de contrats offerts pour ce concours et pour les concours externe et interne correspondants. Toutefois, les contrats
+offerts à ce concours, au concours externe et au concours interne et qui ne sont pas pourvus peuvent être attribués aux
+candidats d'un autre de ces trois concours dans la limite de 20 % du nombre total de contrats offerts.
+
+**Nota:**
+
+(1) Décret n° 2009-920 du 28 juillet 2009 article 14 : Le présent décret entre en vigueur au 1er octobre 2009, à
+l'exclusion :
+
+1° Du 6° de l'article 4, ainsi que de l'article 10 ;
+
+2° De l'article 13 ;
+
+3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
+du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
+R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
+les concours organisés à partir de la session 2011.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-920 du 28 juillet 2009 - art. 4
+
+_Cité par_:
+
+  - Code de l'éducation - art. R914-28 (V)
+
+
+###### Article R914-31
+
+Les candidats admis au concours par le jury sont inscrits, par section ou, éventuellement, par option, sur une liste
+d'aptitude établie par ordre alphabétique.
+
+Le jury peut établir une liste d'aptitude complémentaire, par ordre de mérite. Cette liste ne peut excéder 100 % du nombre de
+contrats offerts pour chaque section et éventuellement chaque option. 
+
+La validité de ces listes expire le 1er novembre suivant la date de proclamation des résultats.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-920 du 28 juillet 2009 - art. 4
+
+
+##### Paragraphe 4 : Stage<a id=940></a>
 
 ###### Article R914-32
 
@@ -104196,7 +103882,7 @@ _Cite_:
   - Code de l'éducation - art. R914-33
 
 
-##### Paragraphe 5 : Cycle préparatoire<a id=952></a>
+##### Paragraphe 5 : Cycle préparatoire<a id=941></a>
 
 ###### Article R914-38
 
@@ -104321,11 +104007,339 @@ _Abrogé par_:
   - Décret n°2013-767 du 23 août 2013 - art. 18
 
 
-##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=953></a>
+##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=942></a>
 
-##### Section 4 : Notation, avancement, mouvement, classement.<a id=954></a>
+##### Paragraphe 1 : Dispositions relatives aux enseignants 
+des classes sous contrat d'association.<a id=943></a>
 
-##### Sous-section 1 : Notation.<a id=955></a>
+###### Article R914-44
+
+Des contrats peuvent être souscrits dans les classes sous contrat d'association  :
+
+1° Par des maîtres qui assurent au minimum un demi-service.  Cette possibilité est ouverte à concurrence de la moitié des
+effectifs des  maîtres contractuels ou auxiliaires qui assurent des postes à service complet.  Toutefois, des dérogations à
+cette dernière disposition peuvent être accordées  par l'autorité académique en raison de circonstances particulières ;
+
+2° Par des maîtres qui assurent un service d'enseignement inférieur à  un demi-service et qui complètent celui-ci en exerçant
+en outre des  responsabilités et des fonctions analogues à celles qui, dans les domaines de la  formation des maîtres et de
+la direction d'établissement, sont reconnues comme  fonctions d'enseignement dans l'enseignement public.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Cité par_:
+
+  - Code de l'éducation - art. R914-52 (V)
+
+
+###### Article R914-45
+
+Il est pourvu aux services vacants des classes sous contrat d'association, dans les conditions définies aux articles R.
+914-75 à R. 914-77, par la nomination de maîtres titulaires, de maîtres contractuels ou, pour suivre l'année de stage, de
+lauréats de concours externe ou interne de l'enseignement privé ou bénéficiaires d'une mesure de résorption de l'emploi
+précaire ou, à défaut, de délégués nommés par le recteur. 
+
+Il ne peut être pourvu aux services qui cessent provisoirement d'être assurés que par la nomination d'un lauréat d'un
+concours externe ou interne de l'enseignement privé ou bénéficiaire d'une mesure de résorption de l'emploi précaire, pour
+effectuer l'année de stage, ou, à défaut, d'un délégué nommé par le recteur.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Modifié par_:
+
+  - Décret n°2009-920 du 28 juillet 2009 - art. 8
+
+_Cité par_:
+
+  - Code de l'éducation - art. R914-58 (VD)
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-75 (V)
+
+
+###### Article R914-46
+
+Lors de la passation d'un contrat d'association, tous les maîtres en exercice dans les classes intéressées peuvent, sous
+réserve de justifier des conditions exigées à l'article R. 914-15 et R. 914-16 pour exercer dans les classes des premier et
+second degrés des établissements sous contrat avec l'Etat, demander à être maintenus en fonctions en qualité de contractuels
+et à être soumis aux mêmes obligations de service que leurs collègues fonctionnaires titulaires.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-15
+
+
+###### Article R914-47
+
+La durée du contrat souscrit par le personnel enseignant ne peut excéder celle  du contrat d'association passé entre
+l'établissement qui l'emploie et  l'Etat.
+
+Le contrat du maître est renouvelable de plein droit  et par tacite reconduction au même titre que le contrat de
+l'établissement.
+
+La résiliation totale ou partielle du contrat  d'association passé entre l'établissement et l'Etat entraîne la résiliation
+des  contrats souscrits par le personnel enseignant correspondant ; celui-ci a la  possibilité de demander soit son
+intégration dans les cadres de l'enseignement  public, soit la conclusion d'un nouveau contrat avec l'Etat en vue d'exercer
+des  fonctions dans un autre établissement placé sous le régime de  l'association.
+
+Dans le cas où l'établissement précédemment  titulaire d'un contrat d'association serait autorisé à souscrire un contrat
+simple ou dans le cas de mutation dans une classe sous contrat simple, les  maîtres obtiennent de plein droit leur agrément.
+
+En tout état  de cause, les maîtres conservent dans leur nouvelle situation pour l'application  des dispositions relatives à
+leur classement indiciaire le bénéfice des années  d'enseignement accomplies depuis la conclusion du premier contrat.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+
+###### Article R914-48
+
+Les maîtres en fonctions dans un établissement d'enseignement privé dont la demande de contrat d'association a été acceptée
+et qui satisfont aux conditions posées aux articles R. 914-15 et R. 914-16 déposent leur demande de contrat avant le 31
+janvier.L'acceptation de leur demande par l'Etat prend effet à la date d'entrée en vigueur du contrat de l'établissement.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-15
+
+
+###### Article R914-49
+
+Après avis de la commission consultative mixte académique et avec l'accord du  chef d'établissement auquel il propose la
+candidature, le recteur procède à  l'affectation du maître du second degré qui a été admis au concours externe ou  interne de
+l'enseignement privé ou qui a bénéficié d'une mesure de résorption de  l'emploi précaire, et qui a satisfait aux obligations
+de son année de formation  ou de stage. Un contrat définitif est accordé par le recteur à l'intéressé.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Cité par_:
+
+  - Code de l'éducation - art. R914-50 (V)
+
+
+###### Article R914-50
+
+Une commission nationale d'affectation est chargée de proposer au ministre chargé de l'éducation la désignation d'une
+académie : 
+
+1° Pour la nomination des maîtres auxquels un contrat définitif n'a pu être offert selon la procédure définie à l'article R.
+914-49.
+
+Les maîtres qui refusent, sans motif légitime, le service qui leur est proposé dans l'académie d'affectation perdent le
+bénéfice de leur admission définitive à l'échelle de rémunération à laquelle ils avaient été admis. 
+
+La nomination de maîtres délégués dans la discipline concernée ne peut intervenir qu'après affectation de l'ensemble des
+maîtres mentionnés à l'article R. 914-49 ; 
+
+2° Pour la nomination des maîtres dont le service a été supprimé ou réduit à la suite de la résiliation totale ou partielle
+d'un contrat d'association ou qui ont été autorisés définitivement, pour un motif médical, à exercer dans une échelle de
+rémunération ou dans une discipline autre que celle au titre de laquelle ils étaient titulaires d'un contrat définitif et
+auxquels l'autorité académique n'a pu proposer un contrat définitif. 
+
+La situation des maîtres mentionnés à l'alinéa précédent qui refusent, sans motif légitime, le service qui leur est proposé
+dans l'académie d'affectation ne peut faire l'objet d'un nouvel examen par la commission nationale d'affectation. 
+
+Celle-ci donne également son avis sur les demandes de changement présentées par des maîtres, pour un motif médical, de
+l'échelle de rémunération ou de la discipline au titre de laquelle ils sont titulaires d'un contrat définitif.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-49
+
+_Cité par_:
+
+  - Code de l'éducation - art. R914-51 (V)
+  - Code de l'éducation - art. R914-81 (V)
+
+
+###### Article R914-51
+
+La commission nationale d'affectation est composée en nombre égal de représentants de l'Etat, de représentants des chefs des
+établissements d'enseignement privés et des représentants des organisations syndicales les plus représentatives des
+personnels enseignants de ces établissements. 
+
+Les modalités d'application de l'article R. 914-50 et du présent article sont fixées par un arrêté du ministre chargé de
+l'éducation.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-50
+
+
+###### Article R914-52
+
+Les contrats visés à l'article R. 914-44 sont exclusifs de tout autre contrat conclu en application des articles L. 442-5 et
+L. 442-12.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Cite_:
+
+  - Code de l'éducation - art. L442-12
+  - Code de l'éducation - art. L442-5
+  - Code de l'éducation - art. R914-44
+
+
+##### Paragraphe 2 : Dispositions relatives aux enseignants 
+des classes sous contrat simple.<a id=944></a>
+
+###### Article R914-53
+
+Il est pourvu aux emplois vacants des services d'enseignement des classes sous  contrat simple par les soins de l'autorité
+privée, après agrément par les  autorités académiques des maîtres qu'elle propose. Les candidats peuvent être  soit des
+maîtres déjà en exercice dans une école ou un établissement lié à  l'Etat par contrat, soit toute autre personne présentant
+les titres  réglementaires.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+
+###### Article R914-54
+
+L'agrément peut être accordé dans les classes sous contrat simple :
+
+1° Aux maîtres qui assurent au minimum, dans les disciplines  comprises dans les programmes de l'enseignement public, un
+demi-service. Cette  possibilité est ouverte à concurrence de la moitié des effectifs des maîtres  agréés ou auxiliaires
+assurant des postes à service complet. Toutefois, des  dérogations à cette dernière disposition peuvent être accordées par
+l'autorité  académique en raison des circonstances particulières ;
+
+2° Aux  maîtres qui assurent un service d'enseignement inférieur à un demi-service et  qui complètent celui-ci en exerçant en
+outre des responsabilités et des  fonctions analogues à celles qui, dans les domaines de la formation des maîtres  et de la
+direction d'établissement, sont reconnues comme fonctions  d'enseignement dans l'enseignement public.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+
+###### Article R914-55
+
+Les maîtres agréés peuvent demander à être affectés à un autre établissement lié  à l'Etat soit par contrat d'association,
+soit par contrat simple. Dans le cas où  ils sont affectés dans un autre établissement sous contrat simple, ils  conservent
+de plein droit le bénéfice de l'agrément antérieurement obtenu.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+
+###### Article R914-56
+
+Les maîtres en fonctions dans un établissement d'enseignement privé dont la demande de contrat simple a été acceptée et qui
+satisfont aux conditions posées aux articles R. 914-15 et R. 914-16 déposent leurs demandes d'agrément avant le 31
+janvier.L'acceptation de leur demande par l'Etat prend effet à la date d'entrée en vigueur du contrat de l'établissement.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Cite_:
+
+  - Code de l'éducation - art. R914-15
+
+
+##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=945></a>
+
+###### Article R914-57
+
+Lorsque ni le chef d'établissement ni l'autorité académique ne disposent d'un  candidat remplissant les conditions requises
+pour obtenir un contrat ou un  agrément, il peut être fait appel momentanément à un maître délégué, agent  temporaire
+possédant les titres requis des auxiliaires de l'enseignement  public.
+
+S'il exerce dans le premier degré, ce maître délégué  est classé en fonction de ses titres ou diplômes selon les mêmes
+modalités que  les suppléants de l'enseignement public.
+
+S'il exerce dans le  second degré, ce maître délégué est classé en fonction de ses titres ou diplômes  dans l'une des
+échelles de rémunération des maîtres auxiliaires.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+_Cité par_:
+
+  - Décret n°2016-974 du 18 juillet 2016 - art. 1 (V)
+  - Code de l'éducation - art. R973-1 (V)
+
+
+###### Article R914-58
+
+Les maîtres délégués exerçant dans les établissements d'enseignement privés sous  contrat d'association sont soumis, pour la
+détermination de leurs conditions  d'exercice et de cessation de fonctions, aux règles applicables aux personnels
+enseignants non titulaires de l'enseignement public des premier et second  degrés. Ils bénéficient, dans les mêmes conditions
+que ces derniers, du régime  de travail à temps partiel, du régime des congés de toute nature ainsi que  d'autorisations
+d'absence.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 23 décembre 2003 - art. 6 (V)
+  - Décret n°2015-963 du  (V)
+  - Arrêté du 6 mars 2018 - art. 6
+
+**Liens**:
+
+  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+
+##### Section 4 : Notation, avancement, mouvement, classement.<a id=946></a>
+
+##### Sous-section 1 : Notation.<a id=947></a>
 
 ###### Article R914-59
 
@@ -104346,9 +104360,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Avancement.<a id=956></a>
+##### Sous-section 2 : Avancement.<a id=948></a>
 
-##### Paragraphe 1 : Dispositions communes.<a id=957></a>
+##### Paragraphe 1 : Dispositions communes.<a id=949></a>
 
 ###### Article R914-60
 
@@ -104375,7 +104389,7 @@ _Cite_:
   - Code de l'éducation - art. R914-7 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=958></a>
+##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=950></a>
 
 ###### Article R914-61
 
@@ -104449,7 +104463,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=959></a>
+##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=951></a>
 
 ###### Article R914-64
 
@@ -104701,7 +104715,7 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (V)
 
 
-##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=960></a>
+##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=952></a>
 
 ###### Article R914-75
 
@@ -104805,9 +104819,9 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (V)
 
 
-##### Sous-section 4 : Classement.<a id=961></a>
+##### Sous-section 4 : Classement.<a id=953></a>
 
-##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=962></a>
+##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=954></a>
 
 ###### Article R914-78
 
@@ -104873,7 +104887,7 @@ _Cite_:
   - Code de l'éducation - art. R914-105 (VD)
 
 
-##### Paragraphe 2 : Reclassement pour motif médical.<a id=963></a>
+##### Paragraphe 2 : Reclassement pour motif médical.<a id=955></a>
 
 ###### Article R914-81
 
@@ -104946,9 +104960,9 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (V)
 
 
-##### Section 5 : Rémunération.<a id=964></a>
+##### Section 5 : Rémunération.<a id=956></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=965></a>
+##### Sous-section 1 : Dispositions générales.<a id=957></a>
 
 ###### Article R914-83
 
@@ -105073,7 +105087,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (V)
 
 
-##### Sous-section 2 : Dispositions particulières.<a id=966></a>
+##### Sous-section 2 : Dispositions particulières.<a id=958></a>
 
 ###### Article R914-89
 
@@ -105093,9 +105107,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 6 : Charges sociales.<a id=967></a>
+##### Section 6 : Charges sociales.<a id=959></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=968></a>
+##### Sous-section 1 : Dispositions générales.<a id=960></a>
 
 ###### Article D914-91
 
@@ -105154,7 +105168,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-95 (V)
 
 
-##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=969></a>
+##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=961></a>
 
 ###### Article R914-92
 
@@ -105236,7 +105250,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (V)
 
 
-##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=970></a>
+##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=962></a>
 
 ###### Article R914-96
 
@@ -105313,9 +105327,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 
 
-##### Section 7 : Discipline.<a id=971></a>
+##### Section 7 : Discipline.<a id=963></a>
 
-##### Sous-section 1 : Sanctions disciplinaires.<a id=972></a>
+##### Sous-section 1 : Sanctions disciplinaires.<a id=964></a>
 
 ###### Article R914-100
 
@@ -105433,7 +105447,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-103 (V)
 
 
-##### Sous-section 2 : Insuffisance professionnelle.<a id=973></a>
+##### Sous-section 2 : Insuffisance professionnelle.<a id=965></a>
 
 ###### Article R914-103
 
@@ -105452,7 +105466,7 @@ _Cite_:
   - Code de l'éducation - art. R914-102 (V)
 
 
-##### Sous-section 3 : Suspension à titre conservatoire.<a id=974></a>
+##### Sous-section 3 : Suspension à titre conservatoire.<a id=966></a>
 
 ###### Article R914-104
 
@@ -105482,9 +105496,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 8 : Droits sociaux et congés.<a id=975></a>
+##### Section 8 : Droits sociaux et congés.<a id=967></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=976></a>
+##### Sous-section 1 : Dispositions générales.<a id=968></a>
 
 ###### Article R914-105
 
@@ -105506,7 +105520,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Cessation progressive d'activité.<a id=977></a>
+##### Sous-section 2 : Cessation progressive d'activité.<a id=969></a>
 
 ###### Article R914-106
 
@@ -105731,9 +105745,9 @@ _Cite_:
   - Code de la sécurité sociale. - art. L241-3-1
 
 
-##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=978></a>
+##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=970></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=979></a>
+##### Sous-section 1 : Dispositions générales.<a id=971></a>
 
 ###### Article R914-113
 
@@ -105768,7 +105782,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Incapacité permanente.<a id=980></a>
+##### Sous-section 2 : Incapacité permanente.<a id=972></a>
 
 ###### Article R914-114
 
@@ -105926,9 +105940,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 10 : Admission à la retraite.<a id=981></a>
+##### Section 10 : Admission à la retraite.<a id=973></a>
 
-##### Sous-section 1 : Avantages temporaires de retraite.<a id=982></a>
+##### Sous-section 1 : Avantages temporaires de retraite.<a id=974></a>
 
 ###### Article R914-120
 
@@ -105957,7 +105971,7 @@ _Cité par_:
 
 
 ##### Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite.<a id=983></a>
+du droit aux avantages temporaires de retraite.<a id=975></a>
 
 ###### Article R914-121
 
@@ -106068,7 +106082,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=984></a>
+##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=976></a>
 
 ###### Article R914-124
 
@@ -106181,7 +106195,7 @@ _Cite_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=985></a>
+##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=977></a>
 
 ###### Article R914-127
 
@@ -106210,7 +106224,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R351-27
 
 
-##### Paragraphe 4 : Limites d'âge et cumul.<a id=986></a>
+##### Paragraphe 4 : Limites d'âge et cumul.<a id=978></a>
 
 ###### Article R914-128
 
@@ -106305,7 +106319,7 @@ _Cite_:
   - Code de l'éducation - art. R914-121 (V)
 
 
-##### Paragraphe 5 : Couverture sociale.<a id=987></a>
+##### Paragraphe 5 : Couverture sociale.<a id=979></a>
 
 ###### Article R914-132
 
@@ -106324,7 +106338,7 @@ _Cite_:
   - Code de l'éducation - art. L914-1 (V)
 
 
-##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=988></a>
+##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=980></a>
 
 ###### Article R914-133
 
@@ -106473,7 +106487,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Régime additionnel de retraite.<a id=989></a>
+##### Sous-section 2 : Régime additionnel de retraite.<a id=981></a>
 
 ###### Article R914-138
 
