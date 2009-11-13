@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-10-30
+Version Consolidée au 2009-11-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -71634,8 +71634,9 @@ _Codifié par_:
 
 ###### Article R338-6
 
-Le jury du titre professionnel et des certificats complémentaires est désigné par le directeur départemental du travail, de
-l'emploi et de la formation professionnelle. Il est composé de professionnels du secteur d'activité concerné par le titre. 
+Le jury du titre professionnel et des certificats complémentaires est désigné par le directeur régional des entreprises, de
+la concurrence, de la consommation, du travail et de l'emploi. Il est composé de professionnels du secteur d'activité
+concerné par le titre. 
 
 Se prononcent sur l'obtention des certificats de compétences mentionnés à l'article R. 338-3 un des professionnels membres du
 jury ainsi qu'un formateur du secteur d'activité concerné, à l'exception de celui ayant assuré directement la préparation ou
@@ -71658,7 +71659,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+  - Décret n°2009-1377 du 10 novembre 2009 - art. 11 (V)
 
 _Cite_:
 
@@ -71669,7 +71670,8 @@ _Cite_:
 ###### Article R338-7
 
 Le titre professionnel, les certificats de compétences professionnelles qui le composent et les certificats complémentaires
-qui s'y rapportent sont délivrés par le directeur départemental du travail, de l'emploi et de la formation professionnelle.
+qui s'y rapportent sont délivrés par le directeur régional des entreprises, de la concurrence, de la consommation, du travail
+et de l'emploi.
 
 **Liens relatifs à cet article**
 
@@ -71681,9 +71683,9 @@ _Cité par_:
 
   - Arrêté du 1 juin 2004 - art. 3 ter (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2009-1377 du 10 novembre 2009 - art. 11 (V)
 
 
 ###### Article R338-8
@@ -82060,25 +82062,17 @@ _Créé par_:
 ###### Article D421-147
 
 Dans le délai de deux mois à compter de la date de la remise du rapport par l'inspecteur du travail, le chef d'établissement
-peut contester tout ou partie des conclusions de ce rapport devant le directeur régional du travail, de l'emploi et de la
-formation professionnelle.
+peut contester tout ou partie des conclusions de ce rapport devant le directeur régional des entreprises, de la concurrence,
+de la consommation, du travail et de l'emploi.
 
-Le directeur régional du travail, de l'emploi et de la formation professionnelle se prononce dans le délai de deux mois à
-compter de la date de la réception de la contestation.
+Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi se prononce dans le
+délai de deux mois à compter de la date de la réception de la contestation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°91-1162 du 7 novembre 1991 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2009-1377 du 10 novembre 2009 - art. 11 (V)
 
 
 ###### Article D421-148
@@ -82107,11 +82101,12 @@ _Créé par_:
 ###### Article D421-149
 
 Si l'inspecteur du travail estime que toutes les dispositions adéquates pour remédier aux manquements constatés ne sont pas
-prises, il en avise le directeur régional du travail, de l'emploi et de la formation professionnelle, qui saisit l'autorité
-académique et la collectivité territoriale de rattachement et, le cas échéant, le préfet.
+prises, il en avise le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi,
+qui saisit l'autorité académique et la collectivité territoriale de rattachement et, le cas échéant, le préfet.
 
-L'autorité académique, la collectivité de rattachement et, le cas échéant, le préfet informent le directeur régional du
-travail, de l'emploi et de la formation professionnelle de la suite qu'ils entendent donner à l'affaire.
+L'autorité académique, la collectivité de rattachement et, le cas échéant, le préfet informent le directeur régional des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi de la suite qu'ils entendent donner à
+l'affaire.
 
 **Liens relatifs à cet article**
 
@@ -82119,13 +82114,9 @@ _Anciens textes_:
 
   - Décret n°91-1162 du 7 novembre 1991 - art. 6 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2009-1377 du 10 novembre 2009 - art. 11 (V)
 
 
 ###### Article D421-150
