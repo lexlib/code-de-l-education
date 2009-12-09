@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-11-26
+Version Consolidée au 2009-12-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -274,7 +274,7 @@ Version Consolidée au 2009-11-26
           - [Chapitre III : Les écoles de commerce. (art. L753-1)](#271)
           - [Chapitre V : Les écoles supérieures militaires. (art. L755-1 à L755-3)](#272)
           - [Chapitre VI : Les écoles sanitaires et sociales. (art. L756-1 à L756-2)](#273)
-          - [Chapitre VII : Les écoles de la marine marchande. (art. L757-1)](#274)
+          - [Chapitre VII : L'Ecole nationale supérieure maritime. (art. L757-1)](#274)
           - [Chapitre VIII : La Fondation nationale des sciences politiques. (art. L758-1 à L758-2)](#275)
           - [Chapitre IX : Les établissements d'enseignement supérieur de la musique, de la danse, du théâtre et des arts du cirque (art. L759-1)](#276)
           - [Chapitre X : Les établissements d'enseignement supérieur d'arts plastiques (art. L75-10-1)](#277)
@@ -28009,44 +28009,28 @@ _Cite_:
   - PILOTE_SUIVEUR: Code de la santé publique - art. L1415-1 (V)
 
 
-##### Chapitre VII : Les écoles de la marine marchande.<a id=274></a>
+##### Chapitre VII : L'Ecole nationale supérieure maritime.<a id=274></a>
 
 ###### Article L757-1
 
-Les écoles de la marine marchande ont pour objet de préparer aux carrières d'officier de la marine marchande. Elles
-constituent des établissements publics régionaux et relèvent, sous réserve des adaptations fixées par le décret en Conseil
-d'Etat prévu au dernier alinéa, des dispositions des articles L. 715-1 à L. 715-3.
+L'Ecole nationale supérieure maritime est un établissement public d'enseignement supérieur placé sous la tutelle du ministre
+chargé de la mer. Elle a notamment pour objet de préparer dans plusieurs sites aux carrières d'officier de la marine
+marchande. 
 
-Les régions intéressées participent au service public de la formation des officiers de la marine marchande et des personnels
-appelés à des fonctions techniques, de sécurité et de sûreté en matière maritime et portuaire, en prenant en charge le
-financement du fonctionnement et de l'investissement des écoles de la marine marchande, à l'exception des dépenses
-pédagogiques prises en charge par l'Etat. Par convention avec l'Etat, elles assurent les formations des personnes appelées à
-des fonctions techniques, de sécurité et de sûreté en matière maritime et portuaire.
+Les règles d'organisation et de fonctionnement de l'Ecole nationale supérieure maritime sont fixées par décret en Conseil
+d'Etat.
 
-L'Etat fixe les conditions d'accès aux formations des officiers de la marine marchande, ainsi que des personnels appelés à
-des fonctions techniques, de sécurité et de sûreté en matière maritime et portuaire. Il détermine les programmes de
-formation, l'organisation des études, les modalités d'évaluation des étudiants. Il délivre les diplômes ou les attestations
-suivant la nature de la formation.
-
-Les règles d'administration des écoles de la marine marchande sont fixées par décret en Conseil d'Etat.
-
-Les dispositions de l'article L. 421-21 sont applicables aux élèves des écoles de la marine marchande.
+L'article L. 421-21 est applicable aux élèves de l'Ecole nationale supérieure maritime.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 _Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 45 () JORF 6 janvier 2006
+  - Loi n°2009-1503 du 8 décembre 2009 - art. 53
 
 _Cite_:
 
-  - Code de l'éducation - art. L421-21 (M)
-  - Code de l'éducation L715-1 à L715-3, L421-21
+  - Code de l'éducation - art. L421-21
 
 
 ##### Chapitre VIII : La Fondation nationale des sciences politiques.<a id=275></a>
