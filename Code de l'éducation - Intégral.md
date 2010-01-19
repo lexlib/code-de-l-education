@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-01-16
+Version Consolidée au 2010-01-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -70725,11 +70725,12 @@ _Modifié par_:
 
 ###### Article R338-8
 
-Sont autorisés à organiser la formation et, sous l'autorité du directeur départemental du travail, de l'emploi et de la
-formation professionnelle, les sessions de validation conduisant à la délivrance du titre professionnel : l'Association
-nationale pour la formation professionnelle des adultes (AFPA) ainsi que les organismes ayant fait l'objet d'un agrément,
-accordé par le préfet de région. Les critères et les modalités de cet agrément sont fixés par arrêté du ministre chargé de
-l'emploi.
+Les sessions de validation en vue de la délivrance du titre professionnel dans une spécialité déterminée sont organisées par
+les organismes ayant fait l'objet d'un agrément délivré par le préfet de région. Cet agrément est accordé, pour une durée
+maximale de cinq ans, renouvelable dans les mêmes conditions, aux organismes qui justifient de leur capacité à organiser ces
+sessions de validation en assurant, dans le respect des exigences prévues aux articles R. 338-2, R. 338-4 et R. 338-5,
+l'inscription, l'information du candidat et la mise en place des moyens nécessaires au bon déroulement de la session. Un
+arrêté du ministre chargé de l'emploi précise le contenu de la demande d'agrément et les modalités d'octroi de cet agrément.
 
 **Liens relatifs à cet article**
 
@@ -70752,9 +70753,14 @@ _Cité par_:
   - Arrêté du 10 octobre 2018 - art. 11 (V)
   - Code des transports - art. R3314-16 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-59 du 18 janvier 2010 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. R338-2 (V)
+  - Code de l'éducation - art. R338-4 (V)
 
 
 ##### Section 2 : Le diplôme " un des meilleurs ouvriers de France "<a id=635></a>
