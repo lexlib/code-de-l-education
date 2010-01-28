@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-01-27
+Version Consolidée au 2010-01-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -688,7 +688,7 @@ Version Consolidée au 2010-01-27
         - [Chapitre II :  Les écoles régionales du premier degré. (art. D412-1 à R412-3)](#685)
       - [Titre II : Les collèges et les lycées. (art. R421-1 à R426-24)](#686)
         - [Chapitre Ier : Organisation et fonctionnement  des établissements publics locaux d'enseignement. (art. R421-1 à D421-159)](#687)
-          - [Section 1 :  Dispositions générales. (art. R421-2 à R421-7)](#688)
+          - [Section 1 :  Dispositions générales. (art. D421-2-1 à R421-7)](#688)
           - [Section 2 : Organisation administrative. (art. R421-8 à R421-56)](#689)
             - [Sous-section 1 :  Le chef d'établissement. (art. R421-8 à R421-13)](#690)
             - [Sous-section 2 :  Le conseil d'administration. (art. R421-14 à R421-36)](#691)
@@ -699,298 +699,308 @@ Version Consolidée au 2010-01-27
             - [Sous-section 3 : La commission permanente. (art. R421-37 à R421-41)](#696)
               - [Paragraphe 1 : Composition. (art. R421-37 à R421-40)](#697)
               - [Paragraphe 2 : Compétences. (art. R421-41)](#698)
-            - [Sous-section 4 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté. (art. R421-42 à R421-47)](#699)
-              - [Paragraphe 1 : L'assemblée générale des délégués des élèves. (art. R421-42)](#700)
-              - [Paragraphe 2 : Le conseil des délégués pour la vie lycéenne. (art. R421-43 à R421-45)](#701)
-              - [Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté. (art. R421-46 à R421-47)](#702)
-            - [Sous-section 5 : Autres conseils compétents en matière de scolarité. (art. R421-48 à R421-53)](#703)
-            - [Sous-section 6 : Relations avec les autorités de tutelle. (art. R421-54 à R421-56)](#704)
-          - [Section 3 : Organisation financière. (art. R421-57 à R421-78)](#705)
-          - [Section 5 : Dispositions applicables aux lycées professionnels maritimes. (art. R421-79 à R421-129)](#706)
-            - [Sous-section 1 : Dispositions générales. (art. R421-79 à R421-82)](#707)
-            - [Sous-section 2 : Organisation administrative. (art. R421-83 à R421-107)](#708)
-              - [Paragraphe 1 : Le chef d'établissement. (art. R421-83 à R421-88)](#709)
-              - [Paragraphe 2 : Le conseil d'administration. (art. R421-89 à R421-104)](#710)
-                - [Sous-paragraphe 1 : Composition. (art. R421-89 à R421-91)](#711)
-                - [Sous-paragraphe 2 : Compétences. (art. R421-92 à R421-95)](#712)
-                - [Sous-paragraphe 3 : Fonctionnement. (art. R421-96)](#713)
-                - [Sous-paragraphe 4 : Election et désignation. (art. R421-97 à R421-104)](#714)
-              - [Paragraphe 3 : Autres conseils. (art. R421-107)](#715)
-            - [Sous-section 3 : Organisation financière. (art. R421-108 à R421-129)](#716)
-              - [Paragraphe unique : Dispositions générales. (art. R421-108 à R421-129)](#717)
-          - [Section 6 : Dispositions applicables aux lycées d'enseignement général,  technologique et professionnel agricoles. (art. R421-130)](#718)
-          - [Section 7 : Dispositions diverses. (art. D421-131 à D421-159)](#719)
-            - [Sous-section 1 : Les sections internationales. (art. D421-131 à D421-143)](#720)
-            - [Sous-section 2 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel. (art. D421-144 à D421-159)](#721)
-              - [Paragraphe 1 : Rôle de l'inspection du travail. (art. D421-144 à D421-150)](#722)
-              - [Paragraphe 2 : La commission d'hygiène et de sécurité. (art. D421-151 à D421-159)](#723)
-                - [Sous-paragraphe 1 : Composition et désignation. (art. D421-151 à D421-152)](#724)
-                - [Sous-paragraphe 2 : Fonctionnement et compétences. (art. D421-153 à D421-159)](#725)
-        - [Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement. (art. D422-1 à D422-66)](#726)
-          - [Section 1 : Les établissements d'Etat. (art. D422-1 à R422-60)](#727)
-            - [Sous-section 1 : Les établissements relevant du ministère de l'éducation nationale. (art. D422-1 à D422-59)](#728)
-              - [Paragraphe 1 : Organisation administrative. (art. D422-5 à D422-44)](#729)
-                - [Sous-paragraphe 1 : Le chef d'établissement. (art. D422-5 à D422-11)](#730)
-                - [Sous-paragraphe 2 : Le conseil d'administration. (art. D422-12 à D422-31)](#731)
-                - [Sous-paragraphe 3 : La commission permanente. (art. D422-32 à D422-33)](#732)
-                - [Sous-paragraphe 4 : L'assemblée générale des délégués des élèves, le conseil des délégués  pour la vie lycéenne et le conseil de section internationale. (art. D422-34 à D422-39)](#733)
-                - [Sous-paragraphe 5 : Autres conseils compétents en matière de scolarité. (art. D422-40 à D422-44)](#734)
-              - [Paragraphe 2 : Organisation financière. (art. D422-45 à D422-59)](#735)
-                - [Sous-paragraphe 1 : Dispositions générales. (art. D422-45 à D422-53)](#736)
-                - [Sous-paragraphe 2 : Le service annexe d'hébergement. (art. D422-54 à D422-59)](#737)
-            - [Sous-section 2 : Les établissements relevant du ministère de l'agriculture. (art. R422-60)](#738)
-          - [Section 2 : Les établissements municipaux ou départementaux. (art. D422-61 à D422-66)](#739)
-        - [Chapitre III : Les groupements d'établissements scolaires publics. (art. D423-1 à R423-29)](#740)
-          - [Section 1 : La formation professionnelle tout au long de la vie. (art. D423-1 à R423-27)](#741)
-            - [Sous-section 1 : Les groupements d'établissements. (art. D423-1 à D423-18)](#742)
-              - [Paragraphe 1 : Les groupements d'établissements  relevant du ministère de l'éducation nationale. (art. D423-1 à D423-15)](#743)
-              - [Paragraphe 2 : Dispositions relatives aux établissements  d'enseignement agricole. (art. D423-16 à D423-17)](#744)
-              - [Paragraphe 3 : Dispositions communes aux groupements d'établissements relevant du ministère de l'éducation nationale et du ministère de l'agriculture. (art. D423-18)](#745)
-            - [Sous-section 2 : Les groupements d'intérêt public pour la formation professionnelle continue et l'insertion professionnelle institués dans l'académie. (art. R423-19 à R423-27)](#746)
-          - [Section 2 : Innovation et transfert de technologie. (art. D423-28 à R423-29)](#747)
-        - [Chapitre IV : Les écoles de métiers. (art. D424-1)](#748)
-        - [Chapitre V : Les lycées de la défense. (art. R425-1 à R425-22)](#749)
-          - [Section 1 : Dispositions générales. (art. R425-1 à R425-6)](#750)
-          - [Section 2 : Modalités d'admission et scolarité. (art. R425-7 à R425-13)](#751)
-          - [Section 3 : Droits et obligations des élèves. (art. R425-14 à R425-16)](#752)
-          - [Section 4 : Frais de trousseau et de pension. (art. R425-17 à R425-22)](#753)
-        - [Chapitre VI : Le Centre national d'enseignement à distance. (art. R426-1 à R426-24)](#754)
-          - [Section 1 : Dispositions générales. (art. R426-1 à R426-3)](#755)
-          - [Section 2 : Organisation administrative. (art. R426-4 à R426-17)](#756)
-            - [Sous-section 1 : Le conseil d'administration. (art. R426-5 à R426-9)](#757)
-            - [Sous-section 2 : Le directeur général et le secrétaire général. (art. R426-10 à R426-11)](#758)
-            - [Sous-section 3 : Le conseil d'orientation. (art. R426-12 à R426-13)](#759)
-            - [Sous-section 4 : Dispositions diverses. (art. R426-14 à R426-17)](#760)
-          - [Section 3 : Organisation financière. (art. R426-18 à R426-24)](#761)
-      - [Titre III : Les centres de formation d'apprentis. (art. 431-3 à R431-7)](#762)
-        - [Chapitre unique : Création et fonctionnement des centres de formation d'apprentis, des sections d'apprentissage et des unités de formation par apprentissage. (art. 431-3 à R431-7)](#763)
-          - [Section 1 : Institutions et personnel. (art. 431-3 à R431-4)](#764)
-          - [Section 2 : Contrôle. (art. R431-5 à R431-6)](#765)
-          - [Section 3 : Centres de formation d'apprentis  agricoles et sections d'apprentissage agricoles. (art. R431-7)](#766)
-      - [Titre IV : Les établissements d'enseignement privés. (art. R441-1 à R444-28)](#767)
-        - [Chapitre Ier : L'ouverture des établissements  d'enseignement privés. (art. R441-1 à D441-16)](#768)
-          - [Section 1 : L'ouverture des établissements  d'enseignement du premier degré privés. (art. R441-1 à R441-10)](#769)
-            - [Sous-section 1 : Conditions générales d'ouverture. (art. R441-1 à R441-4)](#770)
-            - [Sous-section 2 : Conditions particulières d'ouverture  d'école primaire privée avec pensionnat. (art. D441-7 à R441-10)](#771)
-          - [Section 2 : L'ouverture des établissements d'enseignement  du second degré privés. (art. D441-11 à R441-15)](#772)
-            - [Sous-section 1 : Délivrance des certificats de stage. (art. D441-11 à D441-12)](#773)
-            - [Sous-section 2 : Opposition à l'ouverture  d'un établissement d'enseignement secondaire privé. (art. R441-13 à R441-14)](#774)
-            - [Sous-section 3 : Dispositions particulières. (art. R441-15)](#775)
-          - [Section 3 : L'ouverture des établissements d'enseignement technique privés. (art. D441-16)](#776)
-        - [Chapitre II : Rapports entre l'Etat  et les établissements d'enseignement privés. (art. R442-1 à R442-84)](#777)
-          - [Section 1 : Contrôle de l'Etat sur les établissements  d'enseignement privés. (art. R442-1 à D442-22)](#778)
-            - [Sous-section 1 : Dispositions applicables à tous les établissements d'enseignement privés. (art. R442-1 à D442-6)](#779)
-              - [Paragraphe 1 : Registre du personnel. (art. R442-1)](#780)
-              - [Paragraphe 2 : Etablissements bénéficiant d'une garantie d'emprunt. (art. D442-2 à D442-6)](#781)
-            - [Sous-section 2 : Dispositions applicables aux établissements d'enseignement privés placés sous contrat d'association ou sous contrat simple. (art. D442-7 à R442-21)](#782)
-              - [Paragraphe 1 : Organisation pédagogique. (art. D442-7 à D442-8)](#783)
-              - [Paragraphe 2 : Contrôle financier et administratif. (art. R442-9 à R442-21)](#784)
-            - [Sous-section 3 : Dispositions applicables aux établissements d'enseignement privés hors contrat. (art. D442-22)](#785)
-          - [Section 2 : Demandes d'intégration d'établissements d'enseignement privés dans l'enseignement public. (art. R442-23 à R442-32)](#786)
-            - [Sous-section 1 : Dispositions générales. (art. R442-23 à R442-26)](#787)
-            - [Sous-section 2 : Dispositions relatives au personnel. (art. R442-27)](#788)
-            - [Sous-section 3 : Dispositions relatives  aux immeubles et au matériel. (art. R442-28 à R442-32)](#789)
-          - [Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat  par les établissements d'enseignement privés. (art. R442-33 à R442-48)](#790)
-            - [Sous-section 1 : Le contrat d'association. (art. R442-33 à R442-43)](#791)
-            - [Sous-section 2 : Financement des dépenses des classes sous contrat d'association. (art. R442-44 à R442-48)](#792)
-          - [Section 4 : Contrat simple passé avec l'Etat  par des établissements d'enseignement privés. (art. R442-49 à R442-57)](#793)
-          - [Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat. (art. R442-58 à R442-73)](#794)
-            - [Sous-section 1 : Instruction des demandes de passation de contrat. (art. R442-58 à R442-61)](#795)
-            - [Sous-section 2 : Résiliation des contrats. (art. R442-62)](#796)
-            - [Sous-section 3 : Les commissions de concertation. (art. R442-63 à R442-73)](#797)
-          - [Section 6 : Dispositions relatives aux établissements d'enseignement agricoles privés sous contrat. (art. R442-74)](#798)
-          - [Section 7 : Dispositions relatives aux établissements ou services sociaux ou médico-sociaux privés. (art. R442-75 à R442-79)](#799)
-          - [Section 8 : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-80 à R442-84)](#800)
-        - [Chapitre III : Les établissements d'enseignement technique privés. (art. R443-1 à R443-3)](#801)
-          - [Section 2 : Les écoles techniques privées. (art. R443-1)](#802)
-          - [Section 3 : Les centres d'apprentissage privés. (art. R443-2)](#803)
-          - [Section 4 : Les cours privés professionnels. (art. R443-3)](#804)
-        - [Chapitre IV : Les établissements privés  dispensant un enseignement à distance. (art. R444-1 à R444-28)](#805)
-          - [Section 1 : Organismes assujettis. (art. R444-1 à R444-3)](#806)
-          - [Section 2 : Création. (art. R444-4 à R444-9)](#807)
-          - [Section 3 : Conditions exigées des personnels enseignant et de direction. (art. R444-10 à R444-13)](#808)
-          - [Section 4 : Contrôle et inspection. (art. R444-14 à R444-17)](#809)
-          - [Section 5 : Obligations contractuelles des établissements. (art. R444-18 à R444-27)](#810)
-          - [Section 6 : Dispositions pénales. (art. R444-28)](#811)
-      - [Titre V : Les établissements français d'enseignement à l'étranger. (art. R451-1 à D455-2)](#812)
-        - [Chapitre Ier : Dispositions générales. (art. R451-1 à R451-15)](#813)
-        - [Chapitre II : L'Agence pour l'enseignement français à l'étranger. (art. D452-1 à D452-21)](#814)
-          - [Section 1 : Organisation administrative. (art. D452-2 à D452-11)](#815)
-          - [Section 2 : Dispositions d'ordre financier et comptable. (art. D452-12 à D452-21)](#816)
-            - [Sous-section 1 : Agence pour l'enseignement français à l'étranger. (art. D452-12 à D452-18)](#817)
-            - [Sous-section 2 : Etablissements en gestion directe. (art. D452-19 à D452-21)](#818)
-        - [Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne. (art. R453-1 à R453-51)](#819)
-          - [Section 1 : Dispositions générales. (art. R453-1 à R453-16)](#820)
-            - [Sous-section 1 : Organisation générale. (art. R453-1 à R453-6)](#821)
-            - [Sous-section 2 : Organisation pédagogique. (art. R453-7 à R453-16)](#822)
-          - [Section 2 : Dispositions relatives aux établissements du premier degré. (art. 453-17 à R453-20)](#823)
-          - [Section 3 : Dispositions relatives aux établissements du second degré. (art. R453-21 à R453-51)](#824)
-            - [Sous-section 1 : Organisation administrative. (art. R453-23 à R453-27)](#825)
-            - [Sous-section 2 : Organisation financière. (art. R453-28 à R453-44)](#826)
-            - [Sous-section 3 : Service d'hébergement. (art. R453-45 à R453-51)](#827)
-        - [Chapitre IV : Les établissements d'enseignement français en Principauté d'Andorre. (art. D454-1 à D454-29)](#828)
-          - [Section 1 : Dispositions relatives aux établissements d'enseignement du premier degré. (art. D454-2 à D454-10)](#829)
-          - [Section 2 : Dispositions relatives aux établissements d'enseignement du second degré. (art. D454-11 à D454-29)](#830)
-        - [Chapitre V : Les écoles européennes. (art. D455-1 à D455-2)](#831)
-      - [Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives. (art. R461-1 à R463-1)](#832)
-        - [Chapitre Ier : Les établissements  d'enseignement artistique. (art. R461-1 à R461-17)](#833)
-          - [Section 1 : Les établissements d'enseignement public. (art. R461-1 à R461-7)](#834)
-          - [Section 2 : Les établissements d'enseignement privés. (art. R461-8 à R461-17)](#835)
-        - [Chapitre II : Les établissements d'enseignement  de la danse. (art. R462-1 à R462-9)](#836)
-          - [Section 1 : Conditions d'exploitation d'une salle de danse à des fins d'enseignement. (art. R462-1 à R462-6)](#837)
-          - [Section 2 : Dispositions pénales. (art. R462-7 à R462-9)](#838)
-        - [Chapitre III : Les établissements de formation  aux professions des activités physiques et sportives. (art. R463-1)](#839)
-      - [Titre VII : Dispositions communes. (art. R471-1 à R472-1)](#840)
-        - [Chapitre Ier : Publicité et démarchage. (art. R471-1 à R471-7)](#841)
-          - [Section 1 : Déclaration de dénomination. (art. R471-1)](#842)
-          - [Section 2 : Publicité. (art. R471-2 à R471-7)](#843)
-        - [Chapitre II : Dispositions pénales. (art. R472-1)](#844)
-      - [Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. R481-1 à R481-8)](#845)
-        - [Chapitre unique. (art. R481-1 à R481-8)](#846)
-          - [Section 1 : Aménagement du statut scolaire local en vigueur dans les établissements du premier degré. (art. D481-2 à D481-6)](#847)
-          - [Section 2 : Dispositions diverses. (art. R481-7 à R481-8)](#848)
-      - [Titre IX : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D491-1 à R494-14)](#849)
-        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D491-1 à D491-15)](#850)
-          - [Section 1 : Les écoles. (art. D491-1 à D491-7)](#851)
-          - [Section 2 : Les collèges et les lycées. (art. D491-8 à D491-15)](#852)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. D492-1 à D492-14)](#853)
-          - [Section 1 : Les écoles. (art. D492-1 à D492-6)](#854)
-          - [Section 2 : Les collèges et les lycées. (art. D492-7 à D492-14)](#855)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R493-1)](#856)
-          - [Section unique : Les établissements d'enseignement privés. (art. R493-1)](#857)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D494-1 à R494-14)](#858)
-          - [Section 1 : Les collèges et les lycées. (art. D494-1 à D494-9)](#859)
-          - [Section 2 : Les établissements d'enseignement privés. (art. R494-10 à R494-14)](#860)
-    - [Livre V : La vie scolaire (art. D511-3 à R564-8)](#861)
-      - [Titre Ier : Les droits et obligations des élèves (art. D511-3 à R511-75)](#862)
-        - [Chapitre unique (art. D511-3 à R511-75)](#863)
+            - [Sous-section 4 : Le conseil pédagogique (art. R421-41-1 à R421-41-6)](#699)
+              - [Paragraphe 1 : Composition (art. R421-41-1 à R421-41-2)](#700)
+              - [Paragraphe 2 : Compétences (art. R421-41-3)](#701)
+              - [Paragraphe 3 : Fonctionnement (art. R421-41-4 à R421-41-6)](#702)
+            - [Sous-section 4 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté. (art. R421-42 à R421-47)](#703)
+              - [Paragraphe 1 : L'assemblée générale des délégués des élèves. (art. R421-42)](#704)
+              - [Paragraphe 2 : Le conseil des délégués pour la vie lycéenne. (art. R421-43 à R421-45)](#705)
+              - [Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté. (art. R421-46 à R421-47)](#706)
+            - [Sous-section 5 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté (art.  à R421-47)](#707)
+              - [Paragraphe 1 : L'assemblée générale des délégués des élèves. (art.  à R421-47)](#708)
+              - [Paragraphe 2 : Le conseil des délégués pour la vie lycéenne. (art.  à R421-47)](#709)
+              - [Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté. (art.  à R421-47)](#710)
+            - [Sous-section 5 : Autres conseils compétents en matière de scolarité. (art.  à R421-47)](#711)
+            - [Sous-section 6 : Autres conseils compétents en matière de scolarité (art. R421-48 à R421-53)](#712)
+            - [Sous-section 6 : Relations avec les autorités de tutelle. (art.  à R421-53)](#713)
+            - [Sous-section 7 : Relations avec les autorités de tutelle (art. R421-54 à R421-56)](#714)
+          - [Section 3 : Organisation financière. (art. R421-57 à R421-78)](#715)
+          - [Section 5 : Dispositions applicables aux lycées professionnels maritimes. (art. R421-79 à R421-129)](#716)
+            - [Sous-section 1 : Dispositions générales. (art. R421-79 à R421-82)](#717)
+            - [Sous-section 2 : Organisation administrative. (art. R421-83 à R421-107)](#718)
+              - [Paragraphe 1 : Le chef d'établissement. (art. R421-83 à R421-88)](#719)
+              - [Paragraphe 2 : Le conseil d'administration. (art. R421-89 à R421-104)](#720)
+                - [Sous-paragraphe 1 : Composition. (art. R421-89 à R421-91)](#721)
+                - [Sous-paragraphe 2 : Compétences. (art. R421-92 à R421-95)](#722)
+                - [Sous-paragraphe 3 : Fonctionnement. (art. R421-96)](#723)
+                - [Sous-paragraphe 4 : Election et désignation. (art. R421-97 à R421-104)](#724)
+              - [Paragraphe 3 : Autres conseils. (art. R421-107)](#725)
+            - [Sous-section 3 : Organisation financière. (art. R421-108 à R421-129)](#726)
+              - [Paragraphe unique : Dispositions générales. (art. R421-108 à R421-129)](#727)
+          - [Section 6 : Dispositions applicables aux lycées d'enseignement général,  technologique et professionnel agricoles. (art. R421-130)](#728)
+          - [Section 7 : Dispositions diverses. (art. D421-131 à D421-159)](#729)
+            - [Sous-section 1 : Les sections internationales. (art. D421-131 à D421-143)](#730)
+            - [Sous-section 2 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel. (art. D421-144 à D421-159)](#731)
+              - [Paragraphe 1 : Rôle de l'inspection du travail. (art. D421-144 à D421-150)](#732)
+              - [Paragraphe 2 : La commission d'hygiène et de sécurité. (art. D421-151 à D421-159)](#733)
+                - [Sous-paragraphe 1 : Composition et désignation. (art. D421-151 à D421-152)](#734)
+                - [Sous-paragraphe 2 : Fonctionnement et compétences. (art. D421-153 à D421-159)](#735)
+        - [Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement. (art. D422-1 à D422-66)](#736)
+          - [Section 1 : Les établissements d'Etat. (art. D422-1 à R422-60)](#737)
+            - [Sous-section 1 : Les établissements relevant du ministère de l'éducation nationale. (art. D422-1 à D422-59)](#738)
+              - [Paragraphe 1 : Organisation administrative. (art. D422-5 à D422-44)](#739)
+                - [Sous-paragraphe 1 : Le chef d'établissement. (art. D422-5 à D422-11)](#740)
+                - [Sous-paragraphe 2 : Le conseil d'administration. (art. D422-12 à D422-31)](#741)
+                - [Sous-paragraphe 3 : La commission permanente. (art. D422-32 à D422-33)](#742)
+                - [Sous-paragraphe 4 : L'assemblée générale des délégués des élèves, le conseil des délégués  pour la vie lycéenne et le conseil de section internationale. (art. D422-34 à D422-39)](#743)
+                - [Sous-paragraphe 5 : Autres conseils compétents en matière de scolarité. (art. D422-40 à D422-44)](#744)
+              - [Paragraphe 2 : Organisation financière. (art. D422-45 à D422-59)](#745)
+                - [Sous-paragraphe 1 : Dispositions générales. (art. D422-45 à D422-53)](#746)
+                - [Sous-paragraphe 2 : Le service annexe d'hébergement. (art. D422-54 à D422-59)](#747)
+            - [Sous-section 2 : Les établissements relevant du ministère de l'agriculture. (art. R422-60)](#748)
+          - [Section 2 : Les établissements municipaux ou départementaux. (art. D422-61 à D422-66)](#749)
+        - [Chapitre III : Les groupements d'établissements scolaires publics. (art. D423-1 à R423-29)](#750)
+          - [Section 1 : La formation professionnelle tout au long de la vie. (art. D423-1 à R423-27)](#751)
+            - [Sous-section 1 : Les groupements d'établissements. (art. D423-1 à D423-18)](#752)
+              - [Paragraphe 1 : Les groupements d'établissements  relevant du ministère de l'éducation nationale. (art. D423-1 à D423-15)](#753)
+              - [Paragraphe 2 : Dispositions relatives aux établissements  d'enseignement agricole. (art. D423-16 à D423-17)](#754)
+              - [Paragraphe 3 : Dispositions communes aux groupements d'établissements relevant du ministère de l'éducation nationale et du ministère de l'agriculture. (art. D423-18)](#755)
+            - [Sous-section 2 : Les groupements d'intérêt public pour la formation professionnelle continue et l'insertion professionnelle institués dans l'académie. (art. R423-19 à R423-27)](#756)
+          - [Section 2 : Innovation et transfert de technologie. (art. D423-28 à R423-29)](#757)
+        - [Chapitre IV : Les écoles de métiers. (art. D424-1)](#758)
+        - [Chapitre V : Les lycées de la défense. (art. R425-1 à R425-22)](#759)
+          - [Section 1 : Dispositions générales. (art. R425-1 à R425-6)](#760)
+          - [Section 2 : Modalités d'admission et scolarité. (art. R425-7 à R425-13)](#761)
+          - [Section 3 : Droits et obligations des élèves. (art. R425-14 à R425-16)](#762)
+          - [Section 4 : Frais de trousseau et de pension. (art. R425-17 à R425-22)](#763)
+        - [Chapitre VI : Le Centre national d'enseignement à distance. (art. R426-1 à R426-24)](#764)
+          - [Section 1 : Dispositions générales. (art. R426-1 à R426-3)](#765)
+          - [Section 2 : Organisation administrative. (art. R426-4 à R426-17)](#766)
+            - [Sous-section 1 : Le conseil d'administration. (art. R426-5 à R426-9)](#767)
+            - [Sous-section 2 : Le directeur général et le secrétaire général. (art. R426-10 à R426-11)](#768)
+            - [Sous-section 3 : Le conseil d'orientation. (art. R426-12 à R426-13)](#769)
+            - [Sous-section 4 : Dispositions diverses. (art. R426-14 à R426-17)](#770)
+          - [Section 3 : Organisation financière. (art. R426-18 à R426-24)](#771)
+      - [Titre III : Les centres de formation d'apprentis. (art. 431-3 à R431-7)](#772)
+        - [Chapitre unique : Création et fonctionnement des centres de formation d'apprentis, des sections d'apprentissage et des unités de formation par apprentissage. (art. 431-3 à R431-7)](#773)
+          - [Section 1 : Institutions et personnel. (art. 431-3 à R431-4)](#774)
+          - [Section 2 : Contrôle. (art. R431-5 à R431-6)](#775)
+          - [Section 3 : Centres de formation d'apprentis  agricoles et sections d'apprentissage agricoles. (art. R431-7)](#776)
+      - [Titre IV : Les établissements d'enseignement privés. (art. R441-1 à R444-28)](#777)
+        - [Chapitre Ier : L'ouverture des établissements  d'enseignement privés. (art. R441-1 à D441-16)](#778)
+          - [Section 1 : L'ouverture des établissements  d'enseignement du premier degré privés. (art. R441-1 à R441-10)](#779)
+            - [Sous-section 1 : Conditions générales d'ouverture. (art. R441-1 à R441-4)](#780)
+            - [Sous-section 2 : Conditions particulières d'ouverture  d'école primaire privée avec pensionnat. (art. D441-7 à R441-10)](#781)
+          - [Section 2 : L'ouverture des établissements d'enseignement  du second degré privés. (art. D441-11 à R441-15)](#782)
+            - [Sous-section 1 : Délivrance des certificats de stage. (art. D441-11 à D441-12)](#783)
+            - [Sous-section 2 : Opposition à l'ouverture  d'un établissement d'enseignement secondaire privé. (art. R441-13 à R441-14)](#784)
+            - [Sous-section 3 : Dispositions particulières. (art. R441-15)](#785)
+          - [Section 3 : L'ouverture des établissements d'enseignement technique privés. (art. D441-16)](#786)
+        - [Chapitre II : Rapports entre l'Etat  et les établissements d'enseignement privés. (art. R442-1 à R442-84)](#787)
+          - [Section 1 : Contrôle de l'Etat sur les établissements  d'enseignement privés. (art. R442-1 à D442-22)](#788)
+            - [Sous-section 1 : Dispositions applicables à tous les établissements d'enseignement privés. (art. R442-1 à D442-6)](#789)
+              - [Paragraphe 1 : Registre du personnel. (art. R442-1)](#790)
+              - [Paragraphe 2 : Etablissements bénéficiant d'une garantie d'emprunt. (art. D442-2 à D442-6)](#791)
+            - [Sous-section 2 : Dispositions applicables aux établissements d'enseignement privés placés sous contrat d'association ou sous contrat simple. (art. D442-7 à R442-21)](#792)
+              - [Paragraphe 1 : Organisation pédagogique. (art. D442-7 à D442-8)](#793)
+              - [Paragraphe 2 : Contrôle financier et administratif. (art. R442-9 à R442-21)](#794)
+            - [Sous-section 3 : Dispositions applicables aux établissements d'enseignement privés hors contrat. (art. D442-22)](#795)
+          - [Section 2 : Demandes d'intégration d'établissements d'enseignement privés dans l'enseignement public. (art. R442-23 à R442-32)](#796)
+            - [Sous-section 1 : Dispositions générales. (art. R442-23 à R442-26)](#797)
+            - [Sous-section 2 : Dispositions relatives au personnel. (art. R442-27)](#798)
+            - [Sous-section 3 : Dispositions relatives  aux immeubles et au matériel. (art. R442-28 à R442-32)](#799)
+          - [Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat  par les établissements d'enseignement privés. (art. R442-33 à R442-48)](#800)
+            - [Sous-section 1 : Le contrat d'association. (art. R442-33 à R442-43)](#801)
+            - [Sous-section 2 : Financement des dépenses des classes sous contrat d'association. (art. R442-44 à R442-48)](#802)
+          - [Section 4 : Contrat simple passé avec l'Etat  par des établissements d'enseignement privés. (art. R442-49 à R442-57)](#803)
+          - [Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat. (art. R442-58 à R442-73)](#804)
+            - [Sous-section 1 : Instruction des demandes de passation de contrat. (art. R442-58 à R442-61)](#805)
+            - [Sous-section 2 : Résiliation des contrats. (art. R442-62)](#806)
+            - [Sous-section 3 : Les commissions de concertation. (art. R442-63 à R442-73)](#807)
+          - [Section 6 : Dispositions relatives aux établissements d'enseignement agricoles privés sous contrat. (art. R442-74)](#808)
+          - [Section 7 : Dispositions relatives aux établissements ou services sociaux ou médico-sociaux privés. (art. R442-75 à R442-79)](#809)
+          - [Section 8 : Dispositions relatives à Saint-Pierre-et-Miquelon. (art. R442-80 à R442-84)](#810)
+        - [Chapitre III : Les établissements d'enseignement technique privés. (art. R443-1 à R443-3)](#811)
+          - [Section 2 : Les écoles techniques privées. (art. R443-1)](#812)
+          - [Section 3 : Les centres d'apprentissage privés. (art. R443-2)](#813)
+          - [Section 4 : Les cours privés professionnels. (art. R443-3)](#814)
+        - [Chapitre IV : Les établissements privés  dispensant un enseignement à distance. (art. R444-1 à R444-28)](#815)
+          - [Section 1 : Organismes assujettis. (art. R444-1 à R444-3)](#816)
+          - [Section 2 : Création. (art. R444-4 à R444-9)](#817)
+          - [Section 3 : Conditions exigées des personnels enseignant et de direction. (art. R444-10 à R444-13)](#818)
+          - [Section 4 : Contrôle et inspection. (art. R444-14 à R444-17)](#819)
+          - [Section 5 : Obligations contractuelles des établissements. (art. R444-18 à R444-27)](#820)
+          - [Section 6 : Dispositions pénales. (art. R444-28)](#821)
+      - [Titre V : Les établissements français d'enseignement à l'étranger. (art. R451-1 à D455-2)](#822)
+        - [Chapitre Ier : Dispositions générales. (art. R451-1 à R451-15)](#823)
+        - [Chapitre II : L'Agence pour l'enseignement français à l'étranger. (art. D452-1 à D452-21)](#824)
+          - [Section 1 : Organisation administrative. (art. D452-2 à D452-11)](#825)
+          - [Section 2 : Dispositions d'ordre financier et comptable. (art. D452-12 à D452-21)](#826)
+            - [Sous-section 1 : Agence pour l'enseignement français à l'étranger. (art. D452-12 à D452-18)](#827)
+            - [Sous-section 2 : Etablissements en gestion directe. (art. D452-19 à D452-21)](#828)
+        - [Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne. (art. R453-1 à R453-51)](#829)
+          - [Section 1 : Dispositions générales. (art. R453-1 à R453-16)](#830)
+            - [Sous-section 1 : Organisation générale. (art. R453-1 à R453-6)](#831)
+            - [Sous-section 2 : Organisation pédagogique. (art. R453-7 à R453-16)](#832)
+          - [Section 2 : Dispositions relatives aux établissements du premier degré. (art. 453-17 à R453-20)](#833)
+          - [Section 3 : Dispositions relatives aux établissements du second degré. (art. R453-21 à R453-51)](#834)
+            - [Sous-section 1 : Organisation administrative. (art. R453-23 à R453-27)](#835)
+            - [Sous-section 2 : Organisation financière. (art. R453-28 à R453-44)](#836)
+            - [Sous-section 3 : Service d'hébergement. (art. R453-45 à R453-51)](#837)
+        - [Chapitre IV : Les établissements d'enseignement français en Principauté d'Andorre. (art. D454-1 à D454-29)](#838)
+          - [Section 1 : Dispositions relatives aux établissements d'enseignement du premier degré. (art. D454-2 à D454-10)](#839)
+          - [Section 2 : Dispositions relatives aux établissements d'enseignement du second degré. (art. D454-11 à D454-29)](#840)
+        - [Chapitre V : Les écoles européennes. (art. D455-1 à D455-2)](#841)
+      - [Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives. (art. R461-1 à R463-1)](#842)
+        - [Chapitre Ier : Les établissements  d'enseignement artistique. (art. R461-1 à R461-17)](#843)
+          - [Section 1 : Les établissements d'enseignement public. (art. R461-1 à R461-7)](#844)
+          - [Section 2 : Les établissements d'enseignement privés. (art. R461-8 à R461-17)](#845)
+        - [Chapitre II : Les établissements d'enseignement  de la danse. (art. R462-1 à R462-9)](#846)
+          - [Section 1 : Conditions d'exploitation d'une salle de danse à des fins d'enseignement. (art. R462-1 à R462-6)](#847)
+          - [Section 2 : Dispositions pénales. (art. R462-7 à R462-9)](#848)
+        - [Chapitre III : Les établissements de formation  aux professions des activités physiques et sportives. (art. R463-1)](#849)
+      - [Titre VII : Dispositions communes. (art. R471-1 à R472-1)](#850)
+        - [Chapitre Ier : Publicité et démarchage. (art. R471-1 à R471-7)](#851)
+          - [Section 1 : Déclaration de dénomination. (art. R471-1)](#852)
+          - [Section 2 : Publicité. (art. R471-2 à R471-7)](#853)
+        - [Chapitre II : Dispositions pénales. (art. R472-1)](#854)
+      - [Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. R481-1 à R481-8)](#855)
+        - [Chapitre unique. (art. R481-1 à R481-8)](#856)
+          - [Section 1 : Aménagement du statut scolaire local en vigueur dans les établissements du premier degré. (art. D481-2 à D481-6)](#857)
+          - [Section 2 : Dispositions diverses. (art. R481-7 à R481-8)](#858)
+      - [Titre IX : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D491-1 à R494-14)](#859)
+        - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D491-1 à D491-15)](#860)
+          - [Section 1 : Les écoles. (art. D491-1 à D491-7)](#861)
+          - [Section 2 : Les collèges et les lycées. (art. D491-8 à D491-15)](#862)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. D492-1 à D492-14)](#863)
+          - [Section 1 : Les écoles. (art. D492-1 à D492-6)](#864)
+          - [Section 2 : Les collèges et les lycées. (art. D492-7 à D492-14)](#865)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R493-1)](#866)
+          - [Section unique : Les établissements d'enseignement privés. (art. R493-1)](#867)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. D494-1 à R494-14)](#868)
+          - [Section 1 : Les collèges et les lycées. (art. D494-1 à D494-9)](#869)
+          - [Section 2 : Les établissements d'enseignement privés. (art. R494-10 à R494-14)](#870)
+    - [Livre V : La vie scolaire (art. D511-3 à R564-8)](#871)
+      - [Titre Ier : Les droits et obligations des élèves (art. D511-3 à R511-75)](#872)
+        - [Chapitre unique (art. D511-3 à R511-75)](#873)
           - [Section 1 : Droits et obligations des élèves
-des établissements d’enseignement du second degré (art. D511-3 à R511-11)](#864)
-            - [Sous-section 1 : Liberté d’expression (art. R511-6 à R511-8)](#865)
-            - [Sous-section 2 : Libertés d’association et de réunion (art. R511-9 à R511-10)](#866)
-            - [Sous-section 3 : Obligation d’assiduité (art. R511-11)](#867)
-          - [Section 2 : Régime disciplinaire (art. R511-12 à R511-57)](#868)
+des établissements d’enseignement du second degré (art. D511-3 à R511-11)](#874)
+            - [Sous-section 1 : Liberté d’expression (art. R511-6 à R511-8)](#875)
+            - [Sous-section 2 : Libertés d’association et de réunion (art. R511-9 à R511-10)](#876)
+            - [Sous-section 3 : Obligation d’assiduité (art. R511-11)](#877)
+          - [Section 2 : Régime disciplinaire (art. R511-12 à R511-57)](#878)
             - [Sous-section 1 : Sanctions applicables aux élèves
-des établissements d’enseignement du second degré (art. R511-12 à R511-19)](#869)
-            - [Sous-section 2 : Le conseil de discipline de l’établissement (art. D511-23 à D511-43)](#870)
-              - [Paragraphe 1 : Composition (art. D511-23 à R511-24)](#871)
-              - [Paragraphe 2 : Compétence (art. D511-25 à R511-29)](#872)
-              - [Paragraphe 3 : Procédure disciplinaire (art. D511-30 à D511-43)](#873)
-            - [Sous-section 3 : Le conseil de discipline départemental (art. D511-46 à R511-45)](#874)
-            - [Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental (art. D511-47 à D511-48)](#875)
-            - [Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental (art. D511-50 à R511-57)](#876)
-          - [Section 3 : Conseil national et conseil académique de la vie lycéenne (art. D511-59 à D511-73)](#877)
-            - [Sous-section 1 : Le Conseil national de la vie lycéenne (art. D511-59 à D511-62)](#878)
-            - [Sous-section 2 : Le conseil académique de la vie lycéenne (art. D511-63 à D511-73)](#879)
-          - [Section 4 : Information en matière de droit de la nationalité (art. R511-74 à R511-75)](#880)
-      - [Titre II : L'organisation du temps et de l'espace scolaires (art. D521-1 à D521-18)](#881)
-        - [Chapitre unique (art. D521-1 à D521-18)](#882)
-          - [Section 1 : Aménagement du temps scolaire (art. D521-1 à D521-15)](#883)
-            - [Sous-section 1 : Dispositions communes à l’ensemble des académies (art. D521-1 à D521-5)](#884)
-            - [Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon (art. D521-6 à D521-7)](#885)
-            - [Sous-section 3 : Dispositions particulières à l’enseignement et à la formation professionnelle agricoles (art. D521-8 à D521-9)](#886)
-            - [Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires (art. D521-10 à D521-15)](#887)
-          - [Section 2 : Aménagement de l’espace scolaire (art. D521-16)](#888)
+des établissements d’enseignement du second degré (art. R511-12 à R511-19)](#879)
+            - [Sous-section 2 : Le conseil de discipline de l’établissement (art. D511-23 à D511-43)](#880)
+              - [Paragraphe 1 : Composition (art. D511-23 à R511-24)](#881)
+              - [Paragraphe 2 : Compétence (art. D511-25 à R511-29)](#882)
+              - [Paragraphe 3 : Procédure disciplinaire (art. D511-30 à D511-43)](#883)
+            - [Sous-section 3 : Le conseil de discipline départemental (art. D511-46 à R511-45)](#884)
+            - [Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental (art. D511-47 à D511-48)](#885)
+            - [Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental (art. D511-50 à R511-57)](#886)
+          - [Section 3 : Conseil national et conseil académique de la vie lycéenne (art. D511-59 à D511-73)](#887)
+            - [Sous-section 1 : Le Conseil national de la vie lycéenne (art. D511-59 à D511-62)](#888)
+            - [Sous-section 2 : Le conseil académique de la vie lycéenne (art. D511-63 à D511-73)](#889)
+          - [Section 4 : Information en matière de droit de la nationalité (art. R511-74 à R511-75)](#890)
+      - [Titre II : L'organisation du temps et de l'espace scolaires (art. D521-1 à D521-18)](#891)
+        - [Chapitre unique (art. D521-1 à D521-18)](#892)
+          - [Section 1 : Aménagement du temps scolaire (art. D521-1 à D521-15)](#893)
+            - [Sous-section 1 : Dispositions communes à l’ensemble des académies (art. D521-1 à D521-5)](#894)
+            - [Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon (art. D521-6 à D521-7)](#895)
+            - [Sous-section 3 : Dispositions particulières à l’enseignement et à la formation professionnelle agricoles (art. D521-8 à D521-9)](#896)
+            - [Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires (art. D521-10 à D521-15)](#897)
+          - [Section 2 : Aménagement de l’espace scolaire (art. D521-16)](#898)
           - [Section 3 : Interdiction de fumer dans les lieux
-affectés à un usage scolaire (art. D521-17 à D521-18)](#889)
-      - [Titre III : Les aides à la scolarité (art. D531-3 à D532-1)](#890)
-        - [Chapitre Ier : L’aide à la scolarité et les bourses nationales (art. D531-3 à R531-53)](#891)
-          - [Section 1 : Bourses nationales d’enseignement du second degré (art. D531-3 à D531-43)](#892)
-            - [Sous-section 1 : Bourses nationales de collège (art. D531-3 à D531-12)](#893)
+affectés à un usage scolaire (art. D521-17 à D521-18)](#899)
+      - [Titre III : Les aides à la scolarité (art. D531-3 à D532-1)](#900)
+        - [Chapitre Ier : L’aide à la scolarité et les bourses nationales (art. D531-3 à R531-53)](#901)
+          - [Section 1 : Bourses nationales d’enseignement du second degré (art. D531-3 à D531-43)](#902)
+            - [Sous-section 1 : Bourses nationales de collège (art. D531-3 à D531-12)](#903)
               - [Paragraphe 1 : Etablissements habilités à recevoir
-des boursiers de collège (art. D531-3 à R531-2)](#894)
-              - [Paragraphe 2 : Critères d’attribution des bourses de collège (art. D531-4 à D531-6)](#895)
-              - [Paragraphe 3 : Montant et paiement des bourses de collège (art. D531-7 à D531-12)](#896)
-            - [Sous-section 2 : Bourses nationales d’études du second degré de lycée (art. D531-15 à R531-35)](#897)
-              - [Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée (art. D531-15 à R531-16)](#898)
-              - [Paragraphe 2 : Critères d’attribution (art. D531-21 à R531-20)](#899)
-              - [Paragraphe 3 : Modalités d’attribution (art. D531-23 à R531-25)](#900)
-              - [Paragraphe 4 : Montant et paiement (art. D531-29 à R531-35)](#901)
-            - [Sous-section 3 : Bourses au mérite (art. D531-37 à D531-41)](#902)
-            - [Sous-section 4 : Prime à l’internat (art. D531-42 à D531-43)](#903)
-          - [Section 2 : Bourses de l’enseignement agricole (art. D531-44)](#904)
-          - [Section 3 : Bourses scolaires à l’étranger (art. D531-45 à D531-51)](#905)
-          - [Section 4 : Tarifs de la restauration scolaire (art. R531-52 à R531-53)](#906)
-        - [Chapitre II : L’allocation de rentrée scolaire (art. D532-1)](#907)
-      - [Titre IV : La santé scolaire (art. D541-1 à D542-1)](#908)
-        - [Chapitre Ier : La protection de la santé (art. D541-1 à D541-10)](#909)
-          - [Section 1 : Organisation (art. D541-1 à R541-5)](#910)
-          - [Section 2 : Prévention dans les activités physiques et sportives (art. R541-6)](#911)
-          - [Section 3 : Prévention des risques professionnels (art. D541-7 à D541-9)](#912)
-          - [Section 4 : Contraception d’urgence (art. D541-10)](#913)
-        - [Chapitre II : La prévention des mauvais traitements (art. D542-1)](#914)
-      - [Titre V : Les activités périscolaires, sportives et culturelles (art. D551-1 à R552-2)](#915)
-        - [Chapitre Ier : Les activités périscolaires (art. D551-1 à D551-12)](#916)
+des boursiers de collège (art. D531-3 à R531-2)](#904)
+              - [Paragraphe 2 : Critères d’attribution des bourses de collège (art. D531-4 à D531-6)](#905)
+              - [Paragraphe 3 : Montant et paiement des bourses de collège (art. D531-7 à D531-12)](#906)
+            - [Sous-section 2 : Bourses nationales d’études du second degré de lycée (art. D531-15 à R531-35)](#907)
+              - [Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée (art. D531-15 à R531-16)](#908)
+              - [Paragraphe 2 : Critères d’attribution (art. D531-21 à R531-20)](#909)
+              - [Paragraphe 3 : Modalités d’attribution (art. D531-23 à R531-25)](#910)
+              - [Paragraphe 4 : Montant et paiement (art. D531-29 à R531-35)](#911)
+            - [Sous-section 3 : Bourses au mérite (art. D531-37 à D531-41)](#912)
+            - [Sous-section 4 : Prime à l’internat (art. D531-42 à D531-43)](#913)
+          - [Section 2 : Bourses de l’enseignement agricole (art. D531-44)](#914)
+          - [Section 3 : Bourses scolaires à l’étranger (art. D531-45 à D531-51)](#915)
+          - [Section 4 : Tarifs de la restauration scolaire (art. R531-52 à R531-53)](#916)
+        - [Chapitre II : L’allocation de rentrée scolaire (art. D532-1)](#917)
+      - [Titre IV : La santé scolaire (art. D541-1 à D542-1)](#918)
+        - [Chapitre Ier : La protection de la santé (art. D541-1 à D541-10)](#919)
+          - [Section 1 : Organisation (art. D541-1 à R541-5)](#920)
+          - [Section 2 : Prévention dans les activités physiques et sportives (art. R541-6)](#921)
+          - [Section 3 : Prévention des risques professionnels (art. D541-7 à D541-9)](#922)
+          - [Section 4 : Contraception d’urgence (art. D541-10)](#923)
+        - [Chapitre II : La prévention des mauvais traitements (art. D542-1)](#924)
+      - [Titre V : Les activités périscolaires, sportives et culturelles (art. D551-1 à R552-2)](#925)
+        - [Chapitre Ier : Les activités périscolaires (art. D551-1 à D551-12)](#926)
           - [Section 1 : Agrément des associations éducatives
-complémentaires de l’enseignement public (art. D551-1 à D551-6)](#917)
-          - [Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public (art. D551-7 à D551-12)](#918)
-        - [Chapitre II : Les activités physiques et sportives (art. R552-1 à R552-2)](#919)
-      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. D561-2 à R564-8)](#920)
+complémentaires de l’enseignement public (art. D551-1 à D551-6)](#927)
+          - [Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public (art. D551-7 à D551-12)](#928)
+        - [Chapitre II : Les activités physiques et sportives (art. R552-1 à R552-2)](#929)
+      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. D561-2 à R564-8)](#930)
         - [Chapitre Ier : Dispositions applicables
-dans les îles Wallis et Futuna (art. D561-2 à R561-8)](#921)
-        - [Chapitre II : Dispositions applicables à Mayotte (art. D562-1 à R562-9)](#922)
-        - [Chapitre III : Dispositions applicables en Polynésie française (art. D563-2 à R563-1)](#923)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. D564-2 à R564-8)](#924)
-    - [Livre IX : Les personnels de l'éducation. (art. R914-1 à R914-142)](#925)
-      - [Titre Ier : Dispositions générales. (art. R914-1 à R914-142)](#926)
-        - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. R914-1 à R914-142)](#927)
-          - [Section 1 : Dispositions générales. (art. R914-1 à R914-3)](#928)
-          - [Section 2 : Les organismes consultatifs. (art. R914-4 à R914-13)](#929)
-            - [Sous-section 1 : La commission consultative mixte départementale. (art. R914-4 à R914-6)](#930)
-            - [Sous-section 2 : La commission consultative mixte académique. (art. R914-7 à R914-9)](#931)
-            - [Sous-section 3 : Dispositions communes. (art. R914-10 à R914-13)](#932)
-          - [Section 3 : Recrutement des enseignants  des classes sous contrat. (art. R914-14 à R914-58)](#933)
-            - [Sous-section préliminaire : Dispositions générales (art. R914-14 à R914-19)](#934)
-            - [Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré (art. R914-19-1 à R914-19-7)](#935)
-            - [Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré. (art. R914-20 à R914-41)](#936)
-              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#937)
-              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#938)
-              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#939)
-              - [Paragraphe 4 : Stage (art. R914-32 à R914-37)](#940)
-              - [Paragraphe 5 : Cycle préparatoire (art. R914-38 à R914-41)](#941)
-            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#942)
+dans les îles Wallis et Futuna (art. D561-2 à R561-8)](#931)
+        - [Chapitre II : Dispositions applicables à Mayotte (art. D562-1 à R562-9)](#932)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. D563-2 à R563-1)](#933)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. D564-2 à R564-8)](#934)
+    - [Livre IX : Les personnels de l'éducation. (art. R914-1 à R914-142)](#935)
+      - [Titre Ier : Dispositions générales. (art. R914-1 à R914-142)](#936)
+        - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. R914-1 à R914-142)](#937)
+          - [Section 1 : Dispositions générales. (art. R914-1 à R914-3)](#938)
+          - [Section 2 : Les organismes consultatifs. (art. R914-4 à R914-13)](#939)
+            - [Sous-section 1 : La commission consultative mixte départementale. (art. R914-4 à R914-6)](#940)
+            - [Sous-section 2 : La commission consultative mixte académique. (art. R914-7 à R914-9)](#941)
+            - [Sous-section 3 : Dispositions communes. (art. R914-10 à R914-13)](#942)
+          - [Section 3 : Recrutement des enseignants  des classes sous contrat. (art. R914-14 à R914-58)](#943)
+            - [Sous-section préliminaire : Dispositions générales (art. R914-14 à R914-19)](#944)
+            - [Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré (art. R914-19-1 à R914-19-7)](#945)
+            - [Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré. (art. R914-20 à R914-41)](#946)
+              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#947)
+              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#948)
+              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#949)
+              - [Paragraphe 4 : Stage (art. R914-32 à R914-37)](#950)
+              - [Paragraphe 5 : Cycle préparatoire (art. R914-38 à R914-41)](#951)
+            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#952)
               - [Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association. (art. R914-44 à R914-52)](#943)
+des classes sous contrat d'association. (art. R914-44 à R914-52)](#953)
               - [Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple. (art. R914-53 à R914-56)](#944)
-              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#945)
-          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#946)
-            - [Sous-section 1 : Notation. (art. R914-59)](#947)
-            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#948)
-              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#949)
-              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#950)
-              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#951)
-            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#952)
-            - [Sous-section 4 : Classement. (art. R914-78 à R914-82)](#953)
-              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-78 à R914-80)](#954)
-              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#955)
-          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#956)
-            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#957)
-            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#958)
-          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#959)
-            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#960)
-            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#961)
-            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#962)
-          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#963)
-            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#964)
-            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#965)
-            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#966)
-          - [Section 8 : Droits sociaux et congés. (art. R914-105 à R914-112)](#967)
-            - [Sous-section 1 : Dispositions générales. (art. R914-105)](#968)
-            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#969)
-          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#970)
-            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#971)
-            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#972)
-          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#973)
-            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#974)
+des classes sous contrat simple. (art. R914-53 à R914-56)](#954)
+              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#955)
+          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#956)
+            - [Sous-section 1 : Notation. (art. R914-59)](#957)
+            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#958)
+              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#959)
+              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#960)
+              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#961)
+            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#962)
+            - [Sous-section 4 : Classement. (art. R914-78 à R914-82)](#963)
+              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-78 à R914-80)](#964)
+              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#965)
+          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#966)
+            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#967)
+            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#968)
+          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#969)
+            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#970)
+            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#971)
+            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#972)
+          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#973)
+            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#974)
+            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#975)
+            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#976)
+          - [Section 8 : Droits sociaux et congés. (art. R914-105 à R914-112)](#977)
+            - [Sous-section 1 : Dispositions générales. (art. R914-105)](#978)
+            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#979)
+          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#980)
+            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#981)
+            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#982)
+          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#983)
+            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#984)
               - [Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#975)
-              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#976)
-              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#977)
-              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#978)
-              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#979)
-              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#980)
-            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#981)
+du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#985)
+              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#986)
+              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#987)
+              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#988)
+              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#989)
+              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#990)
+            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#991)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -60128,8 +60138,8 @@ Trois voies de formation sont organisées dans les lycées :
 1° La voie générale conduisant au diplôme national du baccalauréat général ;
 
 2° La voie technologique conduisant au diplôme national du baccalauréat technologique et au diplôme national du brevet de
-technicien qui porte mention d'une spécialité technique. Ces diplômes attestent que leurs titulaires sont aptes à exercer une
-activité de technicien ;
+technicien qui porte mention d'une spécialité technique. Le diplôme national du brevet de technicien atteste que ses
+titulaires sont aptes à exercer une activité de technicien ;
 
 3° La voie professionnelle conduisant à la délivrance du certificat d'aptitude professionnelle, du brevet d'études
 professionnelles et du baccalauréat professionnel. Ces diplômes portent mention d'une spécialité professionnelle. 
@@ -60157,8 +60167,25 @@ arrêté du ministre chargé de l'éducation.
 Des passerelles permettant une adaptation des parcours sont organisées entre les voies générale, technologique et
 professionnelle ainsi qu'entre les cycles de la voie professionnelle. 
 
-Des dispositifs d'aide et d'accompagnement sont mis en place pour les élèves qui en ont besoin, sur proposition de l'équipe
-pédagogique de la classe.
+Des dispositifs d'accompagnement personnalisé sont mis en place pour tous les élèves selon leurs besoins dans les classes de
+seconde, première et terminale préparant aux baccalauréats général, technologique et professionnel. Ils comprennent des
+activités de soutien, d'approfondissement, d'aide méthodologique et d'aide à l'orientation, pour favoriser la maîtrise
+progressive par l'élève de son parcours de formation et d'orientation. Ils prennent notamment la forme de travaux
+interdisciplinaires (1). 
+
+Un dispositif de tutorat est proposé à tous les élèves, pour les aider à construire leur parcours de formation et
+d'orientation (1).
+
+**Nota:**
+
+(1) Décret n° 2010-100 du 27 janvier 2010 article 22 : Les dispositions du 2° de l'article 11 entrent en vigueur :
+
+- à la rentrée scolaire 2010-2011 pour les élèves qui préparent un baccalauréat professionnel et les élèves des lycées
+d'enseignement général et technologique des classes de seconde. Il en va de même des dispositions du 3° du même article 11. 
+
+- à la rentrée scolaire 2011-2012 pour les élèves des lycées d'enseignement général et technologique des classes de première.
+
+- à la rentrée scolaire 2012-2013 pour les élèves des lycées d'enseignement général et technologique des classes terminales.
 
 **Liens relatifs à cet article**
 
@@ -60187,7 +60214,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-148 du 10 février 2009 - art. 8
+  - Décret n°2010-100 du 27 janvier 2010 - art. 11
 
 
 ###### Article D333-3
@@ -63052,9 +63079,6 @@ _Cite_:
 
 ###### Article D336-1
 
-Le baccalauréat technologique est un diplôme national qui sanctionne une formation technologique du second degré et atteste
-que ses titulaires sont aptes à exercer une activité de technicien.
-
 Le diplôme national du baccalauréat technologique est délivré au vu des résultats à un examen qui sanctionne la formation
 dispensée dans les classes de première et terminale préparant à ce diplôme.
 
@@ -63068,9 +63092,9 @@ _Anciens textes_:
   - Décret n°93-1093 1993-09-15 art. 1
   - Décret n°93-1093 du 15 septembre 1993 - art. 1 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-100 du 27 janvier 2010 - art. 12
 
 _Cité par_:
 
@@ -76423,6 +76447,24 @@ _Cite_:
 
 ##### Section 1 :  Dispositions générales.<a id=688></a>
 
+###### Article D421-2-1
+
+Dans les lycées, les échanges linguistiques et culturels prévus à l'article L. 421-7 sont organisés en partenariat avec des
+établissements d'enseignement européens ou étrangers. Ces échanges peuvent se faire dans le cadre d'une mobilité d'élèves ou
+d'enseignants, individuelle ou collective, ou à distance, par des outils de communication adaptés. Ils sont mentionnés au
+projet d'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-99 du 27 janvier 2010 - art. 2
+
+_Cite_:
+
+  - Code de l'éducation - art. L421-7
+
+
 ###### Article R421-2
 
 Les collèges, les lycées, les écoles régionales du premier degré et les établissements régionaux d'enseignement adapté
@@ -76430,8 +76472,8 @@ disposent, en matière pédagogique et éducative, d'une autonomie qui porte sur
 
 1° L'organisation de l'établissement en classes et en groupes d'élèves ainsi que les modalités de répartition des élèves ; 
 
-2° L'emploi des dotations en heures d'enseignement mises à la disposition de l'établissement dans le respect des obligations
-résultant des horaires réglementaires ; 
+2° L'emploi des dotations en heures d'enseignement et, dans les lycées, d'accompagnement personnalisé mises à la disposition
+de l'établissement dans le respect des obligations résultant des horaires réglementaires ;  
 
 3° L'organisation du temps scolaire et les modalités de la vie scolaire ; 
 
@@ -76452,21 +76494,13 @@ programmation pour la cohésion sociale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-924 du 30 août 1985 - art. 2 (Ab)
-
 _Cite_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 128 (V)
+  - Loi n°2005-32 du 18 janvier 2005 - art. 128
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-99 du 27 janvier 2010 - art. 1
 
 _Cité par_:
 
@@ -76676,8 +76710,8 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ; 
 
-3° Préside le conseil d'administration, la commission permanente, le conseil de discipline et dans les lycées l'assemblée
-générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ; 
+3° Préside le conseil d'administration, la commission permanente, le conseil pédagogique, le conseil de discipline et dans
+les lycées l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ; 
 
 4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
 
@@ -76687,8 +76721,13 @@ l'établissement, le projet de budget ;
 
 6° Exécute les délibérations du conseil d'administration et notamment le budget adopté par le conseil ; 
 
-7° Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article R. 421-2 et exécute les
-décisions adoptées par le conseil ; 
+7° Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article R. 421-2 après saisine pour
+instruction de la commission permanente en application de l'article R. 421-41 et exécute les décisions adoptées par le
+conseil. Dans l'hypothèse où la proposition relative à l'emploi des dotations en heures est rejetée par le conseil
+d'administration, la commission permanente procède à une nouvelle instruction avant qu'une nouvelle proposition soit soumise
+au vote du conseil d'administration. Le second vote du conseil doit intervenir dans un délai de dix jours suivant son premier
+vote. En cas de rejet de cette seconde proposition, le chef d'établissement en qualité de représentant de l'Etat arrête
+l'emploi des dotations en heures ; 
 
 8° Conclut tout contrat ou convention après avoir recueilli, sous réserve des dispositions de l'article R. 421-20,
 l'autorisation du conseil d'administration. 
@@ -76700,36 +76739,31 @@ dernier les documents y afférents ;
 9° Transmet les actes de l'établissement dans les conditions fixées aux articles L. 421-11 et L. 421-14, conformément aux
 dispositions des articles R. 421-54 et R. 421-55 ; 
 
-10° Organise les élections des instances énumérées au 3°, veille à leur bon déroulement et en proclame les résultats. 
+10° Organise les élections des instances énumérées au 3°, veille à leur bon déroulement et en proclame les résultats ; 
+
+11° Désigne les membres du conseil pédagogique, après consultation des équipes pédagogiques intéressées. 
 
 Lorsque l'établissement est associé, pour la mise en œuvre de ses missions de formation continue, à un groupement
 d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions
 s'inscrivant dans le programme des actions de formation continue de son établissement, qui ont été signées par l'ordonnateur
-de l'établissement, dit « établissement support », auquel a été confiée la gestion du groupement. Il soumet ces conventions à
+de l'établissement, dit établissement support, auquel a été confiée la gestion du groupement. Il soumet ces conventions à
 l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles
 d'entraîner des conséquences sur la formation initiale et la vie scolaire.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 8 al 2 à 14 (V)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-99 du 27 janvier 2010 - art. 3
 
 _Cite_:
 
-  - Code de l'éducation - art. L421-11 (V)
-  - Code de l'éducation - art. L421-14 (V)
-  - Code de l'éducation - art. R421-2 (V)
-  - Code de l'éducation - art. R421-20 (V)
-  - Code de l'éducation - art. R421-54 (V)
+  - Code de l'éducation - art. L421-11
+  - Code de l'éducation - art. L421-14
+  - Code de l'éducation - art. R421-2
+  - Code de l'éducation - art. R421-20
+  - Code de l'éducation - art. R421-41
+  - Code de l'éducation - art. R421-54
 
 _Cité par_:
 
@@ -77142,9 +77176,9 @@ domaines définis à l'article R. 421-2 et, en particulier, les règles d'organi
 2° Il adopte le projet d'établissement et approuve le contrat d'objectifs qui doit avoir été communiqué à la collectivité
 territoriale au moins un mois avant la réunion du conseil ; 
 
-3° Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement et ses conditions matérielles de
-fonctionnement. Ce rapport rend compte notamment de la mise en œuvre du projet d'établissement, des expérimentations menées
-par l'établissement et du contrat d'objectifs ; 
+3° Il délibère chaque année sur le rapport relatif au fonctionnement pédagogique de l'établissement et à ses conditions
+matérielles de fonctionnement. Ce rapport rend compte notamment de la mise en œuvre du projet d'établissement, des
+expérimentations menées par l'établissement et du contrat d'objectifs ; 
 
 4° Il adopte : 
 
@@ -77205,17 +77239,9 @@ parité, à des représentants des organisations représentatives au plan dépar
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 16, alinéas 1 à 25 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-99 du 27 janvier 2010 - art. 4
 
 _Cité par_:
 
@@ -77227,8 +77253,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. R421-2 (V)
-  - Code de l'éducation - art. R421-60 (V)
+  - Code de l'éducation - art. R421-2
+  - Code de l'éducation - art. R421-60
 
 
 ###### Article R421-21
@@ -77924,7 +77950,7 @@ _Cite_:
 
 La commission permanente instruit les questions soumises à l'examen du conseil d'administration. Elle est saisie
 obligatoirement des questions qui relèvent des domaines définis à l'article R. 421-2. Elle veille à ce qu'il soit procédé à
-toutes consultations utiles, et notamment à celles des équipes pédagogiques intéressées. 
+toutes consultations utiles, et notamment à celles des équipes pédagogiques intéressées ainsi que du conseil pédagogique. 
 
 Elle peut recevoir délégation du conseil d'administration pour exercer certaines de ses compétences, dans les conditions
 prévues à l'article R. 421-22. Les décisions prises sur délégation sont transmises aux membres du conseil d'administration
@@ -77940,33 +77966,168 @@ permanente.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 28 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-99 du 27 janvier 2010 - art. 5
 
 _Cite_:
 
-  - Code de l'éducation - art. R421-2 (V)
-  - Code de l'éducation - art. R421-22 (V)
-  - Code de l'éducation - art. R421-25 (V)
-  - Code de l'éducation - art. R421-35 (V)
+  - Code de l'éducation - art. R421-2
+  - Code de l'éducation - art. R421-22
+  - Code de l'éducation - art. R421-25
+  - Code de l'éducation - art. R421-35
 
 _Cité par_:
 
   - Code de l'éducation - art. R421-9 (V)
 
 
-##### Sous-section 4 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté.<a id=699></a>
+##### Sous-section 4 : Le conseil pédagogique<a id=699></a>
 
-##### Paragraphe 1 : L'assemblée générale des délégués des élèves.<a id=700></a>
+##### Paragraphe 1 : Composition<a id=700></a>
+
+###### Article R421-41-1
+
+Le conseil pédagogique comprend les membres mentionnés au deuxième alinéa de l'article L. 421-5. Le nombre des professeurs
+s'ajoutant à ceux prévus par cette disposition est arrêté par le conseil d'administration. 
+
+Le chef d'établissement désigne, en début d'année scolaire, les membres du conseil pédagogique et les suppléants éventuels
+parmi les personnels volontaires, après consultation des équipes pédagogiques intéressées. Il en informe le conseil
+d'administration lors de la réunion qui suit cette désignation. Il porte la composition du conseil pédagogique à la
+connaissance de la communauté éducative par voie d'affichage. 
+
+En cas d'absence ou d'empêchement du chef d'établissement, le conseil pédagogique est présidé par son adjoint.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+_Cite_:
+
+  - Code de l'éducation - art. L421-5
+
+
+###### Article R421-41-2
+
+Le conseil pédagogique peut entendre toute personne dont la consultation est jugée utile en fonction des sujets traités et
+des caractéristiques de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+
+##### Paragraphe 2 : Compétences<a id=701></a>
+
+###### Article R421-41-3
+
+Pour l'exercice des compétences définies à l'article L. 421-5, le conseil pédagogique : 
+
+1° Est consulté sur :
+
+- la coordination des enseignements ;
+
+- l'organisation des enseignements en groupes de compétences ;
+
+- les dispositifs d'aide et de soutien aux élèves ;
+
+- la coordination relative à la notation et à l'évaluation des activités scolaires ;
+
+- les modalités générales d'accompagnement des changements d'orientation ;
+
+- les modalités des échanges linguistiques et culturels en partenariat avec les établissements d'enseignement européens et
+étrangers. 
+
+2° Formule des propositions quant aux modalités d'organisation de l'accompagnement personnalisé, que le chef d'établissement
+soumet ensuite au conseil d'administration. 
+
+3° Prépare en liaison avec les équipes pédagogiques :
+
+- la partie pédagogique du projet d'établissement, en vue de son adoption par le conseil d'administration ;
+
+- les propositions d'expérimentation pédagogique, dans les domaines définis par l'article L. 401-1 du code de l'éducation. 
+
+4° Assiste le chef d'établissement pour l'élaboration du rapport sur le fonctionnement pédagogique de l'établissement
+mentionné au 3° de l'article R. 421-20.
+
+5° Peut être saisi, pour avis, de toutes questions d'ordre pédagogique par le chef d'établissement, le conseil
+d'administration ou la commission permanente.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 27 janvier 2010 - art. 4 (VT)
+  - Arrêté du 27 janvier 2010 - art. 7 (VT)
+  - Arrêté du 27 mai 2010 - art. 3 (VT)
+  - Arrêté du 11 mars 2015 - art. 3 (VT)
+  - Décret n°2015-1394 du 2 novembre 2015 - art. 1 (V)
+  - Arrêté du 16 juillet 2018 - art. 5 (VD)
+  - Arrêté du 31 juillet 2018 - art. 5 (V)
+  - Code de l'éducation - art. D332-4 (V)
+
+_Créé par_:
+
+  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+_Cite_:
+
+  - Code de l'éducation - art. L401-1
+  - Code de l'éducation - art. L421-20
+  - Code de l'éducation - art. L421-5
+
+
+##### Paragraphe 3 : Fonctionnement<a id=702></a>
+
+###### Article R421-41-4
+
+Le président fixe l'ordre du jour, les dates et heures des séances du conseil. Il convoque les membres du conseil pédagogique
+au moins huit jours avant la séance, ce délai pouvant être ramené à trois jours en cas d'urgence.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 27 janvier 2010 - art. 4 (V)
+
+_Créé par_:
+
+  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+
+###### Article R421-41-5
+
+Le conseil pédagogique se réunit au moins trois fois par an et en tant que de besoin à l'initiative de son président ou à la
+demande de la majorité de ses membres. Il établit son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+
+###### Article R421-41-6
+
+Le conseil pédagogique ne peut valablement siéger que si le nombre des membres présents, en début de séance, est égal à la
+majorité des membres composant le conseil. Si ce quorum n'est pas atteint, le conseil pédagogique est convoqué, au plus tôt
+le jour suivant celui de sa première convocation et au plus tard avant la tenue du conseil d'administration le plus proche,
+en vue d'une nouvelle réunion ; il se prononce alors valablement, quel que soit le nombre des membres présents.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+
+##### Sous-section 4 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté.<a id=703></a>
+
+##### Paragraphe 1 : L'assemblée générale des délégués des élèves.<a id=704></a>
 
 ###### Article R421-42
 
@@ -77974,31 +78135,20 @@ Dans les lycées, l'ensemble des délégués des élèves est réuni en assembl�
 d'établissement au moins deux fois par an, dont une fois avant la fin de la septième semaine de l'année scolaire. Le ou les
 adjoints du chef d'établissement et les conseillers principaux d'éducation assistent aux réunions.
 
-Au cours de sa première réunion, il est procédé à l'élection :
-
-1° Des représentants des délégués des élèves au conseil d'administration ;
-
-2° Des trois représentants des délégués des élèves au conseil des délégués pour la vie lycéenne.
+Au cours de sa première réunion, il est procédé à l'élection des représentants des délégués des élèves au conseil
+d'administration. 
 
 L'assemblée générale des délégués des élèves constitue un lieu d'échanges sur les questions relatives à la vie et au travail
 scolaires.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 29 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-99 du 27 janvier 2010 - art. 7
 
 
-##### Paragraphe 2 : Le conseil des délégués pour la vie lycéenne.<a id=701></a>
+##### Paragraphe 2 : Le conseil des délégués pour la vie lycéenne.<a id=705></a>
 
 ###### Article R421-43
 
@@ -78055,22 +78205,25 @@ _Cité par_:
 Le conseil des délégués pour la vie lycéenne exerce les attributions suivantes : 
 
 1° Il formule des propositions sur la formation des représentants des élèves et les conditions d'utilisation des fonds
-lycéens ;
+lycéens ; 
 
-2° Il est obligatoirement consulté :
+2° Il est obligatoirement consulté : 
 
-a) Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire et
-sur l'élaboration du projet d'établissement et du règlement intérieur ; 
+a) Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire, sur
+l'élaboration du projet d'établissement et du règlement intérieur, ainsi que sur les questions de restauration et
+d'internat ; 
 
-b) Sur les modalités générales de l'organisation du travail personnel et du soutien des élèves, sur l'information liée à
-l'orientation et portant sur les études scolaires et universitaires, sur les carrières professionnelles ; 
+b) Sur les modalités générales de l'organisation du travail personnel, de l'accompagnement personnalisé, des dispositifs
+d'accompagnement des changements d'orientation, du soutien et de l'aide aux élèves, des échanges linguistiques et culturels
+en partenariat avec les établissements d'enseignement européens et étrangers et sur l'information relative à l'orientation,
+aux études scolaires et universitaires et aux carrières professionnelles ; 
 
 c) Sur la santé, l'hygiène et la sécurité, sur l'aménagement des espaces destinés à la vie lycéenne et sur l'organisation des
-activités sportives, culturelles et périscolaires. 
+activités sportives, culturelles et périscolaires.
 
-Ses avis et ses propositions, ainsi que les comptes rendus de séance, sont portés à la connaissance et, le cas échéant,
-inscrits à l'ordre du jour du conseil d'administration et peuvent faire l'objet d'un affichage conformément aux dispositions
-de l'article 8-1 du décret n° 85-924 du 30 août 1985 relatif aux établissements publics locaux d'enseignement.
+Le vice-président du conseil des délégués pour la vie lycéenne présente au conseil d'administration les avis et les
+propositions, ainsi que les comptes rendus de séance du conseil des délégués de la vie lycéenne, qui sont, le cas échéant,
+inscrits à l'ordre du jour et peuvent faire l'objet d'un affichage dans les conditions prévues à l'article R. 511-7.
 
 Le conseil des délégués pour la vie lycéenne se réunit, sur convocation du chef d'établissement, avant chaque séance
 ordinaire du conseil d'administration. Il est, en outre, réuni en séance extraordinaire, à la demande de la moitié de ses
@@ -78083,25 +78236,17 @@ au maximum. Le conseil délibère alors valablement quel que soit le nombre des 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 30-1 (Ab)
-
-_Cite_:
-
-  - Décret n°85-924 du 30 août 1985 - art. 8-1 (V)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-99 du 27 janvier 2010 - art. 9
 
 _Cité par_:
 
   - Code de l'éducation - art. D421-162 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-7
 
 
 ###### Article R421-45
@@ -78109,30 +78254,21 @@ _Cité par_:
 Les élections de l'ensemble des représentants lycéens au conseil des délégués pour la vie lycéenne ont lieu au plus tard
 avant la fin de la septième semaine de l'année scolaire.
 
-Pour les sièges à pourvoir au suffrage direct, le chef d'établissement recueille les candidatures qui lui parviennent dix
-jours au moins avant la date du scrutin. Chaque candidature comporte le nom d'un titulaire et d'un suppléant. Les élèves dont
-la scolarité se déroule en dehors de l'établissement peuvent voter par correspondance selon des modalités fixées par le
-règlement intérieur de l'établissement.
+Le chef d'établissement recueille les candidatures qui lui parviennent dix jours au moins avant la date du scrutin. Chaque
+candidature comporte le nom d'un titulaire et d'un suppléant. Les élèves dont la scolarité se déroule en dehors de
+l'établissement peuvent voter par correspondance selon des modalités fixées par le règlement intérieur de l'établissement. 
 
 Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours ouvrables à compter de
 la proclamation des résultats devant le chef d'établissement, qui statue dans un délai de huit jours.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-924 du 30 août 1985 - art. 30-2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-99 du 27 janvier 2010 - art. 10
 
 
-##### Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté.<a id=702></a>
+##### Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté.<a id=706></a>
 
 ###### Article R421-46
 
@@ -78191,7 +78327,17 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 5 : Autres conseils compétents en matière de scolarité.<a id=703></a>
+##### Sous-section 5 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté<a id=707></a>
+
+##### Paragraphe 1 : L'assemblée générale des délégués des élèves.<a id=708></a>
+
+##### Paragraphe 2 : Le conseil des délégués pour la vie lycéenne.<a id=709></a>
+
+##### Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté.<a id=710></a>
+
+##### Sous-section 5 : Autres conseils compétents en matière de scolarité.<a id=711></a>
+
+##### Sous-section 6 : Autres conseils compétents en matière de scolarité<a id=712></a>
 
 ###### Article R421-48
 
@@ -78398,7 +78544,9 @@ _Cité par_:
   - Code de l'éducation - art. R412-3 (VD)
 
 
-##### Sous-section 6 : Relations avec les autorités de tutelle.<a id=704></a>
+##### Sous-section 6 : Relations avec les autorités de tutelle.<a id=713></a>
+
+##### Sous-section 7 : Relations avec les autorités de tutelle<a id=714></a>
 
 ###### Article R421-54
 
@@ -78524,7 +78672,7 @@ _Cité par_:
   - Code de l'éducation - art. R421-78-1 (V)
 
 
-##### Section 3 : Organisation financière.<a id=705></a>
+##### Section 3 : Organisation financière.<a id=715></a>
 
 ###### Article R421-57
 
@@ -79194,9 +79342,9 @@ _Cité par_:
   - Code de l'éducation - art. R421-1 (V)
 
 
-##### Section 5 : Dispositions applicables aux lycées professionnels maritimes.<a id=706></a>
+##### Section 5 : Dispositions applicables aux lycées professionnels maritimes.<a id=716></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=707></a>
+##### Sous-section 1 : Dispositions générales.<a id=717></a>
 
 ###### Article R421-79
 
@@ -79305,9 +79453,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 2 : Organisation administrative.<a id=708></a>
+##### Sous-section 2 : Organisation administrative.<a id=718></a>
 
-##### Paragraphe 1 : Le chef d'établissement.<a id=709></a>
+##### Paragraphe 1 : Le chef d'établissement.<a id=719></a>
 
 ###### Article R421-83
 
@@ -79500,9 +79648,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Paragraphe 2 : Le conseil d'administration.<a id=710></a>
+##### Paragraphe 2 : Le conseil d'administration.<a id=720></a>
 
-##### Sous-paragraphe 1 : Composition.<a id=711></a>
+##### Sous-paragraphe 1 : Composition.<a id=721></a>
 
 ###### Article R421-89
 
@@ -79591,7 +79739,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-paragraphe 2 : Compétences.<a id=712></a>
+##### Sous-paragraphe 2 : Compétences.<a id=722></a>
 
 ###### Article R421-92
 
@@ -79767,7 +79915,7 @@ _Cite_:
   - Code de l'éducation - art. L521-3 (V)
 
 
-##### Sous-paragraphe 3 : Fonctionnement.<a id=713></a>
+##### Sous-paragraphe 3 : Fonctionnement.<a id=723></a>
 
 ###### Article R421-96
 
@@ -79800,7 +79948,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-paragraphe 4 : Election et désignation.<a id=714></a>
+##### Sous-paragraphe 4 : Election et désignation.<a id=724></a>
 
 ###### Article R421-97
 
@@ -80027,7 +80175,7 @@ _Cite_:
   - Code pénal - art. 131-26 (V)
 
 
-##### Paragraphe 3 : Autres conseils.<a id=715></a>
+##### Paragraphe 3 : Autres conseils.<a id=725></a>
 
 ###### Article R421-107
 
@@ -80050,9 +80198,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 3 : Organisation financière.<a id=716></a>
+##### Sous-section 3 : Organisation financière.<a id=726></a>
 
-##### Paragraphe unique : Dispositions générales.<a id=717></a>
+##### Paragraphe unique : Dispositions générales.<a id=727></a>
 
 ###### Article R421-108
 
@@ -80659,7 +80807,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 6 : Dispositions applicables aux lycées d'enseignement général,  technologique et professionnel agricoles.<a id=718></a>
+##### Section 6 : Dispositions applicables aux lycées d'enseignement général,  technologique et professionnel agricoles.<a id=728></a>
 
 ###### Article R421-130
 
@@ -80678,9 +80826,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 7 : Dispositions diverses.<a id=719></a>
+##### Section 7 : Dispositions diverses.<a id=729></a>
 
-##### Sous-section 1 : Les sections internationales.<a id=720></a>
+##### Sous-section 1 : Les sections internationales.<a id=730></a>
 
 ###### Article D421-131
 
@@ -81084,9 +81232,9 @@ _Cité par_:
   - Arrêté du 2 juin 2010 - art. 7 (VD)
 
 
-##### Sous-section 2 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel.<a id=721></a>
+##### Sous-section 2 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel.<a id=731></a>
 
-##### Paragraphe 1 : Rôle de l'inspection du travail.<a id=722></a>
+##### Paragraphe 1 : Rôle de l'inspection du travail.<a id=732></a>
 
 ###### Article D421-144
 
@@ -81236,9 +81384,9 @@ _Cite_:
   - Code du travail - art. L4221-1 (V)
 
 
-##### Paragraphe 2 : La commission d'hygiène et de sécurité.<a id=723></a>
+##### Paragraphe 2 : La commission d'hygiène et de sécurité.<a id=733></a>
 
-##### Sous-paragraphe 1 : Composition et désignation.<a id=724></a>
+##### Sous-paragraphe 1 : Composition et désignation.<a id=734></a>
 
 ###### Article D421-151
 
@@ -81328,7 +81476,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-paragraphe 2 : Fonctionnement et compétences.<a id=725></a>
+##### Sous-paragraphe 2 : Fonctionnement et compétences.<a id=735></a>
 
 ###### Article D421-153
 
@@ -81486,11 +81634,11 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement.<a id=726></a>
+#### Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement.<a id=736></a>
 
-##### Section 1 : Les établissements d'Etat.<a id=727></a>
+##### Section 1 : Les établissements d'Etat.<a id=737></a>
 
-##### Sous-section 1 : Les établissements relevant du ministère de l'éducation nationale.<a id=728></a>
+##### Sous-section 1 : Les établissements relevant du ministère de l'éducation nationale.<a id=738></a>
 
 ###### Article D422-1
 
@@ -81630,9 +81778,9 @@ _Cite_:
   - Code de l'éducation - art. L216-1 (V)
 
 
-##### Paragraphe 1 : Organisation administrative.<a id=729></a>
+##### Paragraphe 1 : Organisation administrative.<a id=739></a>
 
-##### Sous-paragraphe 1 : Le chef d'établissement.<a id=730></a>
+##### Sous-paragraphe 1 : Le chef d'établissement.<a id=740></a>
 
 ###### Article D422-5
 
@@ -81867,7 +82015,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-paragraphe 2 : Le conseil d'administration.<a id=731></a>
+##### Sous-paragraphe 2 : Le conseil d'administration.<a id=741></a>
 
 ###### Article D422-12
 
@@ -82681,7 +82829,7 @@ _Cite_:
   - Code de l'éducation - art. D422-2 (V)
 
 
-##### Sous-paragraphe 3 : La commission permanente.<a id=732></a>
+##### Sous-paragraphe 3 : La commission permanente.<a id=742></a>
 
 ###### Article D422-32
 
@@ -82773,7 +82921,7 @@ _Cité par_:
   - Code de l'éducation - art. D422-63 (VD)
 
 
-##### Sous-paragraphe 4 : L'assemblée générale des délégués des élèves, le conseil des délégués  pour la vie lycéenne et le conseil de section internationale.<a id=733></a>
+##### Sous-paragraphe 4 : L'assemblée générale des délégués des élèves, le conseil des délégués  pour la vie lycéenne et le conseil de section internationale.<a id=743></a>
 
 ###### Article D422-34
 
@@ -82994,7 +83142,7 @@ _Cité par_:
   - Code de l'éducation - art. D494-1 (V)
 
 
-##### Sous-paragraphe 5 : Autres conseils compétents en matière de scolarité.<a id=734></a>
+##### Sous-paragraphe 5 : Autres conseils compétents en matière de scolarité.<a id=744></a>
 
 ###### Article D422-40
 
@@ -83164,9 +83312,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Paragraphe 2 : Organisation financière.<a id=735></a>
+##### Paragraphe 2 : Organisation financière.<a id=745></a>
 
-##### Sous-paragraphe 1 : Dispositions générales.<a id=736></a>
+##### Sous-paragraphe 1 : Dispositions générales.<a id=746></a>
 
 ###### Article D422-45
 
@@ -83445,7 +83593,7 @@ _Abrogé par_:
   - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
-##### Sous-paragraphe 2 : Le service annexe d'hébergement.<a id=737></a>
+##### Sous-paragraphe 2 : Le service annexe d'hébergement.<a id=747></a>
 
 ###### Article D422-54
 
@@ -83650,7 +83798,7 @@ _Cite_:
   - Code de l'éducation - art. D422-9 (V)
 
 
-##### Sous-section 2 : Les établissements relevant du ministère de l'agriculture.<a id=738></a>
+##### Sous-section 2 : Les établissements relevant du ministère de l'agriculture.<a id=748></a>
 
 ###### Article R422-60
 
@@ -83680,7 +83828,7 @@ _Cité par_:
   - Code de l'éducation - art. D494-1 (V)
 
 
-##### Section 2 : Les établissements municipaux ou départementaux.<a id=739></a>
+##### Section 2 : Les établissements municipaux ou départementaux.<a id=749></a>
 
 ###### Article D422-61
 
@@ -83907,13 +84055,13 @@ _Cite_:
   - Code de l'éducation - art. D422-61 (V)
 
 
-#### Chapitre III : Les groupements d'établissements scolaires publics.<a id=740></a>
+#### Chapitre III : Les groupements d'établissements scolaires publics.<a id=750></a>
 
-##### Section 1 : La formation professionnelle tout au long de la vie.<a id=741></a>
+##### Section 1 : La formation professionnelle tout au long de la vie.<a id=751></a>
 
-##### Sous-section 1 : Les groupements d'établissements.<a id=742></a>
+##### Sous-section 1 : Les groupements d'établissements.<a id=752></a>
 
-##### Paragraphe 1 : Les groupements d'établissements  relevant du ministère de l'éducation nationale.<a id=743></a>
+##### Paragraphe 1 : Les groupements d'établissements  relevant du ministère de l'éducation nationale.<a id=753></a>
 
 ###### Article D423-1
 
@@ -84443,7 +84591,7 @@ _Abrogé par_:
   - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 
-##### Paragraphe 2 : Dispositions relatives aux établissements  d'enseignement agricole.<a id=744></a>
+##### Paragraphe 2 : Dispositions relatives aux établissements  d'enseignement agricole.<a id=754></a>
 
 ###### Article D423-16
 
@@ -84495,7 +84643,7 @@ _Cite_:
   - Code de l'éducation - art. L423-1 (V)
 
 
-##### Paragraphe 3 : Dispositions communes aux groupements d'établissements relevant du ministère de l'éducation nationale et du ministère de l'agriculture.<a id=745></a>
+##### Paragraphe 3 : Dispositions communes aux groupements d'établissements relevant du ministère de l'éducation nationale et du ministère de l'agriculture.<a id=755></a>
 
 ###### Article D423-18
 
@@ -84523,7 +84671,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 2 : Les groupements d'intérêt public pour la formation professionnelle continue et l'insertion professionnelle institués dans l'académie.<a id=746></a>
+##### Sous-section 2 : Les groupements d'intérêt public pour la formation professionnelle continue et l'insertion professionnelle institués dans l'académie.<a id=756></a>
 
 ###### Article R423-19
 
@@ -84830,7 +84978,7 @@ _Cité par_:
   - Code de l'éducation - art. R423-25 (Ab)
 
 
-##### Section 2 : Innovation et transfert de technologie.<a id=747></a>
+##### Section 2 : Innovation et transfert de technologie.<a id=757></a>
 
 ###### Article D423-28
 
@@ -85139,7 +85287,7 @@ _Cité par_:
   - Code de l'éducation - art. D423-31 (Ab)
 
 
-#### Chapitre IV : Les écoles de métiers.<a id=748></a>
+#### Chapitre IV : Les écoles de métiers.<a id=758></a>
 
 ###### Article D424-1
 
@@ -85162,9 +85310,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre V : Les lycées de la défense.<a id=749></a>
+#### Chapitre V : Les lycées de la défense.<a id=759></a>
 
-##### Section 1 : Dispositions générales.<a id=750></a>
+##### Section 1 : Dispositions générales.<a id=760></a>
 
 ###### Article R425-1
 
@@ -85314,7 +85462,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 2 : Modalités d'admission et scolarité.<a id=751></a>
+##### Section 2 : Modalités d'admission et scolarité.<a id=761></a>
 
 ###### Article R425-7
 
@@ -85509,7 +85657,7 @@ _Modifié par_:
   - Décret n°2008-803 du 20 août 2008 - art. 2
 
 
-##### Section 3 : Droits et obligations des élèves.<a id=752></a>
+##### Section 3 : Droits et obligations des élèves.<a id=762></a>
 
 ###### Article R425-14
 
@@ -85590,7 +85738,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 4 : Frais de trousseau et de pension.<a id=753></a>
+##### Section 4 : Frais de trousseau et de pension.<a id=763></a>
 
 ###### Article R425-17
 
@@ -85737,9 +85885,9 @@ _Cité par_:
   - Décret n°2016-26 du 18 janvier 2016 (V)
 
 
-#### Chapitre VI : Le Centre national d'enseignement à distance.<a id=754></a>
+#### Chapitre VI : Le Centre national d'enseignement à distance.<a id=764></a>
 
-##### Section 1 : Dispositions générales.<a id=755></a>
+##### Section 1 : Dispositions générales.<a id=765></a>
 
 ###### Article R426-1
 
@@ -85869,7 +86017,7 @@ _Cité par_:
   - Code de l'éducation - art. R426-7 (V)
 
 
-##### Section 2 : Organisation administrative.<a id=756></a>
+##### Section 2 : Organisation administrative.<a id=766></a>
 
 ###### Article R426-4
 
@@ -85891,7 +86039,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 1 : Le conseil d'administration.<a id=757></a>
+##### Sous-section 1 : Le conseil d'administration.<a id=767></a>
 
 ###### Article R426-5
 
@@ -86087,7 +86235,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 2 : Le directeur général et le secrétaire général.<a id=758></a>
+##### Sous-section 2 : Le directeur général et le secrétaire général.<a id=768></a>
 
 ###### Article R426-10
 
@@ -86163,7 +86311,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 3 : Le conseil d'orientation.<a id=759></a>
+##### Sous-section 3 : Le conseil d'orientation.<a id=769></a>
 
 ###### Article R426-12
 
@@ -86236,7 +86384,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 4 : Dispositions diverses.<a id=760></a>
+##### Sous-section 4 : Dispositions diverses.<a id=770></a>
 
 ###### Article R426-14
 
@@ -86334,7 +86482,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 3 : Organisation financière.<a id=761></a>
+##### Section 3 : Organisation financière.<a id=771></a>
 
 ###### Article R426-18
 
@@ -86516,11 +86664,11 @@ _Abrogé par_:
   - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
-### Titre III : Les centres de formation d'apprentis.<a id=762></a>
+### Titre III : Les centres de formation d'apprentis.<a id=772></a>
 
-#### Chapitre unique : Création et fonctionnement des centres de formation d'apprentis, des sections d'apprentissage et des unités de formation par apprentissage.<a id=763></a>
+#### Chapitre unique : Création et fonctionnement des centres de formation d'apprentis, des sections d'apprentissage et des unités de formation par apprentissage.<a id=773></a>
 
-##### Section 1 : Institutions et personnel.<a id=764></a>
+##### Section 1 : Institutions et personnel.<a id=774></a>
 
 ###### Article 431-3
 
@@ -86626,7 +86774,7 @@ _Cite_:
   - Code du travail - art. R116-26 (V)
 
 
-##### Section 2 : Contrôle.<a id=765></a>
+##### Section 2 : Contrôle.<a id=775></a>
 
 ###### Article R431-5
 
@@ -86669,7 +86817,7 @@ _Cite_:
   - Code de l'éducation - art. R241-22 (V)
 
 
-##### Section 3 : Centres de formation d'apprentis  agricoles et sections d'apprentissage agricoles.<a id=766></a>
+##### Section 3 : Centres de formation d'apprentis  agricoles et sections d'apprentissage agricoles.<a id=776></a>
 
 ###### Article R431-7
 
@@ -86686,13 +86834,13 @@ _Cite_:
   - Code rural - art. R811-46 (V)
 
 
-### Titre IV : Les établissements d'enseignement privés.<a id=767></a>
+### Titre IV : Les établissements d'enseignement privés.<a id=777></a>
 
-#### Chapitre Ier : L'ouverture des établissements  d'enseignement privés.<a id=768></a>
+#### Chapitre Ier : L'ouverture des établissements  d'enseignement privés.<a id=778></a>
 
-##### Section 1 : L'ouverture des établissements  d'enseignement du premier degré privés.<a id=769></a>
+##### Section 1 : L'ouverture des établissements  d'enseignement du premier degré privés.<a id=779></a>
 
-##### Sous-section 1 : Conditions générales d'ouverture.<a id=770></a>
+##### Sous-section 1 : Conditions générales d'ouverture.<a id=780></a>
 
 ###### Article R441-1
 
@@ -86797,7 +86945,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 2 : Conditions particulières d'ouverture  d'école primaire privée avec pensionnat.<a id=771></a>
+##### Sous-section 2 : Conditions particulières d'ouverture  d'école primaire privée avec pensionnat.<a id=781></a>
 
 ###### Article D441-7
 
@@ -86934,9 +87082,9 @@ _Cite_:
   - Code de l'éducation - art. L441-4 (V)
 
 
-##### Section 2 : L'ouverture des établissements d'enseignement  du second degré privés.<a id=772></a>
+##### Section 2 : L'ouverture des établissements d'enseignement  du second degré privés.<a id=782></a>
 
-##### Sous-section 1 : Délivrance des certificats de stage.<a id=773></a>
+##### Sous-section 1 : Délivrance des certificats de stage.<a id=783></a>
 
 ###### Article D441-11
 
@@ -86982,7 +87130,7 @@ _Abrogé par_:
   - Décret n°2018-407 du 29 mai 2018 - art. 1
 
 
-##### Sous-section 2 : Opposition à l'ouverture  d'un établissement d'enseignement secondaire privé.<a id=774></a>
+##### Sous-section 2 : Opposition à l'ouverture  d'un établissement d'enseignement secondaire privé.<a id=784></a>
 
 ###### Article R441-13
 
@@ -87030,7 +87178,7 @@ _Cite_:
   - Code de l'éducation - art. L914-6
 
 
-##### Sous-section 3 : Dispositions particulières.<a id=775></a>
+##### Sous-section 3 : Dispositions particulières.<a id=785></a>
 
 ###### Article R441-15
 
@@ -87056,7 +87204,7 @@ _Cite_:
   - Code de l'éducation - art. L234-6 (V)
 
 
-##### Section 3 : L'ouverture des établissements d'enseignement technique privés.<a id=776></a>
+##### Section 3 : L'ouverture des établissements d'enseignement technique privés.<a id=786></a>
 
 ###### Article D441-16
 
@@ -87082,13 +87230,13 @@ _Abrogé par_:
   - Décret n°2018-407 du 29 mai 2018 - art. 1
 
 
-#### Chapitre II : Rapports entre l'Etat  et les établissements d'enseignement privés.<a id=777></a>
+#### Chapitre II : Rapports entre l'Etat  et les établissements d'enseignement privés.<a id=787></a>
 
-##### Section 1 : Contrôle de l'Etat sur les établissements  d'enseignement privés.<a id=778></a>
+##### Section 1 : Contrôle de l'Etat sur les établissements  d'enseignement privés.<a id=788></a>
 
-##### Sous-section 1 : Dispositions applicables à tous les établissements d'enseignement privés.<a id=779></a>
+##### Sous-section 1 : Dispositions applicables à tous les établissements d'enseignement privés.<a id=789></a>
 
-##### Paragraphe 1 : Registre du personnel.<a id=780></a>
+##### Paragraphe 1 : Registre du personnel.<a id=790></a>
 
 ###### Article R442-1
 
@@ -87126,7 +87274,7 @@ _Cité par_:
   - Code de l'éducation - art. R494-10 (V)
 
 
-##### Paragraphe 2 : Etablissements bénéficiant d'une garantie d'emprunt.<a id=781></a>
+##### Paragraphe 2 : Etablissements bénéficiant d'une garantie d'emprunt.<a id=791></a>
 
 ###### Article D442-2
 
@@ -87259,9 +87407,9 @@ _Cite_:
   - Code de l'éducation - art. D442-2 (V)
 
 
-##### Sous-section 2 : Dispositions applicables aux établissements d'enseignement privés placés sous contrat d'association ou sous contrat simple.<a id=782></a>
+##### Sous-section 2 : Dispositions applicables aux établissements d'enseignement privés placés sous contrat d'association ou sous contrat simple.<a id=792></a>
 
-##### Paragraphe 1 : Organisation pédagogique.<a id=783></a>
+##### Paragraphe 1 : Organisation pédagogique.<a id=793></a>
 
 ###### Article D442-7
 
@@ -87318,7 +87466,7 @@ _Cite_:
   - Code de l'éducation - art. L471-2 (V)
 
 
-##### Paragraphe 2 : Contrôle financier et administratif.<a id=784></a>
+##### Paragraphe 2 : Contrôle financier et administratif.<a id=794></a>
 
 ###### Article R442-9
 
@@ -87754,7 +87902,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 3 : Dispositions applicables aux établissements d'enseignement privés hors contrat.<a id=785></a>
+##### Sous-section 3 : Dispositions applicables aux établissements d'enseignement privés hors contrat.<a id=795></a>
 
 ###### Article D442-22
 
@@ -87776,9 +87924,9 @@ _Cité par_:
   - Code de l'éducation - art. R494-10 (V)
 
 
-##### Section 2 : Demandes d'intégration d'établissements d'enseignement privés dans l'enseignement public.<a id=786></a>
+##### Section 2 : Demandes d'intégration d'établissements d'enseignement privés dans l'enseignement public.<a id=796></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=787></a>
+##### Sous-section 1 : Dispositions générales.<a id=797></a>
 
 ###### Article R442-23
 
@@ -87890,7 +88038,7 @@ _Cite_:
   - Code de l'éducation - art. R442-23 (V)
 
 
-##### Sous-section 2 : Dispositions relatives au personnel.<a id=788></a>
+##### Sous-section 2 : Dispositions relatives au personnel.<a id=798></a>
 
 ###### Article R442-27
 
@@ -87913,7 +88061,7 @@ _Cite_:
   - Décret n°60-388 du 22 avril 1960 - art. 2 (V)
 
 
-##### Sous-section 3 : Dispositions relatives  aux immeubles et au matériel.<a id=789></a>
+##### Sous-section 3 : Dispositions relatives  aux immeubles et au matériel.<a id=799></a>
 
 ###### Article R442-28
 
@@ -88034,9 +88182,9 @@ _Cite_:
   - Code de l'éducation - art. R141-1 (V)
 
 
-##### Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat  par les établissements d'enseignement privés.<a id=790></a>
+##### Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat  par les établissements d'enseignement privés.<a id=800></a>
 
-##### Sous-section 1 : Le contrat d'association.<a id=791></a>
+##### Sous-section 1 : Le contrat d'association.<a id=801></a>
 
 ###### Article R442-33
 
@@ -88328,7 +88476,7 @@ _Cité par_:
   - Code de l'éducation - art. R494-10 (V)
 
 
-##### Sous-section 2 : Financement des dépenses des classes sous contrat d'association.<a id=792></a>
+##### Sous-section 2 : Financement des dépenses des classes sous contrat d'association.<a id=802></a>
 
 ###### Article R442-44
 
@@ -88485,7 +88633,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 4 : Contrat simple passé avec l'Etat  par des établissements d'enseignement privés.<a id=793></a>
+##### Section 4 : Contrat simple passé avec l'Etat  par des établissements d'enseignement privés.<a id=803></a>
 
 ###### Article R442-49
 
@@ -88704,9 +88852,9 @@ _Anciens textes_:
   - Décret n°60-390 du 22 avril 1960 - art. 13 (Ab)
 
 
-##### Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat.<a id=794></a>
+##### Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat.<a id=804></a>
 
-##### Sous-section 1 : Instruction des demandes de passation de contrat.<a id=795></a>
+##### Sous-section 1 : Instruction des demandes de passation de contrat.<a id=805></a>
 
 ###### Article R442-58
 
@@ -88817,7 +88965,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 2 : Résiliation des contrats.<a id=796></a>
+##### Sous-section 2 : Résiliation des contrats.<a id=806></a>
 
 ###### Article R442-62
 
@@ -88852,7 +89000,7 @@ _Cité par_:
   - Code de l'éducation - art. R442-76 (V)
 
 
-##### Sous-section 3 : Les commissions de concertation.<a id=797></a>
+##### Sous-section 3 : Les commissions de concertation.<a id=807></a>
 
 ###### Article R442-63
 
@@ -89232,7 +89380,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 6 : Dispositions relatives aux établissements d'enseignement agricoles privés sous contrat.<a id=798></a>
+##### Section 6 : Dispositions relatives aux établissements d'enseignement agricoles privés sous contrat.<a id=808></a>
 
 ###### Article R442-74
 
@@ -89254,7 +89402,7 @@ _Cite_:
   - Code rural (V)
 
 
-##### Section 7 : Dispositions relatives aux établissements ou services sociaux ou médico-sociaux privés.<a id=799></a>
+##### Section 7 : Dispositions relatives aux établissements ou services sociaux ou médico-sociaux privés.<a id=809></a>
 
 ###### Article R442-75
 
@@ -89421,7 +89569,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (VT)
 
 
-##### Section 8 : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=800></a>
+##### Section 8 : Dispositions relatives à Saint-Pierre-et-Miquelon.<a id=810></a>
 
 ###### Article R442-80
 
@@ -89537,9 +89685,9 @@ _Cite_:
   - Code de l'éducation - art. R442-26 (V)
 
 
-#### Chapitre III : Les établissements d'enseignement technique privés.<a id=801></a>
+#### Chapitre III : Les établissements d'enseignement technique privés.<a id=811></a>
 
-##### Section 2 : Les écoles techniques privées.<a id=802></a>
+##### Section 2 : Les écoles techniques privées.<a id=812></a>
 
 ###### Article R443-1
 
@@ -89564,7 +89712,7 @@ _Cité par_:
   - Code de l'éducation - art. D643-5 (V)
 
 
-##### Section 3 : Les centres d'apprentissage privés.<a id=803></a>
+##### Section 3 : Les centres d'apprentissage privés.<a id=813></a>
 
 ###### Article R443-2
 
@@ -89584,7 +89732,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 4 : Les cours privés professionnels.<a id=804></a>
+##### Section 4 : Les cours privés professionnels.<a id=814></a>
 
 ###### Article R443-3
 
@@ -89609,9 +89757,9 @@ _Cite_:
   - Code de l'éducation - art. L441-11 (V)
 
 
-#### Chapitre IV : Les établissements privés  dispensant un enseignement à distance.<a id=805></a>
+#### Chapitre IV : Les établissements privés  dispensant un enseignement à distance.<a id=815></a>
 
-##### Section 1 : Organismes assujettis.<a id=806></a>
+##### Section 1 : Organismes assujettis.<a id=816></a>
 
 ###### Article R444-1
 
@@ -89702,7 +89850,7 @@ _Cite_:
   - Code du travail - art. L920-3 (Ab)
 
 
-##### Section 2 : Création.<a id=807></a>
+##### Section 2 : Création.<a id=817></a>
 
 ###### Article R444-4
 
@@ -89853,7 +90001,7 @@ _Cite_:
   - Code de l'éducation - art. R444-4 (V)
 
 
-##### Section 3 : Conditions exigées des personnels enseignant et de direction.<a id=808></a>
+##### Section 3 : Conditions exigées des personnels enseignant et de direction.<a id=818></a>
 
 ###### Article R444-10
 
@@ -89985,7 +90133,7 @@ _Cite_:
   - Code de l'éducation - art. R444-12 (V)
 
 
-##### Section 4 : Contrôle et inspection.<a id=809></a>
+##### Section 4 : Contrôle et inspection.<a id=819></a>
 
 ###### Article R444-14
 
@@ -90103,7 +90251,7 @@ _Cite_:
   - Code de l'éducation - art. R444-16 (V)
 
 
-##### Section 5 : Obligations contractuelles des établissements.<a id=810></a>
+##### Section 5 : Obligations contractuelles des établissements.<a id=820></a>
 
 ###### Article R444-18
 
@@ -90354,7 +90502,7 @@ _Cite_:
   - Code de l'éducation - art. R444-26 (V)
 
 
-##### Section 6 : Dispositions pénales.<a id=811></a>
+##### Section 6 : Dispositions pénales.<a id=821></a>
 
 ###### Article R444-28
 
@@ -90381,9 +90529,9 @@ _Cite_:
   - Code de l'éducation - art. R444-8 (V)
 
 
-### Titre V : Les établissements français d'enseignement à l'étranger.<a id=812></a>
+### Titre V : Les établissements français d'enseignement à l'étranger.<a id=822></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=813></a>
+#### Chapitre Ier : Dispositions générales.<a id=823></a>
 
 ###### Article R451-1
 
@@ -90851,7 +90999,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre II : L'Agence pour l'enseignement français à l'étranger.<a id=814></a>
+#### Chapitre II : L'Agence pour l'enseignement français à l'étranger.<a id=824></a>
 
 ###### Article D452-1
 
@@ -90899,7 +91047,7 @@ _Cite_:
   - Code de l'éducation - art. L452-3 (V)
 
 
-##### Section 1 : Organisation administrative.<a id=815></a>
+##### Section 1 : Organisation administrative.<a id=825></a>
 
 ###### Article D452-2
 
@@ -91275,9 +91423,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 2 : Dispositions d'ordre financier et comptable.<a id=816></a>
+##### Section 2 : Dispositions d'ordre financier et comptable.<a id=826></a>
 
-##### Sous-section 1 : Agence pour l'enseignement français à l'étranger.<a id=817></a>
+##### Sous-section 1 : Agence pour l'enseignement français à l'étranger.<a id=827></a>
 
 ###### Article D452-12
 
@@ -91483,7 +91631,7 @@ _Cite_:
   - Code de l'éducation - art. L452-2 (V)
 
 
-##### Sous-section 2 : Etablissements en gestion directe.<a id=818></a>
+##### Sous-section 2 : Etablissements en gestion directe.<a id=828></a>
 
 ###### Article D452-19
 
@@ -91579,11 +91727,11 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne.<a id=819></a>
+#### Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne.<a id=829></a>
 
-##### Section 1 : Dispositions générales.<a id=820></a>
+##### Section 1 : Dispositions générales.<a id=830></a>
 
-##### Sous-section 1 : Organisation générale.<a id=821></a>
+##### Sous-section 1 : Organisation générale.<a id=831></a>
 
 ###### Article R453-1
 
@@ -91765,7 +91913,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 2 : Organisation pédagogique.<a id=822></a>
+##### Sous-section 2 : Organisation pédagogique.<a id=832></a>
 
 ###### Article R453-7
 
@@ -92012,7 +92160,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 2 : Dispositions relatives aux établissements du premier degré.<a id=823></a>
+##### Section 2 : Dispositions relatives aux établissements du premier degré.<a id=833></a>
 
 ###### Article 453-17
 
@@ -92131,7 +92279,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 3 : Dispositions relatives aux établissements du second degré.<a id=824></a>
+##### Section 3 : Dispositions relatives aux établissements du second degré.<a id=834></a>
 
 ###### Article R453-21
 
@@ -92183,7 +92331,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R92 (V)
 
 
-##### Sous-section 1 : Organisation administrative.<a id=825></a>
+##### Sous-section 1 : Organisation administrative.<a id=835></a>
 
 ###### Article R453-23
 
@@ -92346,7 +92494,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 2 : Organisation financière.<a id=826></a>
+##### Sous-section 2 : Organisation financière.<a id=836></a>
 
 ###### Article R453-28
 
@@ -92788,7 +92936,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Sous-section 3 : Service d'hébergement.<a id=827></a>
+##### Sous-section 3 : Service d'hébergement.<a id=837></a>
 
 ###### Article R453-45
 
@@ -92988,7 +93136,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre IV : Les établissements d'enseignement français en Principauté d'Andorre.<a id=828></a>
+#### Chapitre IV : Les établissements d'enseignement français en Principauté d'Andorre.<a id=838></a>
 
 ###### Article D454-1
 
@@ -93019,7 +93167,7 @@ _Cité par_:
   - Code de l'éducation - art. D454-26 (V)
 
 
-##### Section 1 : Dispositions relatives aux établissements d'enseignement du premier degré.<a id=829></a>
+##### Section 1 : Dispositions relatives aux établissements d'enseignement du premier degré.<a id=839></a>
 
 ###### Article D454-2
 
@@ -93331,7 +93479,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 2 : Dispositions relatives aux établissements d'enseignement du second degré.<a id=830></a>
+##### Section 2 : Dispositions relatives aux établissements d'enseignement du second degré.<a id=840></a>
 
 ###### Article D454-11
 
@@ -94017,7 +94165,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre V : Les écoles européennes.<a id=831></a>
+#### Chapitre V : Les écoles européennes.<a id=841></a>
 
 ###### Article D455-1
 
@@ -94059,11 +94207,11 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-### Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives.<a id=832></a>
+### Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives.<a id=842></a>
 
-#### Chapitre Ier : Les établissements  d'enseignement artistique.<a id=833></a>
+#### Chapitre Ier : Les établissements  d'enseignement artistique.<a id=843></a>
 
-##### Section 1 : Les établissements d'enseignement public.<a id=834></a>
+##### Section 1 : Les établissements d'enseignement public.<a id=844></a>
 
 ###### Article R461-1
 
@@ -94240,7 +94388,7 @@ _Cite_:
   - Code de l'éducation - art. R461-5 (V)
 
 
-##### Section 2 : Les établissements d'enseignement privés.<a id=835></a>
+##### Section 2 : Les établissements d'enseignement privés.<a id=845></a>
 
 ###### Article R461-8
 
@@ -94515,9 +94663,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre II : Les établissements d'enseignement  de la danse.<a id=836></a>
+#### Chapitre II : Les établissements d'enseignement  de la danse.<a id=846></a>
 
-##### Section 1 : Conditions d'exploitation d'une salle de danse à des fins d'enseignement.<a id=837></a>
+##### Section 1 : Conditions d'exploitation d'une salle de danse à des fins d'enseignement.<a id=847></a>
 
 ###### Article R462-1
 
@@ -94666,7 +94814,7 @@ _Cite_:
   - Code de l'éducation - art. L362-4 (V)
 
 
-##### Section 2 : Dispositions pénales.<a id=838></a>
+##### Section 2 : Dispositions pénales.<a id=848></a>
 
 ###### Article R462-7
 
@@ -94755,7 +94903,7 @@ _Cite_:
   - Code de l'éducation - art. R462-7 (V)
 
 
-#### Chapitre III : Les établissements de formation  aux professions des activités physiques et sportives.<a id=839></a>
+#### Chapitre III : Les établissements de formation  aux professions des activités physiques et sportives.<a id=849></a>
 
 ###### Article R463-1
 
@@ -94778,11 +94926,11 @@ _Cite_:
   - Code du sport. (V)
 
 
-### Titre VII : Dispositions communes.<a id=840></a>
+### Titre VII : Dispositions communes.<a id=850></a>
 
-#### Chapitre Ier : Publicité et démarchage.<a id=841></a>
+#### Chapitre Ier : Publicité et démarchage.<a id=851></a>
 
-##### Section 1 : Déclaration de dénomination.<a id=842></a>
+##### Section 1 : Déclaration de dénomination.<a id=852></a>
 
 ###### Article R471-1
 
@@ -94806,7 +94954,7 @@ _Cite_:
   - Code de l'éducation - art. L471-2 (V)
 
 
-##### Section 2 : Publicité.<a id=843></a>
+##### Section 2 : Publicité.<a id=853></a>
 
 ###### Article R471-2
 
@@ -94934,7 +95082,7 @@ _Cité par_:
   - Code de l'éducation - art. R732-2 (V)
 
 
-#### Chapitre II : Dispositions pénales.<a id=844></a>
+#### Chapitre II : Dispositions pénales.<a id=854></a>
 
 ###### Article R472-1
 
@@ -94974,9 +95122,9 @@ _Anciens textes_:
   - Code pénal - art. R645-12 (V)
 
 
-### Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=845></a>
+### Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=855></a>
 
-#### Chapitre unique.<a id=846></a>
+#### Chapitre unique.<a id=856></a>
 
 ###### Article R481-1
 
@@ -94998,7 +95146,7 @@ _Cite_:
   - Code de l'éducation - art. L481-1 (V)
 
 
-##### Section 1 : Aménagement du statut scolaire local en vigueur dans les établissements du premier degré.<a id=847></a>
+##### Section 1 : Aménagement du statut scolaire local en vigueur dans les établissements du premier degré.<a id=857></a>
 
 ###### Article D481-2
 
@@ -95122,7 +95270,7 @@ _Cité par_:
   - Code de l'éducation - art. D481-5 (V)
 
 
-##### Section 2 : Dispositions diverses.<a id=848></a>
+##### Section 2 : Dispositions diverses.<a id=858></a>
 
 ###### Article R481-7
 
@@ -95179,11 +95327,11 @@ _Cite_:
   - Code de l'éducation - art. R431-1 (V)
 
 
-### Titre IX : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=849></a>
+### Titre IX : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.<a id=859></a>
 
-#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=850></a>
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.<a id=860></a>
 
-##### Section 1 : Les écoles.<a id=851></a>
+##### Section 1 : Les écoles.<a id=861></a>
 
 ###### Article D491-1
 
@@ -95381,7 +95529,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 2 : Les collèges et les lycées.<a id=852></a>
+##### Section 2 : Les collèges et les lycées.<a id=862></a>
 
 ###### Article D491-8
 
@@ -95655,9 +95803,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte.<a id=853></a>
+#### Chapitre II : Dispositions applicables à Mayotte.<a id=863></a>
 
-##### Section 1 : Les écoles.<a id=854></a>
+##### Section 1 : Les écoles.<a id=864></a>
 
 ###### Article D492-1
 
@@ -95830,7 +95978,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 2 : Les collèges et les lycées.<a id=855></a>
+##### Section 2 : Les collèges et les lycées.<a id=865></a>
 
 ###### Article D492-7
 
@@ -96093,9 +96241,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=856></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=866></a>
 
-##### Section unique : Les établissements d'enseignement privés.<a id=857></a>
+##### Section unique : Les établissements d'enseignement privés.<a id=867></a>
 
 ###### Article R493-1
 
@@ -96125,9 +96273,9 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=858></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=868></a>
 
-##### Section 1 : Les collèges et les lycées.<a id=859></a>
+##### Section 1 : Les collèges et les lycées.<a id=869></a>
 
 ###### Article D494-1
 
@@ -96437,7 +96585,7 @@ _Créé par_:
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-##### Section 2 : Les établissements d'enseignement privés.<a id=860></a>
+##### Section 2 : Les établissements d'enseignement privés.<a id=870></a>
 
 ###### Article R494-10
 
@@ -96585,14 +96733,14 @@ _Cite_:
   - Code de l'éducation - art. R442-59 (V)
 
 
-## Livre V : La vie scolaire<a id=861></a>
+## Livre V : La vie scolaire<a id=871></a>
 
-### Titre Ier : Les droits et obligations des élèves<a id=862></a>
+### Titre Ier : Les droits et obligations des élèves<a id=872></a>
 
-#### Chapitre unique<a id=863></a>
+#### Chapitre unique<a id=873></a>
 
 ##### Section 1 : Droits et obligations des élèves
-des établissements d’enseignement du second degré<a id=864></a>
+des établissements d’enseignement du second degré<a id=874></a>
 
 ###### Article D511-3
 
@@ -96694,7 +96842,7 @@ _Cité par_:
   - Code de l'éducation - art. D422-61 (V)
 
 
-##### Sous-section 1 : Liberté d’expression<a id=865></a>
+##### Sous-section 1 : Liberté d’expression<a id=875></a>
 
 ###### Article R511-6
 
@@ -96765,7 +96913,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Sous-section 2 : Libertés d’association et de réunion<a id=866></a>
+##### Sous-section 2 : Libertés d’association et de réunion<a id=876></a>
 
 ###### Article R511-9
 
@@ -96842,7 +96990,7 @@ _Cite_:
   - Code de l'éducation - art. R511-9 (V)
 
 
-##### Sous-section 3 : Obligation d’assiduité<a id=867></a>
+##### Sous-section 3 : Obligation d’assiduité<a id=877></a>
 
 ###### Article R511-11
 
@@ -96872,10 +97020,10 @@ _Cite_:
   - Code de l'éducation - art. L511-1 (V)
 
 
-##### Section 2 : Régime disciplinaire<a id=868></a>
+##### Section 2 : Régime disciplinaire<a id=878></a>
 
 ##### Sous-section 1 : Sanctions applicables aux élèves
-des établissements d’enseignement du second degré<a id=869></a>
+des établissements d’enseignement du second degré<a id=879></a>
 
 ###### Article R511-12
 
@@ -97105,9 +97253,9 @@ _Cite_:
   - Code de l'éducation - art. R511-17 (V)
 
 
-##### Sous-section 2 : Le conseil de discipline de l’établissement<a id=870></a>
+##### Sous-section 2 : Le conseil de discipline de l’établissement<a id=880></a>
 
-##### Paragraphe 1 : Composition<a id=871></a>
+##### Paragraphe 1 : Composition<a id=881></a>
 
 ###### Article D511-23
 
@@ -97254,7 +97402,7 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Paragraphe 2 : Compétence<a id=872></a>
+##### Paragraphe 2 : Compétence<a id=882></a>
 
 ###### Article D511-25
 
@@ -97393,7 +97541,7 @@ _Cite_:
   - Code de l'éducation - art. R511-17 (V)
 
 
-##### Paragraphe 3 : Procédure disciplinaire<a id=873></a>
+##### Paragraphe 3 : Procédure disciplinaire<a id=883></a>
 
 ###### Article D511-30
 
@@ -97741,7 +97889,7 @@ _Cité par_:
   - Code de l'éducation - art. D562-2 (VD)
 
 
-##### Sous-section 3 : Le conseil de discipline départemental<a id=874></a>
+##### Sous-section 3 : Le conseil de discipline départemental<a id=884></a>
 
 ###### Article D511-46
 
@@ -97839,7 +97987,7 @@ _Cité par_:
   - Code de l'éducation - art. D511-56 (VD)
 
 
-##### Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental<a id=875></a>
+##### Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental<a id=885></a>
 
 ###### Article D511-47
 
@@ -97897,7 +98045,7 @@ _Cité par_:
   - Code de l'éducation - art. D564-3 (VD)
 
 
-##### Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental<a id=876></a>
+##### Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental<a id=886></a>
 
 ###### Article D511-50
 
@@ -98243,9 +98391,9 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Section 3 : Conseil national et conseil académique de la vie lycéenne<a id=877></a>
+##### Section 3 : Conseil national et conseil académique de la vie lycéenne<a id=887></a>
 
-##### Sous-section 1 : Le Conseil national de la vie lycéenne<a id=878></a>
+##### Sous-section 1 : Le Conseil national de la vie lycéenne<a id=888></a>
 
 ###### Article D511-59
 
@@ -98372,7 +98520,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Sous-section 2 : Le conseil académique de la vie lycéenne<a id=879></a>
+##### Sous-section 2 : Le conseil académique de la vie lycéenne<a id=889></a>
 
 ###### Article D511-63
 
@@ -98707,7 +98855,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 4 : Information en matière de droit de la nationalité<a id=880></a>
+##### Section 4 : Information en matière de droit de la nationalité<a id=890></a>
 
 ###### Article R511-74
 
@@ -98747,13 +98895,13 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-### Titre II : L'organisation du temps et de l'espace scolaires<a id=881></a>
+### Titre II : L'organisation du temps et de l'espace scolaires<a id=891></a>
 
-#### Chapitre unique<a id=882></a>
+#### Chapitre unique<a id=892></a>
 
-##### Section 1 : Aménagement du temps scolaire<a id=883></a>
+##### Section 1 : Aménagement du temps scolaire<a id=893></a>
 
-##### Sous-section 1 : Dispositions communes à l’ensemble des académies<a id=884></a>
+##### Sous-section 1 : Dispositions communes à l’ensemble des académies<a id=894></a>
 
 ###### Article D521-1
 
@@ -98904,7 +99052,7 @@ _Cite_:
   - Code de l'éducation - art. D521-1 (V)
 
 
-##### Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon<a id=885></a>
+##### Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon<a id=895></a>
 
 ###### Article D521-6
 
@@ -98968,7 +99116,7 @@ _Cite_:
   - Code de l'éducation - art. D521-6 (V)
 
 
-##### Sous-section 3 : Dispositions particulières à l’enseignement et à la formation professionnelle agricoles<a id=886></a>
+##### Sous-section 3 : Dispositions particulières à l’enseignement et à la formation professionnelle agricoles<a id=896></a>
 
 ###### Article D521-8
 
@@ -99020,7 +99168,7 @@ _Cite_:
   - Code de l'éducation - art. D521-6 (V)
 
 
-##### Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires<a id=887></a>
+##### Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires<a id=897></a>
 
 ###### Article D521-10
 
@@ -99216,7 +99364,7 @@ _Cité par_:
   - Code de l'éducation - art. D521-10 (V)
 
 
-##### Section 2 : Aménagement de l’espace scolaire<a id=888></a>
+##### Section 2 : Aménagement de l’espace scolaire<a id=898></a>
 
 ###### Article D521-16
 
@@ -99240,7 +99388,7 @@ _Cité par_:
 
 
 ##### Section 3 : Interdiction de fumer dans les lieux
-affectés à un usage scolaire<a id=889></a>
+affectés à un usage scolaire<a id=899></a>
 
 ###### Article D521-17
 
@@ -99286,16 +99434,16 @@ _Cité par_:
   - Code de l'éducation - art. D564-2 (V)
 
 
-### Titre III : Les aides à la scolarité<a id=890></a>
+### Titre III : Les aides à la scolarité<a id=900></a>
 
-#### Chapitre Ier : L’aide à la scolarité et les bourses nationales<a id=891></a>
+#### Chapitre Ier : L’aide à la scolarité et les bourses nationales<a id=901></a>
 
-##### Section 1 : Bourses nationales d’enseignement du second degré<a id=892></a>
+##### Section 1 : Bourses nationales d’enseignement du second degré<a id=902></a>
 
-##### Sous-section 1 : Bourses nationales de collège<a id=893></a>
+##### Sous-section 1 : Bourses nationales de collège<a id=903></a>
 
 ##### Paragraphe 1 : Etablissements habilités à recevoir
-des boursiers de collège<a id=894></a>
+des boursiers de collège<a id=904></a>
 
 ###### Article D531-3
 
@@ -99377,7 +99525,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 2 : Critères d’attribution des bourses de collège<a id=895></a>
+##### Paragraphe 2 : Critères d’attribution des bourses de collège<a id=905></a>
 
 ###### Article D531-4
 
@@ -99479,7 +99627,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Paragraphe 3 : Montant et paiement des bourses de collège<a id=896></a>
+##### Paragraphe 3 : Montant et paiement des bourses de collège<a id=906></a>
 
 ###### Article D531-7
 
@@ -99623,9 +99771,9 @@ _Cité par_:
   - Arrêté du 27 juillet 2009 - art. 4 (V)
 
 
-##### Sous-section 2 : Bourses nationales d’études du second degré de lycée<a id=897></a>
+##### Sous-section 2 : Bourses nationales d’études du second degré de lycée<a id=907></a>
 
-##### Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée<a id=898></a>
+##### Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée<a id=908></a>
 
 ###### Article D531-15
 
@@ -99774,7 +99922,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 2 : Critères d’attribution<a id=899></a>
+##### Paragraphe 2 : Critères d’attribution<a id=909></a>
 
 ###### Article D531-21
 
@@ -99921,7 +100069,7 @@ _Cité par_:
   - Code de l'éducation - art. D562-2 (VD)
 
 
-##### Paragraphe 3 : Modalités d’attribution<a id=900></a>
+##### Paragraphe 3 : Modalités d’attribution<a id=910></a>
 
 ###### Article D531-23
 
@@ -100075,7 +100223,7 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Paragraphe 4 : Montant et paiement<a id=901></a>
+##### Paragraphe 4 : Montant et paiement<a id=911></a>
 
 ###### Article D531-29
 
@@ -100292,7 +100440,7 @@ _Cité par_:
   - Arrêté du 19 avril 2016 - art. 2 (VD)
 
 
-##### Sous-section 3 : Bourses au mérite<a id=902></a>
+##### Sous-section 3 : Bourses au mérite<a id=912></a>
 
 ###### Article D531-37
 
@@ -100448,7 +100596,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Sous-section 4 : Prime à l’internat<a id=903></a>
+##### Sous-section 4 : Prime à l’internat<a id=913></a>
 
 ###### Article D531-42
 
@@ -100489,7 +100637,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 2 : Bourses de l’enseignement agricole<a id=904></a>
+##### Section 2 : Bourses de l’enseignement agricole<a id=914></a>
 
 ###### Article D531-44
 
@@ -100508,7 +100656,7 @@ _Cite_:
   - Code rural - art. R810-4 (V)
 
 
-##### Section 3 : Bourses scolaires à l’étranger<a id=905></a>
+##### Section 3 : Bourses scolaires à l’étranger<a id=915></a>
 
 ###### Article D531-45
 
@@ -100733,7 +100881,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 4 : Tarifs de la restauration scolaire<a id=906></a>
+##### Section 4 : Tarifs de la restauration scolaire<a id=916></a>
 
 ###### Article R531-52
 
@@ -100778,7 +100926,7 @@ _Cite_:
   - Code de l'éducation - art. R531-52 (V)
 
 
-#### Chapitre II : L’allocation de rentrée scolaire<a id=907></a>
+#### Chapitre II : L’allocation de rentrée scolaire<a id=917></a>
 
 ###### Article D532-1
 
@@ -100803,11 +100951,11 @@ _Cite_:
   - Code de la sécurité sociale. - art. R755-14 (V)
 
 
-### Titre IV : La santé scolaire<a id=908></a>
+### Titre IV : La santé scolaire<a id=918></a>
 
-#### Chapitre Ier : La protection de la santé<a id=909></a>
+#### Chapitre Ier : La protection de la santé<a id=919></a>
 
-##### Section 1 : Organisation<a id=910></a>
+##### Section 1 : Organisation<a id=920></a>
 
 ###### Article D541-1
 
@@ -100922,7 +101070,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 2 : Prévention dans les activités physiques et sportives<a id=911></a>
+##### Section 2 : Prévention dans les activités physiques et sportives<a id=921></a>
 
 ###### Article R541-6
 
@@ -100948,7 +101096,7 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Section 3 : Prévention des risques professionnels<a id=912></a>
+##### Section 3 : Prévention des risques professionnels<a id=922></a>
 
 ###### Article D541-7
 
@@ -101006,7 +101154,7 @@ _Cite_:
   - Code rural - art. L751-1 (V)
 
 
-##### Section 4 : Contraception d’urgence<a id=913></a>
+##### Section 4 : Contraception d’urgence<a id=923></a>
 
 ###### Article D541-10
 
@@ -101024,7 +101172,7 @@ _Cite_:
   - Code de la santé publique - art. D5134-5 (V)
 
 
-#### Chapitre II : La prévention des mauvais traitements<a id=914></a>
+#### Chapitre II : La prévention des mauvais traitements<a id=924></a>
 
 ###### Article D542-1
 
@@ -101089,12 +101237,12 @@ _Anciens textes_:
   - Décret du 9 décembre 1991 - art. 1 (Ab)
 
 
-### Titre V : Les activités périscolaires, sportives et culturelles<a id=915></a>
+### Titre V : Les activités périscolaires, sportives et culturelles<a id=925></a>
 
-#### Chapitre Ier : Les activités périscolaires<a id=916></a>
+#### Chapitre Ier : Les activités périscolaires<a id=926></a>
 
 ##### Section 1 : Agrément des associations éducatives
-complémentaires de l’enseignement public<a id=917></a>
+complémentaires de l’enseignement public<a id=927></a>
 
 ###### Article D551-1
 
@@ -101255,7 +101403,7 @@ _Cité par_:
   - Code de l'éducation - art. D564-3 (VD)
 
 
-##### Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public<a id=918></a>
+##### Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public<a id=928></a>
 
 ###### Article D551-7
 
@@ -101459,7 +101607,7 @@ _Cité par_:
   - Code de l'éducation - art. D564-11 (V)
 
 
-#### Chapitre II : Les activités physiques et sportives<a id=919></a>
+#### Chapitre II : Les activités physiques et sportives<a id=929></a>
 
 ###### Article R552-1
 
@@ -101558,10 +101706,10 @@ _Cité par_:
   - Décret n°2015-784 du 29 juin 2015 - art. (V)
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=920></a>
+### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=930></a>
 
 #### Chapitre Ier : Dispositions applicables
-dans les îles Wallis et Futuna<a id=921></a>
+dans les îles Wallis et Futuna<a id=931></a>
 
 ###### Article D561-2
 
@@ -101920,7 +102068,7 @@ _Cité par_:
   - Code de l'éducation - art. R561-1 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte<a id=922></a>
+#### Chapitre II : Dispositions applicables à Mayotte<a id=932></a>
 
 ###### Article D562-1
 
@@ -102227,7 +102375,7 @@ _Cite_:
   - Code de l'éducation - art. R531-25 (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française<a id=923></a>
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=933></a>
 
 ###### Article D563-2
 
@@ -102304,7 +102452,7 @@ _Cite_:
   - Code de l'éducation - art. R511-74 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=924></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=934></a>
 
 ###### Article D564-2
 
@@ -102642,13 +102790,13 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-## Livre IX : Les personnels de l'éducation.<a id=925></a>
+## Livre IX : Les personnels de l'éducation.<a id=935></a>
 
-### Titre Ier : Dispositions générales.<a id=926></a>
+### Titre Ier : Dispositions générales.<a id=936></a>
 
-#### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=927></a>
+#### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=937></a>
 
-##### Section 1 : Dispositions générales.<a id=928></a>
+##### Section 1 : Dispositions générales.<a id=938></a>
 
 ###### Article R914-1
 
@@ -102687,9 +102835,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 2 : Les organismes consultatifs.<a id=929></a>
+##### Section 2 : Les organismes consultatifs.<a id=939></a>
 
-##### Sous-section 1 : La commission consultative mixte départementale.<a id=930></a>
+##### Sous-section 1 : La commission consultative mixte départementale.<a id=940></a>
 
 ###### Article R914-4
 
@@ -102816,7 +102964,7 @@ _Cite_:
   - Code de l'éducation - art. R914-77 (V)
 
 
-##### Sous-section 2 : La commission consultative mixte académique.<a id=931></a>
+##### Sous-section 2 : La commission consultative mixte académique.<a id=941></a>
 
 ###### Article R914-7
 
@@ -102919,7 +103067,7 @@ _Cite_:
   - Code de l'éducation - art. R914-8
 
 
-##### Sous-section 3 : Dispositions communes.<a id=932></a>
+##### Sous-section 3 : Dispositions communes.<a id=942></a>
 
 ###### Article R914-10
 
@@ -103039,9 +103187,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 3 : Recrutement des enseignants  des classes sous contrat.<a id=933></a>
+##### Section 3 : Recrutement des enseignants  des classes sous contrat.<a id=943></a>
 
-##### Sous-section préliminaire : Dispositions générales<a id=934></a>
+##### Sous-section préliminaire : Dispositions générales<a id=944></a>
 
 ###### Article R914-14
 
@@ -103187,7 +103335,7 @@ _Cite_:
   - Code de l'éducation - art. R914-28 (V)
 
 
-##### Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré<a id=935></a>
+##### Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré<a id=945></a>
 
 ###### Article R914-19-1
 
@@ -103457,9 +103605,9 @@ _Cité par_:
   - Arrêté du 3 mai 2010 - art. 6 (VD)
 
 
-##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.<a id=936></a>
+##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.<a id=946></a>
 
-##### Paragraphe 1 : Concours externes.<a id=937></a>
+##### Paragraphe 1 : Concours externes.<a id=947></a>
 
 ###### Article R914-20
 
@@ -103587,7 +103735,7 @@ _Cite_:
   - Code de l'éducation - art. R914-24 (V)
 
 
-##### Paragraphe 2 : Concours internes.<a id=938></a>
+##### Paragraphe 2 : Concours internes.<a id=948></a>
 
 ###### Article R914-24
 
@@ -103687,7 +103835,7 @@ _Cite_:
   - Code de l'éducation - art. R914-24 (V)
 
 
-##### Paragraphe 3 : Troisième concours.<a id=939></a>
+##### Paragraphe 3 : Troisième concours.<a id=949></a>
 
 ###### Article R914-28
 
@@ -103817,7 +103965,7 @@ _Modifié par_:
   - Décret n°2009-920 du 28 juillet 2009 - art. 4
 
 
-##### Paragraphe 4 : Stage<a id=940></a>
+##### Paragraphe 4 : Stage<a id=950></a>
 
 ###### Article R914-32
 
@@ -103968,7 +104116,7 @@ _Cite_:
   - Code de l'éducation - art. R914-33
 
 
-##### Paragraphe 5 : Cycle préparatoire<a id=941></a>
+##### Paragraphe 5 : Cycle préparatoire<a id=951></a>
 
 ###### Article R914-38
 
@@ -104093,10 +104241,10 @@ _Abrogé par_:
   - Décret n°2013-767 du 23 août 2013 - art. 18
 
 
-##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=942></a>
+##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=952></a>
 
 ##### Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association.<a id=943></a>
+des classes sous contrat d'association.<a id=953></a>
 
 ###### Article R914-44
 
@@ -104310,7 +104458,7 @@ _Cite_:
 
 
 ##### Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple.<a id=944></a>
+des classes sous contrat simple.<a id=954></a>
 
 ###### Article R914-53
 
@@ -104376,7 +104524,7 @@ _Cite_:
   - Code de l'éducation - art. R914-15
 
 
-##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=945></a>
+##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=955></a>
 
 ###### Article R914-57
 
@@ -104423,9 +104571,9 @@ _Cité par_:
   - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
 
 
-##### Section 4 : Notation, avancement, mouvement, classement.<a id=946></a>
+##### Section 4 : Notation, avancement, mouvement, classement.<a id=956></a>
 
-##### Sous-section 1 : Notation.<a id=947></a>
+##### Sous-section 1 : Notation.<a id=957></a>
 
 ###### Article R914-59
 
@@ -104446,9 +104594,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Avancement.<a id=948></a>
+##### Sous-section 2 : Avancement.<a id=958></a>
 
-##### Paragraphe 1 : Dispositions communes.<a id=949></a>
+##### Paragraphe 1 : Dispositions communes.<a id=959></a>
 
 ###### Article R914-60
 
@@ -104475,7 +104623,7 @@ _Cite_:
   - Code de l'éducation - art. R914-7 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=950></a>
+##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=960></a>
 
 ###### Article R914-61
 
@@ -104549,7 +104697,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=951></a>
+##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=961></a>
 
 ###### Article R914-64
 
@@ -104801,7 +104949,7 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (V)
 
 
-##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=952></a>
+##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=962></a>
 
 ###### Article R914-75
 
@@ -104905,9 +105053,9 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (V)
 
 
-##### Sous-section 4 : Classement.<a id=953></a>
+##### Sous-section 4 : Classement.<a id=963></a>
 
-##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=954></a>
+##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=964></a>
 
 ###### Article R914-78
 
@@ -104973,7 +105121,7 @@ _Cite_:
   - Code de l'éducation - art. R914-105 (VD)
 
 
-##### Paragraphe 2 : Reclassement pour motif médical.<a id=955></a>
+##### Paragraphe 2 : Reclassement pour motif médical.<a id=965></a>
 
 ###### Article R914-81
 
@@ -105046,9 +105194,9 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (V)
 
 
-##### Section 5 : Rémunération.<a id=956></a>
+##### Section 5 : Rémunération.<a id=966></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=957></a>
+##### Sous-section 1 : Dispositions générales.<a id=967></a>
 
 ###### Article R914-83
 
@@ -105173,7 +105321,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (V)
 
 
-##### Sous-section 2 : Dispositions particulières.<a id=958></a>
+##### Sous-section 2 : Dispositions particulières.<a id=968></a>
 
 ###### Article R914-89
 
@@ -105193,9 +105341,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 6 : Charges sociales.<a id=959></a>
+##### Section 6 : Charges sociales.<a id=969></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=960></a>
+##### Sous-section 1 : Dispositions générales.<a id=970></a>
 
 ###### Article D914-91
 
@@ -105254,7 +105402,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-95 (V)
 
 
-##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=961></a>
+##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=971></a>
 
 ###### Article R914-92
 
@@ -105336,7 +105484,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (V)
 
 
-##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=962></a>
+##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=972></a>
 
 ###### Article R914-96
 
@@ -105413,9 +105561,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 
 
-##### Section 7 : Discipline.<a id=963></a>
+##### Section 7 : Discipline.<a id=973></a>
 
-##### Sous-section 1 : Sanctions disciplinaires.<a id=964></a>
+##### Sous-section 1 : Sanctions disciplinaires.<a id=974></a>
 
 ###### Article R914-100
 
@@ -105533,7 +105681,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-103 (V)
 
 
-##### Sous-section 2 : Insuffisance professionnelle.<a id=965></a>
+##### Sous-section 2 : Insuffisance professionnelle.<a id=975></a>
 
 ###### Article R914-103
 
@@ -105552,7 +105700,7 @@ _Cite_:
   - Code de l'éducation - art. R914-102 (V)
 
 
-##### Sous-section 3 : Suspension à titre conservatoire.<a id=966></a>
+##### Sous-section 3 : Suspension à titre conservatoire.<a id=976></a>
 
 ###### Article R914-104
 
@@ -105582,9 +105730,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 8 : Droits sociaux et congés.<a id=967></a>
+##### Section 8 : Droits sociaux et congés.<a id=977></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=968></a>
+##### Sous-section 1 : Dispositions générales.<a id=978></a>
 
 ###### Article R914-105
 
@@ -105606,7 +105754,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Cessation progressive d'activité.<a id=969></a>
+##### Sous-section 2 : Cessation progressive d'activité.<a id=979></a>
 
 ###### Article R914-106
 
@@ -105831,9 +105979,9 @@ _Cite_:
   - Code de la sécurité sociale. - art. L241-3-1
 
 
-##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=970></a>
+##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=980></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=971></a>
+##### Sous-section 1 : Dispositions générales.<a id=981></a>
 
 ###### Article R914-113
 
@@ -105868,7 +106016,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Incapacité permanente.<a id=972></a>
+##### Sous-section 2 : Incapacité permanente.<a id=982></a>
 
 ###### Article R914-114
 
@@ -106026,9 +106174,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 10 : Admission à la retraite.<a id=973></a>
+##### Section 10 : Admission à la retraite.<a id=983></a>
 
-##### Sous-section 1 : Avantages temporaires de retraite.<a id=974></a>
+##### Sous-section 1 : Avantages temporaires de retraite.<a id=984></a>
 
 ###### Article R914-120
 
@@ -106057,7 +106205,7 @@ _Cité par_:
 
 
 ##### Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite.<a id=975></a>
+du droit aux avantages temporaires de retraite.<a id=985></a>
 
 ###### Article R914-121
 
@@ -106168,7 +106316,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=976></a>
+##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=986></a>
 
 ###### Article R914-124
 
@@ -106281,7 +106429,7 @@ _Cite_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=977></a>
+##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=987></a>
 
 ###### Article R914-127
 
@@ -106310,7 +106458,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R351-27
 
 
-##### Paragraphe 4 : Limites d'âge et cumul.<a id=978></a>
+##### Paragraphe 4 : Limites d'âge et cumul.<a id=988></a>
 
 ###### Article R914-128
 
@@ -106405,7 +106553,7 @@ _Cite_:
   - Code de l'éducation - art. R914-121 (V)
 
 
-##### Paragraphe 5 : Couverture sociale.<a id=979></a>
+##### Paragraphe 5 : Couverture sociale.<a id=989></a>
 
 ###### Article R914-132
 
@@ -106424,7 +106572,7 @@ _Cite_:
   - Code de l'éducation - art. L914-1 (V)
 
 
-##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=980></a>
+##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=990></a>
 
 ###### Article R914-133
 
@@ -106573,7 +106721,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Régime additionnel de retraite.<a id=981></a>
+##### Sous-section 2 : Régime additionnel de retraite.<a id=991></a>
 
 ###### Article R914-138
 
