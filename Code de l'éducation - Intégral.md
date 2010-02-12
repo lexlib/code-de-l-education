@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-02-10
+Version Consolidée au 2010-02-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -43430,17 +43430,23 @@ _Modifié par_:
 ###### Article R234-1
 
 Dans les conseils de l'éducation nationale institués dans les académies, les présidents sont suppléés dans les conditions ci-
-après :
+après : 
 
 1° En cas d'empêchement du préfet de région, le conseil est présidé par le recteur de l'académie ou, lorsque les questions
-examinées concernent l'enseignement agricole, par le directeur régional de l'agriculture et de la forêt.
+examinées concernent l'enseignement agricole, par le directeur régional de l'agriculture et de la forêt. 
 
 2° En cas d'empêchement du président du conseil régional, le conseil est présidé par le conseiller régional délégué à cet
-effet par le président du conseil régional.
+effet par le président du conseil régional. 
 
-Les suppléants des présidents, ainsi que le directeur régional des affaires maritimes, ont la qualité de vice-président.
+Les suppléants des présidents, ainsi que le    directeur interrégional de la mer, ont la qualité de vice-président. 
 
 Les présidents et les vice-présidents sont membres de droit du conseil. Ils ne participent pas aux votes.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(      les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
@@ -43448,9 +43454,9 @@ _Anciens textes_:
 
   - Décret n°85-895 du 21 août 1985 - art. 8 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cité par_:
 
@@ -43838,81 +43844,85 @@ _Cité par_:
 ###### Article R234-13
 
 Lorsque l'académie comprend au moins un département côtier, le conseil académique de l'éducation nationale comporte une
-section spécialisée en matière maritime.
+section spécialisée en matière maritime. 
 
 La présidence en est assurée, selon que les questions soumises aux délibérations de la section sont de la compétence de
 l'Etat ou de la région, par le préfet de région ou le président du conseil régional de la région dans le ressort géographique
-de laquelle se trouve située l'académie.
+de laquelle se trouve située l'académie. 
 
 En cas d'empêchement du préfet de région ou du président du conseil régional, la section est présidée selon le cas par le
-directeur régional des affaires maritimes ou le conseiller régional, vice-président du conseil de l'éducation nationale.
+directeur interrégional de la mer ou le conseiller régional, vice-président du conseil de l'éducation nationale.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°85-895 1985-08-21 art. 14, alinéas 1 à 3
-  - Décret n°85-895 du 21 août 1985 - art. 14 (M)
   - Décret n°85-895 du 21 août 1985 - art. 14 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 
 ###### Article R234-14
 
-La section maritime du conseil est composée ainsi qu'il suit :
+La section maritime du conseil est composée ainsi qu'il suit : 
 
-1° Huit membres choisis parmi les membres visés à l'article R. 234-2 :
+1° Huit membres choisis parmi les membres visés à l'article R. 234-2 : 
 
 a) Quatre membres représentants des communes, des départements et de la région désignés par les membres du conseil
-appartenant à cette catégorie ;
+appartenant à cette catégorie ; 
 
 b) Deux membres représentant les personnels nommés par le préfet de région sur proposition des organisations syndicales les
-plus représentatives dans la région transmise par le directeur régional des affaires maritimes ;
+plus représentatives dans la région transmise par le directeur interrégional de la mer ; 
 
 c) Deux membres représentants des usagers, dont un représentant des parents d'élèves nommés par le préfet sur proposition du
-directeur régional des affaires maritimes et le président du comité économique et social de la région ;
+directeur interrégional de la mer et le président du comité économique et social de la région ; 
 
-2° Huit représentants du secteur maritime :
+2° Huit représentants du secteur maritime : 
 
 a) Trois membres représentant les personnels des lycées professionnels maritimes et, s'il y a lieu, les personnels des écoles
 nationales de la marine marchande nommés par le préfet de région sur proposition des organisations syndicales des personnels
 les plus représentatives dans la région ou pour les professeurs de l'enseignement maritime sur proposition de l'inspecteur
-général de l'enseignement maritime ;
+général de l'enseignement maritime ; 
 
 b) Un représentant des parents d'élèves nommé par le préfet de région sur proposition des organisations syndicales de marins
 les plus représentatives dans la région ou un étudiant sur proposition des organisations représentatives des étudiants des
-écoles nationales de la marine marchande ;
+écoles nationales de la marine marchande ; 
 
 c) Deux représentants des organisations syndicales de marins nommés par le préfet de région sur proposition des organisations
-syndicales les plus représentatives dans la région ;
+syndicales les plus représentatives dans la région ; 
 
 d) Deux représentants des organisations d'employeurs nommés par le préfet de région sur proposition des organisations
-d'employeurs représentatives dans la région.
+d'employeurs représentatives dans la région. 
 
-Le directeur régional des affaires maritimes reçoit, à cet effet, les propositions et les transmet au préfet de région.
+Le directeur interrégional de la mer reçoit, à cet effet, les propositions et les transmet au préfet de région.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°85-895 1985-08-21 art. 14, alinéas 4 à 14
-  - Décret n°85-895 du 21 août 1985 - art. 14 (M)
   - Décret n°85-895 du 21 août 1985 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 _Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 art. 4 10° JORF 24 mai 2006
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cite_:
 
-  - Code de l'éducation - art. R234-2 (V)
+  - Code de l'éducation - art. R234-2 (VT)
 
 _Cité par_:
 
@@ -44426,12 +44436,18 @@ _Cite_:
 ###### Article R234-29
 
 Pour l'application des dispositions de l'article R. 234-15, le directeur départemental des affaires maritimes est substitué
-au directeur régional des affaires maritimes.
+au directeur interrégional de la mer. 
 
 En outre, lorsqu'il n'existe pas de lycée professionnel maritime dans le ressort du conseil de l'éducation nationale, les
 membres de la section spécialisée représentant les personnels et les parents d'élèves sont remplacés par quatre personnalités
 qualifiées dans le domaine de l'enseignement maritime, nommées par le préfet sur proposition du directeur départemental des
 affaires maritimes.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
@@ -44439,9 +44455,9 @@ _Anciens textes_:
 
   - Décret n°85-1264 du 28 novembre 1985 - art. 5 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cite_:
 
@@ -46301,54 +46317,65 @@ _Cite_:
 ###### Article D239-2
 
 Le Conseil territorial de l'éducation nationale est présidé par le ministre chargé de l'éducation ou son représentant. Il
-comprend trente-six membres :
+comprend trente-six membres : 
 
-1. Outre son président, dix-sept représentants de l'Etat :
+1. Outre son président, dix-sept représentants de l'Etat : 
 
-a) Neuf au titre des services centraux, désignés par les ministres concernés :
+a) Neuf au titre des services centraux, désignés par les ministres concernés : 
 
 aa) Cinq représentants du ministre chargé de l'éducation ; 
 
-ab) Un représentant du ministre de l'intérieur ;
+ab) Un représentant du ministre de l'intérieur ; 
 
-ac) Un représentant du ministre chargé de l'agriculture ;
+ac) Un représentant du ministre chargé de l'agriculture ; 
 
-ad) Un représentant du ministre chargé de la jeunesse et des sports ;
+ad) Un représentant du ministre chargé de la jeunesse et des sports ; 
 
-ae) Un représentant du ministre chargé de la mer ;
+ae) Un représentant du ministre chargé de la mer ; 
 
-b) Huit au titre des services déconcentrés :
+b) Huit au titre des services déconcentrés : 
 
-ba) Trois recteurs d'académie, désignés par le ministre chargé de l'éducation ;
+ba) Trois recteurs d'académie, désignés par le ministre chargé de l'éducation ; 
 
-bb) Un préfet, désigné par le ministre de l'intérieur ;
+bb) Un préfet, désigné par le ministre de l'intérieur ; 
 
 bc) Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale, désigné par le ministre chargé
-de l'éducation ;
+de l'éducation ; 
 
-bd) Un directeur régional de l'agriculture et de la forêt, désigné par le ministre chargé de l'agriculture ;
+bd) Un directeur régional de l'agriculture et de la forêt, désigné par le ministre chargé de l'agriculture ; 
 
-be) Un directeur régional de la jeunesse et des sports, désigné par le ministre chargé de la jeunesse et des sports ;
+be) Un directeur régional de la jeunesse et des sports, désigné par le ministre chargé de la jeunesse et des sports ; 
 
-bf) Un directeur régional des affaires maritimes, désigné par le ministre chargé de la mer.
+bf) Un    directeur interrégional de la mer, désigné par le ministre chargé de la mer. 
 
-2. Dix-huit représentants des collectivités territoriales :
+2. Dix-huit représentants des collectivités territoriales : 
 
-a) Six représentants élus de conseil régional, désignés par l'Association des régions de France ;
+a) Six représentants élus de conseil régional, désignés par l'Association des régions de France ; 
 
-b) Six représentants élus de conseil général, désignés par l'Assemblée des départements de France ;
+b) Six représentants élus de conseil général, désignés par l'Assemblée des départements de France ; 
 
 c) Six représentants des maires, dont deux représentants des présidents d'établissement public de coopération intercommunale,
 désignés par l'Association des maires de France.
 
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(      les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Anciens textes_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°1951-05-02 art. 3
+
+_Modifié par_:
+
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cité par_:
 
+  - Décret n°2017-778 du 4 mai 2017 - art. 3 (V)
   - Arrêté du 26 mars 2018 - art. 1 (V)
   - Arrêté du 26 mars 2018 - art. 6 (V)
   - Arrêté du 26 mars 2018 - art. 8 (V)
@@ -46359,20 +46386,11 @@ _Cité par_:
   - Code de l'éducation - art. D239-7 (V)
   - Code de l'éducation - art. D239-8 (V)
   - Code de l'éducation - art. D239-9 (V)
-  - Décret n°2017-778 du 4 mai 2017 - art. 3 (V)
 
 _Nouveaux textes_:
 
   - Code de l'éducation - art. D239-16 (T)
   - Code de l'éducation - art. D239-16 (V)
-
-_Anciens textes_:
-
-  - Décret n°1951-05-02 art. 3
-
-_Modifié par_:
-
-  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
 
 
 ###### Article D239-3
@@ -65524,16 +65542,22 @@ _Codifié par_:
 
 ###### Article D337-25-1
 
-Dans les spécialités mentionnées au quatrième alinéa de l'article D. 337-2, le ministre chargé de la mer et le directeur
-régional des affaires maritimes sont substitués respectivement au ministre chargé de l'éducation et au recteur en ce qui
-concerne les articles D. 337-4, 
+Dans les spécialités mentionnées au quatrième alinéa de l'article D. 337-2, le ministre chargé de la mer et le    directeur
+interrégional de la mer sont substitués respectivement au ministre chargé de l'éducation et au recteur en ce qui concerne les
+articles D. 337-4, 
 D. 337-9, D. 337-16 et D. 337-18.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-147 du 10 février 2009 - art. 7
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cite_:
 
@@ -66277,15 +66301,21 @@ _Cité par_:
 
 ###### Article D337-50-1
 
-Pour les spécialités mentionnées au dernier alinéa de l'article D. 337-27, le ministre chargé de la mer et le directeur
-régional des affaires maritimes sont substitués respectivement au ministre chargé de l'éducation et au recteur en ce qui
-concerne les articles D. 337-28, D. 337-33, D. 337-34, D. 337-35, D. 337-36, D. 337-42, D. 337-44 et D. 337-50.
+Pour les spécialités mentionnées au dernier alinéa de l'article D. 337-27, le ministre chargé de la mer et le    directeur
+interrégional de la mer sont substitués respectivement au ministre chargé de l'éducation et au recteur en ce qui concerne les
+articles D. 337-28, D. 337-33, D. 337-34, D. 337-35, D. 337-36, D. 337-42, D. 337-44 et D. 337-50.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-146 du 10 février 2009 - art. 13
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cité par_:
 
@@ -66518,7 +66548,13 @@ D. 341-1 et suivants.L'organisation et la durée de ce cycle sont définies aux 
 
 Pour les spécialités de baccalauréat professionnel mentionnées au troisième alinéa de l'article D. 337-53, l'admission dans
 le cycle est prononcée, dans les conditions fixées par arrêté du ministre chargé de l'éducation et du ministre chargé de la
-mer, par le directeur régional des affaires maritimes.
+mer, par le    directeur interrégional de la mer.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(      les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
@@ -66528,7 +66564,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-145 du 10 février 2009 - art. 4
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cité par_:
 
@@ -66738,13 +66774,19 @@ _Cite_:
 ###### Article D337-62
 
 La décision de positionnement fixe la durée de formation qui sera requise lors de l'inscription au diplôme. Elle est
-prononcée par le recteur ou par le directeur régional de l'alimentation, de l'agriculture et de la forêt ou le directeur
-régional des affaires maritimes pour les candidats relevant des deuxième et troisième alinéas de l'article D. 337-53, à la
-demande du candidat, après son admission dans un établissement et selon les modalités fixées par arrêté du ministre chargé de
+prononcée par le recteur ou par le directeur régional de l'alimentation, de l'agriculture et de la forêt ou le    directeur
+interrégional de la mer pour les candidats relevant des deuxième et troisième alinéas de l'article D. 337-53, à la demande du
+candidat, après son admission dans un établissement et selon les modalités fixées par arrêté du ministre chargé de
 l'éducation. 
 
 Cette décision est prise au titre du baccalauréat professionnel que le candidat souhaite préparer et vaut jusqu'à l'obtention
 de ce diplôme.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
@@ -66754,7 +66796,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-145 du 10 février 2009 - art. 7
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cité par_:
 
@@ -67986,14 +68028,20 @@ Pour les spécialités de baccalauréat professionnel mentionnées au deuxième 
 délivré conjointement par le recteur d'académie et le directeur régional de l'alimentation, de l'agriculture et de la forêt.
 Pour ces spécialités, le ministre chargé de l'agriculture ou le directeur régional de l'alimentation, de l'agriculture et de
 la forêt sont substitués respectivement au ministre chargé de l'éducation et au recteur en ce qui concerne les articles D.
-337-54, D. 337-57, D. 337-58, D. 337-59, D. 337-62, D. 337-69, D. 337-71, D. 337-74, D. 337-78, D. 337-83, D. 337-86, D.
-337-87, D. 337-89 et D. 337-92. 
+337-54, D. 337-57, D. 337-58, D. 337-59, D. 337-62, 
+D. 337-69, D. 337-71, D. 337-74, D. 337-78, D. 337-83, D. 337-86, D. 337-87, D. 337-89 et D. 337-92. 
 
 Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le diplôme est délivré conjointement par le
-recteur d'académie et le directeur régional des affaires maritimes. Pour ces spécialités, le ministre chargé de la mer ou le
-directeur régional des affaires maritimes sont substitués respectivement au ministre chargé de l'éducation et au recteur en
-ce qui concerne les articles D. 337-54, D. 337-57, D. 337-58, D. 337-59, D. 337-62, D. 337-64, D. 337-69, D. 337-71, D.
-337-74, D. 337-78, D. 337-83, D. 337-86, D. 337-87, D. 337-89 et D. 337-92.
+recteur d'académie et le directeur interrégional de la mer. Pour ces spécialités, le ministre chargé de la mer ou le
+directeur interrégional de la mer sont substitués respectivement au ministre chargé de l'éducation et au recteur en ce qui
+concerne les articles D. 337-54, D. 337-57, D. 337-58, D. 337-59, D. 337-62, D. 337-64, D. 337-69, D. 337-71, D. 337-74, D.
+337-78, D. 337-83, D. 337-86, D. 337-87, D. 337-89 et D. 337-92.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
@@ -68003,16 +68051,22 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-145 du 10 février 2009 - art. 22
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cite_:
 
-  - Code de l'éducation - art. D337-53
-  - Code de l'éducation - art. D337-54
-  - Code de l'éducation - art. D337-62
-  - Code de l'éducation - art. D337-71
-  - Code de l'éducation - art. D337-83
-  - Code de l'éducation - art. D337-92
+  - Code de l'éducation - art. D337-53 (V)
+  - Code de l'éducation - art. D337-54 (V)
+  - Code de l'éducation - art. D337-57 (V)
+  - Code de l'éducation - art. D337-62 (V)
+  - Code de l'éducation - art. D337-69 (V)
+  - Code de l'éducation - art. D337-71 (V)
+  - Code de l'éducation - art. D337-74 (V)
+  - Code de l'éducation - art. D337-78 (V)
+  - Code de l'éducation - art. D337-83 (V)
+  - Code de l'éducation - art. D337-86 (V)
+  - Code de l'éducation - art. D337-89 (V)
+  - Code de l'éducation - art. D337-92 (V)
 
 
 ##### Section 4 : Le brevet professionnel<a id=621></a>
@@ -72455,14 +72509,20 @@ _Codifié par_:
 ###### Article R342-2
 
 La formation professionnelle maritime relève du ministre chargé de la mer. Elle est mise en oeuvre dans le cadre de la
-politique de formation professionnelle défini par le ministre chargé de la formation professionnelle.
+politique de formation professionnelle défini par le ministre chargé de la formation professionnelle. 
 
 Elle est donnée dans les établissements scolaires maritimes qui comprennent les écoles nationales de la marine marchande, les
-lycées professionnels maritimes, les écoles d'apprentissage maritime et les établissements agréés par le directeur régional
-des affaires maritimes. Des établissements d'enseignement autres que les établissements scolaires maritimes peuvent également
-concourir à la formation maritime selon des modalités fixées par arrêté des ministres chargés de la mer et de l'éducation et,
-le cas échéant, du ministre chargé de l'agriculture après avis du comité spécialisé de la formation professionnelle maritime
-prévu à l'article R. 342-6.
+lycées professionnels maritimes, les écoles d'apprentissage maritime et les établissements agréés par le directeur
+interrégional de la mer. Des établissements d'enseignement autres que les établissements scolaires maritimes peuvent
+également concourir à la formation maritime selon des modalités fixées par arrêté des ministres chargés de la mer et de
+l'éducation et, le cas échéant, du ministre chargé de l'agriculture après avis du comité spécialisé de la formation
+professionnelle maritime prévu à l'article R. 342-6.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
@@ -72490,9 +72550,9 @@ _Cité par_:
   - Code de l'éducation - art. D337-55 (V)
   - Code de l'éducation - art. D337-93 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cite_:
 
@@ -79211,23 +79271,21 @@ _Cite_:
 
 ###### Article R421-80
 
-Le ministre chargé de la mer ou le directeur régional des affaires maritimes autorise la conduite de recherches et
-d'expériences pédagogiques par les établissements. En cas d'incidences de ces actions sur son budget, celles-ci sont
-subordonnées à l'accord de la région.
+Le ministre chargé de la mer ou le    directeur interrégional de la mer autorise la conduite de recherches et d'expériences
+pédagogiques par les établissements. En cas d'incidences de ces actions sur son budget, celles-ci sont subordonnées à
+l'accord de la région.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cité par_:
 
@@ -79394,22 +79452,20 @@ _Créé par_:
 
 ###### Article R421-86
 
-Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe le directeur régional des
-affaires maritimes et le conseil régional.
+Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe le    directeur interrégional de
+la mer et le conseil régional.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 6 al 18 (V)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 
 ###### Article R421-87
@@ -79446,30 +79502,28 @@ _Créé par_:
 ###### Article R421-88
 
 Le chef d'établissement peut être secondé dans ses tâches de gestion matérielle et financière par un agent nommé par le
-ministre chargé de la mer ou par le directeur régional des affaires maritimes.
+ministre chargé de la mer ou par le    directeur interrégional de la mer. 
 
-Le chef d'établissement peut déléguer sa signature et une partie de ses attributions.
+Le chef d'établissement peut déléguer sa signature et une partie de ses attributions. 
 
 En cas d'absence ou d'empêchement, le chef d'établissement est suppléé par son adjoint s'il en existe un, notamment pour la
 présidence du conseil d'administration, du conseil de perfectionnement et de la formation professionnelle et du conseil de
-discipline. Toutefois, la suppléance n'a pas d'effet sur l'exercice des fonctions d'ordonnateur.
+discipline. Toutefois, la suppléance n'a pas d'effet sur l'exercice des fonctions d'ordonnateur. 
 
-En cas d'absence ou d'empêchement du chef d'établissement, le directeur régional des affaires maritimes nomme un ordonnateur
+En cas d'absence ou d'empêchement du chef d'établissement, le    directeur interrégional de la mer nomme un ordonnateur
 suppléant.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 
 ##### Paragraphe 2 : Le conseil d'administration.<a id=714></a>
@@ -79478,35 +79532,33 @@ _Créé par_:
 
 ###### Article R421-89
 
-Le conseil d'administration des lycées professionnels maritimes comprend :
+Le conseil d'administration des lycées professionnels maritimes comprend : 
 
-1° Le chef d'établissement, président ;
+1° Le chef d'établissement, président ; 
 
-2° Un représentant de la région ;
+2° Un représentant de la région ; 
 
-3° Deux représentants de la commune siège de l'établissement ;
+3° Deux représentants de la commune siège de l'établissement ; 
 
-4° Quatre personnalités qualifiées, dont deux désignées par le conseil régional et deux par le directeur régional des
-affaires maritimes ;
+4° Quatre personnalités qualifiées, dont deux désignées par le conseil régional et deux par le    directeur interrégional de
+la mer ; 
 
-5° Huit représentants élus des personnels de l'établissement ;
+5° Huit représentants élus des personnels de l'établissement ; 
 
 6° Huit représentants des parents d'élèves et des élèves, dont six représentants élus des parents d'élèves et deux
 représentants élus des élèves.
 
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 9, alinéas 1 à 4, 5 (en partie), 6 à 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cité par_:
 
@@ -79515,52 +79567,46 @@ _Cité par_:
 
 ###### Article R421-90
 
-Si les personnalités qualifiées désignées par le directeur régional des affaires maritimes ou au moins l'une d'entre elles
+Si les personnalités qualifiées désignées par le    directeur interrégional de la mer ou au moins l'une d'entre elles
 représentent les organisations syndicales des salariés ou les organisations syndicales des employeurs, celles désignées par
-la région doivent représenter les organisations syndicales des employeurs ou les organisations syndicales des salariés.
+la région doivent représenter les organisations syndicales des employeurs ou les organisations syndicales des salariés. 
 
-Si les personnalités qualifiées désignées par le directeur régional des affaires maritimes ou au moins l'une d'entre elles ne
+Si les personnalités qualifiées désignées par le    directeur interrégional de la mer ou au moins l'une d'entre elles ne
 représentent ni les organisations syndicales des salariés ni les organisations syndicales d'employeurs, celles désignées par
 la région ne peuvent représenter ni les organisations syndicales d'employeurs ni les organisations syndicales de salariés.
 
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 9, alinéa 5 (en partie) (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 
 ###### Article R421-91
 
-Le directeur régional des affaires maritimes, l'agent comptable de l'établissement ainsi qu'un représentant du département
-désigné en son sein par le conseil général peuvent assister aux réunions du conseil d'administration. Le président du conseil
-d'administration peut inviter aux séances du conseil, à titre consultatif, toute personne dont la présence paraîtrait utile.
+Le    directeur interrégional de la mer, l'agent comptable de l'établissement ainsi qu'un représentant du département désigné
+en son sein par le conseil général peuvent assister aux réunions du conseil d'administration. Le président du conseil
+d'administration peut inviter aux séances du conseil, à titre consultatif, toute personne dont la présence paraîtrait utile. 
 
-Les séances du conseil d'administration ne sont pas publiques.
+Les séances du conseil d'administration ne sont pas publiques. 
 
 En cas de partage des voix, celle du président est prépondérante.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 
 ##### Sous-paragraphe 2 : Compétences.<a id=716></a>
@@ -79744,11 +79790,12 @@ _Cite_:
 ###### Article R421-96
 
 Le conseil d'administration se réunit en séance ordinaire à l'initiative du chef d'établissement au moins deux fois par an.
-Il est en outre réuni en séance extraordinaire à la demande du directeur régional des affaires maritimes, de la collectivité
-territoriale de rattachement, du chef d'établissement ou de la moitié au moins de ses membres sur un ordre du jour déterminé.
+Il est en outre réuni en séance extraordinaire à la demande du    directeur interrégional de la mer, de la collectivité
+territoriale de rattachement, du chef d'établissement ou de la moitié au moins de ses membres sur un ordre du jour
+déterminé. 
 
 Le chef d'établissement fixe les dates et heures des séances. Il envoie les convocations, accompagnées du projet d'ordre du
-jour et des documents préparatoires, au moins dix jours à l'avance, ce délai pouvant être réduit à un jour en cas d'urgence.
+jour et des documents préparatoires, au moins dix jours à l'avance, ce délai pouvant être réduit à un jour en cas d'urgence. 
 
 Le conseil d'administration ne peut siéger valablement que si le nombre des membres présents est égal à la majorité des
 membres en exercice composant le conseil. Si ce quorum n'est pas atteint, le conseil d'administration est convoqué en vue
@@ -79757,19 +79804,17 @@ valablement, quel que soit le nombre des membres présents. En cas d'urgence, le
 
 L'ordre du jour est adopté en début de séance.
 
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 
 ##### Sous-paragraphe 4 : Election et désignation.<a id=718></a>
@@ -79869,30 +79914,28 @@ _Cite_:
 
 ###### Article R421-100
 
-Le chef d'établissement assure l'organisation et veille au bon déroulement des élections. L'élection des représentants des
+Le chef d'établissement assure l'organisation et veille au bon déroulement des élections.L'élection des représentants des
 personnels, celle des représentants des parents d'élèves et celle des élèves comme délégués de classe sont effectuées au plus
-tard avant la fin de la sixième semaine après la date de la rentrée scolaire.
+tard avant la fin de la sixième semaine après la date de la rentrée scolaire. 
 
 Le chef d'établissement établit les listes électorales, reçoit les bulletins de vote sous double enveloppe, organise le
-dépouillement public et en publie les résultats. Les votes sont personnels et secrets.
+dépouillement public et en publie les résultats. Les votes sont personnels et secrets. 
 
 Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours à compter de la
-proclamation des résultats devant le directeur régional des affaires maritimes. Celui-ci statue dans un délai de huit jours à
+proclamation des résultats devant le    directeur interrégional de la mer. Celui-ci statue dans un délai de huit jours à
 l'issue duquel la demande est réputée rejetée.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 18 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 
 ###### Article R421-101
@@ -80116,31 +80159,29 @@ _Cité par_:
 Le projet de budget est préparé par le chef d'établissement. Il doit être soumis au vote du conseil d'administration et
 adopté en équilibre réel dans le délai de trente jours suivant la notification de la participation de la collectivité
 territoriale de rattachement. Il est transmis au représentant de l'Etat, à la collectivité de rattachement ainsi qu'au
-directeur régional des affaires maritimes dans les cinq jours suivant le vote. Il devient exécutoire dans un délai de trente
-jours à compter de la dernière date de réception par les trois autorités mentionnées ci-dessus, sauf si la collectivité de
-rattachement ou le directeur régional des affaires maritimes a fait connaître son désaccord motivé sur le budget. Dans ce cas
-ou lorsque le budget n'est pas adopté dans les trente jours suivant la notification de la participation de la collectivité de
-rattachement, il est fait application de la procédure prévue aux paragraphes e et f de l'article L. 421-11.
+directeur interrégional de la mer dans les cinq jours suivant le vote. Il devient exécutoire dans un délai de trente jours à
+compter de la dernière date de réception par les trois autorités mentionnées ci-dessus, sauf si la collectivité de
+rattachement ou le    directeur interrégional de la mer a fait connaître son désaccord motivé sur le budget. Dans ce cas ou
+lorsque le budget n'est pas adopté dans les trente jours suivant la notification de la participation de la collectivité de
+rattachement, il est fait application de la procédure prévue aux paragraphes e et f de l'article L. 421-11. 
 
 Le budget est transmis à l'agent comptable dès qu'il est adopté ou réglé.
 
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 28 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cite_:
 
-  - Code de l'éducation - art. L421-11 (V)
+  - Code de l'éducation - art. L421-11
 
 
 ###### Article R421-111
@@ -80171,27 +80212,25 @@ _Créé par_:
 
 Lorsqu'il est fait application des dispositions combinées de l'article L. 1612-1 du code général des collectivités
 territoriales et du II de l'article L. 421-13 du présent code, il peut, en cas de nécessité, être tenu compte, après accord
-de la collectivité territoriale de rattachement et du directeur régional des affaires maritimes, de l'incidence des mesures
-prises au titre de la dernière rentrée scolaire pour la détermination des limites d'engagement des dépenses.
+de la collectivité territoriale de rattachement et du    directeur interrégional de la mer, de l'incidence des mesures prises
+au titre de la dernière rentrée scolaire pour la détermination des limites d'engagement des dépenses.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 30 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L1612-1 (V)
-  - Code de l'éducation - art. L421-13 (V)
+  - Code général des collectivités territoriales - art. L1612-1
+  - Code de l'éducation - art. L421-13
 
 
 ###### Article R421-113
@@ -80244,28 +80283,26 @@ _Modifié par_:
 
 Lorsqu'il est fait application des dispositions combinées de l'article L. 1617-3 du code général des collectivités
 territoriales et de l'article L. 233-3 du code des juridictions financières, et que l'agent comptable a été requis de payer
-par le chef d'établissement, celui-ci en rend compte à la collectivité territoriale de rattachement, au directeur régional
-des affaires maritimes et au conseil d'administration. L'agent comptable en rend compte au trésorier-payeur général qui
+par le chef d'établissement, celui-ci en rend compte à la collectivité territoriale de rattachement, au    directeur
+interrégional de la mer et au conseil d'administration.L'agent comptable en rend compte au trésorier-payeur général qui
 transmet l'ordre de réquisition à la chambre régionale des comptes.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 33 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cite_:
 
-  - Code des juridictions financières - art. L233-3 (V)
-  - Code général des collectivités territoriales - art. L1617-3 (V)
+  - Code des juridictions financières - art. L233-3
+  - Code général des collectivités territoriales - art. L1617-3
 
 
 ###### Article R421-116
@@ -80543,50 +80580,49 @@ _Créé par_:
 ###### Article R421-127
 
 A la fin de chaque exercice, l'agent comptable en fonctions prépare le compte financier de l'établissement pour l'exercice
-écoulé.
+écoulé. 
 
-Le compte financier comprend :
+Le compte financier comprend : 
 
-1° La balance définitive des comptes ;
+1° La balance définitive des comptes ; 
 
-2° Le développement, par chapitre, des dépenses et des recettes budgétaires ;
+2° Le développement, par chapitre, des dépenses et des recettes budgétaires ; 
 
-3° Le tableau récapitulatif de l'exécution du budget ;
+3° Le tableau récapitulatif de l'exécution du budget ; 
 
-4° Les documents de synthèse comptable ;
+4° Les documents de synthèse comptable ; 
 
-5° La balance des comptes des valeurs inactives.
+5° La balance des comptes des valeurs inactives. 
 
 Le compte financier est visé par l'ordonnateur qui certifie que le montant des ordres de dépenses et des ordres de recettes
-est conforme à ses écritures.
+est conforme à ses écritures. 
 
 Avant l'expiration du quatrième mois suivant la clôture de l'exercice, le conseil d'administration arrête le compte financier
-après avoir entendu l'agent comptable.
+après avoir entendu l'agent comptable. 
 
 Le compte financier accompagné éventuellement des observations du conseil d'administration et de celles de l'agent comptable
-est transmis à la région et au directeur régional des affaires maritimes, dans les trente jours suivant son adoption.
+est transmis à la région et au    directeur interrégional de la mer, dans les trente jours suivant son adoption.
 
 L'agent comptable adresse le compte financier et les pièces annexes nécessaires, avant l'expiration du sixième mois suivant
 la clôture de l'exercice, au comptable supérieur du Trésor territorialement compétent qui, après l'avoir mis en état
-d'examen, le transmet à la chambre régionale des comptes avant l'expiration du dixième mois suivant la clôture de l'exercice.
+d'examen, le transmet à la chambre régionale des comptes avant l'expiration du dixième mois suivant la clôture de
+l'exercice. 
 
 Faute de présentation dans le délai prescrit, le représentant de l'Etat peut, après avis du comptable supérieur du Trésor
-territorialement compétent, et sur proposition du directeur régional des affaires maritimes, désigner d'office un agent
-chargé de la reddition des comptes.
+territorialement compétent, et sur proposition du    directeur interrégional de la mer, désigner d'office un agent chargé de
+la reddition des comptes.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985 - art. 45 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 
 ###### Article R421-128
@@ -80617,18 +80653,20 @@ _Cité par_:
 
 ###### Article R421-129
 
-Le représentant de l'Etat, le directeur régional des affaires maritimes et le conseil régional ont accès, sur leur demande, à
+Le représentant de l'Etat, le    directeur interrégional de la mer et le conseil régional ont accès, sur leur demande, à
 l'ensemble des actes et documents relatifs au fonctionnement des lycées professionnels maritimes.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 
 ##### Section 6 : Dispositions applicables aux lycées d'enseignement général,  technologique et professionnel agricoles.<a id=722></a>
@@ -98194,18 +98232,20 @@ _Cite_:
 ###### Article R511-57
 
 Dans les établissements publics locaux d'enseignement relevant du ministre chargé de la mer, toute décision prise par le
-conseil de discipline peut être déférée, dans un délai de huit jours, au directeur régional des affaires maritimes soit par
-la famille ou l'élève s'il est majeur, soit par le chef d'établissement.
+conseil de discipline peut être déférée, dans un délai de huit jours, au    directeur interrégional de la mer soit par la
+famille ou l'élève s'il est majeur, soit par le chef d'établissement.
+
+**Nota:**
+
+Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
+effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1242 du 25 novembre 1985, article 25 alinéa 8 v. init.
-
-_Créé par_:
-
-  - Décret n°2009-553 du 15 mai 2009 - art.
+  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
 
 _Cité par_:
 
