@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-02-13
+Version Consolidée au 2010-02-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -19034,22 +19034,17 @@ _Anciens textes_:
 
 Dans chaque chef-lieu de département et d'arrondissement, dans chaque commune de plus de 5 000 habitants et dans les communes
 désignées par arrêté ministériel, un ou plusieurs centres médico-sociaux scolaires sont organisés pour les visites et examens
-prescrits aux articles L. 541-1 et L. 541-2.
+prescrits aux articles L. 541-1 et L. 541-2. 
 
 Ils concourent à la mise en oeuvre des actions coordonnées de prévention et d'éducation à la santé que comporte le programme
-régional pour l'accès à la prévention et aux soins des personnes les plus démunies prévu à l'article L. 1411-11 du code de la
-santé publique.
+régional pour l'accès à la prévention et aux soins des personnes les plus démunies prévu à l'article    L. 1434-2 du code de
+la santé publique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 _Modifié par_:
 
-  - Loi n°2004-806 du 9 août 2004 - art. 2 () JORF 11 août 2004
+  - Ordonnance n°2010-177 du 23 février 2010 - art. 8
 
 _Cité par_:
 
@@ -19060,12 +19055,6 @@ _Cité par_:
   - Code de la santé publique - art. L2325-5 (V)
   - Code général des collectivités territoriales - art. L2113-8-3 (V)
 
-_Cite_:
-
-  - Code de l'éducation - art. L541-1 (M)
-  - Code de l'éducation - art. L541-2 (V)
-  - Code de la santé publique - art. L1411-11 (V)
-
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L2325-3 (M)
@@ -19073,6 +19062,10 @@ _Nouveaux textes_:
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de la santé publique - art. L2325-3 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L1434-2
 
 _Anciens textes_:
 
@@ -21383,8 +21376,9 @@ _Modifié par_:
 
 Chaque année, un arrêté du ministre chargé de la santé et du ministre chargé de la sécurité sociale détermine le nombre
 d'étudiants qui, admis à poursuivre des études médicales à l'issue de la première année du premier cycle ou ultérieurement au
-cours de ces études, peuvent signer avec le centre national de gestion des praticiens hospitaliers et des personnels de
-direction de la fonction publique hospitalière un contrat d'engagement de service public. 
+cours de ces études, peuvent signer avec le                Centre national de gestion mentionné à l' article 116 de la loi n°
+86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière un contrat
+d'engagement de service public. 
 
 Ce contrat ouvre droit, en sus des rémunérations auxquelles les étudiants et internes peuvent prétendre du fait de leur
 formation, à une allocation mensuelle versée par le centre national de gestion jusqu'à la fin de leurs études médicales. En
@@ -21431,11 +21425,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°95-115 du 4 février 1995 (V)
-  - Code général des impôts, CGI. - art. 1465 (V)
-  - Code de l'éducation - art. L632-2 (V)
-  - Code de la sécurité sociale. - art. L162-14-1 (V)
-  - Code de la sécurité sociale. - art. L162-5 (VT)
+  - Loi n°95-115 du 4 février 1995
+  - Code général des impôts, CGI. - art. 1465
+  - Code de l'éducation - art. L632-2
+  - Code de la sécurité sociale. - art. L162-14-1
+  - Code de la sécurité sociale. - art. L162-5
 
 _Cité par_:
 
@@ -21485,7 +21479,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-879 du 21 juillet 2009 - art. 46 (V)
+  - Ordonnance n°2010-177 du 23 février 2010 - art. 11
 
 
 ###### Article L632-12
@@ -21685,11 +21679,11 @@ Le ministre chargé de l'enseignement supérieur et le ministre chargé de la sa
 d'interne en pharmacie mis au concours, d'une part, dans chaque formation propre à la pharmacie, d'autre part, dans chaque
 formation commune à la pharmacie et à la médecine.
 
-La liste des services formateurs et la répartition des postes d'interne dans les services sont arrêtées par le représentant
-de l'Etat dans la région.
+La liste des services formateurs et la répartition des postes d'interne entre ces structures sont arrêtées par le directeur
+général de l'agence régionale de santé.
 
 En ce qui concerne les formations accessibles à la fois aux internes en médecine et aux internes en pharmacie, les postes
-offerts sont affectés dans des services dirigés par des médecins ou des pharmaciens.
+offerts sont affectés dans des structures dirigées par des médecins ou des pharmaciens.
 
 **Nota:**
 
@@ -21711,7 +21705,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-49 du 13 janvier 2010 - art. 5
+  - Ordonnance n°2010-177 du 23 février 2010 - art. 14
 
 
 ###### Article L633-4
@@ -21753,19 +21747,19 @@ _Cite_:
 
 ###### Article L633-5
 
-Le service public hospitalier concourt à l'enseignement universitaire et postuniversitaire pharmaceutique en application de
-l'article L. 6112-1 du code de la santé publique.
+Les établissements de santé concourent à l'enseignement universitaire et postuniversitaire pharmaceutique en application de
+l'article L. 6112-1 du code de la santé publique. 
 
 Au cours des études qui conduisent au diplôme d'Etat de docteur en pharmacie ainsi qu'à certaines spécialités qui s'y
 rattachent, les étudiants accomplissent des stages dans les laboratoires hospitaliers de biologie ou les pharmacies
-hospitalières.
+hospitalières. 
 
 Les stages sont organisés par voie de convention entre les universités et les centres hospitaliers régionaux ou les centres
-hospitaliers et assimilés ; ces conventions peuvent prévoir l'organisation d'un externat.
+hospitaliers et assimilés ; ces conventions peuvent prévoir l'organisation d'un externat. 
 
 Les stages sont effectués sous la responsabilité d'enseignants d'une unité de formation et de recherche de pharmacie exerçant
 conjointement des fonctions de pharmacien des hôpitaux ou de biologiste des hôpitaux. En outre, ils peuvent être effectués
-sous la responsabilité de pharmaciens des hôpitaux ou de pharmaciens biologistes n'exerçant pas de fonctions universitaires.
+sous la responsabilité de pharmaciens des hôpitaux ou de pharmaciens biologistes n'exerçant pas de fonctions universitaires. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -21773,17 +21767,11 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 _Anciens textes_:
 
-  - Loi n°79-4 du 2 janvier 1979 - art. 1, v. init.
   - Loi n°79-4 du 2 janvier 1979 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 _Modifié par_:
 
-  - Loi n°2002-73 du 17 janvier 2002 - art. 65 () JORF 18 janvier 2002
+  - Ordonnance n°2010-177 du 23 février 2010 - art. 3
 
 _Cité par_:
 
@@ -21791,7 +21779,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la santé publique - art. L6112-1 (M)
+  - Code de la santé publique - art. L6112-1
 
 
 ###### Article L633-6
@@ -29770,26 +29758,17 @@ _Codifié par_:
 ###### Article L831-1
 
 Des services de médecine préventive et de promotion de la santé sont mis à la disposition des usagers, selon des modalités
-fixées par décret.
+fixées par décret. 
 
 Ils concourent à la mise en oeuvre des actions coordonnées de prévention et d'éducation à la santé que comporte le programme
-régional pour l'accès à la prévention et aux soins des personnes les plus démunies prévu à l'article L. 1411-11 du code de la
-santé publique.
+régional pour l'accès à la prévention et aux soins des personnes les plus démunies prévu à l'article    L. 1434-2 du code de
+la santé publique.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°84-52 du 26 janvier 1984 - art. 51 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Modifié par_:
-
-  - Loi n°2004-806 du 9 août 2004 - art. 2 () JORF 11 août 2004
 
 _Cité par_:
 
@@ -29801,9 +29780,13 @@ _Cité par_:
   - Code de l'éducation - art. L854-1 (V)
   - Code de la sécurité sociale. - art. D162-1-6 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2010-177 du 23 février 2010 - art. 8
+
 _Cite_:
 
-  - Code de la santé publique - art. L1411-11 (V)
+  - Code de la santé publique - art. L1434-2
 
 
 ###### Article L831-2
