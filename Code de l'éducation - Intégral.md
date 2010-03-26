@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-02-26
+Version Consolidée au 2010-03-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -22259,7 +22259,8 @@ _Cite_:
 
 Sont applicables dans les îles Wallis et Futuna les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 611-5, L. 612-1 à L.
 612-7, L. 613-1 à L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L.
-625-1, L. 631-1, L. 632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+625-1, L. 631-1, L. 632-1 à    L. 632-5, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L.
+671-2.
 
 L'obligation de préinscription prévue à l'article L. 612-3 n'est pas opposable aux candidats qui ont suivi l'enseignement du
 second degré dans les îles Wallis et Futuna et qui souhaitent s'inscrire dans un établissement public d'enseignement
@@ -22273,26 +22274,26 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-728 du 24 juillet 2008 - art. 3
+  - Ordonnance n°2010-331 du 25 mars 2010 - art. 39
 
 _Cite_:
 
-  - Code de l'éducation - art. L611-1 (V)
-  - Code de l'éducation - art. L612-1 (V)
-  - Code de l'éducation - art. L612-3 (V)
-  - Code de l'éducation - art. L613-1 (V)
-  - Code de l'éducation - art. L614-1 (V)
-  - Code de l'éducation - art. L614-3 (V)
-  - Code de l'éducation - art. L622-1 (V)
-  - Code de l'éducation - art. L623-1 (V)
-  - Code de l'éducation - art. L624-1 (V)
-  - Code de l'éducation - art. L625-1 (V)
-  - Code de l'éducation - art. L631-1 (V)
-  - Code de l'éducation - art. L632-1 (V)
-  - Code de l'éducation - art. L633-2 (V)
-  - Code de l'éducation - art. L641-1 (V)
-  - Code de l'éducation - art. L642-1 (V)
-  - Code de l'éducation - art. L671-2 (V)
+  - Code de l'éducation - art. L611-1
+  - Code de l'éducation - art. L612-1
+  - Code de l'éducation - art. L612-3
+  - Code de l'éducation - art. L613-1
+  - Code de l'éducation - art. L614-1
+  - Code de l'éducation - art. L614-3
+  - Code de l'éducation - art. L622-1
+  - Code de l'éducation - art. L623-1
+  - Code de l'éducation - art. L624-1
+  - Code de l'éducation - art. L625-1
+  - Code de l'éducation - art. L631-1
+  - Code de l'éducation - art. L632-1
+  - Code de l'éducation - art. L633-2
+  - Code de l'éducation - art. L641-1
+  - Code de l'éducation - art. L642-1
+  - Code de l'éducation - art. L671-2
 
 
 ##### Chapitre II : Dispositions applicables à Mayotte.<a id=236></a>
@@ -22329,8 +22330,8 @@ _Cite_:
 ###### Article L683-1
 
 Sont applicables en Polynésie française les articles L. 611-1 à L. 611-5, L. 612-1 à L. 612-7, L. 613-1 à L. 613-7, L. 614-1,
-le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à L. 632-10,
-L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à    L.
+632-5, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
@@ -22340,25 +22341,25 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+  - Ordonnance n°2010-331 du 25 mars 2010 - art. 39
 
 _Cite_:
 
   - Code de l'éducation - art. L611-1
-  - Code de l'éducation - art. L612-1 (V)
-  - Code de l'éducation - art. L613-1 (V)
-  - Code de l'éducation - art. L614-1 (V)
+  - Code de l'éducation - art. L612-1
+  - Code de l'éducation - art. L613-1
+  - Code de l'éducation - art. L614-1
   - Code de l'éducation - art. L614-3
-  - Code de l'éducation - art. L622-1 (V)
-  - Code de l'éducation - art. L623-1 (V)
-  - Code de l'éducation - art. L624-1 (V)
-  - Code de l'éducation - art. L625-1 (V)
-  - Code de l'éducation - art. L631-1 (V)
-  - Code de l'éducation - art. L632-1 (V)
-  - Code de l'éducation - art. L632-12 (V)
-  - Code de l'éducation - art. L633-2 (V)
-  - Code de l'éducation - art. L641-1 (V)
-  - Code de l'éducation - art. L642-1 (V)
+  - Code de l'éducation - art. L622-1
+  - Code de l'éducation - art. L623-1
+  - Code de l'éducation - art. L624-1
+  - Code de l'éducation - art. L625-1
+  - Code de l'éducation - art. L631-1
+  - Code de l'éducation - art. L632-1
+  - Code de l'éducation - art. L632-12
+  - Code de l'éducation - art. L633-2
+  - Code de l'éducation - art. L641-1
+  - Code de l'éducation - art. L642-1
   - Code de l'éducation - art. L671-2
 
 
@@ -22429,8 +22430,8 @@ _Cité par_:
 ###### Article L684-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 611-1 à L. 611-5, L. 612-1 à L. 612-7, L. 613-1 à L. 613-7, L. 614-1,
-le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à L. 632-10,
-L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, 
+le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à    L.
+632-5, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, 
 L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
@@ -22441,7 +22442,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+  - Ordonnance n°2010-331 du 25 mars 2010 - art. 39
 
 _Cite_:
 
