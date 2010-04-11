@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-03-27
+Version Consolidée au 2010-04-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -73452,22 +73452,30 @@ _Cite_:
 
 Les règles relatives aux compétences, à la composition et au fonctionnement de la Commission des droits et de l'autonomie des
 personnes handicapées sont fixées par les articles L. 241-6 et R. 241-24 à R. 241-34 du code de l'action sociale et des
-familles.
+familles. 
+
+Pour l'application à Saint-Pierre-et-Miquelon des articles D. 351-8, 
+D. 351-14, R. 351-21, R. 351-24 et R. 351-25, les mots : " maison départementale des personnes handicapées " sont remplacés
+par les mots : " maison territoriale de l'autonomie ".
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-366 du 9 avril 2010 - art. 2
+
+_Cite_:
+
+  - Code de l'éducation - art. D351-14
+  - Code de l'éducation - art. D351-8
+  - Code de l'éducation - art. R351-21
+  - Code de l'éducation - art. R351-24
+  - Code de l'action sociale et des familles - art. L241-6
+  - Code de l'action sociale et des familles - art. R241-24
 
 _Cité par_:
 
   - Code de l'éducation - art. R372-7 (VT)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L241-6 (V)
-  - Code de l'action sociale et des familles L241-6, R241-24 à R241-34
 
 
 ##### Section 2 : Le parcours de formation des élèves présentant un handicap<a id=652></a>
