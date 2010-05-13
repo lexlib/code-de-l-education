@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-05-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -523,7 +523,7 @@ Version Consolidée au 2010-05-08
           - [Section 6 : Les enseignements de la sécurité (art. D312-40 à R312-47)](#520)
             - [Sous-section 1 : L'enseignement des règles générales de sécurité. (art. D312-40 à D312-42)](#521)
             - [Sous-section 2 : L'enseignement des règles de sécurité routière. (art. D312-43 à R312-47)](#522)
-          - [Section 8 : L'enseignement d'éducation civique. (art. D312-48)](#523)
+          - [Section 8 : L'enseignement d'éducation civique. (art. D312-48 à D312-48-1)](#523)
           - [Section 9 : L'éducation à la santé et à la sexualité. (art. D312-49)](#524)
         - [Chapitre III : L'information et l'orientation. (art. D313-1 à R313-58)](#525)
           - [Section 1 : Les centres d'information et d'orientation publics. (art. D313-7 à D313-13)](#526)
@@ -51247,6 +51247,27 @@ _Codifié par_:
 _Cité par_:
 
   - Code de l'éducation - art. D372-3 (VD)
+
+
+###### Article D312-48-1
+
+Dans les lycées publics et privés sous contrat, d'enseignement général et technologique ou professionnel, les élèves
+bénéficient au cours de leur scolarité d'une information sur le service civique créé par la loi n° 2010-241 du 10 mars 2010.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2010-241 du 10 mars 2010
+
+_Créé par_:
+
+  - Décret n°2010-485 du 12 mai 2010 - art. 4
+
+_Cité par_:
+
+  - Code de l'éducation - art. D371-3 (VD)
+  - Code de l'éducation - art. D374-3 (VD)
 
 
 ##### Section 9 : L'éducation à la santé et à la sexualité.<a id=524></a>
