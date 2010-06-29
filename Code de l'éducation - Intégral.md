@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-06-21
+Version Consolidée au 2010-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -6789,19 +6789,18 @@ _Cite_:
 
 Le Haut Conseil de l'éducation est composé de neuf membres désignés pour six ans. Trois de ses membres sont désignés par le
 Président de la République, deux par le président de l'Assemblée nationale, deux par le président du Sénat et deux par le
-président du Conseil économique et social en dehors des membres de ces assemblées. Le président du haut conseil est désigné
-par le Président de la République parmi ses membres.
+président du   Conseil économique, social et environnemental en dehors des membres de ces assemblées. Le président du haut
+conseil est désigné par le Président de la République parmi ses membres.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°2005-380 du 23 avril 2005 - art. 14 () JORF 24 avril 2005
+  - Loi n°2013-595 du 8 juillet 2013 - art. 32
 
 _Cité par_:
 
