@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-07-07
+Version Consolidée au 2010-07-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -94,7 +94,7 @@ Version Consolidée au 2010-07-07
             - [Section 6 : Les enseignements de la sécurité. (art. L312-13 à L312-13-1)](#91)
             - [Section 7 : L'enseignement des problèmes démographiques. (art. L312-14)](#92)
             - [Section 8 : L'enseignement d'éducation civique. (art. L312-15)](#93)
-            - [Section 9 : L'éducation à la santé et à la sexualité (art. L312-16 à L312-17)](#94)
+            - [Section 9 : L'éducation à la santé et à la sexualité (art. L312-16 à L312-17-1)](#94)
             - [Section 10 : Prévention et information sur les toxicomanies. (art. L312-18)](#95)
           - [Chapitre III : L'information et l'orientation. (art. L313-1 à L313-8)](#96)
           - [Chapitre IV : La recherche et la documentation pédagogiques. (art. L314-1 à L314-2)](#97)
@@ -9933,6 +9933,21 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°2004-806 du 9 août 2004 - art. 49 () JORF 11 août 2004
+
+
+###### Article L312-17-1
+
+Une information consacrée à l'égalité entre les hommes et les femmes, à la lutte contre les préjugés sexistes et à la lutte
+contre les violences faites aux femmes et les violences commises au sein du couple est dispensée à tous les stades de la
+scolarité. Les établissements scolaires, y compris les établissements français d'enseignement scolaire à l'étranger, peuvent
+s'associer à cette fin avec des associations de défense des droits des femmes et promouvant l'égalité entre les hommes et les
+femmes et des personnels concourant à la prévention et à la répression de ces violences.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 23
 
 
 ##### Section 10 : Prévention et information sur les toxicomanies.<a id=95></a>
@@ -26253,12 +26268,9 @@ recherche en éducation.
 
 Ils organisent des formations de préparation professionnelle en faveur des étudiants.
 
-**Nota:**
-
-Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
-d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L.
-114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.L'Agence d'évaluation de la recherche et de
-l'enseignement supérieur a été installée le 21 mars 2007.
+Les formations mentionnées aux trois alinéas précédents comportent des actions de sensibilisation à la lutte contre les
+discriminations, aux enjeux de l'égalité entre les femmes et les hommes, aux violences faites aux femmes et aux violences
+commises au sein du couple.
 
 **Liens relatifs à cet article**
 
@@ -26297,18 +26309,13 @@ _Cité par_:
   - Code rural - art. L812-11 (V)
   - Code rural - art. L812-7 (V)
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 _Modifié par_:
 
-  - loi n°2006-450 du 18 avril 2006 - art. 11 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
+  - Loi n°2010-769 du 9 juillet 2010 - art. 23
 
 _Cite_:
 
-  - Code de l'éducation - art. L713-9 (M)
+  - Code de l'éducation - art. L713-9
 
 
 ###### Article L721-2
