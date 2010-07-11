@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-07-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -60411,18 +60411,18 @@ _Codifié par_:
 
 ###### Article D332-25
 
-Le certificat de formation générale est organisé et délivré par l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale.
+Le certificat de formation générale est organisé et délivré par le recteur d'académie.
+
+**Nota:**
+
+Décret 2010-784 du 8 juillet 2010 art. 6 : Le présent décret entre en vigueur à compter de la session du mois de juin 2011 du
+certificat de formation générale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°83-569 1983-06-29 art. 3
-
-_Codifié par_:
-
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-784 du 8 juillet 2010 - art. 3
 
 _Cité par_:
 
