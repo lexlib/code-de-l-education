@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-07-12
+Version Consolidée au 2010-07-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -184,8 +184,8 @@ Version Consolidée au 2010-07-12
           - [Chapitre III : Dispositions applicables en Polynésie française. (art. L493-1)](#181)
           - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L494-1)](#182)
       - [Livre V : La vie scolaire (art. L511-1 à L564-1)](#183)
-        - [Titre Ier : Les droits et obligations des élèves (art. L511-1 à L511-4)](#184)
-          - [Chapitre unique. (art. L511-1 à L511-4)](#185)
+        - [Titre Ier : Les droits et obligations des élèves (art. L511-1 à L511-5)](#184)
+          - [Chapitre unique. (art. L511-1 à L511-5)](#185)
         - [Titre II : L'organisation du temps et de l'espace scolaires (art. L521-1 à L521-4)](#186)
           - [Chapitre unique. (art. L521-1 à L521-4)](#187)
         - [Titre III : Les aides à la scolarité (art. L531-1 à L533-2)](#188)
@@ -18364,6 +18364,18 @@ _Codifié par_:
 _Cite_:
 
   - Code civil - art. 21-7 (V)
+
+
+###### Article L511-5
+
+Dans les écoles maternelles, les écoles élémentaires et les collèges, l'utilisation durant toute activité d'enseignement et
+dans les lieux prévus par le règlement intérieur, par un élève, d'un téléphone mobile est interdite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-788 du 12 juillet 2010 - art. 183 (V)
 
 
 #### Titre II : L'organisation du temps et de l'espace scolaires<a id=186></a>
@@ -50810,43 +50822,42 @@ _Codifié par_:
 
 ###### Article D312-26
 
-Les membres de cette commission sont désignés dans les conditions suivantes :
+Les membres de cette commission sont désignés dans les conditions suivantes : 
 
-1° Sont nommés par le recteur d'académie :
+1° Sont nommés par le recteur d'académie : 
 
-a) Les membres des corps d'inspection et les chefs d'établissement ;
+a) Les membres des corps d'inspection et les chefs d'établissement ; 
 
 b) Les représentants des personnels enseignants sur proposition des organisations syndicales représentatives dans
-l'académie ;
+l'académie ; 
 
 c) Les représentants des parents d'élèves sur proposition des associations représentatives des parents d'élèves, la
 représentativité des associations de parents d'élèves étant appréciée en fonction des voix obtenues aux élections aux
-instances représentatives des établissements scolaires dans l'académie ;
+instances représentatives des établissements scolaires dans l'académie ; 
 
 2° Le représentant des lycéens est élu par et parmi leurs représentants au conseil académique de la vie lycéenne, au scrutin
-uninominal majoritaire à deux tours ;
+uninominal majoritaire à deux tours ; 
 
-3° Les conseillers régionaux sont désignés par le conseil régional ;
+3° Les conseillers régionaux sont désignés par le conseil régional ; 
 
 4° Les conseillers généraux sont désignés par les conseils généraux ; la répartition des sièges est effectuée dans l'ordre
-décroissant de la population des départements ;
+décroissant de la population des départements ; 
 
 5° Les maires ou conseillers municipaux ou représentants des établissements publics de coopération intercommunale sont
 désignés par accord entre les associations départementales des maires ou, à défaut, par le collège des maires du
-département ;
+département ; 
 
-6° Les représentants du conseil économique et social régional sont désignés par le conseil.
+6° Les représentants du    conseil économique, social et environnemental régional sont désignés par le conseil.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2005-1011 2005-08-22 art. 10
   - Décret n°2005-1011 du 22 août 2005 - art. 10 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Loi n°2010-788 du 12 juillet 2010 - art. 250 (V)
 
 _Cité par_:
 
