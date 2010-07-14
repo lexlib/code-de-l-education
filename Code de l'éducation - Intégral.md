@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-07-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -36631,7 +36631,9 @@ i) Collège et lycée d'Etat de Font-Romeu (Pyrénées-Orientales) ;
 
 j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon ; 
 
-k) Lycée-collège d'Etat de Sourdun.
+k) Lycée-collège d'Etat de Sourdun ;
+
+l)  Internat d'excellence  de  Montpellier.
 
 **Liens relatifs à cet article**
 
@@ -36649,7 +36651,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-772 du 23 juin 2009 - art. 9
+  - Décret n°2010-795 du 12 juillet 2010 - art. 9
 
 _Cite_:
 
