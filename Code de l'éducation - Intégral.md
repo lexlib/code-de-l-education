@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-08-26
+Version Consolidée au 2010-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -51206,6 +51206,23 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
+###### Article D312-16-1
+
+Dans le respect des dispositions de l'article L. 121-3, les enseignements des disciplines autres que linguistiques peuvent
+être dispensés en partie dans une langue vivante étrangère ou régionale, conformément aux horaires et aux programmes en
+vigueur dans les classes considérées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-100 du 27 janvier 2010 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. L121-3
+
+
 ###### Article D312-17
 
 Les enseignements de langues vivantes étrangères peuvent être dispensés en groupes de compétences, indépendamment des classes
@@ -59663,26 +59680,28 @@ décret n° 85-924 du 30 août 1985 relatif aux établissements publics locaux d
 propositions d'orientation, dans le cadre des voies d'orientation définies par l'arrêté mentionné à l'article D. 331-36, ou
 de redoublement. 
 
+Lorsque ces propositions ne sont pas conformes aux demandes, le conseil de classe peut recommander que l'élève suive un
+dispositif de remise à niveau. 
+
 Lorsque les parents d'un élève ou un élève majeur manifestent leur intention d'interrompre les études en cours de cycle ou
 avant la présentation au diplôme de fin de cycle, le conseil de classe prend toutes dispositions pour les inciter à achever
 le cycle et, si besoin est, pour les informer sur les possibilités de formation, y compris le retour ultérieur en formation
-initiale.L'avis de l'élève mineur est recueilli.
+initiale. L'avis de l'élève mineur est recueilli.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°85-924 du 30 août 1985 (Ab)
-  - Code de l'éducation - art. D331-36 (V)
+  - Décret n°85-924 du 30 août 1985
+  - Code de l'éducation - art. D331-36
 
 _Anciens textes_:
 
-  - Décret n°90-484 1990-06-14 art. 10
   - Décret n°90-484 du 14 juin 1990 - art. 10 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-100 du 27 janvier 2010 - art. 3
 
 _Cité par_:
 
@@ -59716,12 +59735,17 @@ _Cité par_:
 
 Lorsque les propositions ne sont pas conformes aux demandes, le chef d'établissement, ou son représentant, reçoit l'élève et
 ses parents ou l'élève majeur, afin de les informer des propositions du conseil de classe et de recueillir leurs
-observations.
+observations. Le chef d'établissement présente, à cette occasion, les recommandations émises par le conseil de classe dans
+les conditions définies à l'article D. 331-32. 
 
 Le chef d'établissement prend ensuite les décisions d'orientation ou de redoublement, dont il informe l'équipe pédagogique,
-et les notifie aux parents de l'élève ou à l'élève majeur.
+et les notifie aux parents de l'élève ou à l'élève majeur. 
 
-Les décisions non conformes aux demandes font l'objet de motivations signées par le chef d'établissement.
+Le chef d'établissement peut assortir sa décision de faire droit à la demande d'orientation de l'élève de la condition que
+celui-ci s'engage à suivre un dispositif de remise à niveau, notamment lorsque le conseil de classe l'a recommandé, avec
+l'accord écrit de ses représentants légaux dans le cas d'un élève mineur. 
+
+Les décisions non conformes aux demandes font l'objet de motivations signées par le chef d'établissement. 
 
 Les motivations comportent des éléments objectifs ayant fondé les décisions, en termes de connaissances, de capacités et
 d'intérêts. Elles sont adressées aux parents de l'élève ou à l'élève majeur qui font savoir au chef d'établissement s'ils
@@ -59735,10 +59759,6 @@ _Anciens textes_:
   - Décret n°90-484 1990-06-14 art. 12
   - Décret n°90-484 du 14 juin 1990 - art. 12 (Ab)
 
-_Codifié par_:
-
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
 _Cité par_:
 
   - Arrêté du 27 janvier 2010 - art. 9 (VT)
@@ -59747,6 +59767,14 @@ _Cité par_:
   - Arrêté du 16 juillet 2018 - art. 7 (VD)
   - Code de l'éducation - art. D331-62 (V)
   - Code de l'éducation - art. D331-63 (V)
+
+_Modifié par_:
+
+  - Décret n°2010-100 du 27 janvier 2010 - art. 4
+
+_Cite_:
+
+  - Code de l'éducation - art. D331-32
 
 
 ###### Article D331-35
@@ -60308,7 +60336,10 @@ _Cite_:
 ###### Article D331-54
 
 Le conseil de la classe réuni sous la présidence du chef d'établissement formule des propositions d'orientation dans le cadre
-des voies d'orientation et des parcours définis conformément à l'article D. 331-36, ou de redoublement.
+des voies d'orientation et des parcours définis conformément à l'article D. 331-36, ou de redoublement. 
+
+Lorsque ces propositions ne sont pas conformes aux demandes, le conseil de classe peut recommander que l'élève suive un
+dispositif de remise à niveau. 
 
 Lorsque les parents d'un élève ou un élève majeur manifestent leur intention d'interrompre les études en cours de cycle ou
 avant la présentation au diplôme de fin de cycle, le conseil de la classe réuni sous la présidence du chef d'établissement
@@ -60317,17 +60348,13 @@ formation, y compris le retour ultérieur en formation initiale. L'avis de l'él
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°91-372 1991-04-16 art. 8
-
-_Codifié par_:
-
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-100 du 27 janvier 2010 - art. 8
 
 _Cite_:
 
-  - Code de l'éducation - art. D331-36 (V)
+  - Code de l'éducation - art. D331-36
 
 _Cité par_:
 
@@ -60354,12 +60381,17 @@ _Codifié par_:
 
 Lorsque les propositions ne sont pas conformes aux demandes, le chef d'établissement, ou son représentant, reçoit l'élève et
 ses parents ou l'élève majeur, pour les informer des propositions du conseil de la classe réuni sous sa présidence et
-recueillir leurs observations.
+recueillir leurs observations. Le chef d'établissement présente, à cette occasion, les recommandations émises par le conseil
+de classe dans les conditions définies à l'article D. 331-54. 
 
 Les décisions d'orientation ou de redoublement sont ensuite prises par le chef d'établissement qui les notifie aux parents de
-l'élève ou à l'élève majeur et en informe l'équipe pédagogique.
+l'élève ou à l'élève majeur et en informe l'équipe pédagogique. 
 
-Les décisions non conformes aux demandes font l'objet de motivations signées par le chef d'établissement.
+Le chef d'établissement peut assortir sa décision de faire droit à la demande d'orientation de l'élève de la condition que
+celui-ci s'engage à suivre un dispositif de remise à niveau, notamment lorsque le conseil de classe l'a recommandé, avec
+l'accord écrit de ses représentants légaux dans le cas d'un élève mineur. 
+
+Les décisions non conformes aux demandes font l'objet de motivations signées par le chef d'établissement. 
 
 Les motivations comportent les éléments objectifs ayant fondé les décisions, en termes de connaissances, de capacités et
 d'intérêts. Elles sont adressées aux parents de l'élève ou à l'élève majeur qui font savoir au chef d'établissement s'ils
@@ -60368,13 +60400,13 @@ notification de ces décisions ainsi motivées.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°91-372 1991-04-16 art. 10
+  - Décret n°2010-100 du 27 janvier 2010 - art. 9
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Code de l'éducation - art. D331-54 (VT)
 
 _Cité par_:
 
@@ -73273,6 +73305,9 @@ les dispositions réglementaires du livre VIII du code rural relatives aux étab
 formation professionnelle agricoles. Le conseil de classe émet des propositions d'orientation dans le cadre des voies
 d'orientation définies par l'arrêté mentionné à l'article D. 341-14, ou de redoublement. 
 
+Lorsque ces propositions ne sont pas conformes aux demandes, le conseil de classe peut recommander que l'élève suive un
+dispositif de remise à niveau. 
+
 Lorsque les parents d'un élève ou un élève majeur manifestent leur intention d'interrompre les études en cours de cycle ou
 avant la présentation au diplôme de fin de cycle, le conseil de classe prend toutes dispositions pour les inciter à achever
 le cycle et, si besoin est, pour les informer sur les possibilités de formation, y compris le retour ultérieur en formation
@@ -73286,7 +73321,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-224 du 24 février 2009 - art. 1
+  - Décret n°2010-100 du 27 janvier 2010 - art. 14
 
 _Cité par_:
 
@@ -73318,12 +73353,17 @@ _Codifié par_:
 
 Lorsque les propositions d'orientation ne sont pas conformes aux demandes, le chef d'établissement, ou son représentant,
 reçoit l'élève et ses parents ou l'élève majeur, afin de les informer des propositions du conseil de classe et de recueillir
-leurs observations.
+leurs observations. Le chef d'établissement présente, à cette occasion, les recommandations émises par le conseil de classe
+dans les conditions définies à l'article D. 341-10. 
 
 Le chef d'établissement prend ensuite les décisions d'orientation ou de redoublement, dont il informe l'équipe pédagogique,
-et les notifie aux parents de l'élève ou à l'élève majeur.
+et les notifie aux parents de l'élève ou à l'élève majeur. 
 
-Les décisions non conformes aux demandes font l'objet de motivations signées par le chef d'établissement.
+Le chef d'établissement peut assortir sa décision de faire droit à la demande d'orientation de l'élève de la condition que
+celui-ci s'engage à suivre un dispositif de remise à niveau, notamment lorsque le conseil de classe l'a recommandé, avec
+l'accord écrit de ses représentants légaux dans le cas d'un élève mineur. 
+
+Les décisions non conformes aux demandes font l'objet de motivations signées par le chef d'établissement. 
 
 Les motivations comportent des éléments objectifs ayant fondé les décisions, en termes de connaissances, de capacités et
 d'intérêts. Elles sont adressées aux parents de l'élève ou à l'élève majeur qui font savoir au chef d'établissement s'ils
@@ -73334,12 +73374,15 @@ notification de ces décisions ainsi motivées.
 
 _Anciens textes_:
 
-  - Décret n°92-920 1992-09-07 art. 12
   - Décret n°92-920 du 7 septembre 1992 - art. 12 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-100 du 27 janvier 2010 - art. 15
+
+_Cite_:
+
+  - Code de l'éducation - art. D341-10
 
 
 ###### Article D341-13
@@ -73685,16 +73728,25 @@ A l'intérieur des cycles, le redoublement ne peut intervenir qu'à la demande �
 majeur, ou, sur proposition du conseil de la classe réuni sous la présidence du chef d'établissement, avec l'accord écrit des
 intéressés.
 
+A l'intérieur du cycle terminal de la voie générale et de la voie technologique du lycée, un changement de voie d'orientation
+peut être réalisé, en cours ou en fin d'année, sur demande écrite des responsables légaux ou de l'élève majeur, après avis du
+conseil de classe. Lorsque ce changement a lieu à l'intérieur du même établissement, il est prononcé par le chef
+d'établissement dans le délai d'un mois qui suit la demande. Lorsque le changement implique l'affectation dans un autre
+établissement, il est prononcé dans les conditions fixées à l'article D. 341-36.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°92-921 1992-09-07 art. 5
   - Décret n°92-921 du 7 septembre 1992 - art. 5 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-100 du 27 janvier 2010 - art. 18
+
+_Cite_:
+
+  - Code de l'éducation - art. D341-36
 
 
 ###### Article D341-28
@@ -73741,7 +73793,10 @@ _Cite_:
 ###### Article D341-30
 
 Le conseil de classe réuni sous la présidence du chef d'établissement formule des propositions d'orientation dans le cadre
-des voies d'orientation et des parcours définis conformément à l'arrêté prévu à l'article D. 341-14, ou de redoublement.
+des voies d'orientation et des parcours définis conformément à l'arrêté prévu à l'article D. 341-14, ou de redoublement. 
+
+Lorsque ces propositions ne sont pas conformes aux demandes, le conseil de classe peut recommander que l'élève suive un
+dispositif de remise à niveau. 
 
 Lorsque les parents d'un élève ou un élève majeur manifestent leur intention d'interrompre les études en cours de cycle ou
 avant la présentation au diplôme de fin de cycle, le conseil de classe prend toutes dispositions pour les inciter à achever
@@ -73752,16 +73807,15 @@ initiale. L'avis de l'élève mineur est recueilli.
 
 _Anciens textes_:
 
-  - Décret n°92-921 1992-09-07 art. 8
   - Décret n°92-921 du 7 septembre 1992 - art. 8 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-100 du 27 janvier 2010 - art. 19
 
 _Cite_:
 
-  - Code de l'éducation - art. D341-14 (V)
+  - Code de l'éducation - art. D341-14
 
 _Cité par_:
 
@@ -73789,12 +73843,17 @@ _Codifié par_:
 
 Lorsque les propositions d'orientation ne sont pas conformes aux demandes, le chef d'établissement ou son représentant reçoit
 l'élève et ses parents, ou l'élève majeur, pour les informer des propositions du conseil de la classe réuni sous sa
-présidence et recueillir leurs observations.
+présidence et recueillir leurs observations. Le chef d'établissement présente, à cette occasion, les recommandations émises
+par le conseil de classe dans les conditions définies à l'article D. 341-30. 
 
 Les décisions d'orientation ou de redoublement sont ensuite prises par le chef d'établissement qui les notifie aux parents de
-l'élève ou à l'élève majeur.
+l'élève ou à l'élève majeur. 
 
-Les décisions non conformes aux demandes font l'objet de motivations signées par le chef d'établissement.
+Le chef d'établissement peut assortir sa décision de faire droit à la demande d'orientation de l'élève de la condition que
+celui-ci s'engage à suivre un dispositif de remise à niveau, notamment lorsque le conseil de classe l'a recommandé, avec
+l'accord écrit de ses représentants légaux dans le cas d'un élève mineur. 
+
+Les décisions non conformes aux demandes font l'objet de motivations signées par le chef d'établissement. 
 
 Les motivations comportent les éléments objectifs ayant fondé les décisions, en termes de connaissances, de capacités et
 d'intérêts. Elles sont adressées aux parents de l'élève ou à l'élève majeur qui font savoir au chef d'établissement s'ils
@@ -73805,12 +73864,15 @@ notification de ces décisions ainsi motivées.
 
 _Anciens textes_:
 
-  - Décret n°92-921 1992-09-07 art. 10
   - Décret n°92-921 du 7 septembre 1992 - art. 10 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-100 du 27 janvier 2010 - art. 20
+
+_Cite_:
+
+  - Code de l'éducation - art. D341-30 (VT)
 
 
 ###### Article D341-33
