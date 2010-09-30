@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-09-30
+Version Consolidée au 2010-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -672,7 +672,7 @@ Version Consolidée au 2010-09-30
           - [Section 2 : Les diplômes. (art. D363-2 à R363-3)](#669)
       - [Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie. (art. D371-3 à R374-25)](#670)
         - [Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna. (art. D371-3 à R371-2)](#671)
-        - [Chapitre II : Dispositions applicables à Mayotte. (art. D372-3 à R372-2)](#672)
+        - [Chapitre II : Dispositions applicables à Mayotte. (art. D372-3 à R372-7)](#672)
         - [Chapitre III : Dispositions applicables en Polynésie française. (art. D373-2 à R373-9)](#673)
           - [Section 1 : Dispositions générales. (art. D373-2 à R373-1)](#674)
           - [Section 2 : Reconnaissance de diplômes ou de titres à finalité professionnelle préparés et délivrés en Polynésie française. (art. R373-3 à R373-9)](#675)
@@ -20753,28 +20753,41 @@ _Cité par_:
 
 ###### Article L631-1
 
-Le nombre des étudiants admis ainsi que les modalités de leur admission, à la fin de la première année du premier cycle, à
-poursuivre des études médicales, odontologiques, de sage-femme ou pharmaceutiques sont fixés, chaque année, compte tenu des
-besoins de la population, de la nécessité de remédier aux inégalités géographiques et des capacités de formation des
-établissements concernés, par le ministre chargé de la santé et le ministre chargé de l'enseignement supérieur.
+I. - La première année des études de santé est commune aux études médicales, odontologiques, pharmaceutiques et de sage-
+femme. Les ministres chargés de l'enseignement supérieur et de la santé déterminent par voie réglementaire : 
 
-Chaque année, un comité de la démographie médicale, qui associe des représentants de l'Etat, des régimes d'assurance maladie,
-de l'Union nationale des professionnels de santé exerçant à titre libéral, des unions régionales des médecins libéraux, ainsi
-que des personnalités qualifiées désignées par les ministres concernés, dont notamment des doyens des facultés de médecine,
-donne un avis aux ministres sur la décision mentionnée à l'alinéa précédent. Un décret fixe la composition et les modalités
-de fonctionnement de ce comité.
+1° L'organisation de cette première année des études de santé ; 
 
-Des étudiants qui n'ont pas effectué le premier cycle des études médicales, odontologiques ou pharmaceutiques peuvent être
-admis dans le deuxième cycle. Leur nombre ainsi que les modalités de leur admission sont fixés par arrêté du ministre chargé
-de l'enseignement supérieur et du ministre chargé de la santé.
+2° Le nombre des étudiants admis dans chacune des filières à l'issue de la première année des études de santé ; ce nombre
+tient compte des besoins de la population, de la nécessité de remédier aux inégalités géographiques et des capacités de
+formation des établissements concernés. Toutefois, les universités peuvent répartir ce nombre entre plusieurs unités de
+formation et de recherche pour répondre à des besoins d'organisation et d'amélioration de la pédagogie. Un arrêté détermine
+les critères de répartition de ce nombre de façon à garantir l'égalité des chances des candidats ; 
 
-Des étudiants admis à poursuivre des études médicales, odontologiques ou pharmaceutiques à la suite des épreuves de
-classement de fin de première année du premier cycle peuvent être admis à suivre la formation de sage-femme. Leur nombre
-ainsi que les conditions de leur admission sont fixés par arrêté du ministre chargé de l'enseignement supérieur et du
-ministre chargé de la santé.
+3° Les modalités d'admission des étudiants dans chacune des filières à l'issue de la première année ; 
 
-Le ministre chargé de la santé est associé à toutes les décisions concernant les enseignements médicaux, pharmaceutiques et
-odontologiques.
+4° Les conditions dans lesquelles les étudiants peuvent être réorientés à l'issue du premier semestre de la première année
+des études de santé ou au terme de celle-ci ainsi que les modalités de leur réinscription ultérieure éventuelle dans cette
+année d'études. 
+
+II. - 1. Des candidats, justifiant notamment de certains grades, titres ou diplômes, peuvent être admis en deuxième année ou
+en troisième année des études médicales, odontologiques, pharmaceutiques ou de sage-femme. 
+
+2. Peuvent également être admis en deuxième année des études médicales, odontologiques, pharmaceutiques ou en première année
+d'école de sage-femme des étudiants engagés dans les études médicales, odontologiques, pharmaceutiques ou de sage-femme et
+souhaitant se réorienter dans une filière différente de leur filière d'origine ; cette possibilité de réorientation est
+ouverte aux étudiants ayant validé au moins deux années d'études dans la filière choisie à l'issue de la première année. 
+
+Les ministres chargés de l'enseignement supérieur et de la santé arrêtent le nombre, les conditions et les modalités
+d'admission des étudiants mentionnés aux 1 et 2. 
+
+III. - Le ministre chargé de la santé est associé à toutes les décisions concernant les enseignements médicaux,
+odontologiques et pharmaceutiques.
+
+**Nota:**
+
+Conformément à l'article 2 de la loi n° 2009-833 du 7 juillet 2009, les dispositions de la présente loi entrent en vigueur à
+compter de l'année universitaire 2010-2011.
 
 **Liens relatifs à cet article**
 
@@ -20814,14 +20827,9 @@ _Cité par_:
   - Code de la santé publique - art. L4111-2 (V)
   - Code de la santé publique - art. L4151-7 (V)
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 _Modifié par_:
 
-  - Loi n°2004-810 du 13 août 2004 - art. 47 () JORF 17 août 2004
+  - Loi n°2009-833 du 7 juillet 2009 - art. 1 (V)
 
 
 ###### Article L631-2
@@ -28883,14 +28891,19 @@ _Nouveaux textes_:
 ###### Article L822-1
 
 Le réseau des oeuvres universitaires assure une mission d'aide sociale envers les étudiants et veille à adapter les
-prestations aux besoins de leurs études, en favorisant notamment leur mobilité.
+prestations aux besoins de leurs études, en favorisant notamment leur mobilité. 
 
 Les décisions concernant l'attribution des logements destinés aux étudiants sont prises par les centres régionaux des oeuvres
-universitaires et scolaires.
+universitaires et scolaires. 
+
+Une convention passée entre l'Etat et les centres régionaux des œuvres universitaires vise à la réservation d'un nombre
+suffisant de logements à destination des personnes majeures victimes de violences inscrites dans un établissement scolaire ou
+universitaire qui sont protégées ou qui ont été protégées par l'ordonnance de protection prévue aux articles 515-9 et
+suivants du code civil. 
 
 Les communes ou les établissements publics de coopération intercommunale qui en font la demande ont la charge de la
 construction, de la reconstruction, de l'extension, des grosses réparations et de l'équipement des locaux destinés au
-logement des étudiants.
+logement des étudiants. 
 
 Les biens appartenant à l'Etat ou à un établissement public et affectés au logement des étudiants sont transférés, par arrêté
 du représentant de l'Etat dans le département, aux communes ou aux établissements publics de coopération intercommunale qui
@@ -28907,14 +28920,14 @@ l'établissement public de coopération intercommunale concernés aux décisions
 L'exécution des conventions conclues avant la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 relative aux
 libertés et responsabilités locales entre des organismes publics d'habitations à loyer modéré ou des sociétés d'économie
 mixte, l'Etat et un centre régional des oeuvres universitaires et scolaires pour la construction ou la réhabilitation de
-logements sociaux étudiants se poursuit jusqu'au terme de celles-ci. A compter de cette date, les communes ou leurs
+logements sociaux étudiants se poursuit jusqu'au terme de celles-ci.A compter de cette date, les communes ou leurs
 groupements sont substitués à l'Etat ou, le cas échéant, à l'établissement public dans les droits et obligations résultant de
-ces conventions. A compter de la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 précitée, ils peuvent y
-mettre fin à condition de supporter les charges financières afférentes.
+ces conventions.A compter de la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 précitée, ils peuvent y mettre
+fin à condition de supporter les charges financières afférentes. 
 
 Pour la région d'Ile-de-France, la politique de logement des étudiants fait l'objet d'un schéma élaboré par le conseil
-régional. En Ile-de-France, la compétence prévue au troisième alinéa est transférée à la région, à sa demande, si la commune
-ou l'établissement public de coopération intercommunale y renonce dans un délai d'un an après avoir été invité à l'exercer.
+régional. En Ile-de-France, la compétence prévue au quatrième alinéa est transférée à la région, à sa demande, si la commune
+ou l'établissement public de coopération intercommunale y renonce dans un délai d'un an après avoir été invité à l'exercer. 
 
 Les communes, les établissements publics de coopération intercommunale et, le cas échéant, la région d'Ile-de-France peuvent
 confier à l'organisme de leur choix la gestion des logements destinés aux étudiants construits après l'entrée en vigueur du
@@ -28930,14 +28943,10 @@ _Anciens textes_:
 
   - Loi n°55-425 du 16 avril 1955 - art. 1, v. init.
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 _Cite_:
 
   - Loi n°2004-809 2004-08-13
+  - Code civil - art. 515-9 (V)
 
 _Cité par_:
 
@@ -28965,7 +28974,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-209 du 19 février 2007 - art. 63 () JORF 21 février 2007
+  - Loi n°2010-769 du 9 juillet 2010 - art. 20
 
 
 ###### Article L822-2
@@ -74752,6 +74761,27 @@ _Codifié par_:
 _Cite_:
 
   - Code de l'éducation - art. L311-3 (V)
+
+
+###### Article R372-7
+
+Pour l'application à Mayotte des articles R. 351-2, D. 351-6, D. 351-7, D. 351-8, D. 351-10, 
+D. 351-14, D. 351-16, R. 351-21, R. 351-23, R. 351-24, R. 351-25 et R. 351-26, les mots : " maison départementale des
+personnes handicapées " et les mots : " commission des droits et de l'autonomie des personnes handicapées " sont remplacés
+par les mots : " maison des personnes handicapées " et par les mots : " commission des personnes handicapées ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1148 du 28 septembre 2010 - art. 2
+
+_Cite_:
+
+  - Code de l'éducation - art. D351-14 (V)
+  - Code de l'éducation - art. D351-6 (V)
+  - Code de l'éducation - art. R351-2 (V)
+  - Code de l'éducation - art. R351-21 (V)
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française.<a id=673></a>
