@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-11-11
+Version Consolidée au 2010-11-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -797,7 +797,7 @@ Version Consolidée au 2010-11-11
             - [Sous-section 3 : Dispositions relatives  aux immeubles et au matériel. (art. R442-28 à R442-32)](#794)
           - [Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat  par les établissements d'enseignement privés. (art. R442-33 à R442-48)](#795)
             - [Sous-section 1 : Le contrat d'association. (art. R442-33 à R442-43)](#796)
-            - [Sous-section 2 : Financement des dépenses des classes sous contrat d'association. (art. R442-44 à R442-48)](#797)
+            - [Sous-section 2 : Financement des dépenses des classes sous contrat d'association. (art. D442-44-1 à R442-48)](#797)
           - [Section 4 : Contrat simple passé avec l'Etat  par des établissements d'enseignement privés. (art. R442-49 à R442-57)](#798)
           - [Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat. (art. R442-58 à R442-73)](#799)
             - [Sous-section 1 : Instruction des demandes de passation de contrat. (art. R442-58 à R442-61)](#800)
@@ -88947,6 +88947,30 @@ _Cité par_:
 
 
 ##### Sous-section 2 : Financement des dépenses des classes sous contrat d'association.<a id=797></a>
+
+###### Article D442-44-1
+
+Pour l'application de l'article L. 442-5-1, la capacité d'accueil des élèves dans les écoles publiques du regroupement
+pédagogique intercommunal dont relève la commune de résidence ne peut être opposée à la demande de prise en charge des frais
+de scolarisation d'un élève dans une école privée sous contrat d'association d'une commune d'accueil qu'à la condition que ce
+regroupement soit organisé dans le cadre d'un établissement public de coopération intercommunale auquel ont été transférées
+les compétences relatives au fonctionnement des écoles publiques et dont la commune de résidence est membre. 
+
+Le territoire de l'ensemble des communes constituant un tel établissement public de coopération intercommunale est assimilé,
+pour l'application de l'article L. 442-5-1, au territoire de la commune de résidence et le président de l'établissement
+public de coopération intercommunale est substitué au maire pour apprécier la capacité d'accueil des élèves dans les écoles
+publiques et donner l'accord à la contribution financière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1348 du 9 novembre 2010 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. L442-5-1
+
 
 ###### Article R442-44
 
