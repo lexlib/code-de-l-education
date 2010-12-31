@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-12-30
+Version Consolidée au 2011-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -159,7 +159,7 @@ Version Consolidée au 2010-12-30
             - [Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat. (art. L442-13 à L442-20)](#156)
             - [Section 6 : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat. (art. L442-21)](#157)
           - [Chapitre III : Les établissements d'enseignement technique privés (art. L443-1 à L443-5)](#158)
-            - [Section 1 : Les écoles des chambres de commerce et d'industrie. (art. L443-1)](#159)
+            - [Section 1 : Les écoles des      chambres de commerce et d'industrie territoriales. (art. L443-1)](#159)
             - [Section 2 : Les écoles techniques privées. (art. L443-2 à L443-4)](#160)
             - [Section 3 : Les centres d'apprentissage privés. (art. L443-5)](#161)
           - [Chapitre IV : Les établissements privés dispensant un enseignement à distance. (art. L444-1 à L444-11)](#162)
@@ -4478,8 +4478,8 @@ code général des collectivités territoriales, ci-après reproduites :
 l'Etat, au titre des charges qu'elles supportent pour le logement des instituteurs. 
 
 Cette dotation évolue, chaque année, comme la dotation globale de fonctionnement. A titre dérogatoire, cette évolution ne
-s'applique pas en 2009. Le Comité des finances locales peut majorer cette dotation de tout ou partie du reliquat comptable
-afférent au dernier exercice connu. 
+s'applique pas en 2009 et en 2011. Le Comité des finances locales peut majorer cette dotation de tout ou partie du reliquat
+comptable afférent au dernier exercice connu. 
 
 Cette dotation est répartie par le comité des finances locales proportionnellement au nombre des instituteurs, exerçant dans
 les écoles publiques, qui sont logés par chaque commune ou qui reçoivent d'elle une indemnité de logement. 
@@ -4537,7 +4537,7 @@ Aucune somme n'est reversée directement aux communes au titre des opérations v
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 5
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 48
 
 _Cite_:
 
@@ -5192,11 +5192,9 @@ cette même année. Ce coefficient est calculé pour chaque département sur la 
 crédits de paiement qui lui ont été versés de 1998 à 2007 et la moyenne actualisée des crédits de paiement versés par l'Etat
 à l'ensemble des départements au titre de la dotation départementale d'équipement des collèges au cours de ces mêmes années.
 
-En 2009, le montant alloué à chaque département est égal à celui de 2008. 
+De 2009 à 2011, le montant alloué à chaque département est égal à celui de 2008. 
 
-En 2010, le montant alloué à chaque département est égal à celui de 2009.
-
-A compter de 2011, le montant de la dotation revenant à chaque département est obtenu par application au montant de l'année
+A compter de 2012, le montant de la dotation revenant à chaque département est obtenu par application au montant de l'année
 précédente du taux prévisionnel de croissance de la formation brute de capital fixe des administrations publiques associé au
 projet de loi de finances relatif à l'année de versement. 
 
@@ -5205,7 +5203,7 @@ trimestre de l'année en cours.
 
 La dotation est inscrite au budget de chaque département, qui l'affecte à la reconstruction, aux grosses réparations, à
 l'équipement et, si ces opérations figurent sur la liste établie en application de l'article L. 211-2 du code de l'éducation,
-à l'extension et la construction des collèges.
+à l'extension et la construction des collèges."
 
 **Liens relatifs à cet article**
 
@@ -5725,9 +5723,9 @@ année. Ce coefficient est calculé pour chaque région sur la base du rapport e
 ont été versés en 2007 et le montant total des crédits de paiement versés par l'Etat à l'ensemble des régions au titre de la
 dotation régionale d'équipement scolaire en 2007. 
 
-En 2009, le montant alloué à chaque région est égal à celui de 2008.
+De 2009 à 2011, le montant alloué à chaque région est égal à celui de 2008.
 
-A compter de 2010, le montant de la dotation revenant à chaque région est obtenu par application au montant de l'année
+A compter de 2012, le montant de la dotation revenant à chaque région est obtenu par application au montant de l'année
 précédente du taux prévisionnel de croissance de la formation brute de capital fixe des administrations publiques associé au
 projet de loi de finances relatif à l'année de versement. 
 
@@ -5737,13 +5735,9 @@ l'année en cours.
 La dotation est inscrite au budget de chaque région, qui l'affecte à la reconstruction, aux grosses réparations, à
 l'équipement et, si ces opérations figurent sur la liste établie en application de l'article L. 211-2 du code de l'éducation,
 à l'extension et à la construction des lycées, des établissements d'éducation spéciale, des écoles de formation maritime et
-aquacole et des établissements d'enseignement agricole visés à l'article L. 811-8 du code rural et de la pêche maritime".
+aquacole et des établissements d'enseignement agricole visés à l'article L. 811-8 du code rural et de la pêche maritime."
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 **Liens**:
 
@@ -5879,8 +5873,8 @@ rural et de la pêche maritime et les établissements relevant du ministère cha
 disponibles, les ouvertures et fermetures de sections de formation professionnelle initiale. Leurs stipulations sont mises en
 oeuvre par l'Etat et la région dans l'exercice de leurs compétences, notamment de celles qui résultent de l'article L. 211-2
 du présent code et de l'article L. 814-2 du code rural et de la pêche maritime.A défaut d'accord, les autorités de l'Etat
-prennent, pour ce qui les concerne, les décisions nécessaires à la continuité du service public de l'éducation. S'agissant
-des demandeurs d'emploi, ces conventions, lorsqu'elles comportent des engagements réciproques de l'Etat, de la région et de
+prennent, pour ce qui les concerne, les décisions nécessaires à la continuité du service public de l'éducation.S'agissant des
+demandeurs d'emploi, ces conventions, lorsqu'elles comportent des engagements réciproques de l'Etat, de la région et de
 l'institution mentionnée à l'article L. 5312-1 du code du travail, sont également signées par cette institution. Elles
 précisent, en matière d'orientation et de formation professionnelles, les conditions de mise en œuvre de la convention prévue
 à l'article L. 5312-11 du même code.
@@ -5894,8 +5888,8 @@ formation professionnelle alternée et de financement des formations des demande
 Ces contrats déterminent notamment les objectifs qui concourent à favoriser une représentation équilibrée des femmes et des
 hommes dans les métiers auxquels préparent les différentes voies de formation professionnelle initiale et continue. 
 
-Les chambres de métiers, les chambres de commerce et d'industrie et les chambres d'agriculture peuvent être associées aux
-contrats d'objectifs.
+Les chambres de métiers, les chambres de commerce et d'industrie territoriales et les chambres d'agriculture peuvent être
+associées aux contrats d'objectifs.
 
 L'Etat, la région ou la collectivité territoriale de Corse, les chambres consulaires, une ou plusieurs organisations
 représentatives d'employeurs et de salariés peuvent également conclure des contrats d'objectifs et de moyens visant au
@@ -5921,7 +5915,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Loi n°2010-853 du 23 juillet 2010 - art. 8
 
 _Cité par_:
 
@@ -5973,14 +5967,6 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L811-8 (V)
   - Code rural et de la pêche maritime - art. L813-2 (V)
   - Code rural et de la pêche maritime - art. L814-5 (V)
-
-_Cite_:
-
-  - Code rural - art. L811-1
-  - Code rural - art. L813-1
-  - Code rural - art. L814-2
-  - Code du travail - art. L5312-1
-  - Code du travail - art. L5312-11
 
 
 ###### Article L214-14
@@ -10548,19 +10534,19 @@ L'élève élabore son projet d'orientation scolaire et professionnelle avec l'a
 en cours de scolarité qu'à l'issue de celle-ci.
 
 A cette fin, les élèves disposent de l'ensemble des informations de nature à permettre l'élaboration d'un projet
-d'orientation scolaire et professionnelle.
+d'orientation scolaire et professionnelle. 
 
 Ils bénéficient notamment d'une information sur les professions et les formations qui y préparent sous contrat de travail de
-type particulier et sous statut scolaire.
+type particulier et sous statut scolaire. 
 
 Cette information est destinée à faciliter le choix d'un avenir professionnel, de la voie et de la méthode d'éducation qui y
-conduisent.
+conduisent. 
 
 Cette information est organisée sous la responsabilité des chefs d'établissement, dans le cadre des projets d'établissement
 ou de projets communs à plusieurs établissements. Elle est conjointement réalisée par les conseillers d'orientation-
 psychologues, les personnels enseignants, les conseillers de l'enseignement technologique et les représentants des
-organisations professionnelles et des chambres de commerce et d'industrie, de métiers et d'agriculture, en liaison avec les
-collectivités territoriales. Elle s'accompagne de la remise d'une documentation.
+organisations professionnelles et des      chambres de commerce et d'industrie territoriales, de métiers et d'agriculture, en
+liaison avec les collectivités territoriales. Elle s'accompagne de la remise d'une documentation.
 
 **Liens relatifs à cet article**
 
@@ -10569,14 +10555,9 @@ _Anciens textes_:
   - Loi n°89-486 du 10 juillet 1989 - art. 8 (M)
   - Loi n°89-486 du 10 juillet 1989 - art. 8 (Ab)
 
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 _Modifié par_:
 
-  - Loi n°2005-380 du 23 avril 2005 - art. 30 () JORF 24 avril 2005
+  - Loi n°2010-853 du 23 juillet 2010 - art. 8
 
 _Cité par_:
 
@@ -15240,15 +15221,14 @@ _Cité par_:
 
 ###### Article L424-1
 
-Des écoles de métiers peuvent, avec le concours de l'Etat, être fondées par les chambres de commerce et d'industrie ou par
-des organismes professionnels dans des conditions déterminées par décret.
+Des écoles de métiers peuvent, avec le concours de l'Etat, être fondées par les      chambres de commerce et d'industrie
+territoriales ou par des organismes professionnels dans des conditions déterminées par décret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+  - Loi n°2010-853 du 23 juillet 2010 - art. 8
 
 _Anciens textes_:
 
@@ -15264,21 +15244,16 @@ _Cité par_:
 
 L'Etat peut contribuer aux dépenses d'installation de ces écoles et, dans les villes de moins de 150 000 habitants, aux
 dépenses d'entretien dans les mêmes proportions et suivant les mêmes règles que pour les établissements publics locaux
-d'enseignement.
+d'enseignement. 
 
-Les garanties exigées des chambres de commerce et d'industrie et des organismes professionnels sont fixées par décret.
+Les garanties exigées des      chambres de commerce et d'industrie territoriales et des organismes professionnels sont fixées
+par décret.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'enseignement technique - art. 58 (Ab)
-  - Loi n°1919-07-25 art. 13
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+  - Loi n°2010-853 du 23 juillet 2010 - art. 8
 
 
 ###### Article L424-3
@@ -16839,18 +16814,18 @@ _Cite_:
 
 ##### Chapitre III : Les établissements d'enseignement technique privés<a id=158></a>
 
-##### Section 1 : Les écoles des chambres de commerce et d'industrie.<a id=159></a>
+##### Section 1 : Les écoles des      chambres de commerce et d'industrie territoriales.<a id=159></a>
 
 ###### Article L443-1
 
-Les écoles créées et administrées par les chambres de commerce et d'industrie en vertu de l'article L. 711-5 du code de
-commerce sont soumises au régime des établissements visés à l'article L. 443-2.
+Les écoles créées et administrées par les      chambres de commerce et d'industrie territoriales en vertu de l'article L.
+711-5 du code de commerce sont soumises au régime des établissements visés à l'article L. 443-2.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+  - Loi n°2010-853 du 23 juillet 2010 - art. 8
 
 _Cité par_:
 
@@ -16866,10 +16841,6 @@ _Cité par_:
   - Code de l'artisanat - art. 23 (V)
   - Code de l'éducation - art. D841-5 (V)
   - Code général des impôts, CGI. - art. 261 (V)
-
-_Cite_:
-
-  - Code de commerce - art. L443-2
 
 _Anciens textes_:
 
@@ -28003,14 +27974,14 @@ _Cite_:
 
 ###### Article L753-1
 
-Les écoles créées et administrées par les chambres de commerce et d'industrie en vertu de l'article L. 711-5 du code de
-commerce sont soumises au régime des établissements visés à l'article L. 443-2.
+Les écoles créées et administrées par les chambres de commerce et d'industrie territoriales en vertu de l'article L. 711-5 du
+code de commerce sont soumises au régime des établissements visés à l'article L. 443-2.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+  - Loi n°2010-853 du 23 juillet 2010 - art. 8
 
 _Cité par_:
 
@@ -28034,7 +28005,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'éducation - art. L443-2
+  - Code de l'éducation - art. L443-2 (V)
 
 
 ##### Chapitre V : Les écoles supérieures militaires.<a id=272></a>
@@ -39284,7 +39255,7 @@ professionnelles d'employeurs peuvent conclure des contrats d'objectifs. Ces con
 développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance, coordonnés avec les
 autres voies de formation et d'enseignement professionnels. 
 
-Les chambres de commerce et d'industrie, les       chambres de métiers et de l'artisanat de région et les chambres
+Les chambres de commerce et d'industrie territoriales, les chambres de métiers et de l'artisanat de région et les chambres
 d'agriculture peuvent être associées aux contrats d'objectifs. 
 
 Le schéma prévisionnel des formations prévu à l'article L. 214-1 et le schéma prévisionnel de l'apprentissage prévu à
@@ -39302,12 +39273,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
 
 _Cite_:
 
-  - Code de l'éducation - art. L214-1
-  - Code de l'éducation - art. L214-13
+  - Code de l'éducation - art. L214-1 (VT)
+  - Code de l'éducation - art. L214-13 (V)
 
 
 ###### Article D214-6
@@ -52453,9 +52424,9 @@ p) Le chef du service des droits des femmes et de l'égalité au ministère char
 
 2° Quatre représentants des organisations professionnelles d'employeurs les plus représentatives ; 
 
-3° Un représentant des chambres de commerce et d'industrie ; 
+3° Un représentant des      chambres de commerce et d'industrie territoriales ; 
 
-4° Un représentant des       chambres de métiers et de l'artisanat de région ; 
+4° Un représentant des chambres de métiers et de l'artisanat de région ; 
 
 5° Six représentants d'organisations syndicales de salariés représentatives ; 
 
@@ -52502,7 +52473,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
 
 _Cité par_:
 
@@ -55316,6 +55287,22 @@ _Cite_:
   - Code de l'éducation - art. D314-124 (V)
 
 
+###### Article D314-71-1
+
+Le Centre national de documentation pédagogique assure la conservation et le développement des collections muséographiques en
+matière de recherche en éducation, les met à la disposition du public et organise des manifestations et des expositions,
+notamment par l'intermédiaire du Musée national de l'éducation.
+
+Il gère un fonds documentaire accessible aux chercheurs et contribue à la diffusion de la connaissance sur l'histoire de
+l'éducation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1650 du 28 décembre 2010 - art. 1
+
+
 ###### Article D314-72
 
 Pour l'exercice de ses missions, le Centre national de documentation pédagogique peut notamment :
@@ -55506,9 +55493,13 @@ décisions prises par les centres régionaux de documentation pédagogique dans 
 
 15° Le rapport annuel d'activité. 
 
+Le Centre de ressources et d'information sur les multimédias pour l'enseignement supérieur, le Centre de liaison de
+l'enseignement et des moyens d'information et le Musée national de l'éducation sont des services du Centre national de
+documentation pédagogique.
+
 Par dérogation aux dispositions du 2°, les paragraphes 4 et 5 de la présente sous-section définissent l'organisation et le
 fonctionnement du Centre de ressources et d'information sur les multimédias pour l'enseignement supérieur et du Centre de
-liaison de l'enseignement et des médias d'information, qui constituent des services de l'établissement. 
+liaison de l'enseignement et des médias d'information.
 
 Dans les limites qu'il détermine, le conseil d'administration peut déléguer au directeur général les pouvoirs prévus aux
 6°,7° et 13°. Celui-ci lui rend compte, lors de sa plus prochaine séance, des décisions qu'il a prises en vertu de cette
@@ -55523,7 +55514,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. 4
+  - Décret n°2010-1650 du 28 décembre 2010 - art. 2
 
 _Cité par_:
 
@@ -75319,10 +75310,11 @@ _Cite_:
 
 ###### Article D371-3
 
-Les articles D. 311-5, D. 321-1 à D. 321-16, D. 331-23 à D. 331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D.
-334-22, D. 336-1 à D. 336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D.
-337-76 à D. 337-111 et D. 337-113 à D. 337-160 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations
-prévues aux 1° à 4° du présent article et aux articles D. 371-4 et D. 371-5 :
+Les articles D. 311-5, D. 312-48-1, D. 321-1 à D. 321-16, D. 331-23 à D. 331-43, 
+D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D. 334-22, D. 336-1 à D. 336-58, D. 337-1 à D. 337-14, D. 337-16 à D.
+337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D. 337-111 et D. 337-113 à D. 337-160 sont applicables dans
+les îles Wallis et Futuna sous réserve des adaptations prévues aux 1° à 4° du présent article et aux articles D. 371-4 et D.
+371-5 :
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des services départementaux de l'éducation nationale "
 sont remplacés par le mot : " vice-recteur " ;
@@ -75339,7 +75331,7 @@ directeur de l'agriculture, de la forêt et de l'environnement " ;
 
 _Modifié par_:
 
-  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+  - Décret n°2010-1771 du 30 décembre 2010 - art. 2
 
 _Cité par_:
 
@@ -75349,10 +75341,21 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation
   - Code de l'éducation - art. D311-5
+  - Code de l'éducation - art. D312-48-1
+  - Code de l'éducation - art. D321-1
+  - Code de l'éducation - art. D331-23
+  - Code de l'éducation - art. D332-1
+  - Code de l'éducation - art. D333-1
+  - Code de l'éducation - art. D334-1
+  - Code de l'éducation - art. D336-1
+  - Code de l'éducation - art. D337-1
+  - Code de l'éducation - art. D337-113
+  - Code de l'éducation - art. D337-16
+  - Code de l'éducation - art. D337-32
+  - Code de l'éducation - art. D337-46
+  - Code de l'éducation - art. D337-76
   - Code de l'éducation - art. D371-4
-  - Code de l'éducation - art. D371-5
 
 
 ###### Article D371-4
@@ -75544,10 +75547,10 @@ _Cite_:
 ###### Article D372-3
 
 Les articles D. 311-5, D. 312-1, D. 312-4 à D. 312-6, D. 312-40 à D. 312-42, D. 312-43, D. 312-44, D. 312-47-1, D. 312-48, D.
-321-1 à D. 321-16, D. 331-23 à D. 331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D. 334-22, D. 336-1 à D.
-336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D. 337-111 et
-D. 337-113 à D. 337-160 sont applicables à Mayotte sous réserve des adaptations prévues aux 1° à 4° du présent article et aux
-articles D. 372-4 et D. 372-5 : 
+312-48-1, D. 321-1 à D. 321-16, D. 331-23 à D. 331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D. 334-22, D.
+336-1 à D. 336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D.
+337-111 et D. 337-113 à D. 337-160 sont applicables à Mayotte sous réserve des adaptations prévues aux 1° à 4° du présent
+article et aux articles D. 372-4 et D. 372-5 : 
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des services départementaux de l'éducation nationale "
 sont remplacés par le mot : 
@@ -75558,8 +75561,8 @@ sont remplacés par le mot :
 
 " collectivité départementale " ; 
 
-3° Les mots : "         directeur régional de l'alimentation, de l'agriculture et de la forêt  " sont remplacés par les
-mots : " directeur de l'agriculture, de la forêt et de l'environnement " ; 
+3° Les mots : " directeur régional de l'alimentation, de l'agriculture et de la forêt " sont remplacés par les mots : "
+directeur de l'agriculture, de la forêt et de l'environnement " ; 
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par les mots : " directeur des affaires maritimes
 ".
@@ -75568,17 +75571,29 @@ mots : " directeur de l'agriculture, de la forêt et de l'environnement " ;
 
 _Modifié par_:
 
-  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+  - Décret n°2010-1771 du 30 décembre 2010 - art. 2
 
 _Cite_:
 
-  - Code de l'éducation
-  - Code de l'éducation - art. D311-5
-  - Code de l'éducation - art. D312-1
-  - Code de l'éducation - art. D312-47-1
-  - Code de l'éducation - art. D312-48
-  - Code de l'éducation - art. D372-4
-  - Code de l'éducation - art. D372-5
+  - Code de l'éducation - art. D311-5 (V)
+  - Code de l'éducation - art. D312-1 (V)
+  - Code de l'éducation - art. D312-4 (V)
+  - Code de l'éducation - art. D312-40 (V)
+  - Code de l'éducation - art. D312-47-1 (V)
+  - Code de l'éducation - art. D312-48 (V)
+  - Code de l'éducation - art. D321-1 (V)
+  - Code de l'éducation - art. D331-23 (V)
+  - Code de l'éducation - art. D332-1 (V)
+  - Code de l'éducation - art. D333-1 (V)
+  - Code de l'éducation - art. D334-1 (V)
+  - Code de l'éducation - art. D336-1 (V)
+  - Code de l'éducation - art. D337-1 (V)
+  - Code de l'éducation - art. D337-113 (V)
+  - Code de l'éducation - art. D337-16 (V)
+  - Code de l'éducation - art. D337-32 (V)
+  - Code de l'éducation - art. D337-46 (V)
+  - Code de l'éducation - art. D337-76 (V)
+  - Code de l'éducation - art. D372-4 (V)
 
 
 ###### Article D372-4
@@ -76090,11 +76105,11 @@ _Cite_:
 
 ###### Article D374-3
 
-Les articles D. 321-18 à D. 321-27, D. 331-23 à D. 331-43, D. 331-46 à D. 331-61, D. 332-1 à D. 332-6, les deux premiers
-alinéas de l'article D. 332-7, les articles D. 332-8 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D. 334-22, D. 336-1 à D.
-336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D. 337-111 et
-D. 337-113 à D. 337-160 sont applicables en Nouvelle-Calédonie sous réserve des adaptations prévues aux 1° à 4° du présent
-article et aux articles D. 374-4 et D. 374-5 : 
+Les articles D. 312-48-1, D. 321-18 à D. 321-27, D. 331-23 à D. 331-43, D. 331-46 à D. 331-61, D. 332-1 à D. 332-6, les deux
+premiers alinéas de l'article D. 332-7, les articles D. 332-8 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D. 334-22, D.
+336-1 à D. 336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, 
+D. 337-76 à D. 337-111 et D. 337-113 à D. 337-160 sont applicables en Nouvelle-Calédonie sous réserve des adaptations prévues
+aux 1° à 4° du présent article et aux articles D. 374-4 et D. 374-5 : 
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des services départementaux de l'éducation nationale "
 sont remplacés par le mot : " vice-recteur " ; 
@@ -76103,8 +76118,8 @@ sont remplacés par le mot : " vice-recteur " ;
 
 " Nouvelle-Calédonie " ; 
 
-3° Les mots : "         directeur régional de l'alimentation, de l'agriculture et de la forêt  " sont remplacés par les
-mots : " directeur de l'agriculture, de la forêt et de l'environnement " ; 
+3° Les mots : " directeur régional de l'alimentation, de l'agriculture et de la forêt " sont remplacés par les mots : "
+directeur de l'agriculture, de la forêt et de l'environnement " ; 
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par les mots : " directeur des affaires maritimes
 " ; 
@@ -76118,16 +76133,27 @@ mots : " directeur de l'agriculture, de la forêt et de l'environnement " ;
 
 _Cite_:
 
-  - Décret n°85-924 du 30 août 1985
+  - Décret n°85-924 du 30 août 1985 (Ab)
   - Décret n°86-164 du 31 janvier 1986
-  - Code de l'éducation
-  - Code de l'éducation - art. D332-7
+  - Code de l'éducation - art. D312-48-1
+  - Code de l'éducation - art. D321-18
+  - Code de l'éducation - art. D331-23
+  - Code de l'éducation - art. D331-46
+  - Code de l'éducation - art. D332-1
+  - Code de l'éducation - art. D333-1
+  - Code de l'éducation - art. D334-1
+  - Code de l'éducation - art. D336-1
+  - Code de l'éducation - art. D337-1
+  - Code de l'éducation - art. D337-113
+  - Code de l'éducation - art. D337-16
+  - Code de l'éducation - art. D337-32
+  - Code de l'éducation - art. D337-46
+  - Code de l'éducation - art. D337-76
   - Code de l'éducation - art. D374-4
-  - Code de l'éducation - art. D374-5
 
 _Modifié par_:
 
-  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+  - Décret n°2010-1771 du 30 décembre 2010 - art. 2
 
 _Cité par_:
 
