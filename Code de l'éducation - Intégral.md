@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-05-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -28,7 +28,7 @@ Version Consolidée au 2011-03-31
           - [Chapitre III : Dispositions applicables en Polynésie française. (art. L163-1 à L163-4)](#25)
           - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. L164-1 à L164-3)](#26)
       - [Livre II : L'administration de l'éducation (art. L211-1 à L264-4)](#27)
-        - [Titre Ier : La répartition des compétences entre l'Etat et les collectivités territoriales (art. L211-1 à L216-11)](#28)
+        - [Titre Ier : La répartition des compétences entre l'Etat et les collectivités territoriales (art. L211-1 à L216-10)](#28)
           - [Chapitre Ier : Les compétences de l'Etat. (art. L211-1 à L211-8)](#29)
           - [Chapitre II : Les compétences des communes (art. L212-1 à L212-15)](#30)
             - [Section 1 : Ecoles et classes élémentaires et maternelles. (art. L212-1 à L212-9)](#31)
@@ -43,7 +43,7 @@ Version Consolidée au 2011-03-31
             - [Section 3 : Formation professionnelle et apprentissage. (art. L214-12 à L214-16)](#40)
             - [Section 4 : Les compétences des régions d'outre-mer. (art. L214-17)](#41)
           - [Chapitre V : Les compétences de la collectivité territoriale de Corse. (art. L215-1)](#42)
-          - [Chapitre VI : Les compétences communes aux collectivités territoriales. (art. L216-1 à L216-11)](#43)
+          - [Chapitre VI : Les compétences communes aux collectivités territoriales. (art. L216-1 à L216-10)](#43)
         - [Titre II : L'organisation des services de l'administration de l'éducation (art. L222-1 à L222-2)](#44)
           - [Chapitre II : Les services académiques et départementaux. (art. L222-1 à L222-2)](#45)
         - [Titre III : Les organismes collégiaux nationaux et locaux (art. L230-1 à L23-10-1)](#46)
@@ -142,7 +142,7 @@ Version Consolidée au 2011-03-31
           - [Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement (art. L422-1 à L422-3)](#139)
             - [Section 1 : Les établissements d'Etat. (art. L422-1)](#140)
             - [Section 2 : Les établissements municipaux ou départementaux. (art. L422-2 à L422-3)](#141)
-          - [Chapitre III : Les groupements d'établissements scolaires publics. (art. L423-1 à L423-3)](#142)
+          - [Chapitre III : Les groupements d'établissements scolaires publics. (art. L423-3)](#142)
           - [Chapitre IV : Les écoles de métiers. (art. L424-1 à L424-4)](#143)
         - [Titre III : Les centres de formation d'apprentis (art. L431-1)](#144)
           - [Chapitre unique. (art. L431-1)](#145)
@@ -258,7 +258,7 @@ Version Consolidée au 2011-03-31
             - [Section 1 : Dispositions relatives à la composition des conseils. (art. L719-1 à L719-3)](#255)
             - [Section 2 : Régime financier. (art. L719-4 à L719-6)](#256)
             - [Section 3 : Contrôle administratif et financier. (art. L719-7 à L719-9)](#257)
-            - [Section 4 : Relations extérieures. (art. L719-10 à L719-11)](#258)
+            - [Section 4 : Relations extérieures. (art. L719-10)](#258)
             - [Section 5 : Autres dispositions communes. (art. L719-12 à L719-14)](#259)
         - [Titre II : Etablissements de formation des maîtres (art. L721-1 à L723-1)](#260)
           - [Chapitre Ier : Missions et organisation des instituts universitaires de formation des maîtres. (art. L721-1 à L721-2)](#261)
@@ -6607,35 +6607,6 @@ _Cité par_:
   - Code de l'éducation - art. L264-1 (V)
 
 
-###### Article L216-11
-
-Les collectivités territoriales et l'Etat peuvent conclure des conventions en vue de développer des activités communes dans
-le domaine éducatif et culturel et créer, ou gérer ensemble, les moyens et services nécessaires à ces activités.
-
-A cet effet, il peut être constitué avec d'autres personnes morales de droit public ou privé un groupement d'intérêt public,
-auquel s'appliquent les dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation
-pour la recherche et le développement technologique de la France.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°82-610 du 15 juillet 1982 - art. 21
-
-_Codifié par_:
-
-  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Créé par_:
-
-  - Loi n°2004-809 du 13 août 2004 - art. 91 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-
 #### Titre II : L'organisation des services de l'administration de l'éducation<a id=44></a>
 
 ##### Chapitre II : Les services académiques et départementaux.<a id=45></a>
@@ -8019,7 +7990,9 @@ l'article L. 814-4 du code rural et de la pêche maritime, ci-après reproduites
 " Art. L. 814-4.-Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire
 statue en appel et en dernier ressort sur les décisions prises par les instances disciplinaires des établissements
 d'enseignement supérieur relevant du ministre chargé de l'agriculture compétentes à l'égard des enseignants-chercheurs,
-enseignants et usagers de ces établissements. 
+enseignants et usagers de ces établissements. Toutefois, il est appelé à statuer en premier et dernier ressort lorsqu'une
+section disciplinaire n'a pas été constituée ou lorsqu'aucun jugement n'est intervenu six mois après la date à laquelle les
+poursuites disciplinaires ont été engagées devant la juridiction disciplinaire compétente. 
 
 Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire est également
 compétent pour examiner les demandes en relèvement des exclusions, déchéances et incapacités prononcées par les instances
@@ -8040,24 +8013,17 @@ en matière disciplinaire statue à l'égard d'enseignants-chercheurs ou d'ensei
 des enseignants-chercheurs et enseignants d'un rang égal ou supérieur à celui de la personne déférée devant elle. 
 
 La composition, les modalités et la durée de désignation des membres des formations compétentes à l'égard des enseignants-
-chercheurs, des enseignants et des usagers et leur fonctionnement sont définies par décret en Conseil d'Etat
-
-. "
+chercheurs, des enseignants et des usagers et leur fonctionnement sont définies par décret en Conseil d'Etat. "
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Loi n°2011-525 du 17 mai 2011 - art. 34
 
 _Cite_:
 
-  - Code de l'éducation - art. L214-1 (M)
-  - Code de l'éducation - art. L214-13 (M)
   - Code de l'éducation - art. L231-11 (V)
-  - Code de l'éducation - art. L234-1 (M)
-  - Code de l'éducation L814-1, L234-1, L214-13, L214-1
-  - Code rural L814-4
 
 **Liens**:
 
@@ -13007,10 +12973,8 @@ danse ;
 3° Soit d'une dispense accordée en raison de la renommée particulière ou de l'expérience confirmée en matière d'enseignement
 de la danse, dont il peut se prévaloir. 
 
-La reconnaissance ou la dispense visée aux deux alinéas précédents résulte d'un arrêté du ministre chargé de la culture pris
-après avis d'une commission nationale composée pour moitié de représentants de l'Etat et des collectivités territoriales, et
-pour moitié de professionnels désignés par leurs organisations représentatives, de personnalités qualifiées et de
-représentants des usagers. 
+La reconnaissance ou la dispense mentionnée aux deux alinéas précédents est prononcée par arrêté du ministre chargé de la
+culture. 
 
 Les artistes chorégraphiques justifiant d'une activité professionnelle d'au moins trois ans au sein du ballet de l'Opéra
 national de Paris, des ballets des théâtres de la réunion des théâtres lyriques municipaux de France ou des centres
@@ -13018,8 +12982,7 @@ chorégraphiques nationaux ou des compagnies d'un Etat membre de l'Union europé
 l'Espace économique européen, dont la liste est fixée par arrêté du ministre chargé de la culture et qui ont suivi une
 formation pédagogique bénéficient de plein droit du diplôme de professeur de danse délivré par l'Etat. 
 
-La composition de la commission nationale prévue au présent article ainsi que les modalités de délivrance du diplôme sont
-fixées par arrêté du ministre chargé de la culture. 
+Les modalités de délivrance du diplôme sont fixées par arrêté du ministre chargé de la culture. 
 
 Le présent article s'applique aux danses classique, contemporaine et jazz.
 
@@ -13058,7 +13021,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-302 du 22 mars 2011 - art. 15
+  - Loi n°2011-525 du 17 mai 2011 - art. 67
 
 
 ###### Article L362-1-1
@@ -15009,112 +14972,21 @@ _Cité par_:
 
 ##### Chapitre III : Les groupements d'établissements scolaires publics.<a id=142></a>
 
-###### Article L423-1
-
-Pour la mise en oeuvre de leur mission de formation continue ainsi que de formation et d'insertion professionnelles, les
-établissements scolaires publics peuvent s'associer en groupement d'établissements, dans des conditions définies par décret,
-ou constituer, pour une durée déterminée, un groupement d'intérêt public. Des groupements d'intérêt public peuvent également
-être constitués à cette fin entre l'Etat et des personnes morales de droit public ou de droit privé. Les dispositions de
-l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le développement
-technologique de la France sont applicables aux groupements d'intérêt public mentionnés au présent article. Toutefois, les
-directeurs de ces groupements d'intérêt public sont nommés par le recteur d'académie.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°82-610 du 15 juillet 1982
-
-_Anciens textes_:
-
-  - Loi n°89-486 du 10 juillet 1989 - art. 19 (M)
-  - Loi n°89-486 du 10 juillet 1989 - art. 19 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Cité par_:
-
-  - Loi n°2001-2 du 3 janvier 2001 - art. 3 (V)
-  - Loi n°2011-525 du 17 mai 2011 - art. 120 (V)
-  - Décret n°2012-1513 du 28 décembre 2012 - art. 1 (V)
-  - Loi n°2013-595 du 8 juillet 2013 - art. 62 (V)
-  - Arrêté du 16 mai 2014 - art. (V)
-  - Arrêté du 8 octobre 2014 - art. 2 (V)
-  - Décret n°2018-632 du 17 juillet 2018 - art. 1
-  - Arrêté du 18 décembre 2018 (V)
-  - Décret n°2018-1174 du 18 décembre 2018 (V)
-  - Décret n°2018-1174 du 18 décembre 2018 - art. 1 (VD)
-  - Décret n°2018-1174 du 18 décembre 2018 - art. 2 (VD)
-  - Décret n°2018-1174 du 18 décembre 2018 - art. 3 (VD)
-  - Code de l'éducation - art. D423-1 (V)
-  - Code de l'éducation - art. D423-17 (V)
-  - Code de l'éducation - art. L451-1 (M)
-  - Code de l'éducation - art. L491-1 (V)
-  - Code de l'éducation - art. L937-1 (V)
-  - Code de l'éducation - art. R451-1 (VD)
-  - Code de la recherche - art. L114-5 (V)
-
-_Abrogé par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-
-###### Article L423-2
-
-Des groupements d'intérêt public dotés de la personnalité morale et de l'autonomie financière peuvent être constitués entre
-deux ou plusieurs personnes morales comportant au moins une personne morale de droit public pour exercer ensemble, pendant
-une durée déterminée, des activités dans le domaine de l'enseignement technologique et professionnel du second degré, ainsi
-que pour créer ou gérer ensemble des équipements ou des services d'intérêt commun nécessaires à ces activités.
-
-Les dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche
-et le développement technologique de la France sont applicables à ces groupements d'intérêt public.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°82-610 du 15 juillet 1982
-
-_Anciens textes_:
-
-  - Loi n°87-571 du 23 juillet 1987 - art. 22, v. init.
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 du 14 avril 2003
-
-_Abrogé par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-_Cité par_:
-
-  - Code de l'éducation - art. L423-3 (V)
-
-
 ###### Article L423-3
 
 Les lycées d'enseignement général et technologique ainsi que les lycées professionnels peuvent assurer, par voie de
 convention, des prestations de services à titre onéreux en vue de réaliser des actions de transfert de technologie.
 
-Ces actions peuvent également être conduites au sein des groupements d'intérêt public créés en application de l'article L.
-423-2.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°89-486 1989-07-10 art. 18 ter
   - Loi n°89-486 du 10 juillet 1989 - art. 18 ter (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+  - Loi n°2003-339 du 14 avril 2003
 
 **Liens**:
 
@@ -15129,9 +15001,13 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°2001-1227 du 19 décembre 2001 - art. 8 (V)
   - TXT_SOURCE: Décret n°2001-1227 du 19 décembre 2001 - art. 9 (V)
 
+_Modifié par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 118
+
 _Cite_:
 
-  - Code de l'éducation - art. L423-2 (V)
+  - Code de l'éducation - art. L423-2
 
 _Cité par_:
 
@@ -25769,43 +25645,6 @@ _Abrogé par_:
   - Loi n°2013-660 du 22 juillet 2013 - art. 65
 
 
-###### Article L719-11
-
-Un ou plusieurs établissements publics à caractère scientifique, culturel et professionnel peuvent constituer, pour une durée
-déterminée, soit entre eux, soit avec d'autres personnes morales de droit public ou de droit privé, un groupement d'intérêt
-public, personne morale de droit public dotée de l'autonomie administrative et financière, afin d'exercer en commun des
-activités de caractère scientifique, technique, professionnel, éducatif et culturel, ou de gérer des équipements ou des
-services d'intérêt commun. Ces activités doivent relever de la mission ou de l'objet social de chacune des personnes morales
-particulières. Les dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour
-la recherche et le développement technologique de la France sont applicables aux groupements prévus au présent article.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°82-610 du 15 juillet 1982
-
-_Anciens textes_:
-
-  - Loi n°84-52 du 26 janvier 1984 - art. 45 (Ab)
-
-_Cité par_:
-
-  - Décret n°85-694 du 4 juillet 1985 - art. 12 (Ab)
-  - Décret n°91-321 du 27 mars 1991 - art. 2 (Ab)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 261 (V)
-  - Code de l'éducation - art. R313-50 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-_Abrogé par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-
 ##### Section 5 : Autres dispositions communes.<a id=259></a>
 
 ###### Article L719-12
@@ -29890,18 +29729,18 @@ _Cite_:
 
 Lorsqu'elle correspond à un projet personnel concourant à l'amélioration des enseignements et approuvé par le recteur, la
 formation continue des enseignants s'accomplit en priorité en dehors des obligations de service d'enseignement et peut donner
-lieu à une indemnisation dans des conditions fixées par décret en Conseil d'Etat.
+lieu à une indemnisation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+  - Loi n°2003-339 du 14 avril 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-380 du 23 avril 2005 - art. 48 () JORF 24 avril 2005
+  - Loi n°2011-525 du 17 mai 2011 - art. 146
 
 _Cité par_:
 
