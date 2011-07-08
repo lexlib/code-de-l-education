@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-07-01
+Version Consolidée au 2011-07-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -94,7 +94,7 @@ Version Consolidée au 2011-07-01
             - [Section 6 : Les enseignements de la sécurité. (art. L312-13 à L312-13-1)](#91)
             - [Section 7 : L'enseignement des problèmes démographiques. (art. L312-14)](#92)
             - [Section 8 : L'enseignement d'éducation civique. (art. L312-15)](#93)
-            - [Section 9 : L'éducation à la santé et à la sexualité (art. L312-16 à L312-17-1)](#94)
+            - [Section 9 : L'éducation à la santé et à la sexualité (art. L312-16 à L312-17-2)](#94)
             - [Section 10 : Prévention et information sur les toxicomanies. (art. L312-18)](#95)
           - [Chapitre III : L'information et l'orientation. (art. L313-1 à L313-8)](#96)
           - [Chapitre IV : La recherche et la documentation pédagogiques. (art. L314-1 à L314-2)](#97)
@@ -9765,6 +9765,26 @@ femmes et des personnels concourant à la prévention et à la répression de ce
 _Créé par_:
 
   - Loi n°2010-769 du 9 juillet 2010 - art. 23
+
+
+###### Article L312-17-2
+
+Une information est dispensée dans les lycées et les établissements d'enseignement supérieur sur la législation relative au
+don d'organes à fins de greffe et sur les moyens de faire connaître sa position de son vivant soit en s'inscrivant sur le
+registre national automatisé prévu à l'article L. 1232-1 du code de la santé publique, soit en informant ses proches. Ces
+séances peuvent associer les personnels contribuant à la mission de santé scolaire ainsi que des intervenants extérieurs,
+issus notamment des associations militant pour le don d'organes. De même, une sensibilisation au don du sang est dispensée
+dans les lycées et les établissements d'enseignement supérieur, au besoin avec l'assistance d'intervenants extérieurs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-814 du 7 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code de la santé publique - art. L1232-1 (V)
 
 
 ##### Section 10 : Prévention et information sur les toxicomanies.<a id=95></a>
