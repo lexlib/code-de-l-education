@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-08-13
+Version Consolidée au 2011-09-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -882,125 +882,133 @@ des établissements d’enseignement du second degré (art. D511-3 à R511-11)](
           - [Section 2 : Régime disciplinaire (art. R511-12 à R511-57)](#878)
             - [Sous-section 1 : Sanctions applicables aux élèves
 des établissements d’enseignement du second degré (art. R511-12 à R511-19)](#879)
-            - [Sous-section 2 : Le conseil de discipline de l’établissement (art. D511-23 à D511-43)](#880)
-              - [Paragraphe 1 : Composition (art. D511-23 à R511-24)](#881)
-              - [Paragraphe 2 : Compétence (art. D511-25 à R511-29)](#882)
-              - [Paragraphe 3 : Procédure disciplinaire (art. D511-30 à D511-43)](#883)
-            - [Sous-section 3 : Le conseil de discipline départemental (art. D511-46 à R511-45)](#884)
-            - [Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental (art. D511-47 à D511-48)](#885)
-            - [Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental (art. D511-50 à R511-57)](#886)
-          - [Section 3 : Conseil national et conseil académique de la vie lycéenne (art. D511-59 à D511-73)](#887)
-            - [Sous-section 1 : Le Conseil national de la vie lycéenne (art. D511-59 à D511-62)](#888)
-            - [Sous-section 2 : Le conseil académique de la vie lycéenne (art. D511-63 à D511-73)](#889)
-          - [Section 4 : Information en matière de droit de la nationalité (art. R511-74 à R511-75)](#890)
-      - [Titre II : L'organisation du temps et de l'espace scolaires (art. D521-1 à D521-18)](#891)
-        - [Chapitre unique (art. D521-1 à D521-18)](#892)
-          - [Section 1 : Aménagement du temps scolaire (art. D521-1 à D521-15)](#893)
-            - [Sous-section 1 : Dispositions communes à l’ensemble des académies (art. D521-1 à D521-5)](#894)
-            - [Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon (art. D521-6 à D521-7)](#895)
-            - [Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires (art. D521-8 à D521-9)](#896)
-            - [Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires (art. D521-10 à D521-15)](#897)
-          - [Section 2 : Aménagement de l’espace scolaire (art. D521-16)](#898)
+            - [Sous-section 2 : La commission éducative (art. R511-19-1)](#880)
+            - [Sous-section 2 : Le conseil de discipline de l’établissement (art. D511-23 à D511-43)](#881)
+              - [Paragraphe 1 : Composition (art. D511-23 à R511-24)](#882)
+              - [Paragraphe 2 : Compétence (art. D511-25 à R511-29)](#883)
+              - [Paragraphe 3 : Procédure disciplinaire (art. D511-30 à D511-43)](#884)
+            - [Sous-section 3 : Le conseil de discipline de l’établissement (art.  à D511-43)](#885)
+              - [Paragraphe 1 : Composition (art.  à D511-43)](#886)
+              - [Paragraphe 2 : Compétence (art.  à D511-43)](#887)
+              - [Paragraphe 3 : Procédure disciplinaire (art.  à D511-43)](#888)
+            - [Sous-section 3 : Le conseil de discipline départemental (art.  à D511-43)](#889)
+            - [Sous-section 4 : Le conseil de discipline départemental (art. D511-46 à R511-45)](#890)
+            - [Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental (art.  à R511-45)](#891)
+            - [Sous-section 5 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental (art. D511-47 à D511-48)](#892)
+            - [Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental (art.  à D511-48)](#893)
+            - [Sous-section 6 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental (art. D511-50 à R511-57)](#894)
+          - [Section 3 : Conseil national et conseil académique de la vie lycéenne (art. D511-59 à D511-73)](#895)
+            - [Sous-section 1 : Le Conseil national de la vie lycéenne (art. D511-59 à D511-62)](#896)
+            - [Sous-section 2 : Le conseil académique de la vie lycéenne (art. D511-63 à D511-73)](#897)
+          - [Section 4 : Information en matière de droit de la nationalité (art. R511-74 à R511-75)](#898)
+      - [Titre II : L'organisation du temps et de l'espace scolaires (art. D521-1 à D521-18)](#899)
+        - [Chapitre unique (art. D521-1 à D521-18)](#900)
+          - [Section 1 : Aménagement du temps scolaire (art. D521-1 à D521-15)](#901)
+            - [Sous-section 1 : Dispositions communes à l’ensemble des académies (art. D521-1 à D521-5)](#902)
+            - [Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon (art. D521-6 à D521-7)](#903)
+            - [Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires (art. D521-8 à D521-9)](#904)
+            - [Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires (art. D521-10 à D521-15)](#905)
+          - [Section 2 : Aménagement de l’espace scolaire (art. D521-16)](#906)
           - [Section 3 : Interdiction de fumer dans les lieux
-affectés à un usage scolaire (art. D521-17 à D521-18)](#899)
-      - [Titre III : Les aides à la scolarité (art. D531-3 à D532-1)](#900)
-        - [Chapitre Ier : L’aide à la scolarité et les bourses nationales (art. D531-3 à R531-53)](#901)
-          - [Section 1 : Bourses nationales d’enseignement du second degré (art. D531-3 à D531-43)](#902)
-            - [Sous-section 1 : Bourses nationales de collège (art. D531-3 à D531-12)](#903)
+affectés à un usage scolaire (art. D521-17 à D521-18)](#907)
+      - [Titre III : Les aides à la scolarité (art. D531-3 à D532-1)](#908)
+        - [Chapitre Ier : L’aide à la scolarité et les bourses nationales (art. D531-3 à R531-53)](#909)
+          - [Section 1 : Bourses nationales d’enseignement du second degré (art. D531-3 à D531-43)](#910)
+            - [Sous-section 1 : Bourses nationales de collège (art. D531-3 à D531-12)](#911)
               - [Paragraphe 1 : Etablissements habilités à recevoir
-des boursiers de collège (art. D531-3 à R531-2)](#904)
-              - [Paragraphe 2 : Critères d’attribution des bourses de collège (art. D531-4 à D531-6)](#905)
-              - [Paragraphe 3 : Montant et paiement des bourses de collège (art. D531-7 à D531-12)](#906)
-            - [Sous-section 2 : Bourses nationales d’études du second degré de lycée (art. D531-15 à R531-35)](#907)
-              - [Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée (art. D531-15 à R531-16)](#908)
-              - [Paragraphe 2 : Critères d’attribution (art. D531-21 à R531-20)](#909)
-              - [Paragraphe 3 : Modalités d’attribution (art. D531-23 à R531-25)](#910)
-              - [Paragraphe 4 : Montant et paiement (art. D531-29 à R531-35)](#911)
-            - [Sous-section 3 : Bourses au mérite (art. D531-37 à D531-41)](#912)
-            - [Sous-section 4 : Prime à l’internat (art. D531-42 à D531-43)](#913)
-          - [Section 2 : Bourses de l’enseignement agricole (art. D531-44)](#914)
-          - [Section 3 : Bourses scolaires à l’étranger (art. D531-45 à D531-51)](#915)
-          - [Section 4 : Tarifs de la restauration scolaire (art. R531-52 à R531-53)](#916)
-        - [Chapitre II : L’allocation de rentrée scolaire (art. D532-1)](#917)
-      - [Titre IV : La santé scolaire (art. D541-1 à D542-1)](#918)
-        - [Chapitre Ier : La protection de la santé (art. D541-1 à D541-10)](#919)
-          - [Section 1 : Organisation (art. D541-1 à R541-5)](#920)
-          - [Section 2 : Prévention dans les activités physiques et sportives (art. R541-6)](#921)
-          - [Section 3 : Prévention des risques professionnels (art. D541-7 à D541-9)](#922)
-          - [Section 4 : Contraception d’urgence (art. D541-10)](#923)
-        - [Chapitre II : La prévention des mauvais traitements (art. D542-1)](#924)
-      - [Titre V : Les activités périscolaires, sportives et culturelles (art. D551-1 à R552-2)](#925)
-        - [Chapitre Ier : Les activités périscolaires (art. D551-1 à D551-12)](#926)
+des boursiers de collège (art. D531-3 à R531-2)](#912)
+              - [Paragraphe 2 : Critères d’attribution des bourses de collège (art. D531-4 à D531-6)](#913)
+              - [Paragraphe 3 : Montant et paiement des bourses de collège (art. D531-7 à D531-12)](#914)
+            - [Sous-section 2 : Bourses nationales d’études du second degré de lycée (art. D531-15 à R531-35)](#915)
+              - [Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée (art. D531-15 à R531-16)](#916)
+              - [Paragraphe 2 : Critères d’attribution (art. D531-21 à R531-20)](#917)
+              - [Paragraphe 3 : Modalités d’attribution (art. D531-23 à R531-25)](#918)
+              - [Paragraphe 4 : Montant et paiement (art. D531-29 à R531-35)](#919)
+            - [Sous-section 3 : Bourses au mérite (art. D531-37 à D531-41)](#920)
+            - [Sous-section 4 : Prime à l’internat (art. D531-42 à D531-43)](#921)
+          - [Section 2 : Bourses de l’enseignement agricole (art. D531-44)](#922)
+          - [Section 3 : Bourses scolaires à l’étranger (art. D531-45 à D531-51)](#923)
+          - [Section 4 : Tarifs de la restauration scolaire (art. R531-52 à R531-53)](#924)
+        - [Chapitre II : L’allocation de rentrée scolaire (art. D532-1)](#925)
+      - [Titre IV : La santé scolaire (art. D541-1 à D542-1)](#926)
+        - [Chapitre Ier : La protection de la santé (art. D541-1 à D541-10)](#927)
+          - [Section 1 : Organisation (art. D541-1 à R541-5)](#928)
+          - [Section 2 : Prévention dans les activités physiques et sportives (art. R541-6)](#929)
+          - [Section 3 : Prévention des risques professionnels (art. D541-7 à D541-9)](#930)
+          - [Section 4 : Contraception d’urgence (art. D541-10)](#931)
+        - [Chapitre II : La prévention des mauvais traitements (art. D542-1)](#932)
+      - [Titre V : Les activités périscolaires, sportives et culturelles (art. D551-1 à R552-2)](#933)
+        - [Chapitre Ier : Les activités périscolaires (art. D551-1 à D551-12)](#934)
           - [Section 1 : Agrément des associations éducatives
-complémentaires de l’enseignement public (art. D551-1 à D551-6)](#927)
-          - [Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public (art. D551-7 à D551-12)](#928)
-        - [Chapitre II : Les activités physiques et sportives (art. R552-1 à R552-2)](#929)
-      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. D561-2 à R564-8)](#930)
+complémentaires de l’enseignement public (art. D551-1 à D551-6)](#935)
+          - [Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public (art. D551-7 à D551-12)](#936)
+        - [Chapitre II : Les activités physiques et sportives (art. R552-1 à R552-2)](#937)
+      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. D561-2 à R564-8)](#938)
         - [Chapitre Ier : Dispositions applicables
-dans les îles Wallis et Futuna (art. D561-2 à R561-8)](#931)
-        - [Chapitre II : Dispositions applicables à Mayotte (art. D562-1 à R562-9)](#932)
-        - [Chapitre III : Dispositions applicables en Polynésie française (art. D563-2 à R563-1)](#933)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. D564-2 à R564-8)](#934)
-    - [Livre IX : Les personnels de l'éducation. (art. R914-1 à R914-142)](#935)
-      - [Titre Ier : Dispositions générales. (art. R914-1 à R914-142)](#936)
-        - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. R914-1 à R914-142)](#937)
-          - [Section 1 : Dispositions générales. (art. R914-1 à R914-3)](#938)
-          - [Section 2 : Les organismes consultatifs. (art. R914-4 à R914-13)](#939)
-            - [Sous-section 1 : La commission consultative mixte départementale. (art. R914-4 à R914-6)](#940)
-            - [Sous-section 2 : La commission consultative mixte académique. (art. R914-7 à R914-9)](#941)
-            - [Sous-section 3 : Dispositions communes. (art. R914-10 à R914-13)](#942)
-          - [Section 3 : Recrutement des enseignants  des classes sous contrat. (art. R914-14 à R914-58)](#943)
-            - [Sous-section préliminaire : Dispositions générales (art. R914-14 à R914-19)](#944)
-            - [Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré (art. R914-19-1 à R914-19-7)](#945)
-            - [Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré. (art. R914-20 à R914-41)](#946)
-              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#947)
-              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#948)
-              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#949)
-              - [Paragraphe 4 : Stage (art. R914-32 à R914-37)](#950)
-              - [Paragraphe 5 : Cycle préparatoire (art. R914-38 à R914-41)](#951)
-            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#952)
+dans les îles Wallis et Futuna (art. D561-2 à R561-8)](#939)
+        - [Chapitre II : Dispositions applicables à Mayotte (art. D562-1 à R562-9)](#940)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. D563-2 à R563-1)](#941)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. D564-2 à R564-8)](#942)
+    - [Livre IX : Les personnels de l'éducation. (art. R914-1 à R914-142)](#943)
+      - [Titre Ier : Dispositions générales. (art. R914-1 à R914-142)](#944)
+        - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. R914-1 à R914-142)](#945)
+          - [Section 1 : Dispositions générales. (art. R914-1 à R914-3)](#946)
+          - [Section 2 : Les organismes consultatifs. (art. R914-4 à R914-13)](#947)
+            - [Sous-section 1 : La commission consultative mixte départementale. (art. R914-4 à R914-6)](#948)
+            - [Sous-section 2 : La commission consultative mixte académique. (art. R914-7 à R914-9)](#949)
+            - [Sous-section 3 : Dispositions communes. (art. R914-10 à R914-13)](#950)
+          - [Section 3 : Recrutement des enseignants  des classes sous contrat. (art. R914-14 à R914-58)](#951)
+            - [Sous-section préliminaire : Dispositions générales (art. R914-14 à R914-19)](#952)
+            - [Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré (art. R914-19-1 à R914-19-7)](#953)
+            - [Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré. (art. R914-20 à R914-41)](#954)
+              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#955)
+              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#956)
+              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#957)
+              - [Paragraphe 4 : Stage (art. R914-32 à R914-37)](#958)
+              - [Paragraphe 5 : Cycle préparatoire (art. R914-38 à R914-41)](#959)
+            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#960)
               - [Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association. (art. R914-44 à R914-52)](#953)
+des classes sous contrat d'association. (art. R914-44 à R914-52)](#961)
               - [Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple. (art. R914-53 à R914-56)](#954)
-              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#955)
-          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#956)
-            - [Sous-section 1 : Notation. (art. R914-59)](#957)
-            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#958)
-              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#959)
-              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#960)
-              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#961)
-            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#962)
-            - [Sous-section 4 : Classement. (art. R914-78 à R914-82)](#963)
-              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-78 à R914-80)](#964)
-              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#965)
-          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#966)
-            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#967)
-            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#968)
-          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#969)
-            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#970)
-            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#971)
-            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#972)
-          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#973)
-            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#974)
-            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#975)
-            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#976)
-          - [Section 8 : Droits sociaux et congés. (art. R914-105 à R914-112)](#977)
-            - [Sous-section 1 : Dispositions générales. (art. R914-105)](#978)
-            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#979)
-          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#980)
-            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#981)
-            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#982)
-          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#983)
-            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#984)
+des classes sous contrat simple. (art. R914-53 à R914-56)](#962)
+              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#963)
+          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#964)
+            - [Sous-section 1 : Notation. (art. R914-59)](#965)
+            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#966)
+              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#967)
+              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#968)
+              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#969)
+            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#970)
+            - [Sous-section 4 : Classement. (art. R914-78 à R914-82)](#971)
+              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-78 à R914-80)](#972)
+              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#973)
+          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#974)
+            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#975)
+            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#976)
+          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#977)
+            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#978)
+            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#979)
+            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#980)
+          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#981)
+            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#982)
+            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#983)
+            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#984)
+          - [Section 8 : Droits sociaux et congés. (art. R914-105 à R914-112)](#985)
+            - [Sous-section 1 : Dispositions générales. (art. R914-105)](#986)
+            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#987)
+          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#988)
+            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#989)
+            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#990)
+          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#991)
+            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#992)
               - [Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#985)
-              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#986)
-              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#987)
-              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#988)
-              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#989)
-              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#990)
-            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#991)
+du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#993)
+              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#994)
+              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#995)
+              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#996)
+              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#997)
+              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#998)
+            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#999)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -58326,16 +58334,19 @@ _Cite_:
 A l'intérieur des cycles des collèges et des lycées, le redoublement ne peut intervenir qu'à la demande écrite des parents de
 l'élève ou de l'élève majeur, ou, sur proposition du conseil de classe, avec l'accord écrit des intéressés.
 
+A l'intérieur du cycle terminal de la voie générale et de la voie technologique du lycée, un changement de voie d'orientation
+peut être réalisé, en cours ou en fin d'année, sur demande écrite des responsables légaux ou de l'élève majeur, après avis du
+conseil de classe. Lorsque ce changement a lieu dans le même établissement, il est prononcé par le chef d'établissement dans
+le délai d'un mois qui suit la demande. Lorsque le changement implique l'affectation dans un autre établissement, il est
+prononcé par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, dans les conditions
+fixées à l'article D. 331-38, après avis du chef de l'établissement d'accueil.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°90-484 1990-06-14 art. 7
   - Décret n°90-484 du 14 juin 1990 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 _Cité par_:
 
@@ -58346,6 +58357,10 @@ _Cité par_:
   - Arrêté du 16 juillet 2018 - art. 6 (V)
   - Code de l'éducation - art. D331-38 (VD)
   - Code de la santé publique - art. D4351-19 (VT)
+
+_Modifié par_:
+
+  - Décret n°2010-100 du 27 janvier 2010 - art. 2
 
 
 ###### Article D331-30
@@ -58593,14 +58608,16 @@ _Cité par_:
 ###### Article D331-38
 
 Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à
-l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe. 
+l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe.
 
 L'affectation est de la compétence de l'inspecteur d'académie, sous l'autorité du recteur, pour les formations implantées
 dans le département.L'affectation de l'élève, à l'issue d'un cycle, dans la voie d'orientation du cycle supérieur est
 réalisée en fonction des décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur. 
 
 Le changement d'établissement en cours de cycle de formation est autorisé par l'inspecteur d'académie dont relève
-l'établissement d'accueil. L'élève est scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue.
+l'établissement d'accueil. L'élève est scolarisé dans la même voie d'orientation ou dans une voie d'orientation différente,
+en vertu d'un changement prononcé dans les conditions définies à l'article D. 331-29 et compte tenu de la formation déjà
+reçue.
 
 **Liens relatifs à cet article**
 
@@ -58608,10 +58625,6 @@ _Anciens textes_:
 
   - Décret n°90-484 1990-06-14 art. 16
   - Décret n°90-484 du 14 juin 1990 - art. 16 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2009-148 du 10 février 2009 - art. 3
 
 _Cité par_:
 
@@ -58626,6 +58639,10 @@ _Cité par_:
   - Code de l'éducation - art. D371-4 (V)
   - Code de l'éducation - art. D372-4 (V)
   - Code de l'éducation - art. D374-4 (V)
+
+_Modifié par_:
+
+  - Décret n°2010-100 du 27 janvier 2010 - art. 5
 
 
 ###### Article D331-39
@@ -58675,8 +58692,8 @@ _Codifié par_:
 ###### Article D331-41
 
 Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalité de ce cycle dans l'établissement scolaire,
-sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité effectués en application des
-dispositions de l'article D. 331-38 ou de décisions à caractère disciplinaire.
+sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou d'un changement de voie
+d'orientation, conformément aux dispositions de l'article D. 331-38, ou en raison de décisions à caractère disciplinaire.
 
 **Liens relatifs à cet article**
 
@@ -58685,14 +58702,14 @@ _Anciens textes_:
   - Décret n°90-484 1990-06-14 art. 19
   - Décret n°90-484 du 14 juin 1990 - art. 19 (Ab)
 
-_Modifié par_:
-
-  - Décret n°2009-148 du 10 février 2009 - art. 4
-
 _Cité par_:
 
   - Arrêté du 27 janvier 2010 - art. 9 (VT)
   - Arrêté du 27 mai 2010 - art. 7 (VT)
+
+_Modifié par_:
+
+  - Décret n°2010-100 du 27 janvier 2010 - art. 6
 
 _Cite_:
 
@@ -58994,15 +59011,22 @@ A l'intérieur des cycles des collèges et des lycées privés sous contrat, le 
 écrite des parents de l'élève ou de l'élève majeur ou, sur proposition du conseil de la classe réuni sous la présidence du
 chef d'établissement, avec l'accord écrit des intéressés.
 
+A l'intérieur du cycle terminal de la voie générale et de la voie technologique des lycées privés sous contrat, un changement
+de voie d'orientation peut être réalisé en cours ou en fin d'année sur demande écrite des représentants légaux ou de l'élève
+majeur, après avis du conseil de classe. Lorsque ce changement a lieu dans le même établissement, il est prononcé par le chef
+d'établissement dans le délai d'un mois qui suit la demande. Lorsque le changement implique l'affectation dans un
+établissement public, il est prononcé par l'inspecteur d'académie, directeur des services départementaux de l'éducation
+nationale, dans les conditions prévues à l'article D. 331-38, après avis du chef de l'établissement d'accueil.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°91-372 1991-04-16 art. 5
+  - Décret n°2010-100 du 27 janvier 2010 - art. 7
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Code de l'éducation - art. D331-38
 
 _Cité par_:
 
@@ -59203,14 +59227,18 @@ _Modifié par_:
 ###### Article D331-60
 
 Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalité de ce cycle dans l'établissement scolaire,
-sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou des décisions à caractère
-disciplinaire.
+sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou d'un changement de voie
+d'orientation conformément aux dispositions de l'article D. 331-51, ou en raison de décisions à caractère disciplinaire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-148 du 10 février 2009 - art. 7
+  - Décret n°2010-100 du 27 janvier 2010 - art. 10
+
+_Cite_:
+
+  - Code de l'éducation - art. D331-51
 
 
 ###### Article D331-61
@@ -72220,6 +72248,12 @@ _Codifié par_:
 A l'intérieur des cycles, le redoublement ne peut intervenir qu'à la demande écrite des parents de l'élève ou de l'élève
 majeur, ou sur proposition du conseil de classe avec l'accord écrit des intéressés.
 
+A l'intérieur du cycle terminal de la voie générale et de la voie technologique du lycée, un changement de voie d'orientation
+peut être réalisé, en cours ou en fin d'année, sur demande écrite des responsables légaux ou de l'élève majeur, après avis du
+conseil de classe. Lorsque ce changement a lieu à l'intérieur du même établissement, il est prononcé par le chef
+d'établissement dans le délai d'un mois qui suit la demande. Lorsque le changement implique l'affectation dans un autre
+établissement, il est prononcé dans les conditions fixées à l'article D. 341-16.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -72227,9 +72261,9 @@ _Anciens textes_:
   - Décret n°92-920 1992-09-07 art. 7
   - Décret n°92-920 du 7 septembre 1992 - art. 7 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2010-100 du 27 janvier 2010 - art. 13
 
 _Cité par_:
 
@@ -72460,10 +72494,11 @@ _Cité par_:
 Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à
 l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe.
 L'affectation de l'élève à l'issue d'un cycle dans la voie d'orientation du cycle supérieur est réalisée en fonction des
-décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur.
+décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur. 
 
 Le changement d'établissement en cours de cycle de formation est autorisé par le chef d'établissement d'accueil. L'élève est
-scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue.
+scolarisé dans la même voie d'orientation ou dans une voie d'orientation différente, en vertu d'un changement prononcé dans
+les conditions définies au deuxième alinéa de l'article D. 341-7 et compte tenu de la formation déjà reçue.
 
 **Liens relatifs à cet article**
 
@@ -72474,7 +72509,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-224 du 24 février 2009 - art. 1
+  - Décret n°2010-100 du 27 janvier 2010 - art. 16
 
 _Cité par_:
 
@@ -72526,10 +72561,11 @@ _Codifié par_:
 
 ###### Article D341-19
 
-Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité mentionnés à l'article D. 341-16
-ou de décisions à caractère disciplinaire, tout élève admis dans un cycle de formation devra pouvoir parcourir la totalité de
-ce cycle dans un ou plusieurs établissements scolaires. Lorsqu'un changement d'établissement scolaire est nécessaire en cours
-de cycle, la famille ou l'élève majeur sont informés préalablement au début du cycle.
+Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou d'un changement de voie
+d'orientation, conformément aux dispositions de l'article D. 341-16, ou en raison de décisions à caractère disciplinaire,
+tout élève admis dans un cycle de formation devra pouvoir parcourir la totalité de ce cycle dans un ou plusieurs
+établissements scolaires. Lorsqu'un changement d'établissement scolaire est nécessaire en cours de cycle, la famille ou
+l'élève majeur sont informés préalablement au début du cycle.
 
 **Liens relatifs à cet article**
 
@@ -72539,7 +72575,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-224 du 24 février 2009 - art. 1
+  - Décret n°2010-100 du 27 janvier 2010 - art. 17
+
+_Cite_:
+
+  - Code de l'éducation - art. D341-16
 
 
 ###### Article D341-20
@@ -72959,11 +72999,11 @@ _Cité par_:
 
 ###### Article D341-37
 
-Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité mentionnés à l'article D. 341-36
-ou de décisions à caractère disciplinaire et des dispositions prévues à l'article R. 813-44 du code rural, tout élève admis
-dans un cycle de formation devra pouvoir parcourir la totalité de ce cycle dans un ou plusieurs établissements scolaires.
-Lorsqu'un changement d'établissement scolaire est nécessaire en cours de cycle, la famille ou l'élève majeur sont informés
-préalablement au début du cycle.
+Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou d'un changement de voie
+d'orientation, conformément aux dispositions de l'article D. 341-36, ou en raison de décisions à caractère disciplinaire et
+des dispositions prévues à l'article R. 813-44 du code rural, tout élève admis dans un cycle de formation devra pouvoir
+parcourir la totalité de ce cycle dans un ou plusieurs établissements scolaires. Lorsqu'un changement d'établissement
+scolaire est nécessaire en cours de cycle, la famille ou l'élève majeur sont informés préalablement au début du cycle.
 
 **Liens relatifs à cet article**
 
@@ -72973,12 +73013,12 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-224 du 24 février 2009 - art. 1
+  - Décret n°2010-100 du 27 janvier 2010 - art. 21
 
 _Cite_:
 
-  - Code de l'éducation - art. D341-36 (VT)
-  - Code rural - art. R813-44 (V)
+  - Code de l'éducation - art. D341-36
+  - Code rural - art. R813-44
 
 
 ###### Article D341-38
@@ -77357,7 +77397,7 @@ Il détermine également les modalités :
 7° D'application de l'obligation d'assiduité mentionnée à l'article L. 511-1. 
 
 Le règlement intérieur comporte un chapitre consacré à la discipline des élèves qui reproduit l'échelle des sanctions prévues
-à l'article R511-13. 
+à l'article R. 511-13. 
 
 Le règlement intérieur est porté à la connaissance des membres de la communauté éducative. Tout manquement au règlement
 intérieur justifie la mise en œuvre d'une procédure disciplinaire ou de poursuites appropriées.
@@ -77370,9 +77410,13 @@ _Anciens textes_:
   - Décret n°85-924 du 30 août 1985 - art. 3-3 al 4 (2ème phrase en partie) (V)
   - Décret n°85-924 du 30 août 1985 - art. 3-5 al 4 (V)
 
+_Codifié par_:
+
+  - Décret n°2008-263 du 14 mars 2008 (V)
+
 _Modifié par_:
 
-  - Décret n°2009-553 du 15 mai 2009 - art. 2 (V)
+  - Décret n°2011-728 du 24 juin 2011 - art. 1
 
 _Cité par_:
 
@@ -77464,8 +77508,9 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ; 
 
-3° Préside le conseil d'administration, la commission permanente, le conseil pédagogique, le conseil de discipline et dans
-les lycées l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ; 
+3° Préside le conseil d'administration, la commission permanente, le conseil pédagogique, le conseil de discipline, la
+commission éducative et dans les lycées l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie
+lycéenne ; 
 
 4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
 
@@ -77508,7 +77553,7 @@ d'entraîner des conséquences sur la formation initiale et la vie scolaire.
 
 _Modifié par_:
 
-  - Décret n°2010-99 du 27 janvier 2010 - art. 3
+  - Décret n°2011-728 du 24 juin 2011 - art. 2
 
 _Cite_:
 
@@ -77541,16 +77586,22 @@ personnes et des biens, l'hygiène et la salubrité de l'établissement ;
 4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la
 communauté scolaire et assure l'application du règlement intérieur ; 
 
-5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il
-peut prononcer seul les sanctions mentionnées à l'article 8 du décret n° 85-924 du 30 août 1985 relatif aux établissements
-publics locaux d'enseignement, ainsi que les mesures de prévention, d'accompagnement et de réparation prévues au règlement
-intérieur.
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. 
+
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions
+prévues à l'article R. 421-10-1, soit en saisissant le conseil de discipline : 
+
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ; 
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève. 
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-14 ainsi que les mesures
+de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur. 
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence
+physique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°85-924 du 30 août 1985 - art. 8 (V)
 
 _Anciens textes_:
 
@@ -77560,14 +77611,40 @@ _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2011-728 du 24 juin 2011 - art. 3
 
 _Cité par_:
 
   - Arrêté du 10 avril 2019 - art. 2 (VD)
   - Code de l'éducation - art. R412-3 (VD)
+
+_Cite_:
+
+  - Code de l'éducation - art. R421-10-1
+  - Code de l'éducation - art. R511-14
+
+
+###### Article R421-10-1
+
+Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement
+informe sans délai l'élève des faits qui lui sont reprochés et lui fait savoir qu'il peut, dans un délai de trois jours
+ouvrables, présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix.
+
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses
+observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de
+l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-728 du 24 juin 2011 - art. 4
+
+_Cité par_:
+
+  - Code de l'éducation - art. R421-10 (VD)
 
 
 ###### Article R421-11
@@ -80242,8 +80319,8 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 2° A autorité sur le personnel recruté par l'établissement ; 
 
-3° Préside le conseil d'administration, le conseil de perfectionnement et de la formation professionnelle et le conseil de
-discipline ; 
+3° Préside le conseil d'administration, le conseil de perfectionnement et de la formation professionnelle, le conseil de
+discipline et la commission éducative ; 
 
 4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
 
@@ -80263,25 +80340,22 @@ conformément aux dispositions des articles R. 421-54 et R. 421-55.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-1242 du 25 novembre 1985 - art. 6 al 2 à 11 (V)
-
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2011-728 du 24 juin 2011 - art. 2
 
 _Cite_:
 
-  - Code de l'éducation - art. L421-11 (V)
-  - Code de l'éducation - art. L421-14 (V)
-  - Code de l'éducation - art. L421-20 (V)
-  - Code de l'éducation - art. R421-54 (V)
-  - Code de l'éducation - art. R421-92 (V)
+  - Code de l'éducation - art. L421-11
+  - Code de l'éducation - art. L421-14
+  - Code de l'éducation - art. L421-20
+  - Code de l'éducation - art. R421-54
+  - Code de l'éducation - art. R421-55 (V)
+  - Code de l'éducation - art. R421-92
 
 
 ###### Article R421-85
@@ -80299,16 +80373,22 @@ personnes et des biens, l'hygiène et la salubrité de l'établissement ;
 4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la
 communauté scolaire et assure l'application du règlement intérieur ; 
 
-5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes ; à l'égard des élèves, il
-prononce seul les sanctions mentionnées à l'article 6 du décret n° 85-1242 du 25 novembre 1985 relatif aux établissements
-publics locaux d'enseignement relevant du ministre chargé de le mer, sans préjudice de l'application des sanctions prévues
-par le règlement intérieur.
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. 
+
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions
+prévues à l'article R. 421-85-1, soit en saisissant le conseil de discipline : 
+
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ; 
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève. 
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-16 ainsi que les mesures
+de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur. 
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence
+physique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°85-1242 du 25 novembre 1985 - art. 6 (V)
 
 _Anciens textes_:
 
@@ -80318,9 +80398,35 @@ _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
+_Modifié par_:
+
+  - Décret n°2011-728 du 24 juin 2011 - art. 3
+
+_Cite_:
+
+  - Code de l'éducation - art. R421-85-1
+  - Code de l'éducation - art. R511-16
+
+
+###### Article R421-85-1
+
+Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement
+informe sans délai l'élève des faits qui lui sont reprochés et lui fait savoir qu'il peut, dans un délai de trois jours
+ouvrables, présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix.
+
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses
+observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de
+l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2011-728 du 24 juin 2011 - art. 4
+
+_Cité par_:
+
+  - Code de l'éducation - art. R421-85 (V)
 
 
 ###### Article R421-86
@@ -80526,7 +80632,8 @@ _Cité par_:
 ###### Article R421-93
 
 Le règlement intérieur adopté par le conseil d'administration définit les droits et les devoirs de chacun des membres de la
-communauté scolaire. Il détermine notamment les modalités selon lesquelles sont mis en application :
+communauté scolaire. Il rappelle les règles de civilité et de comportement. Il détermine notamment les modalités selon
+lesquelles sont mis en application :
 
 1° Le respect des principes de laïcité et de pluralisme ;
 
@@ -80553,9 +80660,9 @@ _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2011-728 du 24 juin 2011 - art. 1
 
 _Cité par_:
 
@@ -82652,49 +82759,50 @@ _Créé par_:
 
 ###### Article D422-6
 
-En qualité d'organe exécutif de l'établissement, le chef d'établissement :
+En qualité d'organe exécutif de l'établissement, le chef d'établissement : 
 
-1° Représente l'établissement en justice et dans tous les actes de la vie civile ;
+1° Représente l'établissement en justice et dans tous les actes de la vie civile ; 
 
-2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ;
+2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ; 
 
-3° Préside le conseil d'administration, la commission permanente, l'assemblée générale des délégués des élèves et le conseil
-des délégués pour la vie lycéenne ;
+3° Préside le conseil d'administration, la commission permanente, la commission éducative, l'assemblée générale des délégués
+des élèves et le conseil des délégués pour la vie lycéenne ; 
 
-4° Est ordonnateur des recettes et des dépenses de l'établissement ;
+4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
 
 5° Prépare les travaux du conseil d'administration et notamment dans la limite des ressources dont dispose l'établissement,
-le projet de budget ;
+le projet de budget ; 
 
-6° Exécute les délibérations du conseil d'administration et notamment le budget adopté par le conseil ;
+6° Exécute les délibérations du conseil d'administration et notamment le budget adopté par le conseil ; 
 
 7° Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article D. 422-2 et exécute les
-décisions adoptées par le conseil ;
+décisions adoptées par le conseil ; 
 
 8° Conclut tout contrat ou convention après avoir recueilli l'autorisation du conseil d'administration. Il informe le conseil
 d'administration dans sa séance la plus proche des marchés conclus sans autorisation préalable dans les cas prévus à
-l'article D. 422-16 et tient à disposition des membres de ce dernier les documents y afférents ;
+l'article D. 422-16 et tient à disposition des membres de ce dernier les documents y afférents ; 
 
 Lorsque, pour la mise en œuvre de ses missions de formation continue, l'établissement est associé à un groupement
 d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions
 s'inscrivant dans le programme des actions de formation continue de son établissement qui ont été signées par l'ordonnateur
-de l'établissement, dit « établissement support » auquel a été confiée la gestion du groupement. Il soumet ces conventions à
+de l'établissement, dit établissement support auquel a été confiée la gestion du groupement. Il soumet ces conventions à
 l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles
 d'entraîner des conséquences sur la formation initiale et la vie scolaire.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°86-164 du 31 janvier 1986 - art. 8 al 2 à 11 (V)
-
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2011-729 du 24 juin 2011 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. D422-16
+  - Code de l'éducation - art. D422-2
 
 
 ###### Article D422-7
@@ -82714,33 +82822,61 @@ personnes et des biens, l'hygiène et la salubrité de l'établissement ;
 4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la
 communauté scolaire et assure l'application du règlement intérieur ; 
 
-5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il
-peut prononcer seul les sanctions mentionnées à l'article 8 du décret n° 86-164 du 31 janvier 1986 portant organisation
-administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à
-l'Etat et portant dispositions diverses applicables aux établissements d'enseignement de second degré municipaux ou
-départementaux.
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. 
+
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions
+prévues à l'article D. 422-7-1, soit en saisissant le conseil de discipline : 
+
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ; 
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève. 
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-14, ainsi que les mesures
+de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur. 
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence
+physique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°86-164 du 31 janvier 1986 - art. 8 (V)
-
-_Anciens textes_:
-
-  - Décret n°86-164 du 31 janvier 1986 - art. 8 al 12 à 17 1ère phrase et 2ème phrase (en partie) (V)
 
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2011-729 du 24 juin 2011 - art. 2
 
 _Cité par_:
 
   - Code de l'éducation - art. D422-62 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. D422-7-1 (V)
+  - Code de l'éducation - art. R511-14
+
+
+###### Article D422-7-1
+
+Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement
+informe sans délai l'élève des faits qui lui sont reprochés et lui fait savoir qu'il peut, dans un délai de trois jours
+ouvrables, présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix.
+
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses
+observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de
+l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-729 du 24 juin 2011 - art. 4
+
+_Cité par_:
+
+  - Code de l'éducation - art. D422-7 (V)
+  - Code de l'éducation - art. D491-8 (V)
 
 
 ###### Article D422-8
@@ -94417,8 +94553,8 @@ Le chef d'établissement est l'organe exécutif de l'établissement. Il exerce l
 2° Il a autorité sur l'ensemble des personnels affectés ou mis à la disposition de l'établissement. Il fixe le service des
 personnels dans le respect du statut de ces derniers ; 
 
-3° Il préside le conseil d'administration, la commission permanente, le conseil de discipline et le conseil des délégués des
-élèves ; 
+3° Il préside le conseil d'administration, la commission permanente, le conseil de discipline, la commission éducative et le
+conseil des délégués des élèves ; 
 
 4° Il est ordonnateur des recettes et des dépenses de l'établissement ; 
 
@@ -94441,35 +94577,52 @@ biens, l'hygiène et la salubrité de l'établissement ;
 11° Il est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de
 la communauté scolaire et assure l'application du règlement intérieur ; 
 
-12° Il engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves,
-il prononce seul les sanctions mentionnées à l'article 12 du décret n° 95-592 du 6 mai 1995 relatif à l'organisation et au
-fonctionnement des établissements d'enseignement français en Principauté d'Andorre, sans préjudice de l'application des
-sanctions prévues par le règlement intérieur. 
+12° Il engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. 
 
-Le chef d'établissement recherche avec l'équipe éducative, dans la mesure du possible avant la mise en œuvre d'une procédure
-disciplinaire, toute mesure utile de nature éducative. 
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions
+prévues à l'article D. 454-12-1, soit en saisissant le conseil de discipline : 
 
-Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe le délégué à l'enseignement et le
-recteur de l'académie de Montpellier.
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ; 
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève. 
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-15, ainsi que les mesures
+de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur. 
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence
+physique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°95-592 du 6 mai 1995 - art. 12 (V)
-  - Code de l'éducation - art. D422-2 (V)
-
-_Anciens textes_:
-
-  - Décret n°95-592 du 6 mai 1995 - art. 12 al 1 à 13 (1ère phrase, en partie), 14 et 15 (V)
 
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
+_Modifié par_:
+
+  - Décret n°2011-729 du 24 juin 2011 - art. 3
+
+_Cite_:
+
+  - Code de l'éducation - art. D422-2
+  - Code de l'éducation - art. R511-15
+
+
+###### Article D454-12-1
+
+Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement
+informe sans délai l'élève des faits qui lui sont reprochés et lui fait savoir qu'il peut, dans un délai de trois jours
+ouvrables, présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix.
+
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses
+observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de
+l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2011-729 du 24 juin 2011 - art. 4
 
 
 ###### Article D454-13
@@ -97861,8 +98014,9 @@ des établissements d’enseignement du second degré<a id=879></a>
 
 ###### Article R511-12
 
-Préalablement à la mise en œuvre d'une procédure disciplinaire, le chef d'établissement et l'équipe éducative recherchent,
-dans la mesure du possible, toute mesure utile de nature éducative.
+Sauf dans les cas où le chef d'établissement est tenu d'engager une procédure disciplinaire et préalablement à la mise en
+œuvre de celle-ci, le chef d'établissement et l'équipe éducative recherchent, dans la mesure du possible, toute mesure utile
+de nature éducative.
 
 **Liens relatifs à cet article**
 
@@ -97871,9 +98025,9 @@ _Anciens textes_:
   - Décret n°85-924 du 30 août 1985 - art. 8, 2ème phrase (Ab)
   - Décret n°86-164 du 31 janvier 1986 - art. 8, 2ème phrase (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-553 du 15 mai 2009 - art.
+  - Décret n°2011-728 du 24 juin 2011 - art. 5
 
 _Cité par_:
 
@@ -97883,23 +98037,58 @@ _Cité par_:
 
 ###### Article R511-13
 
-Dans les lycées et collèges relevant du ministre chargé de l'éducation, les sanctions qui peuvent être prononcées à
-l'encontre des élèves sont les suivantes :
+I. - Dans les collèges et lycées relevant du ministre chargé de l'éducation, les sanctions qui peuvent être prononcées à
+l'encontre des élèves sont les suivantes : 
 
-1° L'avertissement ;
+1° L'avertissement ; 
 
-2° Le blâme ;
+2° Le blâme ; 
 
-3° L'exclusion temporaire, qui ne peut excéder un mois, de l'établissement ou de l'un de ses services annexes ;
+3° La mesure de responsabilisation ; 
 
-4° L'exclusion définitive de l'établissement ou de l'un de ses services annexes.
+4° L'exclusion temporaire de la classe. Pendant l'accomplissement de la sanction, l'élève est accueilli dans l'établissement.
+La durée de cette exclusion ne peut excéder huit jours ; 
 
-Les sanctions peuvent être assorties d'un sursis total ou partiel.
+5° L'exclusion temporaire de l'établissement ou de l'un de ses services annexes. La durée de cette exclusion ne peut excéder
+huit jours ; 
 
-Toute sanction, hormis l'exclusion définitive, est effacée du dossier administratif de l'élève au bout d'un an.
+6° L'exclusion définitive de l'établissement ou de l'un de ses services annexes. 
 
-Le règlement intérieur reproduit l'échelle des sanctions. En outre, il peut prévoir des mesures de prévention,
-d'accompagnement et de réparation.
+Les sanctions peuvent être assorties d'un sursis total ou partiel. 
+
+Le règlement intérieur reproduit l'échelle des sanctions et prévoit les mesures de prévention et d'accompagnement ainsi que
+les modalités de la mesure de responsabilisation. 
+
+II. - La mesure de responsabilisation prévue au 3° du I consiste à participer, en dehors des heures d'enseignement, à des
+activités de solidarité, culturelles ou de formation à des fins éducatives. Sa durée ne peut excéder vingt heures.
+Lorsqu'elle consiste en particulier en l'exécution d'une tâche, celle-ci doit respecter la dignité de l'élève, ne pas
+l'exposer à un danger pour sa santé et demeurer en adéquation avec son âge et ses capacités. Elle peut être exécutée au sein
+de l'établissement, d'une association, d'une collectivité territoriale, d'un groupement rassemblant des personnes publiques
+ou d'une administration de l'Etat. Un arrêté ministériel fixe les clauses types de la convention qui doit nécessairement être
+conclue entre l'établissement et la structure susceptible d'accueillir des élèves dans le cadre de mesures de
+responsabilisation. 
+
+L'accord de l'élève, et, lorsqu'il est mineur, celui de son représentant légal, est recueilli en cas d'exécution à
+l'extérieur de l'établissement. Un exemplaire de la convention est remis à l'élève ou à son représentant légal. 
+
+La mise en place d'une mesure de responsabilisation est subordonnée à la signature d'un engagement par l'élève à la
+réaliser. 
+
+III. - En cas de prononcé d'une sanction prévue au 4° ou au 5° du I, le chef d'établissement ou le conseil de discipline peut
+proposer une mesure alternative consistant en une mesure de responsabilisation. 
+
+Lorsque l'élève respecte l'engagement écrit visé au dernier alinéa du II, seule la mesure alternative est inscrite dans le
+dossier administratif de l'élève. Elle est effacée à l'issue de l'année scolaire. Dans le cas contraire, la sanction
+initialement envisagée, prévue au 4° ou au 5° du I, est exécutée et inscrite au dossier. 
+
+IV. - L'avertissement, le blâme et la mesure de responsabilisation sont effacés du dossier administratif de l'élève à l'issue
+de l'année scolaire. Les autres sanctions, hormis l'exclusion définitive, sont effacées du dossier administratif de l'élève
+au bout d'un an. 
+
+Toutefois, un élève peut demander l'effacement des sanctions inscrites dans son dossier administratif lorsqu'il change
+d'établissement. 
+
+Les sanctions sont effacées du dossier administratif de l'élève au terme de sa scolarité dans le second degré.
 
 **Liens relatifs à cet article**
 
@@ -97909,9 +98098,9 @@ _Anciens textes_:
   - Décret n°85-1348 du 18 décembre 1985 - art. 1 (Ab)
   - Décret n°86-164 du 31 janvier 1986 - art. 4 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-553 du 15 mai 2009 - art.
+  - Décret n°2011-728 du 24 juin 2011 - art. 6
 
 _Cité par_:
 
@@ -97930,9 +98119,8 @@ _Cité par_:
 
 ###### Article R511-14
 
-Dans les lycées et collèges relevant du ministre chargé de l'éducation, le chef d'établissement peut prononcer seul les
-sanctions mentionnées du deuxième (1°) au quatrième (3°) alinéa de l'article R. 511-13, sous réserve que la durée de
-l'exclusion n'excède pas huit jours.
+Dans les collèges et lycées relevant du ministre chargé de l'éducation, le chef d'établissement peut prononcer seul les
+sanctions énumérées du 1° au 5° du I de l'article R. 511-13.
 
 **Liens relatifs à cet article**
 
@@ -97942,9 +98130,9 @@ _Anciens textes_:
   - Décret n°85-1348 du 18 décembre 1985 - art. 1 (Ab)
   - Décret n°86-164 du 31 janvier 1986 - art. 8, 1ère phrase (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-553 du 15 mai 2009 - art.
+  - Décret n°2011-728 du 24 juin 2011 - art. 7
 
 _Cité par_:
 
@@ -97954,7 +98142,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. R511-13 (V)
+  - Code de l'éducation - art. R511-13
 
 
 ###### Article R511-15
@@ -97962,8 +98150,7 @@ _Cite_:
 Dans les établissements d'enseignement français en Principauté d'Andorre, l'échelle des sanctions est celle fixée à l'article
 R. 511-13. 
 
-Le chef d'établissement peut prononcer seul les sanctions mentionnées du deuxième (1°) au quatrième (3°) alinéa du même
-article, sous réserve que la durée de l'exclusion n'excède pas huit jours.
+Le chef d'établissement peut prononcer seul les sanctions énumérées du 1° au 5° du I du même article.
 
 **Liens relatifs à cet article**
 
@@ -97971,9 +98158,9 @@ _Anciens textes_:
 
   - Décret n°95-592 du 6 mai 1995 - art. 12 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-553 du 15 mai 2009 - art.
+  - Décret n°2011-728 du 24 juin 2011 - art. 8
 
 _Cité par_:
 
@@ -97984,7 +98171,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. R511-13 (V)
+  - Code de l'éducation - art. R511-13
 
 
 ###### Article R511-16
@@ -97992,8 +98179,7 @@ _Cite_:
 Dans les établissements publics locaux d'enseignement relevant du ministre chargé de la mer, l'échelle des sanctions est
 celle fixée à l'article R. 511-13. 
 
-Le chef d'établissement peut prononcer seul les sanctions mentionnées du deuxième (1°) au quatrième (3°) alinéa du même
-article, sous réserve que la durée de l'exclusion n'excède pas huit jours.
+Le chef d'établissement peut prononcer seul les sanctions énumérées du 1° au 5° du I du même article.
 
 **Liens relatifs à cet article**
 
@@ -98001,9 +98187,13 @@ _Anciens textes_:
 
   - Décret n°85-1242 du 25 novembre 1985 - art. 6 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-553 du 15 mai 2009 - art.
+  - Décret n°2011-728 du 24 juin 2011 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2019-906 du 30 août 2019 - art. 10
 
 _Cité par_:
 
@@ -98011,7 +98201,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'éducation - art. R511-13 (V)
+  - Code de l'éducation - art. R511-13
 
 
 ###### Article R511-17
@@ -98095,9 +98285,36 @@ _Cite_:
   - Code de l'éducation - art. R511-17 (V)
 
 
-##### Sous-section 2 : Le conseil de discipline de l’établissement<a id=880></a>
+##### Sous-section 2 : La commission éducative<a id=880></a>
 
-##### Paragraphe 1 : Composition<a id=881></a>
+###### Article R511-19-1
+
+Dans les collèges et les lycées relevant du ministre chargé de l'éducation et dans les établissements publics locaux
+d'enseignement relevant du ministre chargé de la mer est instituée une commission éducative. 
+
+Cette commission, qui est présidée par le chef d'établissement ou son représentant, comprend notamment des personnels de
+l'établissement, dont au moins un professeur, et au moins un parent d'élève. Sa composition est arrêtée par le conseil
+d'administration et inscrite dans le règlement intérieur de l'établissement qui fixe les modalités de son fonctionnement.
+Elle associe, en tant que de besoin, toute personne susceptible d'apporter des éléments permettant de mieux appréhender la
+situation de l'élève concerné. 
+
+Elle a pour mission d'examiner la situation d'un élève dont le comportement est inadapté aux règles de vie dans
+l'établissement et de favoriser la recherche d'une réponse éducative personnalisée. Elle est également consultée en cas
+d'incidents impliquant plusieurs élèves. 
+
+La commission éducative assure le suivi de l'application des mesures de prévention et d'accompagnement, des mesures de
+responsabilisation ainsi que des mesures alternatives aux sanctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-728 du 24 juin 2011 - art. 9
+
+
+##### Sous-section 2 : Le conseil de discipline de l’établissement<a id=881></a>
+
+##### Paragraphe 1 : Composition<a id=882></a>
 
 ###### Article D511-23
 
@@ -98246,7 +98463,7 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Paragraphe 2 : Compétence<a id=882></a>
+##### Paragraphe 2 : Compétence<a id=883></a>
 
 ###### Article D511-25
 
@@ -98333,32 +98550,6 @@ _Cité par_:
   - Code de l'éducation - art. R511-26 (V)
 
 
-###### Article R511-28
-
-Dans les établissements publics locaux d'enseignement relevant du ministre chargé de la mer, le conseil de discipline décide
-sur proposition motivée du chef d'établissement toute exclusion supérieure à huit jours.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-1242 du 25 novembre 1985, article 25 alinéa 7  v. init.
-
-_Créé par_:
-
-  - Décret n°2009-553 du 15 mai 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2011-728 du 24 juin 2011 - art. 10
-
-_Cité par_:
-
-  - Code de l'éducation - art. D511-58 (V)
-  - Code de l'éducation - art. R561-1 (V)
-  - Code de l'éducation - art. R564-1 (V)
-
-
 ###### Article R511-29
 
 Dans les lycées de la défense, le conseil de discipline est saisi par le commandant du lycée et donne son avis sur toute
@@ -98386,27 +98577,30 @@ _Cite_:
   - Code de l'éducation - art. R511-17 (V)
 
 
-##### Paragraphe 3 : Procédure disciplinaire<a id=883></a>
+##### Paragraphe 3 : Procédure disciplinaire<a id=884></a>
 
 ###### Article D511-30
 
 Lorsque le chef d'établissement, saisi par écrit d'une demande de saisine du conseil de discipline émanant d'un membre de la
-communauté éducative, décide de ne pas engager de procédure disciplinaire, il lui notifie sa décision motivée.
+communauté éducative, décide de ne pas engager de procédure disciplinaire, il lui notifie sa décision motivée. Lorsque le
+chef d'établissement décide de saisir le conseil de discipline, il en informe préalablement l'inspecteur d'académie,
+directeur des services départementaux de l'éducation nationale si l'élève a déjà fait l'objet, au cours de l'année scolaire,
+de la sanction prévue au 6° du I de l'article R. 511-13.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéa 2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-553 du 15 mai 2009 - art.
+  - Décret n°2011-729 du 24 juin 2011 - art. 5
 
 _Cité par_:
 
   - Code de l'éducation - art. D511-55 (VD)
   - Code de l'éducation - art. R511-26 (V)
+
+_Cite_:
+
+  - Code de l'éducation - art. R511-13
 
 
 ###### Article D511-31
@@ -98740,7 +98934,17 @@ _Cité par_:
   - Code de l'éducation - art. D562-2 (V)
 
 
-##### Sous-section 3 : Le conseil de discipline départemental<a id=884></a>
+##### Sous-section 3 : Le conseil de discipline de l’établissement<a id=885></a>
+
+##### Paragraphe 1 : Composition<a id=886></a>
+
+##### Paragraphe 2 : Compétence<a id=887></a>
+
+##### Paragraphe 3 : Procédure disciplinaire<a id=888></a>
+
+##### Sous-section 3 : Le conseil de discipline départemental<a id=889></a>
+
+##### Sous-section 4 : Le conseil de discipline départemental<a id=890></a>
 
 ###### Article D511-46
 
@@ -98838,7 +99042,9 @@ _Cité par_:
   - Code de l'éducation - art. D511-56 (VD)
 
 
-##### Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental<a id=885></a>
+##### Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental<a id=891></a>
+
+##### Sous-section 5 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental<a id=892></a>
 
 ###### Article D511-47
 
@@ -98896,7 +99102,9 @@ _Cité par_:
   - Code de l'éducation - art. D564-3 (VD)
 
 
-##### Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental<a id=886></a>
+##### Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental<a id=893></a>
+
+##### Sous-section 6 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental<a id=894></a>
 
 ###### Article D511-50
 
@@ -99248,9 +99456,9 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Section 3 : Conseil national et conseil académique de la vie lycéenne<a id=887></a>
+##### Section 3 : Conseil national et conseil académique de la vie lycéenne<a id=895></a>
 
-##### Sous-section 1 : Le Conseil national de la vie lycéenne<a id=888></a>
+##### Sous-section 1 : Le Conseil national de la vie lycéenne<a id=896></a>
 
 ###### Article D511-59
 
@@ -99377,7 +99585,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Sous-section 2 : Le conseil académique de la vie lycéenne<a id=889></a>
+##### Sous-section 2 : Le conseil académique de la vie lycéenne<a id=897></a>
 
 ###### Article D511-63
 
@@ -99712,7 +99920,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 4 : Information en matière de droit de la nationalité<a id=890></a>
+##### Section 4 : Information en matière de droit de la nationalité<a id=898></a>
 
 ###### Article R511-74
 
@@ -99752,13 +99960,13 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-### Titre II : L'organisation du temps et de l'espace scolaires<a id=891></a>
+### Titre II : L'organisation du temps et de l'espace scolaires<a id=899></a>
 
-#### Chapitre unique<a id=892></a>
+#### Chapitre unique<a id=900></a>
 
-##### Section 1 : Aménagement du temps scolaire<a id=893></a>
+##### Section 1 : Aménagement du temps scolaire<a id=901></a>
 
-##### Sous-section 1 : Dispositions communes à l’ensemble des académies<a id=894></a>
+##### Sous-section 1 : Dispositions communes à l’ensemble des académies<a id=902></a>
 
 ###### Article D521-1
 
@@ -99909,7 +100117,7 @@ _Cite_:
   - Code de l'éducation - art. D521-1 (V)
 
 
-##### Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon<a id=895></a>
+##### Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon<a id=903></a>
 
 ###### Article D521-6
 
@@ -99973,7 +100181,7 @@ _Cite_:
   - Code de l'éducation - art. D521-6 (V)
 
 
-##### Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires<a id=896></a>
+##### Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires<a id=904></a>
 
 ###### Article D521-8
 
@@ -100025,7 +100233,7 @@ _Cite_:
   - Code de l'éducation - art. D521-6 (V)
 
 
-##### Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires<a id=897></a>
+##### Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires<a id=905></a>
 
 ###### Article D521-10
 
@@ -100221,7 +100429,7 @@ _Cité par_:
   - Code de l'éducation - art. D521-10 (V)
 
 
-##### Section 2 : Aménagement de l’espace scolaire<a id=898></a>
+##### Section 2 : Aménagement de l’espace scolaire<a id=906></a>
 
 ###### Article D521-16
 
@@ -100245,7 +100453,7 @@ _Cité par_:
 
 
 ##### Section 3 : Interdiction de fumer dans les lieux
-affectés à un usage scolaire<a id=899></a>
+affectés à un usage scolaire<a id=907></a>
 
 ###### Article D521-17
 
@@ -100291,16 +100499,16 @@ _Cité par_:
   - Code de l'éducation - art. D564-2 (V)
 
 
-### Titre III : Les aides à la scolarité<a id=900></a>
+### Titre III : Les aides à la scolarité<a id=908></a>
 
-#### Chapitre Ier : L’aide à la scolarité et les bourses nationales<a id=901></a>
+#### Chapitre Ier : L’aide à la scolarité et les bourses nationales<a id=909></a>
 
-##### Section 1 : Bourses nationales d’enseignement du second degré<a id=902></a>
+##### Section 1 : Bourses nationales d’enseignement du second degré<a id=910></a>
 
-##### Sous-section 1 : Bourses nationales de collège<a id=903></a>
+##### Sous-section 1 : Bourses nationales de collège<a id=911></a>
 
 ##### Paragraphe 1 : Etablissements habilités à recevoir
-des boursiers de collège<a id=904></a>
+des boursiers de collège<a id=912></a>
 
 ###### Article D531-3
 
@@ -100382,7 +100590,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 2 : Critères d’attribution des bourses de collège<a id=905></a>
+##### Paragraphe 2 : Critères d’attribution des bourses de collège<a id=913></a>
 
 ###### Article D531-4
 
@@ -100488,7 +100696,7 @@ _Cité par_:
   - Code de l'éducation - art. D531-4 (V)
 
 
-##### Paragraphe 3 : Montant et paiement des bourses de collège<a id=906></a>
+##### Paragraphe 3 : Montant et paiement des bourses de collège<a id=914></a>
 
 ###### Article D531-7
 
@@ -100632,9 +100840,9 @@ _Cité par_:
   - Arrêté du 27 juillet 2009 - art. 4 (V)
 
 
-##### Sous-section 2 : Bourses nationales d’études du second degré de lycée<a id=907></a>
+##### Sous-section 2 : Bourses nationales d’études du second degré de lycée<a id=915></a>
 
-##### Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée<a id=908></a>
+##### Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée<a id=916></a>
 
 ###### Article D531-15
 
@@ -100783,7 +100991,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 2 : Critères d’attribution<a id=909></a>
+##### Paragraphe 2 : Critères d’attribution<a id=917></a>
 
 ###### Article D531-21
 
@@ -100930,7 +101138,7 @@ _Cité par_:
   - Code de l'éducation - art. D562-2 (V)
 
 
-##### Paragraphe 3 : Modalités d’attribution<a id=910></a>
+##### Paragraphe 3 : Modalités d’attribution<a id=918></a>
 
 ###### Article D531-23
 
@@ -101084,7 +101292,7 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Paragraphe 4 : Montant et paiement<a id=911></a>
+##### Paragraphe 4 : Montant et paiement<a id=919></a>
 
 ###### Article D531-29
 
@@ -101301,7 +101509,7 @@ _Cité par_:
   - Arrêté du 19 avril 2016 - art. 2 (VD)
 
 
-##### Sous-section 3 : Bourses au mérite<a id=912></a>
+##### Sous-section 3 : Bourses au mérite<a id=920></a>
 
 ###### Article D531-37
 
@@ -101457,7 +101665,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Sous-section 4 : Prime à l’internat<a id=913></a>
+##### Sous-section 4 : Prime à l’internat<a id=921></a>
 
 ###### Article D531-42
 
@@ -101498,7 +101706,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 2 : Bourses de l’enseignement agricole<a id=914></a>
+##### Section 2 : Bourses de l’enseignement agricole<a id=922></a>
 
 ###### Article D531-44
 
@@ -101518,7 +101726,7 @@ _Cite_:
   - Code rural - art. R810-4 (V)
 
 
-##### Section 3 : Bourses scolaires à l’étranger<a id=915></a>
+##### Section 3 : Bourses scolaires à l’étranger<a id=923></a>
 
 ###### Article D531-45
 
@@ -101743,7 +101951,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 4 : Tarifs de la restauration scolaire<a id=916></a>
+##### Section 4 : Tarifs de la restauration scolaire<a id=924></a>
 
 ###### Article R531-52
 
@@ -101788,7 +101996,7 @@ _Cite_:
   - Code de l'éducation - art. R531-52 (V)
 
 
-#### Chapitre II : L’allocation de rentrée scolaire<a id=917></a>
+#### Chapitre II : L’allocation de rentrée scolaire<a id=925></a>
 
 ###### Article D532-1
 
@@ -101813,11 +102021,11 @@ _Cite_:
   - Code de la sécurité sociale. - art. R755-14 (V)
 
 
-### Titre IV : La santé scolaire<a id=918></a>
+### Titre IV : La santé scolaire<a id=926></a>
 
-#### Chapitre Ier : La protection de la santé<a id=919></a>
+#### Chapitre Ier : La protection de la santé<a id=927></a>
 
-##### Section 1 : Organisation<a id=920></a>
+##### Section 1 : Organisation<a id=928></a>
 
 ###### Article D541-1
 
@@ -101936,7 +102144,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 2 : Prévention dans les activités physiques et sportives<a id=921></a>
+##### Section 2 : Prévention dans les activités physiques et sportives<a id=929></a>
 
 ###### Article R541-6
 
@@ -101962,7 +102170,7 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Section 3 : Prévention des risques professionnels<a id=922></a>
+##### Section 3 : Prévention des risques professionnels<a id=930></a>
 
 ###### Article D541-7
 
@@ -102020,7 +102228,7 @@ _Cite_:
   - Code rural - art. L751-1 (V)
 
 
-##### Section 4 : Contraception d’urgence<a id=923></a>
+##### Section 4 : Contraception d’urgence<a id=931></a>
 
 ###### Article D541-10
 
@@ -102038,7 +102246,7 @@ _Cite_:
   - Code de la santé publique - art. D5134-5 (V)
 
 
-#### Chapitre II : La prévention des mauvais traitements<a id=924></a>
+#### Chapitre II : La prévention des mauvais traitements<a id=932></a>
 
 ###### Article D542-1
 
@@ -102103,12 +102311,12 @@ _Anciens textes_:
   - Décret du 9 décembre 1991 - art. 1 (Ab)
 
 
-### Titre V : Les activités périscolaires, sportives et culturelles<a id=925></a>
+### Titre V : Les activités périscolaires, sportives et culturelles<a id=933></a>
 
-#### Chapitre Ier : Les activités périscolaires<a id=926></a>
+#### Chapitre Ier : Les activités périscolaires<a id=934></a>
 
 ##### Section 1 : Agrément des associations éducatives
-complémentaires de l’enseignement public<a id=927></a>
+complémentaires de l’enseignement public<a id=935></a>
 
 ###### Article D551-1
 
@@ -102269,7 +102477,7 @@ _Cité par_:
   - Code de l'éducation - art. D564-3 (VD)
 
 
-##### Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public<a id=928></a>
+##### Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public<a id=936></a>
 
 ###### Article D551-7
 
@@ -102477,7 +102685,7 @@ _Cité par_:
   - Code de l'éducation - art. D564-11 (V)
 
 
-#### Chapitre II : Les activités physiques et sportives<a id=929></a>
+#### Chapitre II : Les activités physiques et sportives<a id=937></a>
 
 ###### Article R552-1
 
@@ -102576,10 +102784,10 @@ _Cité par_:
   - Décret n°2015-784 du 29 juin 2015 - art. (V)
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=930></a>
+### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=938></a>
 
 #### Chapitre Ier : Dispositions applicables
-dans les îles Wallis et Futuna<a id=931></a>
+dans les îles Wallis et Futuna<a id=939></a>
 
 ###### Article D561-2
 
@@ -102938,7 +103146,7 @@ _Cité par_:
   - Code de l'éducation - art. R561-1 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte<a id=932></a>
+#### Chapitre II : Dispositions applicables à Mayotte<a id=940></a>
 
 ###### Article D562-1
 
@@ -103281,7 +103489,7 @@ _Cite_:
   - Code de l'éducation - art. R531-25 (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française<a id=933></a>
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=941></a>
 
 ###### Article D563-2
 
@@ -103358,7 +103566,7 @@ _Cite_:
   - Code de l'éducation - art. R511-74 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=934></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=942></a>
 
 ###### Article D564-2
 
@@ -103696,13 +103904,13 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-## Livre IX : Les personnels de l'éducation.<a id=935></a>
+## Livre IX : Les personnels de l'éducation.<a id=943></a>
 
-### Titre Ier : Dispositions générales.<a id=936></a>
+### Titre Ier : Dispositions générales.<a id=944></a>
 
-#### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=937></a>
+#### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=945></a>
 
-##### Section 1 : Dispositions générales.<a id=938></a>
+##### Section 1 : Dispositions générales.<a id=946></a>
 
 ###### Article R914-1
 
@@ -103741,9 +103949,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 2 : Les organismes consultatifs.<a id=939></a>
+##### Section 2 : Les organismes consultatifs.<a id=947></a>
 
-##### Sous-section 1 : La commission consultative mixte départementale.<a id=940></a>
+##### Sous-section 1 : La commission consultative mixte départementale.<a id=948></a>
 
 ###### Article R914-4
 
@@ -103871,7 +104079,7 @@ _Cite_:
   - Code de l'éducation - art. R914-77 (V)
 
 
-##### Sous-section 2 : La commission consultative mixte académique.<a id=941></a>
+##### Sous-section 2 : La commission consultative mixte académique.<a id=949></a>
 
 ###### Article R914-7
 
@@ -103974,7 +104182,7 @@ _Cite_:
   - Code de l'éducation - art. R914-8
 
 
-##### Sous-section 3 : Dispositions communes.<a id=942></a>
+##### Sous-section 3 : Dispositions communes.<a id=950></a>
 
 ###### Article R914-10
 
@@ -104095,9 +104303,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 3 : Recrutement des enseignants  des classes sous contrat.<a id=943></a>
+##### Section 3 : Recrutement des enseignants  des classes sous contrat.<a id=951></a>
 
-##### Sous-section préliminaire : Dispositions générales<a id=944></a>
+##### Sous-section préliminaire : Dispositions générales<a id=952></a>
 
 ###### Article R914-14
 
@@ -104247,7 +104455,7 @@ _Cite_:
   - Code de l'éducation - art. R914-28 (V)
 
 
-##### Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré<a id=945></a>
+##### Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré<a id=953></a>
 
 ###### Article R914-19-1
 
@@ -104524,9 +104732,9 @@ _Cité par_:
   - Arrêté du 3 mai 2010 - art. 6 (VD)
 
 
-##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.<a id=946></a>
+##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.<a id=954></a>
 
-##### Paragraphe 1 : Concours externes.<a id=947></a>
+##### Paragraphe 1 : Concours externes.<a id=955></a>
 
 ###### Article R914-20
 
@@ -104654,7 +104862,7 @@ _Cite_:
   - Code de l'éducation - art. R914-24 (V)
 
 
-##### Paragraphe 2 : Concours internes.<a id=948></a>
+##### Paragraphe 2 : Concours internes.<a id=956></a>
 
 ###### Article R914-24
 
@@ -104754,7 +104962,7 @@ _Cite_:
   - Code de l'éducation - art. R914-24 (V)
 
 
-##### Paragraphe 3 : Troisième concours.<a id=949></a>
+##### Paragraphe 3 : Troisième concours.<a id=957></a>
 
 ###### Article R914-28
 
@@ -104884,7 +105092,7 @@ _Modifié par_:
   - Décret n°2009-920 du 28 juillet 2009 - art. 4
 
 
-##### Paragraphe 4 : Stage<a id=950></a>
+##### Paragraphe 4 : Stage<a id=958></a>
 
 ###### Article R914-32
 
@@ -105036,7 +105244,7 @@ _Cite_:
   - Code de l'éducation - art. R914-33
 
 
-##### Paragraphe 5 : Cycle préparatoire<a id=951></a>
+##### Paragraphe 5 : Cycle préparatoire<a id=959></a>
 
 ###### Article R914-38
 
@@ -105161,10 +105369,10 @@ _Abrogé par_:
   - Décret n°2013-767 du 23 août 2013 - art. 18
 
 
-##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=952></a>
+##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=960></a>
 
 ##### Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association.<a id=953></a>
+des classes sous contrat d'association.<a id=961></a>
 
 ###### Article R914-44
 
@@ -105380,7 +105588,7 @@ _Cite_:
 
 
 ##### Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple.<a id=954></a>
+des classes sous contrat simple.<a id=962></a>
 
 ###### Article R914-53
 
@@ -105454,7 +105662,7 @@ _Cite_:
   - Code de l'éducation - art. R914-15
 
 
-##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=955></a>
+##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=963></a>
 
 ###### Article R914-57
 
@@ -105502,9 +105710,9 @@ _Cité par_:
   - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
 
 
-##### Section 4 : Notation, avancement, mouvement, classement.<a id=956></a>
+##### Section 4 : Notation, avancement, mouvement, classement.<a id=964></a>
 
-##### Sous-section 1 : Notation.<a id=957></a>
+##### Sous-section 1 : Notation.<a id=965></a>
 
 ###### Article R914-59
 
@@ -105525,9 +105733,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Avancement.<a id=958></a>
+##### Sous-section 2 : Avancement.<a id=966></a>
 
-##### Paragraphe 1 : Dispositions communes.<a id=959></a>
+##### Paragraphe 1 : Dispositions communes.<a id=967></a>
 
 ###### Article R914-60
 
@@ -105554,7 +105762,7 @@ _Cite_:
   - Code de l'éducation - art. R914-7 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=960></a>
+##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=968></a>
 
 ###### Article R914-61
 
@@ -105628,7 +105836,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=961></a>
+##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=969></a>
 
 ###### Article R914-64
 
@@ -105881,7 +106089,7 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (V)
 
 
-##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=962></a>
+##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=970></a>
 
 ###### Article R914-75
 
@@ -105991,9 +106199,9 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (V)
 
 
-##### Sous-section 4 : Classement.<a id=963></a>
+##### Sous-section 4 : Classement.<a id=971></a>
 
-##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=964></a>
+##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=972></a>
 
 ###### Article R914-78
 
@@ -106059,7 +106267,7 @@ _Cite_:
   - Code de l'éducation - art. R914-105 (VD)
 
 
-##### Paragraphe 2 : Reclassement pour motif médical.<a id=965></a>
+##### Paragraphe 2 : Reclassement pour motif médical.<a id=973></a>
 
 ###### Article R914-81
 
@@ -106132,9 +106340,9 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (V)
 
 
-##### Section 5 : Rémunération.<a id=966></a>
+##### Section 5 : Rémunération.<a id=974></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=967></a>
+##### Sous-section 1 : Dispositions générales.<a id=975></a>
 
 ###### Article R914-83
 
@@ -106260,7 +106468,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (V)
 
 
-##### Sous-section 2 : Dispositions particulières.<a id=968></a>
+##### Sous-section 2 : Dispositions particulières.<a id=976></a>
 
 ###### Article R914-89
 
@@ -106280,9 +106488,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 6 : Charges sociales.<a id=969></a>
+##### Section 6 : Charges sociales.<a id=977></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=970></a>
+##### Sous-section 1 : Dispositions générales.<a id=978></a>
 
 ###### Article D914-91
 
@@ -106341,7 +106549,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-95 (V)
 
 
-##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=971></a>
+##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=979></a>
 
 ###### Article R914-92
 
@@ -106423,7 +106631,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (V)
 
 
-##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=972></a>
+##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=980></a>
 
 ###### Article R914-96
 
@@ -106500,9 +106708,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 
 
-##### Section 7 : Discipline.<a id=973></a>
+##### Section 7 : Discipline.<a id=981></a>
 
-##### Sous-section 1 : Sanctions disciplinaires.<a id=974></a>
+##### Sous-section 1 : Sanctions disciplinaires.<a id=982></a>
 
 ###### Article R914-100
 
@@ -106621,7 +106829,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-103 (V)
 
 
-##### Sous-section 2 : Insuffisance professionnelle.<a id=975></a>
+##### Sous-section 2 : Insuffisance professionnelle.<a id=983></a>
 
 ###### Article R914-103
 
@@ -106644,7 +106852,7 @@ _Cite_:
   - Code de l'éducation - art. R914-102 (V)
 
 
-##### Sous-section 3 : Suspension à titre conservatoire.<a id=976></a>
+##### Sous-section 3 : Suspension à titre conservatoire.<a id=984></a>
 
 ###### Article R914-104
 
@@ -106678,9 +106886,9 @@ _Cité par_:
   - Code de l'éducation - art. R914-1 (V)
 
 
-##### Section 8 : Droits sociaux et congés.<a id=977></a>
+##### Section 8 : Droits sociaux et congés.<a id=985></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=978></a>
+##### Sous-section 1 : Dispositions générales.<a id=986></a>
 
 ###### Article R914-105
 
@@ -106702,7 +106910,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Cessation progressive d'activité.<a id=979></a>
+##### Sous-section 2 : Cessation progressive d'activité.<a id=987></a>
 
 ###### Article R914-106
 
@@ -106931,9 +107139,9 @@ _Cite_:
   - Code de la sécurité sociale. - art. L241-3-1
 
 
-##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=980></a>
+##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=988></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=981></a>
+##### Sous-section 1 : Dispositions générales.<a id=989></a>
 
 ###### Article R914-113
 
@@ -106972,7 +107180,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-1 (V)
 
 
-##### Sous-section 2 : Incapacité permanente.<a id=982></a>
+##### Sous-section 2 : Incapacité permanente.<a id=990></a>
 
 ###### Article R914-114
 
@@ -107131,9 +107339,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 10 : Admission à la retraite.<a id=983></a>
+##### Section 10 : Admission à la retraite.<a id=991></a>
 
-##### Sous-section 1 : Avantages temporaires de retraite.<a id=984></a>
+##### Sous-section 1 : Avantages temporaires de retraite.<a id=992></a>
 
 ###### Article R914-120
 
@@ -107162,7 +107370,7 @@ _Cité par_:
 
 
 ##### Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite.<a id=985></a>
+du droit aux avantages temporaires de retraite.<a id=993></a>
 
 ###### Article R914-121
 
@@ -107273,7 +107481,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=986></a>
+##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=994></a>
 
 ###### Article R914-124
 
@@ -107386,7 +107594,7 @@ _Cite_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=987></a>
+##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=995></a>
 
 ###### Article R914-127
 
@@ -107415,7 +107623,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R351-27
 
 
-##### Paragraphe 4 : Limites d'âge et cumul.<a id=988></a>
+##### Paragraphe 4 : Limites d'âge et cumul.<a id=996></a>
 
 ###### Article R914-128
 
@@ -107510,7 +107718,7 @@ _Cite_:
   - Code de l'éducation - art. R914-121 (V)
 
 
-##### Paragraphe 5 : Couverture sociale.<a id=989></a>
+##### Paragraphe 5 : Couverture sociale.<a id=997></a>
 
 ###### Article R914-132
 
@@ -107529,7 +107737,7 @@ _Cite_:
   - Code de l'éducation - art. L914-1 (V)
 
 
-##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=990></a>
+##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=998></a>
 
 ###### Article R914-133
 
@@ -107680,7 +107888,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Régime additionnel de retraite.<a id=991></a>
+##### Sous-section 2 : Régime additionnel de retraite.<a id=999></a>
 
 ###### Article R914-138
 
