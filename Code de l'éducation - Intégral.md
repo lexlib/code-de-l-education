@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-09-01
+Version Consolidée au 2011-09-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -883,132 +883,125 @@ des établissements d’enseignement du second degré (art. D511-3 à R511-11)](
             - [Sous-section 1 : Sanctions applicables aux élèves
 des établissements d’enseignement du second degré (art. R511-12 à R511-19)](#879)
             - [Sous-section 2 : La commission éducative (art. R511-19-1)](#880)
-            - [Sous-section 2 : Le conseil de discipline de l’établissement (art. D511-23 à D511-43)](#881)
+            - [Sous-section 3 : Le conseil de discipline de l’établissement (art. D511-23 à D511-43)](#881)
               - [Paragraphe 1 : Composition (art. D511-23 à R511-24)](#882)
               - [Paragraphe 2 : Compétence (art. D511-25 à R511-29)](#883)
               - [Paragraphe 3 : Procédure disciplinaire (art. D511-30 à D511-43)](#884)
-            - [Sous-section 3 : Le conseil de discipline de l’établissement (art.  à D511-43)](#885)
-              - [Paragraphe 1 : Composition (art.  à D511-43)](#886)
-              - [Paragraphe 2 : Compétence (art.  à D511-43)](#887)
-              - [Paragraphe 3 : Procédure disciplinaire (art.  à D511-43)](#888)
-            - [Sous-section 3 : Le conseil de discipline départemental (art.  à D511-43)](#889)
-            - [Sous-section 4 : Le conseil de discipline départemental (art. D511-46 à R511-45)](#890)
-            - [Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental (art.  à R511-45)](#891)
-            - [Sous-section 5 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental (art. D511-47 à D511-48)](#892)
-            - [Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental (art.  à D511-48)](#893)
-            - [Sous-section 6 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental (art. D511-50 à R511-57)](#894)
-          - [Section 3 : Conseil national et conseil académique de la vie lycéenne (art. D511-59 à D511-73)](#895)
-            - [Sous-section 1 : Le Conseil national de la vie lycéenne (art. D511-59 à D511-62)](#896)
-            - [Sous-section 2 : Le conseil académique de la vie lycéenne (art. D511-63 à D511-73)](#897)
-          - [Section 4 : Information en matière de droit de la nationalité (art. R511-74 à R511-75)](#898)
-      - [Titre II : L'organisation du temps et de l'espace scolaires (art. D521-1 à D521-18)](#899)
-        - [Chapitre unique (art. D521-1 à D521-18)](#900)
-          - [Section 1 : Aménagement du temps scolaire (art. D521-1 à D521-15)](#901)
-            - [Sous-section 1 : Dispositions communes à l’ensemble des académies (art. D521-1 à D521-5)](#902)
-            - [Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon (art. D521-6 à D521-7)](#903)
-            - [Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires (art. D521-8 à D521-9)](#904)
-            - [Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires (art. D521-10 à D521-15)](#905)
-          - [Section 2 : Aménagement de l’espace scolaire (art. D521-16)](#906)
+            - [Sous-section 4 : Le conseil de discipline départemental (art. D511-46 à R511-45)](#885)
+            - [Sous-section 5 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental (art. D511-47 à D511-48)](#886)
+            - [Sous-section 6 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental (art. D511-50 à R511-57)](#887)
+          - [Section 3 : Conseil national et conseil académique de la vie lycéenne (art. D511-59 à D511-73)](#888)
+            - [Sous-section 1 : Le Conseil national de la vie lycéenne (art. D511-59 à D511-62)](#889)
+            - [Sous-section 2 : Le conseil académique de la vie lycéenne (art. D511-63 à D511-73)](#890)
+          - [Section 4 : Information en matière de droit de la nationalité (art. R511-74 à R511-75)](#891)
+      - [Titre II : L'organisation du temps et de l'espace scolaires (art. D521-1 à D521-18)](#892)
+        - [Chapitre unique (art. D521-1 à D521-18)](#893)
+          - [Section 1 : Aménagement du temps scolaire (art. D521-1 à D521-15)](#894)
+            - [Sous-section 1 : Dispositions communes à l’ensemble des académies (art. D521-1 à D521-5)](#895)
+            - [Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon (art. D521-6 à D521-7)](#896)
+            - [Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires (art. D521-8 à D521-9)](#897)
+            - [Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires (art. D521-10 à D521-15)](#898)
+          - [Section 2 : Aménagement de l’espace scolaire (art. D521-16)](#899)
           - [Section 3 : Interdiction de fumer dans les lieux
-affectés à un usage scolaire (art. D521-17 à D521-18)](#907)
-      - [Titre III : Les aides à la scolarité (art. D531-3 à D532-1)](#908)
-        - [Chapitre Ier : L’aide à la scolarité et les bourses nationales (art. D531-3 à R531-53)](#909)
-          - [Section 1 : Bourses nationales d’enseignement du second degré (art. D531-3 à D531-43)](#910)
-            - [Sous-section 1 : Bourses nationales de collège (art. D531-3 à D531-12)](#911)
+affectés à un usage scolaire (art. D521-17 à D521-18)](#900)
+      - [Titre III : Les aides à la scolarité (art. D531-3 à D532-1)](#901)
+        - [Chapitre Ier : L’aide à la scolarité et les bourses nationales (art. D531-3 à R531-53)](#902)
+          - [Section 1 : Bourses nationales d’enseignement du second degré (art. D531-3 à D531-43)](#903)
+            - [Sous-section 1 : Bourses nationales de collège (art. D531-3 à D531-12)](#904)
               - [Paragraphe 1 : Etablissements habilités à recevoir
-des boursiers de collège (art. D531-3 à R531-2)](#912)
-              - [Paragraphe 2 : Critères d’attribution des bourses de collège (art. D531-4 à D531-6)](#913)
-              - [Paragraphe 3 : Montant et paiement des bourses de collège (art. D531-7 à D531-12)](#914)
-            - [Sous-section 2 : Bourses nationales d’études du second degré de lycée (art. D531-15 à R531-35)](#915)
-              - [Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée (art. D531-15 à R531-16)](#916)
-              - [Paragraphe 2 : Critères d’attribution (art. D531-21 à R531-20)](#917)
-              - [Paragraphe 3 : Modalités d’attribution (art. D531-23 à R531-25)](#918)
-              - [Paragraphe 4 : Montant et paiement (art. D531-29 à R531-35)](#919)
-            - [Sous-section 3 : Bourses au mérite (art. D531-37 à D531-41)](#920)
-            - [Sous-section 4 : Prime à l’internat (art. D531-42 à D531-43)](#921)
-          - [Section 2 : Bourses de l’enseignement agricole (art. D531-44)](#922)
-          - [Section 3 : Bourses scolaires à l’étranger (art. D531-45 à D531-51)](#923)
-          - [Section 4 : Tarifs de la restauration scolaire (art. R531-52 à R531-53)](#924)
-        - [Chapitre II : L’allocation de rentrée scolaire (art. D532-1)](#925)
-      - [Titre IV : La santé scolaire (art. D541-1 à D542-1)](#926)
-        - [Chapitre Ier : La protection de la santé (art. D541-1 à D541-10)](#927)
-          - [Section 1 : Organisation (art. D541-1 à R541-5)](#928)
-          - [Section 2 : Prévention dans les activités physiques et sportives (art. R541-6)](#929)
-          - [Section 3 : Prévention des risques professionnels (art. D541-7 à D541-9)](#930)
-          - [Section 4 : Contraception d’urgence (art. D541-10)](#931)
-        - [Chapitre II : La prévention des mauvais traitements (art. D542-1)](#932)
-      - [Titre V : Les activités périscolaires, sportives et culturelles (art. D551-1 à R552-2)](#933)
-        - [Chapitre Ier : Les activités périscolaires (art. D551-1 à D551-12)](#934)
+des boursiers de collège (art. D531-3 à R531-2)](#905)
+              - [Paragraphe 2 : Critères d’attribution des bourses de collège (art. D531-4 à D531-6)](#906)
+              - [Paragraphe 3 : Montant et paiement des bourses de collège (art. D531-7 à D531-12)](#907)
+            - [Sous-section 2 : Bourses nationales d’études du second degré de lycée (art. D531-15 à R531-35)](#908)
+              - [Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée (art. D531-15 à R531-16)](#909)
+              - [Paragraphe 2 : Critères d’attribution (art. D531-21 à R531-20)](#910)
+              - [Paragraphe 3 : Modalités d’attribution (art. D531-23 à R531-25)](#911)
+              - [Paragraphe 4 : Montant et paiement (art. D531-29 à R531-35)](#912)
+            - [Sous-section 3 : Bourses au mérite (art. D531-37 à D531-41)](#913)
+            - [Sous-section 4 : Prime à l’internat (art. D531-42 à D531-43)](#914)
+          - [Section 2 : Bourses de l’enseignement agricole (art. D531-44)](#915)
+          - [Section 3 : Bourses scolaires à l’étranger (art. D531-45 à D531-51)](#916)
+          - [Section 4 : Tarifs de la restauration scolaire (art. R531-52 à R531-53)](#917)
+        - [Chapitre II : L’allocation de rentrée scolaire (art. D532-1)](#918)
+      - [Titre IV : La santé scolaire (art. D541-1 à D542-1)](#919)
+        - [Chapitre Ier : La protection de la santé (art. D541-1 à D541-10)](#920)
+          - [Section 1 : Organisation (art. D541-1 à R541-5)](#921)
+          - [Section 2 : Prévention dans les activités physiques et sportives (art. R541-6)](#922)
+          - [Section 3 : Prévention des risques professionnels (art. D541-7 à D541-9)](#923)
+          - [Section 4 : Contraception d’urgence (art. D541-10)](#924)
+        - [Chapitre II : La prévention des mauvais traitements (art. D542-1)](#925)
+      - [Titre V : Les activités périscolaires, sportives et culturelles (art. D551-1 à R552-2)](#926)
+        - [Chapitre Ier : Les activités périscolaires (art. D551-1 à D551-12)](#927)
           - [Section 1 : Agrément des associations éducatives
-complémentaires de l’enseignement public (art. D551-1 à D551-6)](#935)
-          - [Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public (art. D551-7 à D551-12)](#936)
-        - [Chapitre II : Les activités physiques et sportives (art. R552-1 à R552-2)](#937)
-      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. D561-2 à R564-8)](#938)
+complémentaires de l’enseignement public (art. D551-1 à D551-6)](#928)
+          - [Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public (art. D551-7 à D551-12)](#929)
+        - [Chapitre II : Les activités physiques et sportives (art. R552-1 à R552-2)](#930)
+      - [Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie (art. D561-2 à R564-8)](#931)
         - [Chapitre Ier : Dispositions applicables
-dans les îles Wallis et Futuna (art. D561-2 à R561-8)](#939)
-        - [Chapitre II : Dispositions applicables à Mayotte (art. D562-1 à R562-9)](#940)
-        - [Chapitre III : Dispositions applicables en Polynésie française (art. D563-2 à R563-1)](#941)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. D564-2 à R564-8)](#942)
-    - [Livre IX : Les personnels de l'éducation. (art. R914-1 à R914-142)](#943)
-      - [Titre Ier : Dispositions générales. (art. R914-1 à R914-142)](#944)
-        - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. R914-1 à R914-142)](#945)
-          - [Section 1 : Dispositions générales. (art. R914-1 à R914-3)](#946)
-          - [Section 2 : Les organismes consultatifs. (art. R914-4 à R914-13)](#947)
-            - [Sous-section 1 : La commission consultative mixte départementale. (art. R914-4 à R914-6)](#948)
-            - [Sous-section 2 : La commission consultative mixte académique. (art. R914-7 à R914-9)](#949)
-            - [Sous-section 3 : Dispositions communes. (art. R914-10 à R914-13)](#950)
-          - [Section 3 : Recrutement des enseignants  des classes sous contrat. (art. R914-14 à R914-58)](#951)
-            - [Sous-section préliminaire : Dispositions générales (art. R914-14 à R914-19)](#952)
-            - [Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré (art. R914-19-1 à R914-19-7)](#953)
-            - [Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré. (art. R914-20 à R914-41)](#954)
-              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#955)
-              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#956)
-              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#957)
-              - [Paragraphe 4 : Stage (art. R914-32 à R914-37)](#958)
-              - [Paragraphe 5 : Cycle préparatoire (art. R914-38 à R914-41)](#959)
-            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#960)
+dans les îles Wallis et Futuna (art. D561-2 à R561-8)](#932)
+        - [Chapitre II : Dispositions applicables à Mayotte (art. D562-1 à R562-9)](#933)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. D563-2 à R563-1)](#934)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. D564-2 à R564-8)](#935)
+    - [Livre IX : Les personnels de l'éducation. (art. R914-1 à R914-142)](#936)
+      - [Titre Ier : Dispositions générales. (art. R914-1 à R914-142)](#937)
+        - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés. (art. R914-1 à R914-142)](#938)
+          - [Section 1 : Dispositions générales. (art. R914-1 à R914-3)](#939)
+          - [Section 2 : Les organismes consultatifs. (art. R914-4 à R914-13)](#940)
+            - [Sous-section 1 : La commission consultative mixte départementale. (art. R914-4 à R914-6)](#941)
+            - [Sous-section 2 : La commission consultative mixte académique. (art. R914-7 à R914-9)](#942)
+            - [Sous-section 3 : Dispositions communes. (art. R914-10 à R914-13)](#943)
+          - [Section 3 : Recrutement des enseignants  des classes sous contrat. (art. R914-14 à R914-58)](#944)
+            - [Sous-section préliminaire : Dispositions générales (art. R914-14 à R914-19)](#945)
+            - [Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré (art. R914-19-1 à R914-19-7)](#946)
+            - [Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré. (art. R914-20 à R914-41)](#947)
+              - [Paragraphe 1 : Concours externes. (art. R914-20 à R914-23)](#948)
+              - [Paragraphe 2 : Concours internes. (art. R914-24 à R914-27)](#949)
+              - [Paragraphe 3 : Troisième concours. (art. R914-28 à R914-31)](#950)
+              - [Paragraphe 4 : Stage (art. R914-32 à R914-37)](#951)
+              - [Paragraphe 5 : Cycle préparatoire (art. R914-38 à R914-41)](#952)
+            - [Sous-section 3 : Nomination dans les établissements d'enseignement privés (art. R914-44 à R914-58)](#953)
               - [Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association. (art. R914-44 à R914-52)](#961)
+des classes sous contrat d'association. (art. R914-44 à R914-52)](#954)
               - [Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple. (art. R914-53 à R914-56)](#962)
-              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#963)
-          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#964)
-            - [Sous-section 1 : Notation. (art. R914-59)](#965)
-            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#966)
-              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#967)
-              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#968)
-              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#969)
-            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#970)
-            - [Sous-section 4 : Classement. (art. R914-78 à R914-82)](#971)
-              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-78 à R914-80)](#972)
-              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#973)
-          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#974)
-            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#975)
-            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#976)
-          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#977)
-            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#978)
-            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#979)
-            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#980)
-          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#981)
-            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#982)
-            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#983)
-            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#984)
-          - [Section 8 : Droits sociaux et congés. (art. R914-105 à R914-112)](#985)
-            - [Sous-section 1 : Dispositions générales. (art. R914-105)](#986)
-            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#987)
-          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#988)
-            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#989)
-            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#990)
-          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#991)
-            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#992)
+des classes sous contrat simple. (art. R914-53 à R914-56)](#955)
+              - [Paragraphe 3 : Remplacement des maîtres contractuels ou agréés. (art. R914-57 à R914-58)](#956)
+          - [Section 4 : Notation, avancement, mouvement, classement. (art. R914-59 à R914-82)](#957)
+            - [Sous-section 1 : Notation. (art. R914-59)](#958)
+            - [Sous-section 2 : Avancement. (art. R914-60 à R914-74)](#959)
+              - [Paragraphe 1 : Dispositions communes. (art. R914-60)](#960)
+              - [Paragraphe 2 : Dispositions applicables aux maîtres du premier degré. (art. R914-61 à R914-63)](#961)
+              - [Paragraphe 3 : Dispositions applicables aux maîtres du second degré. (art. R914-64 à R914-74)](#962)
+            - [Sous-section 3 : Mouvement des maîtres contractuels. (art. R914-75 à R914-77)](#963)
+            - [Sous-section 4 : Classement. (art. R914-78 à R914-82)](#964)
+              - [Paragraphe 1 : Classement des maîtres contractuels ou agréés. (art. R914-78 à R914-80)](#965)
+              - [Paragraphe 2 : Reclassement pour motif médical. (art. R914-81 à R914-82)](#966)
+          - [Section 5 : Rémunération. (art. R914-83 à R914-89)](#967)
+            - [Sous-section 1 : Dispositions générales. (art. R914-83 à R914-88)](#968)
+            - [Sous-section 2 : Dispositions particulières. (art. R914-89)](#969)
+          - [Section 6 : Charges sociales. (art. D914-91 à R914-99)](#970)
+            - [Sous-section 1 : Dispositions générales. (art. D914-91 à R914-90)](#971)
+            - [Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants. (art. R914-92 à R914-95)](#972)
+            - [Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants. (art. R914-96 à R914-99)](#973)
+          - [Section 7 : Discipline. (art. R914-100 à R914-104)](#974)
+            - [Sous-section 1 : Sanctions disciplinaires. (art. R914-100 à R914-102)](#975)
+            - [Sous-section 2 : Insuffisance professionnelle. (art. R914-103)](#976)
+            - [Sous-section 3 : Suspension à titre conservatoire. (art. R914-104)](#977)
+          - [Section 8 : Droits sociaux et congés. (art. R914-105 à R914-112)](#978)
+            - [Sous-section 1 : Dispositions générales. (art. R914-105)](#979)
+            - [Sous-section 2 : Cessation progressive d'activité. (art. R914-106 à R914-112)](#980)
+          - [Section 9 : Résiliation du contrat ou retrait de l'agrément. (art. R914-113 à R914-119)](#981)
+            - [Sous-section 1 : Dispositions générales. (art. R914-113)](#982)
+            - [Sous-section 2 : Incapacité permanente. (art. R914-114 à R914-119)](#983)
+          - [Section 10 : Admission à la retraite. (art. R914-120 à R914-142)](#984)
+            - [Sous-section 1 : Avantages temporaires de retraite. (art. R914-120 à R914-137)](#985)
               - [Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#993)
-              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#994)
-              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#995)
-              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#996)
-              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#997)
-              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#998)
-            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#999)
+du droit aux avantages temporaires de retraite. (art. R914-121 à R914-123)](#986)
+              - [Paragraphe 2 : Liquidation des avantages temporaires de retraite. (art. R914-124 à R914-126)](#987)
+              - [Paragraphe 3 : Cessation du versement des avantages temporaires de retraite. (art. R914-127)](#988)
+              - [Paragraphe 4 : Limites d'âge et cumul. (art. R914-128 à R914-131)](#989)
+              - [Paragraphe 5 : Couverture sociale. (art. R914-132)](#990)
+              - [Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité. (art. R914-133 à R914-137)](#991)
+            - [Sous-section 2 : Régime additionnel de retraite. (art. R914-138 à R914-142)](#992)
 # Partie législative<a id=1></a>
 
 ## Première partie : Dispositions générales et communes<a id=2></a>
@@ -97883,7 +97876,7 @@ _Créé par_:
   - Décret n°2011-728 du 24 juin 2011 - art. 9
 
 
-##### Sous-section 2 : Le conseil de discipline de l’établissement<a id=881></a>
+##### Sous-section 3 : Le conseil de discipline de l’établissement<a id=881></a>
 
 ##### Paragraphe 1 : Composition<a id=882></a>
 
@@ -98505,17 +98498,7 @@ _Cité par_:
   - Code de l'éducation - art. D562-2 (VD)
 
 
-##### Sous-section 3 : Le conseil de discipline de l’établissement<a id=885></a>
-
-##### Paragraphe 1 : Composition<a id=886></a>
-
-##### Paragraphe 2 : Compétence<a id=887></a>
-
-##### Paragraphe 3 : Procédure disciplinaire<a id=888></a>
-
-##### Sous-section 3 : Le conseil de discipline départemental<a id=889></a>
-
-##### Sous-section 4 : Le conseil de discipline départemental<a id=890></a>
+##### Sous-section 4 : Le conseil de discipline départemental<a id=885></a>
 
 ###### Article D511-46
 
@@ -98613,9 +98596,7 @@ _Cité par_:
   - Code de l'éducation - art. D511-56 (VD)
 
 
-##### Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental<a id=891></a>
-
-##### Sous-section 5 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental<a id=892></a>
+##### Sous-section 5 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental<a id=886></a>
 
 ###### Article D511-47
 
@@ -98673,9 +98654,7 @@ _Cité par_:
   - Code de l'éducation - art. D564-3 (VD)
 
 
-##### Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental<a id=893></a>
-
-##### Sous-section 6 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental<a id=894></a>
+##### Sous-section 6 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental<a id=887></a>
 
 ###### Article D511-50
 
@@ -99027,9 +99006,9 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Section 3 : Conseil national et conseil académique de la vie lycéenne<a id=895></a>
+##### Section 3 : Conseil national et conseil académique de la vie lycéenne<a id=888></a>
 
-##### Sous-section 1 : Le Conseil national de la vie lycéenne<a id=896></a>
+##### Sous-section 1 : Le Conseil national de la vie lycéenne<a id=889></a>
 
 ###### Article D511-59
 
@@ -99156,7 +99135,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Sous-section 2 : Le conseil académique de la vie lycéenne<a id=897></a>
+##### Sous-section 2 : Le conseil académique de la vie lycéenne<a id=890></a>
 
 ###### Article D511-63
 
@@ -99491,7 +99470,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 4 : Information en matière de droit de la nationalité<a id=898></a>
+##### Section 4 : Information en matière de droit de la nationalité<a id=891></a>
 
 ###### Article R511-74
 
@@ -99531,13 +99510,13 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-### Titre II : L'organisation du temps et de l'espace scolaires<a id=899></a>
+### Titre II : L'organisation du temps et de l'espace scolaires<a id=892></a>
 
-#### Chapitre unique<a id=900></a>
+#### Chapitre unique<a id=893></a>
 
-##### Section 1 : Aménagement du temps scolaire<a id=901></a>
+##### Section 1 : Aménagement du temps scolaire<a id=894></a>
 
-##### Sous-section 1 : Dispositions communes à l’ensemble des académies<a id=902></a>
+##### Sous-section 1 : Dispositions communes à l’ensemble des académies<a id=895></a>
 
 ###### Article D521-1
 
@@ -99688,7 +99667,7 @@ _Cite_:
   - Code de l'éducation - art. D521-1 (V)
 
 
-##### Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon<a id=903></a>
+##### Sous-section 2 : Dispositions particulières aux académies de Corse et d’outre-mer et à Saint-Pierre-et-Miquelon<a id=896></a>
 
 ###### Article D521-6
 
@@ -99752,7 +99731,7 @@ _Cite_:
   - Code de l'éducation - art. D521-6 (V)
 
 
-##### Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires<a id=904></a>
+##### Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires<a id=897></a>
 
 ###### Article D521-8
 
@@ -99804,7 +99783,7 @@ _Cite_:
   - Code de l'éducation - art. D521-6 (V)
 
 
-##### Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires<a id=905></a>
+##### Sous-section 4 : Dispositions particulières aux écoles maternelles et élémentaires<a id=898></a>
 
 ###### Article D521-10
 
@@ -100000,7 +99979,7 @@ _Cité par_:
   - Code de l'éducation - art. D521-10 (V)
 
 
-##### Section 2 : Aménagement de l’espace scolaire<a id=906></a>
+##### Section 2 : Aménagement de l’espace scolaire<a id=899></a>
 
 ###### Article D521-16
 
@@ -100024,7 +100003,7 @@ _Cité par_:
 
 
 ##### Section 3 : Interdiction de fumer dans les lieux
-affectés à un usage scolaire<a id=907></a>
+affectés à un usage scolaire<a id=900></a>
 
 ###### Article D521-17
 
@@ -100070,16 +100049,16 @@ _Cité par_:
   - Code de l'éducation - art. D564-2 (V)
 
 
-### Titre III : Les aides à la scolarité<a id=908></a>
+### Titre III : Les aides à la scolarité<a id=901></a>
 
-#### Chapitre Ier : L’aide à la scolarité et les bourses nationales<a id=909></a>
+#### Chapitre Ier : L’aide à la scolarité et les bourses nationales<a id=902></a>
 
-##### Section 1 : Bourses nationales d’enseignement du second degré<a id=910></a>
+##### Section 1 : Bourses nationales d’enseignement du second degré<a id=903></a>
 
-##### Sous-section 1 : Bourses nationales de collège<a id=911></a>
+##### Sous-section 1 : Bourses nationales de collège<a id=904></a>
 
 ##### Paragraphe 1 : Etablissements habilités à recevoir
-des boursiers de collège<a id=912></a>
+des boursiers de collège<a id=905></a>
 
 ###### Article D531-3
 
@@ -100161,7 +100140,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 2 : Critères d’attribution des bourses de collège<a id=913></a>
+##### Paragraphe 2 : Critères d’attribution des bourses de collège<a id=906></a>
 
 ###### Article D531-4
 
@@ -100267,7 +100246,7 @@ _Cité par_:
   - Code de l'éducation - art. D531-4 (V)
 
 
-##### Paragraphe 3 : Montant et paiement des bourses de collège<a id=914></a>
+##### Paragraphe 3 : Montant et paiement des bourses de collège<a id=907></a>
 
 ###### Article D531-7
 
@@ -100411,9 +100390,9 @@ _Cité par_:
   - Arrêté du 27 juillet 2009 - art. 4 (V)
 
 
-##### Sous-section 2 : Bourses nationales d’études du second degré de lycée<a id=915></a>
+##### Sous-section 2 : Bourses nationales d’études du second degré de lycée<a id=908></a>
 
-##### Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée<a id=916></a>
+##### Paragraphe 1 : Formations et établissements habilités à recevoir des boursiers nationaux du second degré de lycée<a id=909></a>
 
 ###### Article D531-15
 
@@ -100562,7 +100541,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L312-1 (V)
 
 
-##### Paragraphe 2 : Critères d’attribution<a id=917></a>
+##### Paragraphe 2 : Critères d’attribution<a id=910></a>
 
 ###### Article D531-21
 
@@ -100709,7 +100688,7 @@ _Cité par_:
   - Code de l'éducation - art. D562-2 (VD)
 
 
-##### Paragraphe 3 : Modalités d’attribution<a id=918></a>
+##### Paragraphe 3 : Modalités d’attribution<a id=911></a>
 
 ###### Article D531-23
 
@@ -100863,7 +100842,7 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Paragraphe 4 : Montant et paiement<a id=919></a>
+##### Paragraphe 4 : Montant et paiement<a id=912></a>
 
 ###### Article D531-29
 
@@ -101080,7 +101059,7 @@ _Cité par_:
   - Arrêté du 19 avril 2016 - art. 2 (VD)
 
 
-##### Sous-section 3 : Bourses au mérite<a id=920></a>
+##### Sous-section 3 : Bourses au mérite<a id=913></a>
 
 ###### Article D531-37
 
@@ -101236,7 +101215,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Sous-section 4 : Prime à l’internat<a id=921></a>
+##### Sous-section 4 : Prime à l’internat<a id=914></a>
 
 ###### Article D531-42
 
@@ -101277,7 +101256,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 2 : Bourses de l’enseignement agricole<a id=922></a>
+##### Section 2 : Bourses de l’enseignement agricole<a id=915></a>
 
 ###### Article D531-44
 
@@ -101297,7 +101276,7 @@ _Cite_:
   - Code rural - art. R810-4 (V)
 
 
-##### Section 3 : Bourses scolaires à l’étranger<a id=923></a>
+##### Section 3 : Bourses scolaires à l’étranger<a id=916></a>
 
 ###### Article D531-45
 
@@ -101522,7 +101501,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 4 : Tarifs de la restauration scolaire<a id=924></a>
+##### Section 4 : Tarifs de la restauration scolaire<a id=917></a>
 
 ###### Article R531-52
 
@@ -101567,7 +101546,7 @@ _Cite_:
   - Code de l'éducation - art. R531-52 (V)
 
 
-#### Chapitre II : L’allocation de rentrée scolaire<a id=925></a>
+#### Chapitre II : L’allocation de rentrée scolaire<a id=918></a>
 
 ###### Article D532-1
 
@@ -101592,11 +101571,11 @@ _Cite_:
   - Code de la sécurité sociale. - art. R755-14 (V)
 
 
-### Titre IV : La santé scolaire<a id=926></a>
+### Titre IV : La santé scolaire<a id=919></a>
 
-#### Chapitre Ier : La protection de la santé<a id=927></a>
+#### Chapitre Ier : La protection de la santé<a id=920></a>
 
-##### Section 1 : Organisation<a id=928></a>
+##### Section 1 : Organisation<a id=921></a>
 
 ###### Article D541-1
 
@@ -101715,7 +101694,7 @@ _Créé par_:
   - Décret n°2009-553 du 15 mai 2009 - art.
 
 
-##### Section 2 : Prévention dans les activités physiques et sportives<a id=929></a>
+##### Section 2 : Prévention dans les activités physiques et sportives<a id=922></a>
 
 ###### Article R541-6
 
@@ -101741,7 +101720,7 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-##### Section 3 : Prévention des risques professionnels<a id=930></a>
+##### Section 3 : Prévention des risques professionnels<a id=923></a>
 
 ###### Article D541-7
 
@@ -101799,7 +101778,7 @@ _Cite_:
   - Code rural - art. L751-1 (V)
 
 
-##### Section 4 : Contraception d’urgence<a id=931></a>
+##### Section 4 : Contraception d’urgence<a id=924></a>
 
 ###### Article D541-10
 
@@ -101817,7 +101796,7 @@ _Cite_:
   - Code de la santé publique - art. D5134-5 (V)
 
 
-#### Chapitre II : La prévention des mauvais traitements<a id=932></a>
+#### Chapitre II : La prévention des mauvais traitements<a id=925></a>
 
 ###### Article D542-1
 
@@ -101882,12 +101861,12 @@ _Anciens textes_:
   - Décret du 9 décembre 1991 - art. 1 (Ab)
 
 
-### Titre V : Les activités périscolaires, sportives et culturelles<a id=933></a>
+### Titre V : Les activités périscolaires, sportives et culturelles<a id=926></a>
 
-#### Chapitre Ier : Les activités périscolaires<a id=934></a>
+#### Chapitre Ier : Les activités périscolaires<a id=927></a>
 
 ##### Section 1 : Agrément des associations éducatives
-complémentaires de l’enseignement public<a id=935></a>
+complémentaires de l’enseignement public<a id=928></a>
 
 ###### Article D551-1
 
@@ -102048,7 +102027,7 @@ _Cité par_:
   - Code de l'éducation - art. D564-3 (VD)
 
 
-##### Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public<a id=936></a>
+##### Section 2 : Le conseil national et les conseils académiques des associations éducatives complémentaires de l’enseignement public<a id=929></a>
 
 ###### Article D551-7
 
@@ -102256,7 +102235,7 @@ _Cité par_:
   - Code de l'éducation - art. D564-11 (V)
 
 
-#### Chapitre II : Les activités physiques et sportives<a id=937></a>
+#### Chapitre II : Les activités physiques et sportives<a id=930></a>
 
 ###### Article R552-1
 
@@ -102355,10 +102334,10 @@ _Cité par_:
   - Décret n°2015-784 du 29 juin 2015 - art. (V)
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=938></a>
+### Titre VI : Dispositions applicables dans les îles Wallis et  Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie<a id=931></a>
 
 #### Chapitre Ier : Dispositions applicables
-dans les îles Wallis et Futuna<a id=939></a>
+dans les îles Wallis et Futuna<a id=932></a>
 
 ###### Article D561-2
 
@@ -102717,7 +102696,7 @@ _Cité par_:
   - Code de l'éducation - art. R561-1 (V)
 
 
-#### Chapitre II : Dispositions applicables à Mayotte<a id=940></a>
+#### Chapitre II : Dispositions applicables à Mayotte<a id=933></a>
 
 ###### Article D562-1
 
@@ -102896,6 +102875,51 @@ _Cite_:
   - Code de l'éducation - art. D511-65 (V)
 
 
+###### Article D562-8-1
+
+I. ― Pour l'application de l'article D. 531-4 à Mayotte, les deuxième, troisième et quatrième alinéas sont remplacés par les
+alinéas suivants : 
+
+" Les ressources sont justifiées par l'avis d'imposition à l'impôt sur le revenu. 
+
+Le nombre d'enfants à charge est justifié par l'attestation de paiement de prestations familiales. 
+
+Le revenu imposable, tel qu'il figure sur l'avis d'imposition, est retenu pour apprécier les ressources de la famille ou de
+la personne mentionnée au premier alinéa. 
+
+Les enfants à charge considérés pour l'étude du droit à bourse sont les enfants mineurs ou infirmes et les enfants majeurs
+célibataires tels qu'ils figurent sur l'attestation de paiement de prestations familiales. " 
+
+II. ― Pour l'application de l'article D. 531-5 à Mayotte, les mots : " 2008-2009 ” sont remplacés par les mots : " 2010-2011
+”. 
+
+Les plafonds de référence annuels sont remplacés par les suivants : 
+
+1° 8 340 euros pour une bourse du premier taux ; 
+
+2° 4 509 euros pour une bourse du deuxième taux ; 
+
+3° 1 591 euros pour une bourse du troisième taux. 
+
+Les mots : " salaire minimum de croissance horaire ” sont remplacés par les mots : " salaire minimum interprofessionnel
+garanti en application des articles L. 141-1 et suivants du code du travail applicable à Mayotte ”. 
+
+III. ― Pour l'application de l'article D. 531-24 à Mayotte, les mots : " rentrée de janvier ” sont remplacés par les mots : "
+rentrée d'août ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-1305 du 14 octobre 2011 - art. 1
+
+_Cite_:
+
+  - Code de l'éducation - art. D531-24
+  - Code de l'éducation - art. D531-4
+  - Code de l'éducation - art. D531-5
+
+
 ###### Article D562-10
 
 Pour l'application de l'article D. 541-7 à Mayotte, la référence à la partie réglementaire du code du travail est remplacée
@@ -103028,7 +103052,7 @@ _Cite_:
   - Code de l'éducation - art. R531-25 (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française<a id=941></a>
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=934></a>
 
 ###### Article D563-2
 
@@ -103105,7 +103129,7 @@ _Cite_:
   - Code de l'éducation - art. R511-74 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=942></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=935></a>
 
 ###### Article D564-2
 
@@ -103443,13 +103467,13 @@ _Cité par_:
   - Code de l'éducation - art. R564-1 (V)
 
 
-## Livre IX : Les personnels de l'éducation.<a id=943></a>
+## Livre IX : Les personnels de l'éducation.<a id=936></a>
 
-### Titre Ier : Dispositions générales.<a id=944></a>
+### Titre Ier : Dispositions générales.<a id=937></a>
 
-#### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=945></a>
+#### Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.<a id=938></a>
 
-##### Section 1 : Dispositions générales.<a id=946></a>
+##### Section 1 : Dispositions générales.<a id=939></a>
 
 ###### Article R914-1
 
@@ -103488,9 +103512,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 2 : Les organismes consultatifs.<a id=947></a>
+##### Section 2 : Les organismes consultatifs.<a id=940></a>
 
-##### Sous-section 1 : La commission consultative mixte départementale.<a id=948></a>
+##### Sous-section 1 : La commission consultative mixte départementale.<a id=941></a>
 
 ###### Article R914-4
 
@@ -103617,7 +103641,7 @@ _Cite_:
   - Code de l'éducation - art. R914-77 (V)
 
 
-##### Sous-section 2 : La commission consultative mixte académique.<a id=949></a>
+##### Sous-section 2 : La commission consultative mixte académique.<a id=942></a>
 
 ###### Article R914-7
 
@@ -103720,7 +103744,7 @@ _Cite_:
   - Code de l'éducation - art. R914-8
 
 
-##### Sous-section 3 : Dispositions communes.<a id=950></a>
+##### Sous-section 3 : Dispositions communes.<a id=943></a>
 
 ###### Article R914-10
 
@@ -103840,9 +103864,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 3 : Recrutement des enseignants  des classes sous contrat.<a id=951></a>
+##### Section 3 : Recrutement des enseignants  des classes sous contrat.<a id=944></a>
 
-##### Sous-section préliminaire : Dispositions générales<a id=952></a>
+##### Sous-section préliminaire : Dispositions générales<a id=945></a>
 
 ###### Article R914-14
 
@@ -103988,7 +104012,7 @@ _Cite_:
   - Code de l'éducation - art. R914-28 (V)
 
 
-##### Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré<a id=953></a>
+##### Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré<a id=946></a>
 
 ###### Article R914-19-1
 
@@ -104265,9 +104289,9 @@ _Cité par_:
   - Arrêté du 3 mai 2010 - art. 6 (VD)
 
 
-##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.<a id=954></a>
+##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.<a id=947></a>
 
-##### Paragraphe 1 : Concours externes.<a id=955></a>
+##### Paragraphe 1 : Concours externes.<a id=948></a>
 
 ###### Article R914-20
 
@@ -104395,7 +104419,7 @@ _Cite_:
   - Code de l'éducation - art. R914-24 (V)
 
 
-##### Paragraphe 2 : Concours internes.<a id=956></a>
+##### Paragraphe 2 : Concours internes.<a id=949></a>
 
 ###### Article R914-24
 
@@ -104495,7 +104519,7 @@ _Cite_:
   - Code de l'éducation - art. R914-24 (V)
 
 
-##### Paragraphe 3 : Troisième concours.<a id=957></a>
+##### Paragraphe 3 : Troisième concours.<a id=950></a>
 
 ###### Article R914-28
 
@@ -104625,7 +104649,7 @@ _Modifié par_:
   - Décret n°2009-920 du 28 juillet 2009 - art. 4
 
 
-##### Paragraphe 4 : Stage<a id=958></a>
+##### Paragraphe 4 : Stage<a id=951></a>
 
 ###### Article R914-32
 
@@ -104777,7 +104801,7 @@ _Cite_:
   - Code de l'éducation - art. R914-33
 
 
-##### Paragraphe 5 : Cycle préparatoire<a id=959></a>
+##### Paragraphe 5 : Cycle préparatoire<a id=952></a>
 
 ###### Article R914-38
 
@@ -104902,10 +104926,10 @@ _Abrogé par_:
   - Décret n°2013-767 du 23 août 2013 - art. 18
 
 
-##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=960></a>
+##### Sous-section 3 : Nomination dans les établissements d'enseignement privés<a id=953></a>
 
 ##### Paragraphe 1 : Dispositions relatives aux enseignants 
-des classes sous contrat d'association.<a id=961></a>
+des classes sous contrat d'association.<a id=954></a>
 
 ###### Article R914-44
 
@@ -105119,7 +105143,7 @@ _Cite_:
 
 
 ##### Paragraphe 2 : Dispositions relatives aux enseignants 
-des classes sous contrat simple.<a id=962></a>
+des classes sous contrat simple.<a id=955></a>
 
 ###### Article R914-53
 
@@ -105185,7 +105209,7 @@ _Cite_:
   - Code de l'éducation - art. R914-15
 
 
-##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=963></a>
+##### Paragraphe 3 : Remplacement des maîtres contractuels ou agréés.<a id=956></a>
 
 ###### Article R914-57
 
@@ -105232,9 +105256,9 @@ _Cité par_:
   - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
 
 
-##### Section 4 : Notation, avancement, mouvement, classement.<a id=964></a>
+##### Section 4 : Notation, avancement, mouvement, classement.<a id=957></a>
 
-##### Sous-section 1 : Notation.<a id=965></a>
+##### Sous-section 1 : Notation.<a id=958></a>
 
 ###### Article R914-59
 
@@ -105255,9 +105279,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Avancement.<a id=966></a>
+##### Sous-section 2 : Avancement.<a id=959></a>
 
-##### Paragraphe 1 : Dispositions communes.<a id=967></a>
+##### Paragraphe 1 : Dispositions communes.<a id=960></a>
 
 ###### Article R914-60
 
@@ -105284,7 +105308,7 @@ _Cite_:
   - Code de l'éducation - art. R914-7 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=968></a>
+##### Paragraphe 2 : Dispositions applicables aux maîtres du premier degré.<a id=961></a>
 
 ###### Article R914-61
 
@@ -105358,7 +105382,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=969></a>
+##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.<a id=962></a>
 
 ###### Article R914-64
 
@@ -105610,7 +105634,7 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (VD)
 
 
-##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=970></a>
+##### Sous-section 3 : Mouvement des maîtres contractuels.<a id=963></a>
 
 ###### Article R914-75
 
@@ -105714,9 +105738,9 @@ _Cité par_:
   - Code de l'éducation - art. R973-1 (VD)
 
 
-##### Sous-section 4 : Classement.<a id=971></a>
+##### Sous-section 4 : Classement.<a id=964></a>
 
-##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=972></a>
+##### Paragraphe 1 : Classement des maîtres contractuels ou agréés.<a id=965></a>
 
 ###### Article R914-78
 
@@ -105782,7 +105806,7 @@ _Cite_:
   - Code de l'éducation - art. R914-105 (VD)
 
 
-##### Paragraphe 2 : Reclassement pour motif médical.<a id=973></a>
+##### Paragraphe 2 : Reclassement pour motif médical.<a id=966></a>
 
 ###### Article R914-81
 
@@ -105855,9 +105879,9 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (VD)
 
 
-##### Section 5 : Rémunération.<a id=974></a>
+##### Section 5 : Rémunération.<a id=967></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=975></a>
+##### Sous-section 1 : Dispositions générales.<a id=968></a>
 
 ###### Article R914-83
 
@@ -105983,7 +106007,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (VD)
 
 
-##### Sous-section 2 : Dispositions particulières.<a id=976></a>
+##### Sous-section 2 : Dispositions particulières.<a id=969></a>
 
 ###### Article R914-89
 
@@ -106003,9 +106027,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 6 : Charges sociales.<a id=977></a>
+##### Section 6 : Charges sociales.<a id=970></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=978></a>
+##### Sous-section 1 : Dispositions générales.<a id=971></a>
 
 ###### Article D914-91
 
@@ -106064,7 +106088,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-95 (V)
 
 
-##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=979></a>
+##### Sous-section 2 : Dispositions relatives au régime des retraites complémentaires des personnels enseignants.<a id=972></a>
 
 ###### Article R914-92
 
@@ -106146,7 +106170,7 @@ _Cité par_:
   - Code de l'éducation - art. R974-1 (VD)
 
 
-##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=980></a>
+##### Sous-section 3 : Dispositions relatives au régime additionnel de retraite des personnels enseignants.<a id=973></a>
 
 ###### Article R914-96
 
@@ -106223,9 +106247,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D133-9-1 (Ab)
 
 
-##### Section 7 : Discipline.<a id=981></a>
+##### Section 7 : Discipline.<a id=974></a>
 
-##### Sous-section 1 : Sanctions disciplinaires.<a id=982></a>
+##### Sous-section 1 : Sanctions disciplinaires.<a id=975></a>
 
 ###### Article R914-100
 
@@ -106343,7 +106367,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-103 (V)
 
 
-##### Sous-section 2 : Insuffisance professionnelle.<a id=983></a>
+##### Sous-section 2 : Insuffisance professionnelle.<a id=976></a>
 
 ###### Article R914-103
 
@@ -106362,7 +106386,7 @@ _Cite_:
   - Code de l'éducation - art. R914-102 (V)
 
 
-##### Sous-section 3 : Suspension à titre conservatoire.<a id=984></a>
+##### Sous-section 3 : Suspension à titre conservatoire.<a id=977></a>
 
 ###### Article R914-104
 
@@ -106392,9 +106416,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 8 : Droits sociaux et congés.<a id=985></a>
+##### Section 8 : Droits sociaux et congés.<a id=978></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=986></a>
+##### Sous-section 1 : Dispositions générales.<a id=979></a>
 
 ###### Article R914-105
 
@@ -106416,7 +106440,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Cessation progressive d'activité.<a id=987></a>
+##### Sous-section 2 : Cessation progressive d'activité.<a id=980></a>
 
 ###### Article R914-106
 
@@ -106641,9 +106665,9 @@ _Cite_:
   - Code de la sécurité sociale. - art. L241-3-1
 
 
-##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=988></a>
+##### Section 9 : Résiliation du contrat ou retrait de l'agrément.<a id=981></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=989></a>
+##### Sous-section 1 : Dispositions générales.<a id=982></a>
 
 ###### Article R914-113
 
@@ -106678,7 +106702,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Incapacité permanente.<a id=990></a>
+##### Sous-section 2 : Incapacité permanente.<a id=983></a>
 
 ###### Article R914-114
 
@@ -106837,9 +106861,9 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Section 10 : Admission à la retraite.<a id=991></a>
+##### Section 10 : Admission à la retraite.<a id=984></a>
 
-##### Sous-section 1 : Avantages temporaires de retraite.<a id=992></a>
+##### Sous-section 1 : Avantages temporaires de retraite.<a id=985></a>
 
 ###### Article R914-120
 
@@ -106868,7 +106892,7 @@ _Cité par_:
 
 
 ##### Paragraphe 1 : Conditions requises et âge d'ouverture 
-du droit aux avantages temporaires de retraite.<a id=993></a>
+du droit aux avantages temporaires de retraite.<a id=986></a>
 
 ###### Article R914-121
 
@@ -106979,7 +107003,7 @@ _Cité par_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=994></a>
+##### Paragraphe 2 : Liquidation des avantages temporaires de retraite.<a id=987></a>
 
 ###### Article R914-124
 
@@ -107092,7 +107116,7 @@ _Cite_:
   - Code de l'éducation - art. R914-124 (V)
 
 
-##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=995></a>
+##### Paragraphe 3 : Cessation du versement des avantages temporaires de retraite.<a id=988></a>
 
 ###### Article R914-127
 
@@ -107121,7 +107145,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R351-27
 
 
-##### Paragraphe 4 : Limites d'âge et cumul.<a id=996></a>
+##### Paragraphe 4 : Limites d'âge et cumul.<a id=989></a>
 
 ###### Article R914-128
 
@@ -107216,7 +107240,7 @@ _Cite_:
   - Code de l'éducation - art. R914-121 (V)
 
 
-##### Paragraphe 5 : Couverture sociale.<a id=997></a>
+##### Paragraphe 5 : Couverture sociale.<a id=990></a>
 
 ###### Article R914-132
 
@@ -107235,7 +107259,7 @@ _Cite_:
   - Code de l'éducation - art. L914-1 (V)
 
 
-##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=998></a>
+##### Paragraphe 6 : Avantages temporaires de retraite servis en cas d'invalidité.<a id=991></a>
 
 ###### Article R914-133
 
@@ -107386,7 +107410,7 @@ _Créé par_:
   - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Régime additionnel de retraite.<a id=999></a>
+##### Sous-section 2 : Régime additionnel de retraite.<a id=992></a>
 
 ###### Article R914-138
 
