@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-03-07
+Version Consolidée au 2012-03-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -269,7 +269,7 @@ Version Consolidée au 2012-03-07
           - [Chapitre unique. (art. L731-1 à L731-18)](#266)
         - [Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur (art. L741-1)](#267)
           - [Chapitre unique. (art. L741-1)](#268)
-        - [Titre V : Les établissements d'enseignement supérieur spécialisés (art. L751-1 à L75-10-1)](#269)
+        - [Titre V : Les établissements d'enseignement supérieur spécialisés (art. L751-1 à L75-10-2)](#269)
           - [Chapitre Ier : Les établissements d'enseignement supérieur agricole et vétérinaire. (art. L751-1 à L751-2)](#270)
           - [Chapitre II : Les écoles d'architecture. (art. L752-1)](#271)
           - [Chapitre III : Les écoles de commerce. (art. L753-1)](#272)
@@ -278,7 +278,7 @@ Version Consolidée au 2012-03-07
           - [Chapitre VII : L'Ecole nationale supérieure maritime. (art. L757-1)](#275)
           - [Chapitre VIII : La Fondation nationale des sciences politiques. (art. L758-1 à L758-2)](#276)
           - [Chapitre IX : Les établissements d'enseignement supérieur de la musique, de la danse, du théâtre et des arts du cirque (art. L759-1)](#277)
-          - [Chapitre X : Les établissements d'enseignement supérieur d'arts plastiques (art. L75-10-1)](#278)
+          - [Chapitre X : Les établissements d'enseignement supérieur d'arts plastiques (art. L75-10-1 à L75-10-2)](#278)
         - [Titre VI : Dispositions communes (art. L761-1 à L762-3)](#279)
           - [Chapitre Ier : Dispositions communes aux établissements publics et privés. (art. L761-1)](#280)
           - [Chapitre II : Dispositions communes aux établissements publics. (art. L762-1 à L762-3)](#281)
@@ -27414,27 +27414,25 @@ _Cite_:
 L'Ecole polytechnique constitue un établissement public doté de la personnalité civile et de l'autonomie financière, placé
 sous la tutelle du ministre chargé de la défense.
 
-L'administration de l'école est assurée par un conseil d'administration et un directeur général.
+L'administration  de l'école est assurée par un conseil d'administration et le président  de ce conseil. Un officier général
+assure, sous l'autorité du président  du conseil d'administration, la direction générale et le commandement  militaire de
+l'école.
 
-Un décret en Conseil d'Etat précise la répartition des pouvoirs et des responsabilités entre le conseil d'administration et
-le directeur général.
-
-Le directeur général est un officier général qui assure en outre le commandement militaire de l'école.
-
-Un décret en Conseil d'Etat fixe les règles relatives à l'organisation et au régime administratif et financier de l'école qui
-est soumise, sauf dérogation prévue par ledit décret, aux dispositions réglementaires concernant l'administration et le
-contrôle financier des établissements publics à caractère administratif dotés de l'autonomie financière.
+Un décret en Conseil d'Etat précise la  répartition des pouvoirs et des responsabilités entre le conseil  d'administration et
+son président. Il fixe également les règles  relatives à l'organisation et au régime administratif et financier de  l'école,
+qui est soumise, sauf dérogation prévue par le même décret, aux  dispositions réglementaires concernant l'administration et
+le contrôle  financier des établissements publics à caractère administratif dotés de  l'autonomie financière.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°70-631 du 15 juillet 1970 - art. 2 (Ab)
-
 _Codifié par_:
 
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+  - Loi n°2003-339 du 14 avril 2003
+
+_Modifié par_:
+
+  - Loi n°2012-347 du 12 mars 2012 - art. 74
 
 _Cité par_:
 
@@ -27705,6 +27703,27 @@ _Cité par_:
 _Cite_:
 
   - Code de l'éducation - art. L216-3 (V)
+
+
+###### Article L75-10-2
+
+Les deuxième et avant-dernier alinéas de l'article L. 952-1 peuvent être rendus applicables par décret en Conseil d'Etat, en
+totalité ou en partie, avec, le cas échéant, les adaptations nécessaires, aux établissements d'enseignement supérieur d'arts
+plastiques délivrant des diplômes d'école ou des diplômes nationaux relevant du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-347 du 12 mars 2012 - art. 11
+
+_Abrogé par_:
+
+  - Loi n°2016-925 du 7 juillet 2016 - art. 53
+
+_Cite_:
+
+  - Code de l'éducation - art. L952-1
 
 
 #### Titre VI : Dispositions communes<a id=279></a>
