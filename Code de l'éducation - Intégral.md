@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-03-29
+Version Consolidée au 2012-04-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -70072,15 +70072,16 @@ _Cite_:
 ###### Article D337-172
 
 Les formations en alternance, sous statut scolaire, en centre de formation d'apprentis, prévues par l'article L. 337-3-1,
-concernent les élèves ayant atteint l'âge de 15 ans à la date d'entrée dans la formation. Elles sont dénommées " dispositif
-d'initiation aux métiers en alternance ” et sont destinées à faire découvrir un environnement professionnel correspondant à
-un projet d'entrée en apprentissage.
+concernent les élèves ayant au moins atteint l'âge de 15 ans à la date d'entrée dans la formation ou les élèves ayant
+accompli la scolarité du premier cycle de l'enseignement secondaire. Elles sont dénommées " dispositif d'initiation aux
+métiers en alternance ” et sont destinées à faire découvrir un environnement professionnel correspondant à un projet d'entrée
+en apprentissage.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+  - Décret n°2012-566 du 24 avril 2012 - art. 1
 
 _Cite_:
 
@@ -70236,19 +70237,19 @@ _Créé par_:
 
 ###### Article D337-182
 
-Lorsqu'un élève, en accord avec ses représentants légaux s'il est mineur, souhaite mettre fin à sa formation, le directeur du
-centre de formation d'apprentis saisit               le directeur académique des services de l'éducation nationale agissant
-sur délégation du recteur d'académie, ou le directeur régional de l'alimentation, de l'agriculture et de la forêt, ou le
-directeur interrégional de la mer afin que l'élève puisse, selon son souhait et en fonction de son projet, soit reprendre une
-scolarité dans un collège ou un lycée, soit, s'il a 16 ans ou s'il justifie avoir achevé le dernier cycle du collège, signer
-un contrat d'apprentissage, conformément aux dispositions de l'article L. 6222-1 du code du travail. Dans tous les cas, le
-directeur du centre de formation d'apprentis dans lequel l'élève effectuait sa formation est tenu informé.
+Lorsqu'un élève, en accord avec ses représentants légaux s'il est mineur, souhaite mettre fin à sa formation relevant du
+dispositif d'initiation aux métiers en alternance, le directeur du centre de formation d'apprentis saisit le directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, ou le directeur régional de
+l'alimentation, de l'agriculture et de la forêt, ou le directeur interrégional de la mer afin que l'élève puisse, selon son
+souhait et en fonction de son projet, soit reprendre une scolarité dans un collège ou un lycée, soit signer un contrat
+d'apprentissage, dans les conditions prévues par l'article L. 6222-1 du code du travail. Dans tous les cas, le directeur du
+centre de formation d'apprentis dans lequel l'élève effectuait sa formation est tenu informé.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+  - Décret n°2012-566 du 24 avril 2012 - art. 1
 
 _Cite_:
 
