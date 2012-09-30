@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-09-07
+Version Consolidée au 2012-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -60000,19 +60000,19 @@ aux dispositions de la réglementation en vigueur concernant les conditions de d
 sportive peuvent demander à participer à cette épreuve, aménagée selon des modalités précisées par arrêté du ministre chargé
 de l'éducation.
 
-Les candidats reconnus handicapés auditifs sont dispensés, à leur demande, des épreuves de langues vivantes autres que la
-langue vivante 1.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°93-1092 du 15 septembre 1993 - art. 5 (M)
   - Décret n°93-1092 du 15 septembre 1993 - art. 5 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-223 du 15 février 2012 - art. 1
 
 _Cité par_:
 
@@ -62786,19 +62786,19 @@ scolaires.
 Les candidats reconnus handicapés physiques et déclarés aptes à subir l'épreuve d'éducation physique et sportive peuvent
 demander à participer à cette épreuve, aménagée selon des modalités précisées par arrêté du ministre chargé de l'éducation.
 
-Les candidats reconnus handicapés auditifs sont dispensés, à leur demande, d'épreuves de langues vivantes autres que la
-langue vivante 1.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°93-1093 1993-09-15 art. 5
   - Décret n°93-1093 du 15 septembre 1993 - art. 5 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-223 du 15 février 2012 - art. 1
 
 _Cité par_:
 
