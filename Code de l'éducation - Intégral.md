@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-12-19
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -703,7 +703,7 @@ Version Consolidée au 2012-12-19
       - [Titre Ier : Les écoles. (art. D411-1 à R412-3)](#700)
         - [Chapitre Ier : Organisation et fonctionnement  des écoles maternelles et élémentaires. (art. D411-1 à R411-5)](#701)
         - [Chapitre II :  Les écoles régionales du premier degré. (art. D412-1 à R412-3)](#702)
-      - [Titre II : Les collèges et les lycées. (art. R421-1 à R426-24)](#703)
+      - [Titre II : Les collèges et les lycées. (art. R421-1 à R426-22)](#703)
         - [Chapitre Ier : Organisation et fonctionnement  des établissements publics locaux d'enseignement. (art. R421-1 à D421-159)](#704)
           - [Section 1 :  Dispositions générales. (art. D421-2-1 à R421-7)](#705)
           - [Section 2 : Organisation administrative. (art. R421-8 à R421-56)](#706)
@@ -758,7 +758,7 @@ Version Consolidée au 2012-12-19
                 - [Sous-paragraphe 4 : L'assemblée générale des délégués des élèves, le conseil des délégués  pour la vie lycéenne et le conseil de section internationale. (art. D422-34 à D422-39)](#755)
                 - [Sous-paragraphe 5 : Autres conseils compétents en matière de scolarité. (art. D422-40 à D422-44)](#756)
               - [Paragraphe 2 : Organisation financière. (art. D422-45 à D422-59)](#757)
-                - [Sous-paragraphe 1 : Dispositions générales. (art. D422-45 à D422-53)](#758)
+                - [Sous-paragraphe 1 : Dispositions générales. (art. D422-45 à D422-52)](#758)
                 - [Sous-paragraphe 2 : Le service annexe d'hébergement. (art. D422-54 à D422-59)](#759)
             - [Sous-section 2 : Les établissements relevant du ministère de l'agriculture. (art. R422-60)](#760)
           - [Section 2 : Les établissements municipaux ou départementaux. (art. D422-61 à D422-66)](#761)
@@ -774,14 +774,14 @@ Version Consolidée au 2012-12-19
           - [Section 2 : Modalités d'admission et scolarité. (art. R425-7 à R425-13)](#771)
           - [Section 3 : Droits et obligations des élèves. (art. R425-14 à R425-16)](#772)
           - [Section 4 : Frais de trousseau et de pension. (art. R425-17 à R425-22)](#773)
-        - [Chapitre VI : Le Centre national d'enseignement à distance. (art. R426-1 à R426-24)](#774)
+        - [Chapitre VI : Le Centre national d'enseignement à distance. (art. R426-1 à R426-22)](#774)
           - [Section 1 : Dispositions générales. (art. R426-1 à R426-3)](#775)
           - [Section 2 : Organisation administrative. (art. R426-4 à R426-17)](#776)
             - [Sous-section 1 : Le conseil d'administration. (art. R426-5 à R426-9)](#777)
             - [Sous-section 2 : Le directeur général et le secrétaire général. (art. R426-10 à R426-11)](#778)
             - [Sous-section 3 : Le conseil d'orientation. (art. R426-12 à R426-13)](#779)
             - [Sous-section 4 : Dispositions diverses. (art. R426-14 à R426-17)](#780)
-          - [Section 3 : Organisation financière. (art. R426-18 à R426-24)](#781)
+          - [Section 3 : Organisation financière. (art. R426-18 à R426-22)](#781)
       - [Titre III : Les centres de formation d'apprentis. (art. 431-3 à R431-7)](#782)
         - [Chapitre unique : Création et fonctionnement des centres de formation d'apprentis, des sections d'apprentissage et des unités de formation par apprentissage. (art. 431-3 à R431-7)](#783)
           - [Section 1 : Institutions et personnel. (art. 431-3 à R431-4)](#784)
@@ -836,8 +836,8 @@ Version Consolidée au 2012-12-19
         - [Chapitre Ier : Dispositions générales. (art. R451-1 à R451-15)](#833)
         - [Chapitre II : L'Agence pour l'enseignement français à l'étranger. (art. D452-1 à D452-21)](#834)
           - [Section 1 : Organisation administrative. (art. D452-2 à D452-11)](#835)
-          - [Section 2 : Dispositions d'ordre financier et comptable. (art. D452-12 à D452-21)](#836)
-            - [Sous-section 1 : Agence pour l'enseignement français à l'étranger. (art. D452-12 à D452-18)](#837)
+          - [Section 2 : Dispositions d'ordre financier et comptable. (art. D452-13 à D452-21)](#836)
+            - [Sous-section 1 : Agence pour l'enseignement français à l'étranger. (art. D452-13 à D452-18)](#837)
             - [Sous-section 2 : Etablissements en gestion directe. (art. D452-19 à D452-21)](#838)
         - [Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne. (art. R453-1 à R453-51)](#839)
           - [Section 1 : Dispositions générales. (art. R453-1 à R453-16)](#840)
@@ -5026,12 +5026,12 @@ Le département est propriétaire des locaux dont il a assuré la construction e
 
 Les biens immobiliers des collèges appartenant à l'Etat à la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004
 relative aux libertés et responsabilités locales lui sont transférés en pleine propriété à titre gratuit. Ce transfert ne
-donne lieu au versement d'aucun droit, taxe, salaire ou honoraires. 
+donne lieu au versement d'aucun droit, taxe, contribution prévue à l' article 879 du code général des impôts  ou honoraires. 
 
 Les biens immobiliers des collèges appartenant à une commune ou un groupement de communes peuvent être transférés en pleine
 propriété au département, à titre gratuit et sous réserve de l'accord des parties. Lorsque le département effectue sur ces
 biens des travaux de construction, de reconstruction ou d'extension, ce transfert est de droit, à sa demande, et ne donne
-lieu au versement d'aucun droit, taxe, salaire ou honoraires.
+lieu au versement d'aucun droit, taxe, contribution prévue à l' article 879 du code général des impôts  ou honoraires.
 
 **Liens relatifs à cet article**
 
@@ -5041,11 +5041,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°2004-809 du 13 août 2004 (V)
+  - Loi n°2004-809 du 13 août 2004
+  - Code général des impôts, CGI. - art. 879
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 81
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 9
 
 
 ###### Article L213-4
@@ -5664,33 +5665,30 @@ La région est propriétaire des locaux dont elle a assuré la construction et l
 
 Les biens immobiliers des établissements visés à l'article L. 214-6 appartenant à l'Etat à la date d'entrée en vigueur de la
 loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales lui sont transférés en pleine propriété à
-titre gratuit. Ce transfert ne donne lieu au versement d'aucun droit, taxe, salaire ou honoraires. 
+titre gratuit. Ce transfert ne donne lieu au versement d'aucun droit, taxe, contribution prévue à l'article 879 du code
+général des impôts ou honoraires. 
 
 Les biens immobiliers des établissements visés à l'article L. 214-6 appartenant à un département, une commune ou un
 groupement de communes peuvent être transférés en pleine propriété à la région, à titre gratuit et sous réserve de l'accord
 des parties. Lorsque la région effectue sur ces biens des travaux de construction, de reconstruction ou d'extension, ce
-transfert est de droit, à sa demande, et ne donne lieu au versement d'aucun droit, taxe, salaire ou honoraires.
+transfert est de droit, à sa demande, et ne donne lieu au versement d'aucun droit, taxe, contribution prévue à l'article 879
+du code général des impôts ou honoraires.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°83-663 1983-07-22 art. 14
   - Loi n°83-663 du 22 juillet 1983 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-549 2000-06-15
-  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 _Cite_:
 
-  - Loi n°2004-809 du 13 août 2004 (V)
-  - Code de l'éducation - art. L214-6 (V)
+  - Loi n°2004-809 du 13 août 2004
+  - Code général des impôts, CGI. - art. 879
+  - Code de l'éducation - art. L214-6
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 72 () JORF 31 décembre 2005
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 9
 
 
 ###### Article L214-8
@@ -26119,11 +26117,11 @@ L'Etat et l'Etablissement public de Paris-Saclay peuvent transférer aux établi
 culturel et professionnel qui en font la demande la pleine propriété des biens mobiliers et immobiliers appartenant à l'Etat
 ou à l'Etablissement public de Paris-Saclay qui leur sont affectés ou sont mis à leur disposition. Ce transfert s'effectue à
 titre gratuit. Il s'accompagne, le cas échéant, d'une convention visant à la mise en sécurité du patrimoine, après expertise
-contradictoire. Il ne donne lieu ni à un versement de salaires ou honoraires au profit de l'Etat ni à aucune indemnité ou
-perception de droits ou de taxes au profit de l'Etat. Les biens qui sont utilisés par l'établissement pour l'accomplissement
-de ses missions de service public peuvent faire l'objet d'un contrat conférant des droits réels à un tiers, sous réserve de
-l'accord préalable de l'autorité administrative compétente et de clauses permettant d'assurer la continuité du service
-public.
+contradictoire. Il ne donne lieu ni      au versement de la contribution prévue à l' article 879 du code général des impôts
+ou d'honoraires au profit de l'Etat ni à aucune indemnité ou perception de droits ou de taxes au profit de l'Etat. Les biens
+qui sont utilisés par l'établissement pour l'accomplissement de ses missions de service public peuvent faire l'objet d'un
+contrat conférant des droits réels à un tiers, sous réserve de l'accord préalable de l'autorité administrative compétente et
+de clauses permettant d'assurer la continuité du service public.
 
 **Liens relatifs à cet article**
 
@@ -26144,7 +26142,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-597 du 3 juin 2010 - art. 32 (V)
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 9
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 879
 
 
 #### Titre II : Etablissements de formation des maîtres<a id=261></a>
@@ -29184,13 +29186,14 @@ Les biens appartenant à l'Etat ou à un établissement public et affectés au l
 du représentant de l'Etat dans le département, aux communes ou aux établissements publics de coopération intercommunale qui
 ont demandé à assumer la charge de la construction, de la reconstruction, de l'extension, des grosses réparations et de
 l'équipement des locaux destinés au logement des étudiants. Ce transfert se fait à titre gratuit et ne donne lieu au paiement
-d'aucune indemnité, droit, taxe, salaire ou honoraires. La gestion de ces logements est assurée par le centre régional des
-oeuvres universitaires et scolaires territorialement compétent, dans le cadre d'une convention conclue entre celui-ci, d'une
-part, la commune ou l'établissement public de coopération intercommunale bénéficiaire du transfert, d'autre part. Dans des
-conditions fixées par décret en Conseil d'Etat, cette convention dresse un diagnostic de l'état des logements et détermine
-les obligations respectives des signataires et notamment les objectifs de gestion qui sont assignés au centre régional des
-oeuvres universitaires et scolaires, ainsi que les modalités de la participation des représentants de la commune ou de
-l'établissement public de coopération intercommunale concernés aux décisions d'attribution.
+d'aucune indemnité, droit, taxe, contribution prévue à l'article 879 du code général des impôts ou honoraires. La gestion de
+ces logements est assurée par le centre régional des oeuvres universitaires et scolaires territorialement compétent, dans le
+cadre d'une convention conclue entre celui-ci, d'une part, la commune ou l'établissement public de coopération intercommunale
+bénéficiaire du transfert, d'autre part. Dans des conditions fixées par décret en Conseil d'Etat, cette convention dresse un
+diagnostic de l'état des logements et détermine les obligations respectives des signataires et notamment les objectifs de
+gestion qui sont assignés au centre régional des oeuvres universitaires et scolaires, ainsi que les modalités de la
+participation des représentants de la commune ou de l'établissement public de coopération intercommunale concernés aux
+décisions d'attribution.
 
 L'exécution des conventions conclues avant la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 relative aux
 libertés et responsabilités locales entre des organismes publics d'habitations à loyer modéré ou des sociétés d'économie
@@ -29220,8 +29223,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°2004-809 2004-08-13
-  - Code civil - art. 515-9 (V)
+  - Loi n°2004-809 du 13 août 2004
+  - Code général des impôts, CGI. - art. 879
 
 _Cité par_:
 
@@ -29249,7 +29252,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 20
+  - Ordonnance n°2010-638 du 10 juin 2010 - art. 9
 
 
 ###### Article L822-2
@@ -35329,8 +35332,8 @@ _Cite_:
 ###### Article D123-11
 
 Les transactions et les conventions d'arbitrage, conclues par les établissements publics administratifs d'enseignement
-supérieur mentionnés à l'article D. 123-9, lorsque leur statut prévoit un contrôle financier a priori, sont soumises au visa
-préalable du membre du corps du contrôle général économique et financier.
+supérieur mentionnés à l'article D. 123-9, lorsque leur statut prévoit un contrôle budgétaire a priori, sont soumises au visa
+préalable du contrôleur budgétaire.
 
 **Liens relatifs à cet article**
 
@@ -35340,11 +35343,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+  - Décret n°2004-703 du 13 juillet 2004
 
 _Modifié par_:
 
-  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
@@ -52363,9 +52366,8 @@ représentatives au sein de l'office ;
 8° Le président du conseil d'orientation de l'office et un membre choisi parmi les personnalités particulièrement compétentes
 dans les domaines qui intéressent l'office, désigné sur proposition du directeur de l'office. 
 
-Le directeur, le directeur adjoint, le secrétaire général, l'agent comptable, le membre du corps du contrôle général
-économique et financier ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec
-voix consultative. 
+Le directeur, le directeur adjoint, le secrétaire général, l'agent comptable, le        contrôleur budgétaire ainsi que toute
+personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative. 
 
 Les membres mentionnés aux 3°, 4°, 5°, 6°, 7° et 8° sont nommés par arrêté conjoint des ministres chargés de l'éducation et
 de l'enseignement supérieur. 
@@ -52382,14 +52384,15 @@ _Anciens textes_:
 
   - Décret n°70-239 du 19 mars 1970 - art. 2 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2009-1549 du 14 décembre 2009 - art. 6 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
 _Cité par_:
 
   - Décret n°2011-248 du 7 mars 2011 - art. 1 (V)
   - Code de l'éducation - art. D313-18 (V)
-
-_Modifié par_:
-
-  - Décret n°2011-1503 du 14 novembre 2011 - art. 2
 
 _Cite_:
 
@@ -52469,16 +52472,14 @@ En cas de partage égal des voix, celle du président est prépondérante.
 Chaque membre du conseil d'administration peut donner mandat à un autre membre pour le représenter. Nul ne peut être porteur
 de plus de deux mandats. 
 
-Les délibérations du conseil d'administration autres que celles mentionnées aux 3°, 4°, 7° et 10° de l'article D. 313-16 sont
+Les délibérations du conseil d'administration autres que celles mentionnées aux 7° et 10° de l'article D. 313-16 sont
 exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce délai, un mois après leur réception par les
 ministres chargés de l'éducation et de l'enseignement supérieur si l'un d'eux n'y a pas fait opposition dans ce délai. Les
 délibérations prévues au 10° du même article doivent, pour devenir exécutoires, faire l'objet d'une approbation expresse des
 ministres chargés de l'éducation, de l'enseignement supérieur et du budget. 
 
-Les délibérations portant sur le budget et ses décisions modificatives ainsi que sur le compte financier sont adressées aux
-ministres chargés de l'éducation, de l'enseignement supérieur et du budget. Elles sont exécutoires dans les conditions
-prévues par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des
-établissements publics de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
@@ -52486,17 +52487,18 @@ _Anciens textes_:
 
   - Décret n°70-239 du 19 mars 1970 - art. 4 (Ab)
 
-_Cite_:
-
-  - Décret n°99-575 du 8 juillet 1999
-
 _Codifié par_:
 
   - Décret n°2006-583 du 23 mai 2006
 
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+  - Code de l'éducation - art. D313-16 (V)
+
 _Modifié par_:
 
-  - Décret n°2011-1503 du 14 novembre 2011 - art. 4
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 _Cité par_:
 
@@ -52629,13 +52631,7 @@ personnels contractuels. Il a autorité sur l'ensemble du personnel de l'établi
 
 Il peut nommer des ordonnateurs secondaires et fixer leurs attributions. 
 
-Il peut déléguer sa signature à des agents de catégorie A de l'office, à l'exception de l'agent comptable. 
-
-Sous réserve de l'accord du membre du corps du contrôle général économique et financier et d'une ratification par le conseil
-d'administration lors de sa plus prochaine séance, il peut prendre les décisions de modification du budget qui ne comportent
-ni augmentation du montant total des dépenses, ni accroissement des effectifs, ni diminution du montant total des recettes,
-ni virement de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres des
-dépenses de personnels et les chapitres des dépenses de matériel.
+Il peut déléguer sa signature à des agents de catégorie A de l'office, à l'exception de l'agent comptable.
 
 **Liens relatifs à cet article**
 
@@ -52649,11 +52645,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1503 du 14 novembre 2011 - art. 7
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 _Cite_:
 
-  - Code de l'éducation - art. D313-17
+  - Code de l'éducation - art. D313-16
 
 
 ###### Article D313-21
@@ -52876,58 +52872,12 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-###### Article D313-31
-
-L'agent comptable de l'Office national d'information sur les enseignements et les professions est nommé par arrêté des
-ministres chargés de l'éducation, de l'enseignement supérieur et du budget.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°70-239 du 19 mars 1970 - art. 15 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-583 du 23 mai 2006
-
-_Modifié par_:
-
-  - Décret n°2011-1503 du 14 novembre 2011 - art. 10
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
-
-
 ###### Article D313-32
 
-L'Office national d'information sur les enseignements et les professions est soumis au régime financier et comptable défini
-par les articles 14 à 25 du décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable applicable aux
-établissements publics nationaux et 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général de la
-comptabilité publique, ainsi que par l'article 60 de la loi de finances pour 1963 (deuxième partie n° 63-56 du 23 février
-1963) relatif à la responsabilité des comptables publics.
-
-L'Office national d'information sur les enseignements et les professions met en place une comptabilité analytique qui
-distingue les activités commerciales des autres activités.
-
-Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat, l'office est soumis au contrôle financier dans les conditions prévues par le décret n° 2005-54 du
-27 janvier 2005 relatif au contrôle financier au sein des administrations de l'Etat.
-
-Un membre du corps du contrôle général économique et financier, placé sous l'autorité du ministre chargé du budget, assure le
-contrôle financier de l'établissement. Ses attributions sont définies par arrêté du ministre chargé du budget et du ministre
-chargé de l'éducation.
+L'établissement public est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à
+la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°53-1227 du 10 décembre 1953
-  - Décret n°62-1587 du 29 décembre 1962
-  - Décret n°2005-54 du 27 janvier 2005
-  - Décret n°2005-757 du 4 juillet 2005
-  - Loi n°63-56 1963-02-23 art. 60 Finances pour 1963
 
 _Anciens textes_:
 
@@ -52938,9 +52888,13 @@ _Codifié par_:
 
   - Décret n°2006-583 du 23 mai 2006
 
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+
 _Modifié par_:
 
-  - Décret n°2011-1503 du 14 novembre 2011 - art. 11
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article D313-33
@@ -53171,12 +53125,12 @@ _Cité par_:
 ###### Article R313-40
 
 Le président est élu par le conseil d'administration du Centre d'études et de recherches sur les qualifications, parmi les
-membres pour une durée de trois ans.
+membres pour une durée de trois ans. 
 
-Les fonctions de président ou de membre du conseil d'administration n'ouvrent pas droit à rémunération.
+Les fonctions de président ou de membre du conseil d'administration n'ouvrent pas droit à rémunération. 
 
-Le directeur du centre, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux
-séances du conseil d'administration avec voix consultative.
+Le directeur du centre, le        contrôleur budgétaire et l'agent comptable assistent aux séances du conseil
+d'administration avec voix consultative. 
 
 En outre, le président du conseil d'administration peut, compte tenu des problèmes inscrits à l'ordre du jour, demander à
 chacun des ministres intéressés qui ne seraient pas représentés dans le conseil d'administration de désigner un fonctionnaire
@@ -53190,7 +53144,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R313-41
@@ -53228,31 +53186,26 @@ _Cité par_:
 
 Le conseil d'administration du Centre d'études et de recherches sur les qualifications se réunit au moins deux fois par an
 sur convocation de son président, qui fixe l'ordre du jour. La convocation est obligatoire si elle est demandée par un des
-ministres de tutelle, le directeur du centre ou la majorité de ses membres.
+ministres de tutelle, le directeur du centre ou la majorité de ses membres. 
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié de ses membres assiste à la séance. Dans le cas où
 ce quorum n'est pas atteint, le conseil d'administration se réunit à nouveau dans un délai de quinze jours et délibère
 valablement sur le même ordre du jour, quel que soit le nombre des membres présents. Les délibérations du conseil
-d'administration sont adoptées à la majorité des membres présents.
+d'administration sont adoptées à la majorité des membres présents. 
 
 Les relevés de décision, signés par le président, sont adressés au ministre chargé de l'éducation, au ministre chargé de
-l'emploi et au ministre chargé de la recherche dans les quinze jours.
+l'emploi et au ministre chargé de la recherche dans les quinze jours. 
 
 Les délibérations du conseil d'administration sont exécutoires à l'expiration du délai de quinze jours qui suit leur
 réception, à moins que le ministre chargé de l'éducation ou le ministre chargé de l'emploi n'aient fait connaître dans ce
 délai leur refus motivé d'approuver les délibérations ou leur décision de surseoir à leur application. Les motifs de ce refus
-ou de cette décision sont portés à la connaissance du ministre chargé de la recherche.
+ou de cette décision sont portés à la connaissance du ministre chargé de la recherche. 
 
-Les délibérations portant sur le budget et ses décisions modificatives, le compte financier, les emprunts et les
-acquisitions, aliénations et échanges d'immeubles sont adressées aux ministres chargés de l'éducation et du budget. Elles
-sont exécutoires dans les conditions prévues par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de
-certaines décisions financières des établissements publics de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
-Toutefois, les modifications du budget qui ne comportent pas de variations du montant total du budget primitif, de virement
-de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres de personnel et
-les chapitres de matériel sont prises par le directeur de l'établissement. Ces décisions modificatives provisoires sont
-exécutoires après accord du membre du corps du contrôle général économique et financier et sont soumises pour ratification au
-conseil d'administration lors de sa plus prochaine séance.
+Les délibérations portant sur les emprunts et les acquisitions, aliénations et échanges d'immeubles sont exécutoires dans les
+mêmes conditions que les délibérations relatives au budget et au compte financier.
 
 **Liens relatifs à cet article**
 
@@ -53264,13 +53217,17 @@ _Cité par_:
 
   - Arrêté du 8 janvier 1988 - art. 7 (Ab)
 
-_Cite_:
-
-  - Décret n°99-575 1999-07-08
-
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article R313-43
@@ -53606,28 +53563,10 @@ _Codifié par_:
 
 ###### Article R313-57
 
-Le Centre d'études et de recherches sur les qualifications est soumis au régime financier et comptable défini par les
-articles 14 à 25 des décrets n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable applicable aux
-établissements publics nationaux et par les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement
-général de la comptabilité publique.
-
-Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat, le centre est soumis au contrôle financier dans les conditions prévues par le décret n° 2005-54 du
-27 janvier 2005 relatif au contrôle financier au sein des administrations de l'Etat.
-
-Un membre du corps du contrôle général économique et financier, placé sous l'autorité du ministre chargé du budget, assure le
-contrôle financier de l'établissement. Ses attributions sont définies par arrêté du ministre chargé du budget, du ministre
-chargé de l'éducation et du ministre chargé de l'emploi.
+Le Centre d'études et de recherches sur les qualifications est soumis aux dispositions des titres Ier et III du décret n°
+2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°53-1227 1953-12-10
-  - Décret n°62-1587 1962-12-29 art. 151 à 189
-  - Décret n°2005-54 2005-01-27
-  - Décret n°2005-757 2005-07-04
-  - Code de l'éducation 14 à 25
 
 _Anciens textes_:
 
@@ -53636,7 +53575,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article R313-58
@@ -54467,13 +54414,13 @@ _Cité par_:
 ###### Article R314-56
 
 Le président du conseil d'administration du Centre international d'études pédagogiques est choisi par le ministre chargé de
-l'éducation parmi les personnalités mentionnées au 2° de l'article R. 314-55.
+l'éducation parmi les personnalités mentionnées au 2° de l'article R. 314-55. 
 
 Les fonctions de président et de membre du conseil d'administration sont gratuites. Ces fonctions ouvrent droit aux
-indemnités de déplacement et de séjour prévues par la réglementation applicable aux fonctionnaires de l'Etat.
+indemnités de déplacement et de séjour prévues par la réglementation applicable aux fonctionnaires de l'Etat. 
 
-Le directeur de l'établissement, le secrétaire général, le membre du corps du contrôle général économique et financier et
-l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur de l'établissement, le secrétaire général, le contrôleur budgétaire et l'agent comptable assistent aux séances
+du conseil d'administration avec voix consultative. 
 
 Le président peut appeler à assister aux séances toute personne dont il juge la présence utile.
 
@@ -54481,12 +54428,15 @@ Le président peut appeler à assister aux séances toute personne dont il juge 
 
 _Anciens textes_:
 
-  - Décret n°87-325 du 12 mai 1987 - art. 5 (M)
   - Décret n°87-325 du 12 mai 1987 - art. 5 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
@@ -54549,35 +54499,27 @@ _Codifié par_:
 Les délibérations du conseil d'administration du Centre international d'études pédagogiques sont exécutoires dès leur
 approbation par le ministre chargé de l'éducation. Sous réserve des dispositions du dernier alinéa du présent article, elles
 sont réputées approuvées si, dans le mois qui suit leur réception par le ministre, celui-ci n'a pas informé le conseil, par
-une décision motivée, qu'il refuse son approbation ou sursoit à leur exécution.
+une décision motivée, qu'il refuse son approbation ou sursoit à leur exécution. 
 
-Les délibérations portant sur le budget ou ses modifications ainsi que sur le compte financier sont approuvées par les
-ministres chargé de l'éducation et chargé du budget dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999
-relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.
-
-Parmi les décisions modificatives du budget, sont seules soumises au conseil d'administration celles qui comportent soit une
-augmentation du montant global des dépenses inscrites au budget de l'établissement, soit des virements de crédits entre la
-section des opérations en capital et la section de fonctionnement ou entre les chapitres de matériel et les chapitres de
-personnel. Toutes les autres décisions modificatives sont prises par le directeur, en accord avec le membre du corps du
-contrôle général économique et financier, et soumises à la ratification du conseil d'administration lors de sa prochaine
-séance.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Les délibérations relatives aux emprunts ne sont exécutoires qu'après avoir reçu l'accord exprès du ministre chargé de
 l'éducation et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Décret n°87-325 du 12 mai 1987 - art. 8 (Ab)
+  - Décret n°2006-583 du 23 mai 2006
 
 _Cite_:
 
-  - Décret n°99-575 1999-07-08
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article R314-60
@@ -54603,41 +54545,43 @@ _Codifié par_:
 
 ###### Article R314-61
 
-Le directeur du Centre international d'études pédagogiques assure l'exécution des délibérations du conseil d'administration.
+Le directeur du Centre international d'études pédagogiques assure l'exécution des délibérations du conseil d'administration. 
 
-Il représente l'établissement en justice et dans tous les actes de la vie civile.
+Il représente l'établissement en justice et dans tous les actes de la vie civile. 
 
-Il a autorité sur l'ensemble du personnel du centre.
+Il a autorité sur l'ensemble du personnel du centre. 
 
-Il recrute les personnels dont la nomination n'est pas réservée à une autre autorité.
+Il recrute les personnels dont la nomination n'est pas réservée à une autre autorité. 
 
 Il est habilité, dans le cadre des missions imparties à l'établissement et des délibérations du conseil d'administration, à
 passer des contrats ou conventions avec tous les établissements publics et privés avec les associations et organismes
-français et étrangers.
+français et étrangers. 
 
-Il peut déléguer sa signature à des agents de l'établissement, à l'exception de l'agent comptable.
+Il peut déléguer sa signature à des agents de l'établissement, à l'exception de l'agent comptable. 
 
-Il est ordonnateur des recettes et des dépenses de l'établissement dans les conditions prévues par les décrets n° 53-1227 du
-10 décembre 1953 et n° 62-1587 du 29 décembre 1962 modifiés.
+Il est ordonnateur des recettes et des dépenses de l'établissement dans les conditions prévues par les titres Ier et III du
+décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Il peut nommer des ordonnateurs secondaires et désigner, avec l'agrément du ministre chargé du budget, des agents comptables
 secondaires.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°53-1227 1953-12-10
-  - Décret n°62-1587 1962-12-29
-
 _Anciens textes_:
 
-  - Décret n°87-325 du 12 mai 1987 - art. 9 (M)
   - Décret n°87-325 du 12 mai 1987 - art. 9 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article R314-62
@@ -54757,51 +54701,28 @@ _Codifié par_:
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-###### Article R314-67
+###### Article R314-68
 
-L'agent comptable du Centre international d'études pédagogiques est nommé par arrêté du ministre chargé de l'éducation et du
-ministre chargé du budget.
+Le Centre international d'études pédagogiques est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°87-325 du 12 mai 1987 - art. 14 (Ab)
+  - Décret n°87-325 du 12 mai 1987 - art. 15 (Ab)
 
 _Codifié par_:
 
   - Décret n°2006-583 du 23 mai 2006
 
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
-
-
-###### Article R314-68
-
-Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat, le Centre international d'études pédagogiques est soumis au contrôle financier dans les conditions
-prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations de l'Etat.
-
-Un membre du corps du contrôle général économique et financier, placé sous l'autorité du ministre chargé du budget, assure le
-contrôle financier de l'établissement. Ses attributions sont définies par arrêté du ministre chargé du budget et du ministre
-chargé de l'éducation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°87-325 du 12 mai 1987 - art. 15 (M)
-  - Décret n°87-325 du 12 mai 1987 - art. 15 (Ab)
-
 _Cite_:
 
-  - Décret n°2005-54 2005-01-27
-  - Décret n°2005-757 2005-07-04
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article R314-69
@@ -54974,54 +54895,53 @@ _Codifié par_:
 
 ###### Article D314-74
 
-Le conseil d'administration du Centre national de documentation pédagogique comprend :
+Le conseil d'administration du Centre national de documentation pédagogique comprend : 
 
-1° Six représentants de l'Etat ainsi désignés :
+1° Six représentants de l'Etat ainsi désignés : 
 
-a) Quatre par le ministre chargé de l'éducation ;
+a) Quatre par le ministre chargé de l'éducation ; 
 
-b) Un par le ministre chargé de la formation professionnelle ;
+b) Un par le ministre chargé de la formation professionnelle ; 
 
-c) Un par le ministre chargé de l'agriculture ;
+c) Un par le ministre chargé de l'agriculture ; 
 
-2° Trois représentants des collectivités territoriales :
+2° Trois représentants des collectivités territoriales : 
 
-a) Un maire ou un conseiller municipal désigné par le président de l'Association des maires de France ;
+a) Un maire ou un conseiller municipal désigné par le président de l'Association des maires de France ; 
 
 b) Un président de conseil général ou un conseiller général, désigné par le président de l'Assemblée des départements de
-France ;
+France ; 
 
 c) Un président de conseil régional ou un conseiller régional, désigné par le président de l'Association des régions de
-France ;
+France ; 
 
-3° Quatre représentants du système éducatif :
+3° Quatre représentants du système éducatif : 
 
-a) Le doyen de l'inspection générale de l'éducation nationale ou son représentant ;
+a) Le doyen de l'inspection générale de l'éducation nationale ou son représentant ; 
 
-b) Un recteur d'académie ;
+b) Un recteur d'académie ; 
 
-c) Un directeur d'institut universitaire de formation des maîtres ;
+c) Un directeur d'institut universitaire de formation des maîtres ; 
 
-d) Un chef d'établissement ;
+d) Un chef d'établissement ; 
 
-4° Cinq personnalités qualifiées dans les domaines de compétence de l'établissement ;
+4° Cinq personnalités qualifiées dans les domaines de compétence de l'établissement ; 
 
 5° Cinq représentants des personnels du Centre national de documentation pédagogique et des centres régionaux de
 documentation pédagogique, sur proposition des organisations syndicales les plus représentatives dans l'ensemble de ces
-établissements ;
+établissements ; 
 
-6° Deux représentants des parents d'élèves choisis au sein des associations les plus représentatives ;
+6° Deux représentants des parents d'élèves choisis au sein des associations les plus représentatives ; 
 
-7° Deux représentants des lycéens ;
+7° Deux représentants des lycéens ; 
 
-Les membres mentionnés aux 3° à 7° sont désignés par le ministre chargé de l'éducation.
+Les membres mentionnés aux 3° à 7° sont désignés par le ministre chargé de l'éducation. 
 
 Pour chacun des membres mentionnés aux 1°, 2° et 5° à 7°, un suppléant est désigné dans les mêmes conditions que le
-titulaire.
+titulaire. 
 
-Le directeur général, les directeurs adjoints, le secrétaire général, l'agent comptable, le membre du corps du contrôle
-général économique et financier, ainsi que toute personne dont la présence est jugée utile par le président, assistent aux
-séances avec voix consultative.
+Le directeur général, les directeurs adjoints, le secrétaire général, l'agent comptable, le        contrôleur budgétaire,
+ainsi que toute personne dont la présence est jugée utile par le président, assistent aux séances avec voix consultative.
 
 **Liens relatifs à cet article**
 
@@ -55032,7 +54952,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cité par_:
 
@@ -55175,30 +55099,32 @@ _Cité par_:
 Les délibérations du conseil d'administration du Centre national de documentation pédagogique autres que celles mentionnées
 aux alinéas suivants ainsi que celles prises par le directeur général en application du dernier alinéa de l'article D. 314-76
 sont exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce délai, quinze jours après leur réception
-par le ministre chargé de l'éducation, s'il n'y a pas fait opposition dans ce délai.
+par le ministre chargé de l'éducation, s'il n'y a pas fait opposition dans ce délai. 
 
 Les délibérations relatives aux matières mentionnées aux 8° et 14° du même article doivent, pour devenir exécutoires, faire
-l'objet d'une approbation expresse des ministres chargés de l'éducation et du budget.
+l'objet d'une approbation expresse des ministres chargés de l'éducation et du budget. 
 
-Les délibérations portant sur le budget ou ses modifications ainsi que sur le compte financier sont approuvées par les mêmes
-ministres dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de
-certaines décisions financières des établissements publics de l'Etat.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°99-575 1999-07-08
-  - Code de l'éducation - art. D314-76 (V)
-
 _Anciens textes_:
 
-  - Décret n°2002-548 2002-04-19 art. 9
   - Décret n°2002-548 du 19 avril 2002 - art. 9 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012
+  - Code de l'éducation - art. D314-76
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 _Cité par_:
 
@@ -55338,54 +55264,30 @@ _Codifié par_:
 
 ###### Article D314-84
 
-L'agent comptable est nommé par arrêté du ministre chargé de l'éducation et du ministre chargé du budget.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2002-548 2002-04-19 art. 14
   - Décret n°2002-548 du 19 avril 2002 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-_Cité par_:
-
-  - Code de l'éducation - art. D314-121 (VT)
-
-
-###### Article D314-85
-
-Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat, le Centre national de documentation pédagogique est soumis au contrôle financier dans les
-conditions prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations de
-l'Etat.
-
-Un membre du corps du contrôle général économique et financier, placé sous l'autorité du ministre chargé du budget, assure le
-contrôle financier de l'établissement. Ses attributions sont définies par arrêté du ministre chargé du budget et du ministre
-chargé de l'éducation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2002-548 2002-04-19 art. 16
-  - Décret n°2002-548 du 19 avril 2002 - art. 15 (Ab)
-
-_Cite_:
-
-  - Décret n°2005-54 du 27 janvier 2005
-  - Décret n°2005-757 du 4 juillet 2005
 
 _Codifié par_:
 
   - Décret n°2006-583 du 23 mai 2006
 
-_Abrogé par_:
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012
+
+_Modifié par_:
 
   - Décret n°2012-1247 du 7 novembre 2012 - art. 29
+
+_Cité par_:
+
+  - Code de l'éducation - art. D314-121 (VT)
 
 
 ###### Article D314-86
@@ -55448,30 +55350,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-
-###### Article D314-89
-
-Les décisions de modification du budget qui ne comportent ni augmentation du montant total des dépenses, ni accroissement des
-effectifs, ni diminution du montant total des recettes, ni virement de crédits entre la section de fonctionnement et la
-section des opérations en capital ou entre les chapitres des dépenses de personnel et les chapitres des dépenses de matériel,
-sont prises par le directeur général, sous réserve de l'accord du membre du corps du contrôle général économique et
-financier. Elles sont soumises à ratification par le conseil d'administration lors de sa plus prochaine séance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2002-548 2002-04-19 art. 19
-  - Décret n°2002-548 du 19 avril 2002 - art. 19 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2006-583 du 23 mai 2006
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article D314-90
@@ -56038,54 +55916,61 @@ _Abrogé par_:
 ###### Article D314-110
 
 Le conseil d'administration du centre régional de documentation pédagogique est présidé par le recteur d'académie, chancelier
-des universités. Il comprend en outre vingt-deux membres :
+des universités. Il comprend en outre vingt-deux membres : 
 
 1° Trois représentants des services de l'Etat, nommés par le préfet de région dans laquelle le centre a son siège et, en
-Corse, par le préfet de Corse, sur proposition du recteur ;
+Corse, par le préfet de Corse, sur proposition du recteur ; 
 
-2° Quatre représentants des collectivités territoriales :
+2° Quatre représentants des collectivités territoriales : 
 
 a) Un conseiller élu par le conseil régional de la région dans laquelle le centre a son siège et, en Corse, par l'assemblée
-de Corse ;
+de Corse ; 
 
 b) Deux conseillers généraux désignés par accord entre les présidents des conseils généraux ou, à défaut, élus par le collège
-des conseillers généraux de l'ensemble des départements situés dans le ressort du centre régional ;
+des conseillers généraux de l'ensemble des départements situés dans le ressort du centre régional ; 
 
 c) Un maire ou un conseiller municipal désigné par accord entre les associations départementales des maires ou, à défaut, élu
-par le collège des maires de l'ensemble des départements situés dans le ressort du centre régional ;
+par le collège des maires de l'ensemble des départements situés dans le ressort du centre régional ; 
 
-3° Un directeur d'institut universitaire de formation des maîtres désigné par le recteur ;
+3° Un directeur d'institut universitaire de formation des maîtres désigné par le recteur ; 
 
 4° Huit représentants des communautés éducatives nommés par le recteur de l'académie, dont deux chefs d'établissement, deux
-enseignants, deux représentants des parents d'élèves et deux représentants des lycéens ;
+enseignants, deux représentants des parents d'élèves et deux représentants des lycéens ; 
 
 5° Trois personnalités qualifiées choisies par le recteur en raison de leurs compétences dans les domaines relevant des
-missions de l'établissement ;
+missions de l'établissement ; 
 
 6° Trois représentants des personnels permanents du centre régional désignés par le recteur sur proposition des organisations
-syndicales les plus représentatives au sein de l'établissement.
+syndicales les plus représentatives au sein de l'établissement. 
 
 Dans le cas où une élection doit intervenir en application des b et c du 2°, elle a lieu au scrutin majoritaire à un tour. Le
 vote peut avoir lieu par correspondance. Le collège est convoqué par le préfet de la région dans laquelle le centre a son
-siège ou, en Corse, par le préfet de Corse.
+siège ou, en Corse, par le préfet de Corse. 
 
 Pour chacun des membres mentionnés aux 1°, 2° et 6° ainsi que pour les représentants des parents d'élèves et des lycéens
-mentionnés au 4°, un suppléant est désigné dans les mêmes conditions que le titulaire.
+mentionnés au 4°, un suppléant est désigné dans les mêmes conditions que le titulaire. 
 
 Le directeur du centre régional, le secrétaire général, l'agent comptable, les directeurs des centres départementaux, le
-membre du corps du contrôle général économique et financier, ainsi que toute personne dont la présence est jugée utile par le
-président assistent aux séances avec voix consultative.
+contrôleur budgétaire, ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec
+voix consultative.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2002-548 2002-04-19 art. 24
   - Décret n°2002-548 du 19 avril 2002 - art. 24 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1631 du 26 décembre 2014 - art. 15
 
 
 ###### Article D314-111
@@ -59711,7 +59596,7 @@ _Modifié par_:
 
 ###### Article D332-16
 
-Le diplôme national du brevet comporte trois séries : collège, technologique, professionnelle.
+Le diplôme national du brevet comporte deux séries : série générale, série professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -59721,7 +59606,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-1351 du 4 décembre 2012 - art. 1
 
 _Cité par_:
 
@@ -59732,41 +59621,35 @@ _Cité par_:
 ###### Article D332-17
 
 Pour les candidats scolaires issus des classes de troisième des établissements d'enseignement publics ou privés sous contrat
-et pour les candidats ayant préparé le brevet par la voie de la formation professionnelle continue dans un établissement
-public, le diplôme est attribué, dans des conditions fixées par un arrêté du ministre chargé de l'éducation nationale, sur la
-base des notes obtenues à un examen, des résultats acquis en cours de formation et des évaluations spécifiques prévues pour
-certaines compétences du socle commun défini à l'article D. 122-1.
+et pour les candidats ayant préparé le diplôme national du brevet par la voie de la formation professionnelle continue dans
+un établissement public, le diplôme est attribué, dans des conditions fixées par un arrêté du ministre chargé de l'éducation
+nationale, sur la base des notes obtenues à un examen, des résultats acquis en cours de formation et l'évaluation des
+compétences du socle commun défini à l'article D. 122-1. 
 
 Est également prise en compte une note de vie scolaire qui est la moyenne des notes obtenues chaque trimestre de la classe de
-troisième dans les conditions fixées par l'article D. 332-4-1.
+troisième dans les conditions fixées par l'article D. 332-4-1. 
 
-Les modalités d'attribution du brevet sont adaptées afin de tenir compte de la spécificité des formations dispensées à
-certains candidats, dans les conditions définies par un arrêté du ministre chargé de l'éducation.
-
-**Nota:**
-
-Décret n° 2007-921 du 15 mai 2007 art. 3 : Les dispositions du décret n° 2007-921 entrent en vigueur à compter de l'année
-scolaire 2007-2008.
+Les modalités d'attribution du diplôme national du brevet sont adaptées afin de tenir compte de la spécificité des formations
+dispensées à certains candidats, dans les conditions définies par un arrêté du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°87-32 du 23 janvier 1987 - art. 4 (M)
   - Décret n°87-32 du 23 janvier 1987 - art. 4 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
 
 _Modifié par_:
 
-  - Décret n°2007-921 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+  - Décret n°2012-1351 du 4 décembre 2012 - art. 2
 
 _Cite_:
 
-  - Code de l'éducation - art. D122-1 (T)
-  - Code de l'éducation - art. D332-4-1 (V)
+  - Code de l'éducation - art. D122-1
+  - Code de l'éducation - art. D332-4-1
 
 _Cité par_:
 
@@ -59775,14 +59658,8 @@ _Cité par_:
 
 ###### Article D332-18
 
-Pour les candidats non mentionnés à l'article D. 332-17, le brevet est attribué, dans des conditions fixées par un arrêté du
-ministre chargé de l'éducation, sur la base des notes obtenues à un examen et des évaluations spécifiques prévues pour
-certaines compétences du socle commun défini à l'article D. 122-1.
-
-**Nota:**
-
-Décret n° 2007-921 du 15 mai 2007 art. 3 : Les dispositions du décret n° 2007-921 entrent en vigueur à compter de l'année
-scolaire 2007-2008.
+Pour les candidats non mentionnés à l'article D. 332-17, le diplôme national du brevet est attribué, dans des conditions
+fixées par un arrêté du ministre chargé de l'éducation, sur la base des notes obtenues à un examen.
 
 **Liens relatifs à cet article**
 
@@ -59792,16 +59669,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
 
 _Modifié par_:
 
-  - Décret n°2007-921 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+  - Décret n°2012-1351 du 4 décembre 2012 - art. 3
 
 _Cite_:
 
-  - Code de l'éducation - art. D122-1 (T)
-  - Code de l'éducation - art. D332-17 (M)
+  - Code de l'éducation - art. D332-17 (V)
 
 
 ###### Article D332-19
@@ -59809,16 +59685,10 @@ _Cite_:
 Le diplôme national du brevet est attribué par un jury dont le ressort territorial, fixé par le recteur d'académie, peut être
 académique, départemental ou commun à plusieurs départements. 
 
-Le jury est présidé par le recteur d'académie ou par               le directeur académique des services de l'éducation
-nationale agissant sur délégation du recteur d'académie ou, lorsqu'il est commun à plusieurs départements, par un inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, désigné par le recteur. 
+Le jury est présidé par le recteur d'académie ou par le directeur académique des services de l'éducation nationale agissant
+sur délégation du recteur d'académie. 
 
 Le président nomme les autres membres du jury dans des conditions précisées par arrêté du ministre de l'éducation nationale.
-
-**Nota:**
-
-Décret n° 2008-124 du 11 février 2008, article 2 : Les dispositions du présent décret entrent en vigueur à compter de la
-session 2008.
 
 **Liens relatifs à cet article**
 
@@ -59834,25 +59704,24 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+  - Décret n°2012-1351 du 4 décembre 2012 - art. 4
 
 
 ###### Article D332-20
 
-A compter de la session 2006, les diplômes délivrés aux candidats admis portent les mentions suivantes :
+Le diplôme délivré au candidat admis porte la mention suivante :
 
-1° La mention " assez bien ", quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ;
+1° La mention "assez bien", quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ;
 
-2° La mention " bien ", quand le candidat a obtenu une note moyenne au moins égale à 14 et inférieure à 16 ;
+2° La mention "bien", quand le candidat a obtenu une note moyenne au moins égale à 14 et inférieure à 16 ;
 
-3° La mention " très bien ", quand le candidat a obtenu une note moyenne au moins égale à 16.
+3° La mention "très bien", quand le candidat a obtenu une note moyenne au moins égale à 16.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°87-32 du 23 janvier 1987 - art. 6-1 (Ab)
-  - Décret n°2005-1010 du 22 août 2005 - art. 3, v. init.
   - Décret n°2005-1010 du 22 août 2005 - art. 3 (Ab)
 
 _Cité par_:
@@ -59863,12 +59732,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-1351 du 4 décembre 2012 - art. 5
 
 
 ###### Article D332-21
 
-Les dates et les sujets des épreuves d'examen sont fixés par les recteurs d'académie.
+Les dates et les sujets des épreuves d'examen sont fixés par le ministre chargé de l'éducation nationale.
 
 **Liens relatifs à cet article**
 
@@ -59878,13 +59751,18 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-1351 du 4 décembre 2012 - art. 6
 
 
 ###### Article D332-22
 
-Pour l'application de toutes dispositions législatives ou réglementaires, les titulaires du brevet bénéficient des droits et
-avantages accordés aux titulaires du brevet des collèges ou du brevet d'études du premier cycle du second degré.
+Pour l'application de toutes dispositions législatives ou réglementaires, les titulaires du diplôme national du brevet
+bénéficient des droits et avantages accordés aux titulaires du brevet des collèges ou du brevet d'études du premier cycle du
+second degré.
 
 **Liens relatifs à cet article**
 
@@ -59894,7 +59772,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-1351 du 4 décembre 2012 - art. 7
 
 
 ##### Section 3 : Le certificat de formation générale.<a id=579></a>
@@ -77054,19 +76936,18 @@ _Codifié par_:
 ###### Article R374-20
 
 Le budget du centre de documentation pédagogique de Nouvelle-Calédonie, ses modifications, le compte financier, les
-acquisitions, les échanges et aliénations d'immeubles sont approuvés par arrêté du ministre chargé de l'éducation.
+acquisitions, les échanges et aliénations d'immeubles sont approuvés par arrêté du ministre chargé de l'éducation. 
 
-Les modifications au budget sont soumises à approbation dans les cas suivants :
+Les modifications au budget sont soumises à approbation dans les cas suivants : 
 
-1° Si elles entraînent une augmentation du montant global des recettes et des dépenses ;
+1° Si elles entraînent une augmentation du montant global des recettes et des dépenses ; 
 
-2° Si elles comportent des virements de crédits entre les chapitres de personnel et les chapitres de matériel ;
+2° Si elles comportent des virements de crédits entre les chapitres de personnel et les chapitres de matériel ; 
 
-3° Si elles entraînent des virements de crédits entre la section de fonctionnement et la section des opérations en capital.
+3° Si elles entraînent des virements de crédits entre la section de fonctionnement et la section des opérations en capital. 
 
-Les autres décisions modificatives sont prises par le directeur du centre régional, en accord avec le membre du corps du
-contrôle général économique et financier du centre, et soumises à la ratification du conseil d'administration lors de sa plus
-proche séance.
+Les autres décisions modificatives sont prises par le directeur du centre régional, en accord avec le        contrôleur
+budgétaire du centre, et soumises à la ratification du conseil d'administration lors de sa plus proche séance. 
 
 Les délibérations relatives aux emprunts ne sont exécutoires qu'après avoir reçu l'accord du ministre chargé du budget et du
 ministre chargé de l'éducation ; cet accord est réputé donné à l'expiration d'un délai de deux mois suivant l'envoi de la
@@ -77080,7 +76961,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cité par_:
 
@@ -77139,25 +77024,20 @@ _Codifié par_:
 
 Les opérations de recettes et de dépenses du centre de documentation pédagogique de Nouvelle-Calédonie sont confiées à un
 agent comptable nommé par arrêté du ministre chargé du budget et du ministre chargé de l'éducation, après avis du ministre
-chargé de l'outre-mer.
+chargé de l'outre-mer. 
 
 L'agent comptable perçoit une indemnité de service lorsque l'activité du centre ne justifie pas l'existence d'un poste
-comptable à temps plein.
+comptable à temps plein. 
 
 Outre les fonctions qui pourraient lui être confiées par le conseil d'administration, il exerce les attributions et il est
-astreint aux obligations fixées par les décrets n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable
-applicable aux établissements publics nationaux et n° 62-1587 du 29 décembre 1962 portant règlement général de comptabilité
-publique.
+astreint aux obligations fixées par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique. 
 
-Il tient à jour la comptabilité du centre.
+Il tient à jour la comptabilité du centre. 
 
 Il est placé sous l'autorité du directeur du centre de documentation pédagogique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°53-1227 1953-12-10
 
 _Anciens textes_:
 
@@ -77165,26 +77045,28 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
 
 
 ###### Article R374-24
 
 Sous réserve des dispositions de la présente sous-section, le centre de documentation pédagogique de Nouvelle-Calédonie est
-soumis au régime financier et comptable défini par les décrets des 10 décembre 1953 et 29 décembre 1962 précités.
+soumis au régime financier et comptable défini par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique. 
 
-Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat, l'office est soumis au contrôle financier dans les conditions prévues par le décret n° 2005-54 du
-27 janvier 2005 relatif au contrôle financier au sein des administrations de l'Etat.
+Conformément à la section 2 du chapitre IV du titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique, l'office est soumis au contrôle budgétaire dans les conditions prévues par la section 2 du
+chapitre IV du titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°53-1227 1953-12-10
-  - Décret n°62-1587 1962-12-29
-  - Décret n°2005-54 2005-01-27
-  - Décret n°2005-757 2005-07-04
 
 _Anciens textes_:
 
@@ -77192,7 +77074,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+  - Décret n°2006-583 du 23 mai 2006
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R374-25
@@ -80041,39 +79932,62 @@ _Modifié par_:
 
 ###### Article R421-58
 
-Le budget des collèges, des lycées, des écoles régionales du premier degré et des établissements régionaux d'enseignement
-adapté, qui comprend une section de fonctionnement et une section d'investissement, est établi dans la limite des ressources
-de ces établissements, dans le respect de la nomenclature fixée par le ministre chargé du budget, le ministre de l'intérieur
-et le ministre chargé de l'éducation, et en fonction des orientations fixées par la collectivité territoriale de
-rattachement. 
+I.-Le budget des établissements, qui comprend une section de fonctionnement et une section d'investissement, est établi dans
+le respect de la nomenclature fixée par le ministre chargé du budget, le ministre de l'intérieur et le ministre chargé de
+l'éducation. Le budget est élaboré en tenant compte notamment du projet d'établissement, du contrat d'objectifs conclu avec
+l'autorité académique en application de l'article R. 421-4, ainsi que des orientations et objectifs fixés par la collectivité
+territoriale de rattachement. 
 
-Ces ressources comprennent : 
+II.-Les ressources comprennent : 
 
-1° Des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles L. 211-8, 
-L. 213-2, L. 214-6, L. 216-4 à L. 216-6 et L. 421-11 du présent code ou, dans la collectivité territoriale de Corse, en
-application de l'article L. 4424-2 du code général des collectivités territoriales ; 
+1° Des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles L. 211-8, L. 213-2,
+L. 214-6, L. 216-4 à L. 216-6 et L. 421-11 ou, dans la collectivité territoriale de Corse, en application de l'article L.
+4424-2 du code général des collectivités territoriales ; 
 
 2° Toute autre contribution d'une collectivité publique ; 
 
-3° Des ressources propres, notamment les dons et legs, les ressources provenant des prestations de restauration et
-d'hébergement, le produit de la vente des objets confectionnés dans les ateliers, de la taxe d'apprentissage, des conventions
-de formation professionnelle et des conventions d'occupation des logements et locaux et le produit de l'aliénation des biens
-propres. 
+3° Des ressources propres, notamment les dons et legs, le produit de la vente des objets confectionnés dans les ateliers, de
+la taxe d'apprentissage, des conventions de formation professionnelle et des conventions d'occupation des logements et locaux
+et le produit de l'aliénation des biens propres, ainsi que les ressources provenant des prestations du service de
+restauration et d'hébergement, lorsque la collectivité territoriale de rattachement en a confié la gestion et l'exploitation
+à l'établissement public local d'enseignement. 
 
-Les dépenses de la section de fonctionnement prévues au budget pour le service général ont notamment pour objet les activités
-pédagogiques et éducatives, le chauffage et l'éclairage, l'entretien des matériels et des locaux, les charges générales, la
-restauration et l'internat, les aides aux élèves. 
+III.-La section de fonctionnement retrace les ressources et les dépenses de fonctionnement du service général et des services
+spéciaux. 
 
-En outre, des services spéciaux permettent de distinguer, notamment, l'enseignement technique, la formation continue, les
-séquences éducatives, les activités périscolaires et parascolaires, les projets d'actions éducatives, les groupements de
-service, les sections sports-études, les transports scolaires organisés par l'établissement. 
+Au titre du service général, elle individualise :
 
-Le budget comporte en annexe un état récapitulatif faisant apparaître les emplois dont l'établissement dispose à quelque
-titre que ce soit. 
+- les activités pédagogiques ;
 
-Lorsque la formation continue est gérée par un établissement support, la gestion est effectuée sous la forme d'un service à
-comptabilité distincte pour tous les établissements adhérents au groupement d'établissements. L'apprentissage est également
-géré sous forme de service à comptabilité distincte.
+- les actions éducatives liées à la vie scolaire, l'éducation à la santé et à la citoyenneté, la qualité de vie et les aides
+diverses des élèves et étudiants, à l'exception des bourses nationales ;
+
+- la viabilisation, l'entretien et le fonctionnement général de l'établissement. 
+
+Au titre des services spéciaux, elle individualise notamment :
+
+- les dépenses de bourses nationales effectuées par l'établissement pour le compte de l'Etat ;
+
+- les missions de restauration et d'hébergement ;
+
+- les groupements de service créés en application de l'article L. 421-10. 
+
+Le budget comporte en annexe un récapitulatif faisant apparaître les emplois dont l'établissement dispose à quelque titre que
+ce soit. 
+
+IV.-La section d'investissement retrace les ressources et les dépenses d'investissement du service général et des services
+spéciaux. 
+
+V.-L'établissement peut se doter d'un budget annexe pour tout service spécial comportant des dépenses d'investissement.
+Lorsqu'un centre de formation des apprentis au sens de l'article R. 431-1 est créé au sein de l'établissement, les ressources
+et les dépenses de ce centre sont retracées dans un budget annexe.
+
+**Nota:**
+
+Décret n° 2012-1193 du 26 octobre 2012 article 11 : Les présentes dispositions entrent en vigueur à une date fixée par arrêté
+conjoint des ministres chargés de l'éducation et du budget, et au plus tard le 1er novembre 2013. En application de l'article
+1er de l'arrêté du 26 novembre 2012, les dispositions de l'article 5 du décret n° 2012-1193 du 26 octobre 2012 entrent en
+vigueur pour l'exercice budgétaire 2013.
 
 **Liens relatifs à cet article**
 
@@ -80085,18 +79999,20 @@ _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1193 du 26 octobre 2012 - art. 5
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L4424-2 (V)
-  - Code de l'éducation - art. L211-8 (V)
-  - Code de l'éducation - art. L213-2 (V)
-  - Code de l'éducation - art. L214-6 (V)
-  - Code de l'éducation - art. L216-4 (V)
-  - Code de l'éducation - art. L421-11 (V)
+  - Code général des collectivités territoriales - art. L4424-2
+  - Code de l'éducation - art. L211-8
+  - Code de l'éducation - art. L213-2
+  - Code de l'éducation - art. L214-6
+  - Code de l'éducation - art. L216-4
+  - Code de l'éducation - art. L421-10
+  - Code de l'éducation - art. L421-11
+  - Code de l'éducation - art. R431-1
 
 _Cité par_:
 
@@ -84752,31 +84668,25 @@ _Créé par_:
 
 ###### Article D422-45
 
-Sous réserve des dispositions des articles D. 422-46 à D. 422-53, les établissements d'enseignement visés à l'article D.
-422-1 sont soumis au régime financier résultant des dispositions de l'article 60 de la loi n° 63-156 du 23 février 1963 de
-finances pour 1963, de la première partie et des articles 154 à 189 du décret n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique.
+Sous réserve des dispositions des articles D. 422-46 à D. 422-52, les établissements d'enseignement visés à l'article D.
+422-1 sont soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 - art. 154 (V)
-  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
-  - Code de l'éducation - art. D422-1 (V)
-  - Code de l'éducation - art. D422-46 (V)
-
-_Anciens textes_:
-
-  - Décret n°86-164 du 31 janvier 1986 - art. 34 (Ab)
 
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+  - Code de l'éducation - art. D422-1
+  - Code de l'éducation - art. D422-46
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 _Cité par_:
 
@@ -84996,35 +84906,6 @@ _Modifié par_:
 _Cité par_:
 
   - Code de l'éducation - art. R453-42 (V)
-
-
-###### Article D422-53
-
-Les agents comptables sont nommés par le ministre chargé de l'éducation parmi les personnels de l'administration scolaire et
-universitaire, conformément aux dispositions de l'article 16 du décret n° 62-1587 du 29 décembre 1962 portant règlement
-général sur la comptabilité publique.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 - art. 16
-
-_Anciens textes_:
-
-  - Décret n°86-164 du 31 janvier 1986 - art. 42 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ##### Sous-paragraphe 2 : Le service annexe d'hébergement.<a id=759></a>
@@ -86399,30 +86280,29 @@ _Créé par_:
 
 ###### Article R426-5
 
-Le conseil d'administration du Centre national d'enseignement à distance comprend dix-huit membres :
+Le conseil d'administration du Centre national d'enseignement à distance comprend dix-huit membres : 
 
-1° Six représentants de l'Etat ainsi désignés :
+1° Six représentants de l'Etat ainsi désignés : 
 
-a) Quatre par les ministres chargés de l'éducation et de l'enseignement supérieur ;
+a) Quatre par les ministres chargés de l'éducation et de l'enseignement supérieur ; 
 
-b) Un par le ministre chargé de la recherche ;
+b) Un par le ministre chargé de la recherche ; 
 
-c) Un par le ministre chargé de la formation professionnelle ;
+c) Un par le ministre chargé de la formation professionnelle ; 
 
-2° Six représentants du centre élus par les personnels de l'établissement et parmi eux, dont :
+2° Six représentants du centre élus par les personnels de l'établissement et parmi eux, dont : 
 
-a) Trois représentants des personnels enseignants ;
+a) Trois représentants des personnels enseignants ; 
 
-b) Trois représentants des personnels administratifs et techniques ;
+b) Trois représentants des personnels administratifs et techniques ; 
 
 3° Six personnalités qualifiées désignées par arrêté des ministres chargés de l'éducation et de l'enseignement supérieur,
-dont l'une sur proposition du ministre des affaires étrangères.
+dont l'une sur proposition du ministre des affaires étrangères. 
 
-Pour chacun des membres mentionnés aux 1° et 2°, un suppléant est désigné dans les mêmes conditions que le titulaire.
+Pour chacun des membres mentionnés aux 1° et 2°, un suppléant est désigné dans les mêmes conditions que le titulaire. 
 
-Le directeur général, le secrétaire général, l'agent comptable, le membre du corps du contrôle général économique et
-financier ainsi que tout personne dont la présence est jugée utile par le président assistent aux séances avec voix
-consultative.
+Le directeur général, le secrétaire général, l'agent comptable, le        contrôleur budgétaire ainsi que tout personne dont
+la présence est jugée utile par le président assistent aux séances avec voix consultative.
 
 **Liens relatifs à cet article**
 
@@ -86434,9 +86314,9 @@ _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cité par_:
 
@@ -86533,9 +86413,9 @@ _Cite_:
 ###### Article R426-8
 
 Les délibérations du conseil d'administration du Centre national d'enseignement à distance autres que celles mentionnées aux
-3°, 4°, 8° et 11° de l'article R. 426-7 sont exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce
-délai, quinze jours après leur réception par les ministres chargés de l'éducation et de l'enseignement supérieur si l'un
-d'eux n'y a pas fait opposition dans ce délai. 
+8° et 11° de l'article R. 426-7 sont exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce délai,
+quinze jours après leur réception par les ministres chargés de l'éducation et de l'enseignement supérieur si l'un d'eux n'y a
+pas fait opposition dans ce délai. 
 
 Les décisions prises par le directeur général par délégation du conseil d'administration et prises en application du dernier
 alinéa de l'article R. 426-7 sont exécutoires dans les mêmes conditions. 
@@ -86543,22 +86423,21 @@ alinéa de l'article R. 426-7 sont exécutoires dans les mêmes conditions.
 Les délibérations relatives aux 8° et 11° du même article doivent, pour devenir exécutoires, faire l'objet d'une approbation
 expresse des ministres chargés de l'éducation, de l'enseignement supérieur et du budget. 
 
-Les délibérations portant sur le budget ou ses modifications ainsi que sur le compte financier sont approuvées par les mêmes
-ministres dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de
-certaines décisions financières des établissements publics de l'État. Il en est de même pour les délibérations portant sur
-les droits d'inscription mentionnés au troisième alinéa de l'article R. 426-2-1.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Il en est de même pour les
+délibérations portant sur les droits d'inscription mentionnés au troisième alinéa de l'article R. 426-2-1.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°99-575 du 8 juillet 1999
+  - Décret n°2012-1246 du 7 novembre 2012
   - Code de l'éducation - art. R426-2-1
   - Code de l'éducation - art. R426-7
 
 _Modifié par_:
 
-  - Décret n°2009-238 du 27 février 2009 - art. 4
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article R426-9
@@ -86596,7 +86475,7 @@ _Créé par_:
 ###### Article R426-10
 
 Le directeur général du Centre national d'enseignement à distance est nommé par décret pris sur proposition des ministres
-chargés de l'éducation et de l'enseignement supérieur.A ce titre : 
+chargés de l'éducation et de l'enseignement supérieur. A ce titre : 
 
 1° Il conduit la politique générale de l'établissement dans le cadre des orientations définies par le conseil
 d'administration ; 
@@ -86613,25 +86492,19 @@ d'administration ;
 emplois pour lesquels aucune autre autorité n'a pouvoir de nomination et recrute les personnels contractuels. Il a autorité
 sur l'ensemble du personnel de l'établissement et l'affecte dans les différents services ; 
 
-7° Il conclut les conventions et marchés, sous réserve des ispositions de l'article R. 426-7. 
+7° Il conclut les conventions et marchés, sous réserve des dispositions de l'article R. 426-7. 
 
 Le directeur général est assisté d'un secrétaire général nommé sur sa proposition par les ministres chargés de l'éducation et
 de l'enseignement supérieur. Il peut également se faire assister de directeurs adjoints qu'il nomme. Il peut nommer des
 ordonnateurs secondaires et fixer leurs attributions. 
 
-Il peut déléguer sa signature. 
-
-Sous réserve de l'accord du membre du corps du contrôle général économique et financier et d'une ratification par le conseil
-d'administration lors de sa plus prochaine séance, il peut prendre les décisions de modification du budget qui ne comportent
-ni augmentation du montant total des dépenses, ni accroissement des effectifs, ni diminution du montant total des recettes,
-ni virement de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres des
-dépenses de personnels et les chapitres des dépenses de matériel.
+Il peut déléguer sa signature.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-889 du 29 juillet 2010 - art. 2
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 _Cite_:
 
@@ -86911,21 +86784,24 @@ _Cite_:
 ###### Article R426-21
 
 L'agent comptable du Centre national d'enseignement à distance est nommé, sur proposition du directeur général, par arrêté
-des ministres chargés de l'éducation, de l'enseignement supérieur et du budget.
+des ministres chargés de l'éducation, de l'enseignement supérieur et du budget. 
+
+Le Centre national d'enseignement à distance est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2002-602 du 25 avril 2002 - art. 20 (Ab)
 
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article R426-22
@@ -86950,65 +86826,6 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°2008-263 du 14 mars 2008 - art. (V)
-
-
-###### Article R426-23
-
-Les fonds du Centre national d'enseignement à distance sont déposés chez un comptable du Trésor ou auprès de tout autre
-organisme habilité.
-
-Toutefois, une fraction des fonds, définie en accord avec les ministres chargés de l'éducation, de l'enseignement supérieur
-et du budget, peut être placée librement après avis de l'agent comptable.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2002-602 du 25 avril 2002 - art. 22 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
-
-
-###### Article R426-24
-
-Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat, le Centre national d'enseignement à distance est soumis au contrôle financier prévu par le décret
-n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations de l'Etat. Les attributions du membre
-du corps du contrôle général économique et financier et les modalités d'exercice de son contrôle sont précisées, en tant que
-de besoin, par arrêté des ministres chargés de l'éducation, de l'enseignement supérieur et du budget.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2002-602 du 25 avril 2002 - art. 23 (Ab)
-
-_Cite_:
-
-  - Décret n°2005-54 du 27 janvier 2005
-  - Décret n°2005-757 du 4 juillet 2005
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ### Titre III : Les centres de formation d'apprentis.<a id=782></a>
@@ -88091,7 +87908,7 @@ _Cité par_:
 
 ###### Article R442-16
 
-Le contrôle financier des établissements d'enseignement placés sous le régime du contrat simple ou du contrat d'association
+Le contrôle budgétaire des établissements d'enseignement placés sous le régime du contrat simple ou du contrat d'association
 incombe au trésorier-payeur général du département du siège de l'établissement, en liaison avec les inspecteurs généraux de
 l'administration de l'éducation nationale et de la recherche et les services académiques. Il est exercé dans les conditions
 définies aux articles R. 442-17 à R. 442-21. 
@@ -88101,21 +87918,17 @@ finances.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°61-246 du 15 mars 1961 - art. 8 (Ab)
-
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008, v. init.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
-  - Code de l'éducation - art. R442-17 (V)
+  - Code de l'éducation - art. R442-17
 
 
 ###### Article R442-17
@@ -88165,7 +87978,7 @@ _Cité par_:
 
 ###### Article R442-18
 
-Pour l'exercice du contrôle financier prévu aux articles R. 442-9 à R. 442-17, les établissements sont tenus : 
+Pour l'exercice du contrôle budgétaire prévu aux articles R. 442-9 à R. 442-17, les établissements sont tenus : 
 
 1° De conserver et de présenter à toute réquisition du trésorier-payeur général ou de son délégué copie de toutes les pièces
 justificatives énumérées aux articles R. 442-11, R. 442-12 et R. 442-14 ; 
@@ -88176,23 +87989,19 @@ l'emploi de ces ressources doit être retracé en détail sous une rubrique spé
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°61-246 du 15 mars 1961 - art. 10 al 1 à 3 (Ab)
-
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008, v. init.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cite_:
 
-  - Code de l'éducation - art. R442-11 (V)
-  - Code de l'éducation - art. R442-14 (V)
-  - Code de l'éducation - art. R442-9 (V)
+  - Code de l'éducation - art. R442-11
+  - Code de l'éducation - art. R442-14
+  - Code de l'éducation - art. R442-9
 
 _Cité par_:
 
@@ -91602,25 +91411,21 @@ _Créé par_:
 
 ###### Article D452-7
 
-Le directeur, le membre du corps du contrôle général économique et financier et l'agent comptable de l'Agence pour
-l'enseignement français à l'étranger assistent avec voix consultative aux travaux du conseil d'administration.
+Le directeur, le        contrôleur budgétaire et l'agent comptable de l'Agence pour l'enseignement français à l'étranger
+assistent avec voix consultative aux travaux du conseil d'administration. 
 
 Toute personne dont le président estime la présence utile peut également assister aux séances du conseil d'administration
 avec voix consultative.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°2003-1288 du 23 décembre 2003 - art. 7 (Ab)
-
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article D452-8
@@ -91643,16 +91448,7 @@ précité ;
 
 5° Le rapport annuel d'activité ; 
 
-6° Le budget et les décisions modificatives de celui-ci. Sont soumises au conseil d'administration les décisions
-modificatives du budget de l'agence qui comportent soit une modification de l'équilibre global, soit une augmentation du
-montant global des dépenses, soit une diminution des recettes entraînant une perte ou une variation négative du fonds de
-roulement, soit des virements de crédits entre chapitres. Les autres décisions modificatives du budget de l'agence sont
-prises par le directeur de l'agence, après visa du membre du corps du contrôle général économique et financier et sont
-présentées pour information au conseil d'administration lors de sa plus prochaine séance. En cas d'urgence avérée et si le
-conseil d'administration ne peut se réunir à une date suffisamment proche, une décision modificative d'urgence peut être
-prise par le directeur de l'agence, après l'autorisation du membre du corps du contrôle général économique et financier, en
-accord avec le ministre des affaires étrangères et le président du conseil d'administration. Elle doit faire l'objet d'une
-approbation au cours du plus prochain conseil d'administration ; 
+6° Le budget ; 
 
 7° Le compte financier et l'affectation des résultats ; 
 
@@ -91682,20 +91478,17 @@ Il fixe les redevances dues à raison des autorisations d'occupation temporaire 
 
 _Cite_:
 
-  - Décret n°2002-22 du 4 janvier 2002 (V)
-  - Décret n°2002-22 du 4 janvier 2002 - art. 2 (V)
-
-_Anciens textes_:
-
-  - Décret n°2003-1288 du 23 décembre 2003 - art. 8 (Ab)
+  - Décret n°2002-22 du 4 janvier 2002
+  - Décret n°2002-22 du 4 janvier 2002 - art. 2
+  - Code de l'éducation - art. L452-4
 
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 _Cité par_:
 
@@ -91712,32 +91505,25 @@ Sauf opposition ou demande de surseoir à exécution adressée au directeur de l
 les délibérations du conseil d'administration sont exécutoires quinze jours après leur transmission. En cas d'urgence
 déclarée par le conseil d'administration, le ministre peut autoriser l'exécution immédiate. 
 
-Toutefois, les délibérations ayant une incidence financière ou budgétaire, notamment celles portant sur le budget et les
-décisions modificatives de celui-ci, le compte financier, les acquisitions, échanges et aliénations d'immeubles sont
-transmises au ministre des affaires étrangères et au ministre chargé du budget. Elles sont exécutoires par approbation tacite
-un mois après leur réception ou, en cas d'urgence, par approbation expresse, conformément au décret n° 99-575 du 8 juillet
-1999 relatif aux modalités d'approbation de certaines dispositions financières des établissements publics de l'État. 
+Toutefois, les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le
+titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Les délibérations relatives aux emprunts ne sont exécutoires qu'après avoir été approuvées par arrêté du ministre des
 affaires étrangères et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°99-575 du 8 juillet 1999 (V)
-
-_Anciens textes_:
-
-  - Décret n°2003-1288 du 23 décembre 2003 - art. 9 (Ab)
-
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article D452-10
@@ -91817,67 +91603,24 @@ _Créé par_:
 
 ##### Sous-section 1 : Agence pour l'enseignement français à l'étranger.<a id=837></a>
 
-###### Article D452-12
-
-Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat, l'Agence pour l'enseignement français à l'étranger est soumise au contrôle financier de l'Etat dans
-les conditions prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations
-de l'Etat. 
-
-Les modalités de ce contrôle sont fixées par arrêté du ministre chargé du budget et du ministre des affaires étrangères.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2003-1288 du 23 décembre 2003 - art. 12 (Ab)
-
-_Cite_:
-
-  - Décret n°2005-54 du 27 janvier 2005
-  - Décret n°2005-757 du 4 juillet 2005
-
-_Codifié par_:
-
-  - Décret n°2008-263 du 14 mars 2008 (V)
-
-_Créé par_:
-
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
-
-
 ###### Article D452-13
 
-Les opérations financières et comptables de l'Agence pour l'enseignement français à l'étranger sont effectuées conformément
-aux dispositions de l'article 60 de la loi n° 63-156 du 23 février 1963 de finances pour 1963, des articles 14 à 25 du décret
-n° 53-1227 du 10 décembre 1953 relatif à la réglementation budgétaire applicable aux établissements publics à caractère
-administratif ainsi que des articles 1er à 62 et 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement
-général sur la comptabilité publique.
+L'Agence est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°53-1227 du 10 décembre 1953 - art. 14 (V)
-  - Décret n°62-1587 du 29 décembre 1962 - art. 1 (V)
-  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
-  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
-
-_Anciens textes_:
-
-  - Décret n°2003-1288 du 23 décembre 2003 - art. 13 (Ab)
 
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article D452-14
@@ -91944,9 +91687,6 @@ _Créé par_:
 
 ###### Article D452-16
 
-L'agent comptable de l'Agence pour l'enseignement français à l'étranger est nommé par arrêté du ministre des affaires
-étrangères et du ministre chargé du budget.
-
 Des agents comptables secondaires sont nommés dans les établissements en gestion directe ou dans les établissements
 principaux des groupements, avec l'agrément de l'agent comptable de l'agence, par décision du directeur de l'agence.
 Plusieurs établissements en gestion directe peuvent être dotés du même agent comptable secondaire.
@@ -91959,7 +91699,7 @@ par les établissements d'enseignement.
 
 _Modifié par_:
 
-  - Décret du 16 septembre 2010 - art. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article D452-17
@@ -100520,19 +100260,14 @@ _Cité par_:
 ###### Article D531-36
 
 Les bourses nationales d'études du second degré de lycée peuvent être cumulées avec les bourses fondées et entretenues par
-les collectivités territoriales, établissements publics ou organismes soumis au contrôle financier ou bénéficiant d'une
+les collectivités territoriales, établissements publics ou organismes soumis au contrôle budgétaire ou bénéficiant d'une
 subvention de l'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°59-39 du 2 janvier 1959 - art. 10 alinéa 1 (Ab)
-  - Décret n°59-1422  du 18 décembre 1959 - art. 4 alinéa 1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-553 du 15 mai 2009 - art.
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 _Cité par_:
 
