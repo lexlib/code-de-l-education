@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2013-02-21
+Version Consolidée au 2013-04-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -53304,7 +53304,7 @@ a) Le directeur général de l'Association nationale pour la formation professio
 
 b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ; 
 
-c) Le directeur général du Centre d'analyse stratégique ou son représentant ; 
+c) Le Commissaire général à la stratégie et à la prospective ou son représentant ; 
 
 d) Le directeur de l'Office national d'information sur les enseignements et les professions ou son représentant ; 
 
@@ -53319,7 +53319,7 @@ a) Deux sur proposition des organisations professionnelles d'employeurs les plus
 
 b) Un sur proposition de l'Assemblée des chambres françaises de commerce et d'industrie ; 
 
-c) Un sur proposition de l'Assemblée permanente des       chambres de métiers et de l'artisanat de région ; 
+c) Un sur proposition de l'Assemblée permanente des chambres de métiers et de l'artisanat de région ; 
 
 d) Cinq sur proposition des organisations syndicales de salariés représentatives ; 
 
@@ -53364,11 +53364,15 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+  - Décret n°2013-333 du 22 avril 2013 - art. 11
 
 _Cité par_:
 
   - Arrêté du 11 mars 2014 (V)
+
+_Cite_:
+
+  - Code du travail - art. L5312-1 (V)
 
 
 ###### Article R313-40
