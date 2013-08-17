@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2013-07-29
+Version Consolidée au 2013-08-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L974-3)](#1)
     - [Première partie : Dispositions générales et communes (art. L111-1 à L264-4)](#2)
@@ -95961,32 +95961,28 @@ _Créé par_:
 
 ###### Article R461-4
 
-Le ministre chargé de la culture notifie, trois mois au plus après le dépôt d'un dossier complet, sa décision motivée :
+Le ministre chargé de la culture notifie, trois mois au plus après le dépôt d'un dossier complet, sa décision motivée : 
 
-1° D'accueillir la demande ;
+1° D'accueillir la demande ; 
 
-2° De diligenter une mission d'inspection chargée de poursuivre l'instruction de la demande ;
+2° De diligenter une mission d'inspection chargée de poursuivre l'instruction de la demande ; 
 
-3° De refuser la demande.
+3° De refuser la demande. 
 
-A l'expiration du délai mentionné au premier alinéa, l'absence de réponse vaut décision de refus.
+A l'expiration du délai mentionné au premier alinéa, l'absence de réponse vaut décision de refus. 
 
-Lorsque le ministre chargé de la culture diligente une inspection, il dispose d'un délai supplémentaire de neuf mois pour
+Lorsque le ministre chargé de la culture diligente une inspection, il dispose d'un délai supplémentaire de quinze mois pour
 notifier sa décision. A l'expiration de ce délai, l'absence de réponse vaut décision de refus.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-592 du 6 mai 1995 - art. 4 (Ab)
 
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+  - Décret n°2013-748 du 14 août 2013 - art. 2
 
 
 ###### Article R461-5
@@ -96042,25 +96038,17 @@ _Créé par_:
 ###### Article R461-7
 
 La collectivité territoriale ou le groupement de collectivités responsable peut demander le renouvellement anticipé du
-classement, avant la fin de la première période de sept ans prévue à l'article R. 461-5.
+classement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-592 du 6 mai 1995 - art. 7 (Ab)
 
 _Codifié par_:
 
   - Décret n°2008-263 du 14 mars 2008 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-263 du 14 mars 2008 - art. (V)
-
-_Cite_:
-
-  - Code de l'éducation - art. R461-5 (V)
+  - Décret n°2013-748 du 14 août 2013 - art. 3
 
 
 ##### Section 2 : Les établissements d'enseignement privés.<a id=858></a>
